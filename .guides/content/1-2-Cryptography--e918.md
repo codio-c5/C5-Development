@@ -1,3 +1,4 @@
+
 **Young Alan Turing:** What's that you're reading?
 **Christopher Morcom:** It's about cryptography.
 **Young Alan Turing:** Like secret messages?
@@ -6,7 +7,6 @@
 **Christopher Morcom:** Talking?
 **Young Alan Turing:** When people talk to each other, they never say what they mean, they say something else. And you're expected to just know what they mean. Only I never do. So... How's that different?
 **Christopher Morcom:** Alan, I have a funny feeling you're going to be very good at this.
-
 
 #### Source: *The Imitation Game.* Directed by Morten Tyldum. The Weinstein Company, 2014. Film.
 
