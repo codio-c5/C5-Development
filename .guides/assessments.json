@@ -100,5 +100,193 @@
     }
    ]
   }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3101450858",
+  "source": {
+   "name": "1.1 KCI",
+   "showName": false,
+   "instructions": "Choose the best response for each statement.",
+   "points": "1",
+   "showValues": true,
+   "text": "- The key to the <<<Caesar cipher>>> is to exchange each plaintext letter with the letter three letters down the alphabet.\n- A <<<substitution cipher>>> maps specific letters together to replace each other in plaintext to create the ciphertext.\n- A <<<shift cipher>>> key is created by determining a specific number of letters to move down the alphabet. The new letter replaces the plaintext letter to create the ciphertext.\n",
+   "tokens": {
+    "blank": [
+     "Caesar cipher",
+     "substitution cipher",
+     "shift cipher"
+    ],
+    "text": [
+     "- The key to the ",
+     0,
+     " is to exchange each plaintext letter with the letter three letters down the alphabet.\n- A ",
+     0,
+     " maps specific letters together to replace each other in plaintext to create the ciphertext.\n- A ",
+     0,
+     " key is created by determining a specific number of letters to move down the alphabet. The new letter replaces the plaintext letter to create the ciphertext.\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2647053800",
+  "source": {
+   "name": "KCI 1.2",
+   "showName": true,
+   "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "c178d48c-64a3-3928-2f9b-f1b73da88af3",
+     "correct": false,
+     "answer": "File hashing"
+    },
+    {
+     "_id": "a2ca9ae8-f52f-0ca4-a062-fa146bfa7f56",
+     "correct": true,
+     "answer": "File encryption"
+    },
+    {
+     "_id": "b6f9983e-d502-bc19-021a-2ededa756868",
+     "correct": false,
+     "answer": "File permissions"
+    },
+    {
+     "_id": "23d4ab51-adc4-8d63-0aef-904a6cd4f91f",
+     "correct": false,
+     "answer": "File backup"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1557635309",
+  "source": {
+   "name": "CYM 1.2",
+   "showName": false,
+   "instructions": "In which of the following attack scenarios does the attacker has most power? ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "20c724b1-6542-4278-c922-401992497848",
+     "correct": false,
+     "answer": "Ciphertext only attacks"
+    },
+    {
+     "_id": "5ba0736c-a724-c0e6-93b6-13ac0b93dac7",
+     "correct": false,
+     "answer": "Known plaintext attacks"
+    },
+    {
+     "_id": "3354b878-7ee5-91aa-7cca-553bbcef3122",
+     "correct": false,
+     "answer": "Chosen plaintext attacks"
+    },
+    {
+     "_id": "f768dea3-310a-f631-551a-2b8b9631b03d",
+     "correct": true,
+     "answer": "Chosen ciphertext attacks"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-484651855",
+  "source": {
+   "name": "CYM 1.3",
+   "showName": false,
+   "instructions": "Decrypt the message below, and type the answer in the space. Use lowercase letters, and don't insert any spaces in your answer.",
+   "points": "1",
+   "showValues": false,
+   "text": "Alice uses a shift cipher with a shift of 4 to encrypt her message to Bob. If the ciphertext she obtains is \"ksshpygo\",  her message in plaintext is <<<goodluck>>>.",
+   "tokens": {
+    "blank": [
+     "goodluck"
+    ],
+    "text": [
+     "Alice uses a shift cipher with a shift of 4 to encrypt her message to Bob. If the ciphertext she obtains is \"ksshpygo\",  her message in plaintext is ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1475741445",
+  "source": {
+   "name": "CYM 1.4",
+   "showName": false,
+   "instructions": "Which of the following are symmetric key ciphers? Select all that apply.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "bd1ede30-fcc1-9d41-2f9f-1364338b5b1c",
+     "correct": true,
+     "answer": "DES"
+    },
+    {
+     "_id": "19d7a766-c917-806b-c8d3-57c8afe38a1e",
+     "correct": false,
+     "answer": "RSA"
+    },
+    {
+     "_id": "a0024989-c503-7696-4b81-9c3b113eb9d7",
+     "correct": false,
+     "answer": "Diffie-Hellman"
+    },
+    {
+     "_id": "20bdb04a-ad1a-db4a-8a02-581b7dea2bd0",
+     "correct": true,
+     "answer": "AES"
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1894789270",
+  "source": {
+   "name": "CYM 1.2",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "When can frequency analysis fail?",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3290180585",
+  "source": {
+   "name": "CYM 1.5",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "Why is key distribution problematic?",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2019943688",
+  "source": {
+   "name": "CYM 1.2A",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "Compare and contrast \"Security by obscurity\" with Kerckhoffs's Principle.",
+   "points": 1
+  }
  }
 ]

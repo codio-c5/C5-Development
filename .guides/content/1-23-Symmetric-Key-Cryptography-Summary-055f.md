@@ -5,16 +5,9 @@
 ###  Check your Mastery
 Mastery assessments here
 {Check It!|assessment}(multiple-choice-897040811)
+{Check It!|assessment}(multiple-choice-1557635309)
+{Check It!|assessment}(fill-in-the-blanks-484651855)
+{Check It!|assessment}(multiple-choice-1475741445)
 
 
-In modern symmetric ciphers, what factor makes them more impenetrable?
-What do you need to break an encryption algorithm? 
 
-
-###  Points to Ponder
-critical thinking questions: apply, analyze, evaluate, create 
-- When can frequency analysis fail?
-- Why is key distribution problematic?
-- Compare and contrast "Security by obscurity" with Kerckhoffs's Principle.
-
-||| Instructor's Note |||
