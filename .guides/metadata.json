@@ -33,12 +33,16 @@
    "title": "1.2 Cryptography ",
    "files": [
     {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
      "path": "#preview: http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.html",
      "panel": 0,
      "action": "open"
     }
    ],
-   "layout": "2-panels",
+   "layout": "1-panel",
    "path": [
     "IG.PNG"
    ],
@@ -94,7 +98,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "ce2fc2e5-0b64-460c-8db1-495c8a254db1"
+      "key": "b5196ef1-4369-4912-a87c-33ccbf69f80e"
      },
      {
       "action": "open",
@@ -102,7 +106,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "73938bef-b47e-4458-b5de-d98636ca67aa"
+      "key": "537b338d-a0b2-4a2c-97b6-5e3b3b9ab725"
      },
      {
       "action": "open",
@@ -110,7 +114,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "b3e2de62-b7e1-4e41-9aaa-c0458ad4098e"
+      "key": "1130b1ab-0cfb-4393-8452-22ab7f0ad114"
      },
      {
       "action": "open",
@@ -118,7 +122,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "feff5842-ab5d-402b-b494-92624ebef47e"
+      "key": "7cfd670c-51c2-41f6-9484-992172f96224"
      }
     ]
    }
@@ -505,6 +509,23 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-17-B-Across-the-Disciplines--Literature--LA--d7ac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
+   "title": "1.17C Across the Disciplines: Languages",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-17C-Across-the-Disciplines--Languages-0a33.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

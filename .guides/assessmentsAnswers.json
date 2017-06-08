@@ -11,39 +11,9 @@
   "taskId": "fill-in-the-blanks-836680581",
   "points": 0,
   "state": {
-   "active": [
-    "decryption key",
-    "encryption key",
-    "ciphertext",
-    "decryption key",
-    "Cryptography",
-    "plaintext",
-    "decrypt"
-   ]
+   "active": []
   },
-  "results": [
-   {
-    "current": [
-     "decryption key",
-     "encryption key",
-     "ciphertext",
-     "decryption key",
-     "Cryptography",
-     "plaintext",
-     "decrypt"
-    ],
-    "right": [
-     "Cryptography",
-     "encrypting",
-     "plaintext",
-     "encryption key",
-     "ciphertext",
-     "decryption key",
-     "decrypt"
-    ],
-    "timestamp": 1496885851645
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "multiple-choice-897040811",
