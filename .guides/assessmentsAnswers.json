@@ -1,0 +1,56 @@
+[
+ {
+  "taskId": "multiple-choice-1134699488",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-836680581",
+  "points": 0,
+  "state": {
+   "active": [
+    "decryption key",
+    "encryption key",
+    "ciphertext",
+    "decryption key",
+    "Cryptography",
+    "plaintext",
+    "decrypt"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "decryption key",
+     "encryption key",
+     "ciphertext",
+     "decryption key",
+     "Cryptography",
+     "plaintext",
+     "decrypt"
+    ],
+    "right": [
+     "Cryptography",
+     "encrypting",
+     "plaintext",
+     "encryption key",
+     "ciphertext",
+     "decryption key",
+     "decrypt"
+    ],
+    "timestamp": 1496885851645
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-897040811",
+  "points": 0,
+  "state": {
+   "active": "7a013802-6a53-4c18-b1a9-537a76ffa23e"
+  },
+  "results": []
+ }
+]

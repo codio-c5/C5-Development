@@ -1,4 +1,5 @@
 [editor]
+font_size = 14
 tab_size = 2
 ; enter your editor preferences here...
 
@@ -12,6 +13,7 @@ tab_size = 2
 ; enter your git preferences here...
 
 [terminal]
+font_size = 14
 ; enter your terminal preferences here...
 
 [preview]

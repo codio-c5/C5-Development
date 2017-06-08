@@ -2,7 +2,7 @@
  "sections": [
   {
    "id": "5a37e575-4a4f-8bf5-2e3f-23a444d91fc0",
-   "title": "Symmetric Encryption",
+   "title": "Intro Page (to be beautified by RRRRRRRRRick)",
    "files": [
     {
      "path": "#tabs",
@@ -12,19 +12,168 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Symmetric-Encryption-5a37.md",
+   "content-file": ".guides/content/Intro-Page--to-be-beautified-by-RRRRRRRRRick--5a37.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f3a11fa5-1a8b-0373-eb1c-a92bae198b71",
+   "title": "Symmetric Key Cryptography (LA)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography--LA--f3a1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2556753c-47cd-814e-9e0f-bb8507a5258c",
+   "title": "Across the Disciplines: Foreign Language (LA)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/img/Tannenberg_001.jpg",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": ".guides/img/Codetalkers.jpg",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Across-the-Disciplines--Foreign-Language--LA--2556.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
+   "title": "Across the Disciplines: Literature (LA)",
+   "files": [
+    {
+     "path": ".guides/img/avoidENGFRNTXT.PNG",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Across-the-Disciplines--Literature--LA--d7ac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "61e4399a-c753-e848-2836-c5e4e3a2db98",
+   "title": "Meetup: Shift Ciphers and Attack Scenarios (LA)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Meetup--Shift-Ciphers-and-Attack-Scenarios--LA--61e4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "33ae8bc2-a52d-e622-b170-66e9a8ef074e",
+   "title": "Meetup: Substitution Ciphers and Attack Scenarios (LA)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Meetup--Substitution-Ciphers-and-Attack-Scenarios--LA--33ae.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
+   "title": "Hackathon: Modern Symmetric Ciphers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hackathon--Modern-Symmetric-Ciphers-5590.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "23c78ec1-2e5e-d3cf-ffce-7f8643b0b3f3",
+   "title": "NIST and the Selection of Ciphers for Federal Processing (LA)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/NIST-and-the-Selection-of-Ciphers-for-Federal-Processing--LA--23c7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
+   "title": "Symmetric Key Cryptography Summary",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography-Summary-055f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "a6584dc1-1c51-64fe-d8ba-bacdf87e8550",
-   "title": "The Main Tenets",
+   "title": "ofpdhucpgoh",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Main-Tenets-a658.md",
+   "content-file": ".guides/content/ofpdhucpgoh-a658.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
+   "title": "Cryptography",
+   "files": [
+    {
+     "path": "#preview: http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [
+    "IG.PNG"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Cryptography-e918.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -75,7 +224,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "e0c97a5f-918c-434f-b8da-d0b63feecf86"
+      "key": "b1d77962-6287-4f63-a574-75b9ed49ea64"
      },
      {
       "action": "open",
@@ -83,7 +232,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "47bfb273-25cc-441d-bb1f-46352c535576"
+      "key": "1e80f9c7-872d-4bbc-8d53-3fb7726c0a51"
      },
      {
       "action": "open",
@@ -91,7 +240,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "21510c41-05c4-4230-8882-60fe4fd4ceeb"
+      "key": "a121a114-4fc8-4cb3-a07e-2a15c4f21534"
      },
      {
       "action": "open",
@@ -99,7 +248,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "3e1baef6-7a19-42f9-8b39-a2f1a282c869"
+      "key": "278558b4-0f23-4a5a-8e7d-4ed6d4802b15"
      }
     ]
    }
@@ -349,11 +498,11 @@
   },
   {
    "id": "0f0bec3e-df40-b6c1-5508-68b3c081eff6",
-   "title": "Modern Symmetric Ciphers",
+   "title": "Hackathon: Modern Symmetric Ciphers (LA)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Modern-Symmetric-Ciphers-0f0b.md",
+   "content-file": ".guides/content/Hackathon--Modern-Symmetric-Ciphers--LA--0f0b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -434,11 +583,23 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "4c976928-c138-4765-3191-a236fe4c6414",
+   "title": "Meetup: The problem of Key Distribution and Management (LA) ",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Meetup--The-problem-of-Key-Distribution-and-Management--LA---4c97.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
  "scripts": [],
  "lexikonTopic": "",
- "suppressPageNumbering": false,
+ "suppressPageNumbering": true,
  "hideMenu": true
 }

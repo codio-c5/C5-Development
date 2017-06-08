@@ -1,0 +1,104 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1134699488",
+  "source": {
+   "name": "C5 1.1 KA",
+   "showName": true,
+   "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "ef6a7adb-c342-5db7-c05f-0271873ee730",
+     "correct": false,
+     "answer": "File hashing "
+    },
+    {
+     "_id": "8d666442-89dc-3b7f-6ee0-ca31dd883330",
+     "correct": true,
+     "answer": "File encryption"
+    },
+    {
+     "_id": "a0df4636-d324-416e-8922-48b0a9ecfc33",
+     "correct": false,
+     "answer": "File permissions"
+    },
+    {
+     "_id": "428f6278-2455-b379-41d0-de494a126107",
+     "correct": false,
+     "answer": "File backup"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-836680581",
+  "source": {
+   "name": "CYK 1.1",
+   "showName": false,
+   "instructions": "Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.",
+   "points": "1",
+   "showValues": true,
+   "text": "<<<Cryptography>>> is the science of encoding or <<<encrypting>>> readable messages, also called <<<plaintext>>>, using a(n) <<<encryption key>>> to create unreadable messages called <<<ciphertext>>>. To read encrypted messages, you need a(n) <<<decryption key>>>.  In symmetric key cryptography, the same key is used to encrypt and to decode, or <<<decrypt>>>, the message. ",
+   "tokens": {
+    "blank": [
+     "Cryptography",
+     "encrypting",
+     "plaintext",
+     "encryption key",
+     "ciphertext",
+     "decryption key",
+     "decrypt"
+    ],
+    "text": [
+     0,
+     " is the science of encoding or ",
+     0,
+     " readable messages, also called ",
+     0,
+     ", using a(n) ",
+     0,
+     " to create unreadable messages called ",
+     0,
+     ". To read encrypted messages, you need a(n) ",
+     0,
+     ".  In symmetric key cryptography, the same key is used to encrypt and to decode, or ",
+     0,
+     ", the message. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-897040811",
+  "source": {
+   "name": "CYM 1.1",
+   "showName": false,
+   "instructions": "Which form of modern symmetric cipher is the most secure?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "b9c69644-7672-4623-747b-3af3f5662684",
+     "correct": false,
+     "answer": "DES"
+    },
+    {
+     "_id": "7a013802-6a53-4c18-b1a9-537a76ffa23e",
+     "correct": true,
+     "answer": "AES"
+    },
+    {
+     "_id": "409853b0-1779-04de-ddde-3e0894814efb",
+     "correct": false,
+     "answer": "Triple DES"
+    }
+   ]
+  }
+ }
+]

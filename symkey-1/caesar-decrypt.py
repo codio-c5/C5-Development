@@ -2,7 +2,7 @@
 L2I = dict(zip("ABCDEFGHIJKLMNOPQRSTUVWXYZ",range(26)))
 I2L = dict(zip(range(26),"ABCDEFGHIJKLMNOPQRSTUVWXYZ"))
 
-key = 3
+key = 7
 ciphertext = ""
 
 # read file
