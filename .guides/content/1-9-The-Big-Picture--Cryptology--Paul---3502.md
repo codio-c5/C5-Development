@@ -2,7 +2,12 @@
 Cryptography is part of the larger area of study called Cryptology. 
 
 - **Cryptography** focuses on designing systems to provide security
+Cryptology is a field of Cryptography. It focuses on the systems that keep information secret. Cryptologists create the algorithms and techniques that keep information safe.
+
 - **Crytanalysis** focuses on breaking these systems.
+Cryptanalysis is also part of Cryptography. It studies crytographic cipheres with the aim of breaking or finding weaknesses that can have the potential of ultimately breaking a cipher.
+
+Alan Turing was a cryptanalyst who broke the Germans' Enigma system
 
 ![](.guides/img/cryptology.png) 
 
