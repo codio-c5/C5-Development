@@ -8,11 +8,30 @@
 **Young Alan Turing:** When people talk to each other, they never say what they mean, they say something else. And you're expected to just know what they mean. Only I never do. So... How's that different?
 **Christopher Morcom:** Alan, I have a funny feeling you're going to be very good at this.
 
-*Source: *The Imitation Game.* Directed by Morten Tyldum. The Weinstein Company, 2014. Film.
+*Source: <u>The Imitation Game.</u> Directed by Morten Tyldum. The Weinstein Company, 2014. Film.*
 
 During World War II, Alan Turing and his team in British intelligence were able to crack the German Enigma code.  Historians estimate that this shortened the war by two to three years and saved tens of millions of lives. 
 
 [Learn more about code breaking and the movie The Imitation Game](http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.htm)  
+
+||| definition 
+ Cryptography is *the practice and study of techniques for secure communication in the presence of adversaries* 
+|||
+
+It is the science of designing systems to store and transmit data in a secure way so that it preserves its integrity and is accessible to only those with proper authentication and authorization.
+
+Cryptography, as most often practiced today, uses mathematics to transform information into a form that is readibly consumed by it's intended audience but not by anyone else.
+
+Then process is straightforward, it converts plaintext into ciphertext or vice versa. Plaintext is a message or data that is not secret or hidden; the words on this page are an example of plaintext. Encryption transforms plaintext into ciphertext, which when done correctly renders it unintelligable by anyone who does not possess the key used to perform the encryption. This prevents eavesdroppers from reading or changing the message. Decryption reverses the process and allows anyone who possesses the key to obtain the original plaintext.
+
+||| guidance
+### Instructor's Note
+Here's a good cryptography overview video you might share with the class. 
+
+<iframe width="550" height="300" src="https://www.youtube.com/embed/-yFZGF8FHSg" frameborder="0" allowfullscreen></iframe>
+|||
+
+
 
 
 
