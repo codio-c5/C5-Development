@@ -5,3 +5,5 @@ Divide into six teams. Each team is assigned one of the following symmetric ciph
 - list 1
 - list 2
 - list ...
+
+pencil/paper ... import from 1.11, 1.12 & 1.13 (see ROT13 hackathon from curriculum map - google docs) me: create questions/answers for each of des, aes, etc.

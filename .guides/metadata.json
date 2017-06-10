@@ -359,7 +359,7 @@
   },
   {
    "id": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
-   "title": "1.11 Substitution Cipher (Paul) ",
+   "title": "1.11 Substitution Cipher (Paul*** make hands on better***) ",
    "files": [
     {
      "path": "#tabs",
@@ -369,14 +369,14 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-11-Substitution-Cipher--Paul---a176.md",
+   "content-file": ".guides/content/1-11-Substitution-Cipher--Paul----make-hands-on-better------a176.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "8c7d5a65-82e6-e6ab-d968-e04215302966",
-   "title": "1.11b Hackathon: Substitution Cipher (Paul) ",
+   "title": "1.11b Hackathon: Substitution Cipher (Paul***add explanation of ROTn***) ",
    "files": [
     {
      "path": "#tabs",
@@ -391,25 +391,25 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-11b-Hackathon--Substitution-Cipher--Paul---8c7d.md",
+   "content-file": ".guides/content/1-11b-Hackathon--Substitution-Cipher--Paul---add-explanation-of-ROTn------8c7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "b7b0b3b3-9ca2-2d25-c2db-f8a5bfeacb93",
-   "title": "1.12 CreatorSpace Lab: Encrypt/Decrypt the Cipher (Paul) ",
+   "title": "1.12 CreatorSpace Lab: Encrypt/Decrypt the Cipher (Paul***see 1.11***) ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-12-CreatorSpace-Lab--Encrypt-Decrypt-the-Cipher--Paul---b7b0.md",
+   "content-file": ".guides/content/1-12-CreatorSpace-Lab--Encrypt-Decrypt-the-Cipher--Paul---see-1-11------b7b0.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "d99e7b3f-e512-8bf9-a8e8-1368a18c27f6",
-   "title": "1.13 CreatorSpace Lab: Create Your Own Ciphertext (Was Freddy's The Code)  (Paul) ",
+   "title": "1.13 CreatorSpace Lab: Create Your Own Ciphertext (Was Freddy's The Code)  (Paul***add description***) ",
    "files": [
     {
      "path": "#tabs",
@@ -431,7 +431,7 @@
     "symkey-1"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/1-13-CreatorSpace-Lab--Create-Your-Own-Ciphertext--Was-Freddy-s-The-Code----Paul---d99e.md",
+   "content-file": ".guides/content/1-13-CreatorSpace-Lab--Create-Your-Own-Ciphertext--Was-Freddy-s-The-Code----Paul---add-description------d99e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -488,11 +488,11 @@
   },
   {
    "id": "73775d59-2fcd-a0f7-10cf-6bdfcc50918d",
-   "title": "1.17 Frequency Analysis (Paul) ",
+   "title": "1.17 Frequency Analysis (Paul***see \"map\" slides***) ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-17-Frequency-Analysis--Paul---7377.md",
+   "content-file": ".guides/content/1-17-Frequency-Analysis--Paul---see--map--slides------7377.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -532,11 +532,11 @@
   },
   {
    "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
-   "title": "1.18 Hackathon: Modern Symmetric Ciphers (Paul) ",
+   "title": "1.18 Hackathon: Modern Symmetric Ciphers (Paul***) ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-18-Hackathon--Modern-Symmetric-Ciphers--Paul---5590.md",
+   "content-file": ".guides/content/1-18-Hackathon--Modern-Symmetric-Ciphers--Paul------5590.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -606,7 +606,7 @@
   },
   {
    "id": "4a8883e2-af95-e1e4-9e83-b5af83e4f629",
-   "title": "1.21B CreatorSpace Lab AES (Paul) ",
+   "title": "1.21B CreatorSpace Lab AES (Paul***use as basis for des lab***) ",
    "files": [
     {
      "path": "#tabs",
@@ -623,7 +623,7 @@
     "aes"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/1-21B-CreatorSpace-Lab-AES--Paul---4a88.md",
+   "content-file": ".guides/content/1-21B-CreatorSpace-Lab-AES--Paul---use-as-basis-for-des-lab------4a88.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
