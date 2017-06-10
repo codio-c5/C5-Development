@@ -4,4 +4,6 @@ Press the button below to decrypt it. The decrypted text will appear below the b
 
 {Decrypt}(.guides/caesard.sh)
 
+You  can toggle back and forth between this page and the last page to encrypt and decrypt your own messages.
 
+Check in question:

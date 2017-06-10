@@ -12,4 +12,4 @@ Alice is the sender who wants to send an encrypted message to Bob.
 
 Symmetric Key encryption is more efficient than asymetric key encryption[^1] which is introduced in 2.1. It produces significantly less cyphertext for a given plaintext. However, sharing the shared secret is in general more difficult than for asymmetric key encryption
 
-[^1]: Applied Cryptoghraphy, Schneier, 1996 pg216
+[^1]: Applied Cryptography, Schneier, 1996 pg. 216
