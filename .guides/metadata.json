@@ -320,7 +320,12 @@
   {
    "id": "3502bbde-35f2-6beb-6676-025bb71c05fe",
    "title": "1.9 The Big Picture: Cryptology (Paul) ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",

@@ -9,3 +9,7 @@ Alice is the sender who wants to send an encrypted message to Bob.
 1. A file called `ciphertext` is created, which she can now send to Bob.
 1. Bob now needs to decrypt `ciphertext` before he can read it using the *shared secret*.
 1. Once, decrypted, Bob can read the original `plaintext` file sent by Alice.
+
+Symmetric Key encryption is more efficient than asymetric key encryption[^1] which is introduced in 2.1. It produces significantly less cyphertext for a given plaintext. However, sharing the shared secret is in general more difficult than for asymmetric key encryption
+
+[^1]: Applied Cryptoghraphy, Schneier, 1996 pg216
