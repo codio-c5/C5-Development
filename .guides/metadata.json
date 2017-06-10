@@ -75,24 +75,6 @@
    "teacherOnly": false
   },
   {
-   "id": "fce5a106-e5ca-2ec8-3868-fb7e82e7602c",
-   "title": "1.2 Cryptography (Paul) ",
-   "files": [
-    {
-     "path": "#preview: https://en.wikipedia.org/wiki/Cryptography",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-2-Cryptography--Paul---fce5.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "cc716ec0-709d-3645-6fb6-3cf57f39e20b",
    "title": "1.3  The Main Tenets of Cyber Security (Paul) ",
    "files": [
@@ -197,7 +179,7 @@
   },
   {
    "id": "7841f5b5-8fff-a056-5101-c4024e415ad9",
-   "title": "1.5B CreatorSpace Lab: Working with Block Flowcharts (Paul) ",
+   "title": "1.5B CreatorSpace Lab: Working with Block Flowcharts (Paul)  ********update****",
    "files": [
     {
      "path": "#tabs",
@@ -212,14 +194,14 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5B-CreatorSpace-Lab--Working-with-Block-Flowcharts--Paul---7841.md",
+   "content-file": ".guides/content/1-5B-CreatorSpace-Lab--Working-with-Block-Flowcharts--Paul-----------update-----7841.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "1.5C CreatorSpace Lab: Encrypting the Caesar Cipher  (Paul) ",
+   "title": "1.5C CreatorSpace Lab: Encrypting the Caesar Cipher  (Paul***fix caesar-decrypt.py) ",
    "files": [
     {
      "path": "#tabs",
@@ -239,7 +221,7 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5C-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---Paul---6d7d.md",
+   "content-file": ".guides/content/1-5C-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---Paul---fix-caesar-decrypt-py---6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -284,19 +266,8 @@
    "teacherOnly": false
   },
   {
-   "id": "80efc43f-a6a8-9c09-e1c1-adadb2e61383",
-   "title": "1.7 Analyzing a Shift Cipher (Paul) ",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-7-Analyzing-a-Shift-Cipher--Paul---80ef.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
-   "title": "1.7A Across the Disciplines: Languages",
+   "title": "1.7 Across the Disciplines: Languages",
    "files": [
     {
      "path": "#tabs",
@@ -306,7 +277,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-7A-Across-the-Disciplines--Languages-0a33.md",
+   "content-file": ".guides/content/1-7-Across-the-Disciplines--Languages-0a33.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -342,17 +313,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-9-The-Big-Picture--Cryptology--Paul---3502.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
-   "title": "1.9A Cryptanalysis of a Cipher (Paul) ",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-9A-Cryptanalysis-of-a-Cipher--Paul---c3a1.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -466,7 +426,7 @@
   },
   {
    "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
-   "title": "1.15 Breaking the Substitution Cipher (Paul) ",
+   "title": "1.15 Growth Hack: Breaking the Substitution Cipher  ",
    "files": [
     {
      "path": "#tabs",
@@ -476,7 +436,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-15-Breaking-the-Substitution-Cipher--Paul---b2ec.md",
+   "content-file": ".guides/content/1-15-Growth-Hack--Breaking-the-Substitution-Cipher---b2ec.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -516,11 +476,11 @@
   },
   {
    "id": "6b5c9414-44de-3881-b710-0155780a9f23",
-   "title": "1.17A Hackathon: Breaking the Substitution Cipher (Paul) ",
+   "title": "Growth Hack: Frequency Analysis ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-17A-Hackathon--Breaking-the-Substitution-Cipher--Paul---6b5c.md",
+   "content-file": ".guides/content/Growth-Hack--Frequency-Analysis--6b5c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

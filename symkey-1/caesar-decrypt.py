@@ -9,6 +9,7 @@ ciphertext = ""
 file = open("ciphertext.txt", "r") 
 for line in file: 
     ciphertext = ciphertext + line 
+print ciphertext
 
 # decipher
 plaintext = ""

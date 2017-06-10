@@ -6,4 +6,8 @@ Press the button below to decrypt it. The decrypted text will appear below the b
 
 You  can toggle back and forth between this page and the last page to encrypt and decrypt your own messages.
 
-Check in question:
+## Lab Check In 
+{Check It!|assessment}(multiple-choice-265258656)
+
+## Growth Hack
+{Submit Answer!|assessment}(free-text-2561419183)

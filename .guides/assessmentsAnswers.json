@@ -40,5 +40,23 @@
    "active": []
   },
   "results": []
+ },
+ {
+  "taskId": "multiple-choice-731861469",
+  "points": 0,
+  "state": {
+   "active": "4942f6d2-b683-2401-dacb-88629ad2f5ea"
+  },
+  "results": [
+   {
+    "current": [
+     "4942f6d2-b683-2401-dacb-88629ad2f5ea"
+    ],
+    "right": [
+     "943682b3-25f4-c5ca-9289-736b410db13e"
+    ],
+    "timestamp": 1497119542341
+   }
+  ]
  }
 ]

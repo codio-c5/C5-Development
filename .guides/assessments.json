@@ -134,7 +134,7 @@
   "taskId": "multiple-choice-2647053800",
   "source": {
    "name": "KCI 1.2",
-   "showName": true,
+   "showName": false,
    "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?",
    "points": "1",
    "incorrectPoints": "0",
@@ -286,6 +286,138 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "Compare and contrast \"Security by obscurity\" with Kerckhoffs's Principle.",
+   "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-731861469",
+  "source": {
+   "name": "CI 1.3",
+   "showName": false,
+   "instructions": "In a shift cipher, what happens when you need to go beyond the end of the alphabet, for example, in a shift cipher with a key of 3, what letter do you use for 'y\"?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "b4c9a3e4-f310-648c-6f2b-f7621f51dd84",
+     "correct": false,
+     "answer": "Y "
+    },
+    {
+     "_id": "4942f6d2-b683-2401-dacb-88629ad2f5ea",
+     "correct": false,
+     "answer": "V"
+    },
+    {
+     "_id": "943682b3-25f4-c5ca-9289-736b410db13e",
+     "correct": true,
+     "answer": "B"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-265258656",
+  "source": {
+   "name": "CI 1.2",
+   "showName": true,
+   "instructions": "How does the code handle the apostrophe in the word \"it's\"?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "7fbb6e4a-903e-af32-765f-cdb596f44a2e",
+     "correct": true,
+     "answer": "The apostrophe remains as plaintext."
+    },
+    {
+     "_id": "2460eb6b-fc59-49b1-4883-a73e7adca615",
+     "correct": false,
+     "answer": "The apostrophe is encrypted as the letter \"A\" for apostrophe."
+    },
+    {
+     "_id": "9388a7a7-cf82-5663-14bc-77eea580d906",
+     "correct": false,
+     "answer": "The apostrophe goes away in the ciphertext."
+    },
+    {
+     "_id": "bb4e24d4-d2b4-6afc-a754-32d6676abff6",
+     "correct": false,
+     "answer": "The apostrophe is encrypted as the number \"0\" since there is no alphabetic equivalent."
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2561419183",
+  "source": {
+   "name": "GH 1.2",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "Using what you know about the apostrophe, how could that help you in a brute force attack to decrypt the message?",
+   "points": 1
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2491903025",
+  "source": {
+   "name": "GH 1.2",
+   "showName": true,
+   "instructions": "For the English alphabet, there are 26 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic? Armenian?",
+   "points": "1",
+   "showValues": false,
+   "text": "erdtfg<<<hjnkm>>>",
+   "tokens": {
+    "blank": [
+     "hjnkm"
+    ],
+    "text": [
+     "erdtfg",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1360860550",
+  "source": {
+   "name": "GH 1.2",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "For the English alphabet, there are 26 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic? The Armenian alphabet?",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3413873105",
+  "source": {
+   "name": "GH 1.2",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "Name three common digrams. \n **Hint:** Think about common word endings, as well as common two-letter words.",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-50517511",
+  "source": {
+   "name": "GH 1.2",
+   "showName": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "List three common trigrams.",
    "points": 1
   }
  }

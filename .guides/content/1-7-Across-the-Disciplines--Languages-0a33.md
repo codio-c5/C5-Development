@@ -1,7 +1,11 @@
 ## Cryptography and Language
 ### Language is a critical key in cryptography.  If you decode the ciphertext GRRUTY TUAY XKTIUTZXKX JKSGOT using a shift key of 6, you get *Allons nous rencontrer demain.*  If you don't know the message is in French, you might miss the request: "Let's meet tomorrow".
 
+<<<<<<< HEAD
 Cryptography could have changed the fate for one of the most monumental defeats in military history. During World War I, the Russian 2nd Army marched beyond the reach of their encrypted telegraph lines. They sent communications over open lines, thinking that the Germans would not understand Russian.  The Germans easily translated the Russian communications and were able to outflank the 2nd Army at the  [Battle of Tannenberg](http://thebattleoftannenburgww1.weebly.com/the-battle-and-battle-tactics.html) causing their surrender. There were over 300,000 Russian casualties, and 90,000 were taken prisoner. This, along with other factors, likely contributed to the overthrow of the Czar by the Communists and changed the direction of 20th Century history.
+=======
+### Cryptography could have changed the fate for one of the most monumental defeats in military history. During World War I, the Russian 2nd Army marched beyond the reach of their encrypted telegraph lines. They sent communications over open lines, thinking that the Germans would not understand Russian.  The Germans easily translated the Russian communications and were able to outflank the 2nd Army at the  [Battle of Tannenberg](http://thebattleoftannenburgww1.weebly.com/the-battle-and-battle-tactics.html) causing their surrender. There were over 300,000 Russian casualties, and 90,000 were taken prisoner. This, along with other factors, likely contributed to the overthrow of the Czar by the Communists and changed the direction of 20th Century history.
+>>>>>>> facc0d0853b57b163bcc8bf5dff02fe9b047a782
 
 
 ![.guides/img/Tannenberg_001](.guides/img/Tannenberg_001.jpg)

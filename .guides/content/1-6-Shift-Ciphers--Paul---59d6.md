@@ -13,5 +13,13 @@ XPPE XP LQEPC ESP EZRL ALCEJ
 What would it take to break the shift cipher? That is, if you know that a ciphertext is obtained using a shift cipher, how would you get the original plaintext?
 
 - **Brute Force Approach** : Try out all possible keys
-- **What is the key space? How many keys are there?** " For an English alphabet 26. (Why?)
-- Note that we assume here that the cryptanalyst knows the language that the original plaintext is in
+- **What is the key space? 
+- How many keys are there?**  
+
+- **Note:** We assume here that the cryptanalyst knows the language that the original plaintext is in.
+
+## Growth Hack 
+For an English alphabet, there are 26 keys. Why?{Check It!|assessment}{Submit Answer!|assessment}(free-text-1360860550)
+
+||| **Instructor's Note:** There are 33 letters in the Russian Cyrillic alphabet, and 36 in the Armenian alphabet, so the respective answers are 33 and 36.|||
+
