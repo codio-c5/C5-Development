@@ -2,14 +2,17 @@
 L2I = dict(zip("ABCDEFGHIJKLMNOPQRSTUVWXYZ",range(26)))
 I2L = dict(zip(range(26),"ABCDEFGHIJKLMNOPQRSTUVWXYZ"))
 
-key = 7
+keyfile = open("cipherkey.txt","r")
+key = keyfile.read()
+key = int(key)
+keyfile.close
+
 ciphertext = ""
 
 # read file
 file = open("ciphertext.txt", "r") 
 for line in file: 
     ciphertext = ciphertext + line 
-print ciphertext
 
 # decipher
 plaintext = ""
