@@ -191,7 +191,7 @@
   },
   {
    "id": "7841f5b5-8fff-a056-5101-c4024e415ad9",
-   "title": "1.5B CreatorSpace Lab: Working with Block Flowcharts (Paul) ",
+   "title": "1.5B CreatorSpace Lab: Working with Block Flowcharts (Paul)  ********update****",
    "files": [
     {
      "path": "#tabs",
@@ -206,14 +206,14 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5B-CreatorSpace-Lab--Working-with-Block-Flowcharts--Paul---7841.md",
+   "content-file": ".guides/content/1-5B-CreatorSpace-Lab--Working-with-Block-Flowcharts--Paul-----------update-----7841.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "1.5C CreatorSpace Lab: Encrypting the Caesar Cipher  (Paul) ",
+   "title": "1.5C CreatorSpace Lab: Encrypting the Caesar Cipher  (Paul***fix caesar-decrypt.py) ",
    "files": [
     {
      "path": "#tabs",
@@ -233,7 +233,7 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5C-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---Paul---6d7d.md",
+   "content-file": ".guides/content/1-5C-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---Paul---fix-caesar-decrypt-py---6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

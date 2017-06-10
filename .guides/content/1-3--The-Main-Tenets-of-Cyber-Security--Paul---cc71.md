@@ -3,6 +3,8 @@ Confidentiality is the concept of ensuring that data is not made available or di
 
 **Encryption/decryption algorithms** are used to ensure that data is not made available to unauthorized persons, which we’ll dig into later.
 
+We will explore Public Key encryption in the next unit.
+
 ## Integrity 
 Integrity is the concept of ensuring that data has not been altered in any way. **Hash functions** are commonly used for this purpose.
 
