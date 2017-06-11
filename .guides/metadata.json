@@ -195,7 +195,7 @@
   },
   {
    "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "1.5C CreatorSpace Lab: Encrypting the Caesar Cipher  (fixed; do we want it to capitalize everything?) ",
+   "title": "1.5C CreatorSpace Lab: Encrypting the Caesar Cipher  ",
    "files": [
     {
      "path": "#tabs",
@@ -215,14 +215,14 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5C-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---fixed--do-we-want-it-to-capitalize-everything----6d7d.md",
+   "content-file": ".guides/content/1-5C-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
-   "title": "1.5D CreatorSpace Lab: Decrypting the Caesar Cipher  (Paul) ",
+   "title": "1.5D CreatorSpace Lab: Decrypting the Caesar Cipher  ",
    "files": [
     {
      "path": "#tabs",
@@ -237,7 +237,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5D-CreatorSpace-Lab--Decrypting-the-Caesar-Cipher---Paul---3dad.md",
+   "content-file": ".guides/content/1-5D-CreatorSpace-Lab--Decrypting-the-Caesar-Cipher---3dad.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
