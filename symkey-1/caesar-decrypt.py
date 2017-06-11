@@ -3,12 +3,8 @@ L2I = dict(zip("ABCDEFGHIJKLMNOPQRSTUVWXYZ",range(26)))
 I2L = dict(zip(range(26),"ABCDEFGHIJKLMNOPQRSTUVWXYZ"))
 
 keyfile = open("cipherkey.txt","r")
-<<<<<<< HEAD
 key = keyfile.read()
 key = int(key)
-=======
-key = int(keyfile.read())
->>>>>>> 6bd61d603166cadc6966200b5e15e62075f53f93
 keyfile.close
 
 ciphertext = ""
