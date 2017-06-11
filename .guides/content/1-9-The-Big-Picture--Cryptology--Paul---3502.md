@@ -1,5 +1,4 @@
-
-Cryptography is part of the larger area of study called Cryptology. 
+Cryptology is a scientific field devoted to studying Cryptograph and Crytanalysis.
 
 - **Cryptography** focuses on designing systems to provide security
 Cryptology is a field of Cryptography. It focuses on the systems that keep information secret. Cryptologists create the algorithms and techniques that keep information safe.

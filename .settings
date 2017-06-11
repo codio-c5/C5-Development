@@ -32,6 +32,7 @@ font_size = 14
 ; enter your codio-filetree preferences here...
 
 [guides]
+theme = light
 ; enter your guides preferences here...
 
 [settings]
