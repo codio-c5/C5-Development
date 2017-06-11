@@ -45,18 +45,8 @@
   "taskId": "multiple-choice-731861469",
   "points": 0,
   "state": {
-   "active": "b4c9a3e4-f310-648c-6f2b-f7621f51dd84"
+   "active": null
   },
-  "results": [
-   {
-    "current": [
-     "b4c9a3e4-f310-648c-6f2b-f7621f51dd84"
-    ],
-    "right": [
-     "943682b3-25f4-c5ca-9289-736b410db13e"
-    ],
-    "timestamp": 1497192161244
-   }
-  ]
+  "results": []
  }
 ]

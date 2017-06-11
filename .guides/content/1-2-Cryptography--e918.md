@@ -21,7 +21,7 @@ During World War II, Alan Turing and his team in British intelligence were able 
  Cryptography is *the practice and study of techniques for secure communication in the presence of adversaries* 
 |||
 
-Cryptography is the science of designing systems to store and transmit data in a secure way so that it preserves its integrity and is only accessible to those with proper authentication and authorization.
+Cryptography involves designing systems to store and transmit data in a secure way.  The goal of cryptography is to  preserve the integrity of the message and make sure is only accessible to those with proper authentication and authorization.
 
 Modern cryptography has evolved to use increasingly complex mathematics to transform information in a way that is readily accessible by its intended audience, but not by anyone else.
 
