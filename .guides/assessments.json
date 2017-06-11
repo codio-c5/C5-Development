@@ -323,7 +323,7 @@
   "taskId": "multiple-choice-265258656",
   "source": {
    "name": "CI 1.2",
-   "showName": true,
+   "showName": false,
    "instructions": "How does the code handle the apostrophe in the word \"it's\"?",
    "points": "1",
    "incorrectPoints": "0",
@@ -357,7 +357,7 @@
   "taskId": "free-text-2561419183",
   "source": {
    "name": "GH 1.2",
-   "showName": true,
+   "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "Using what you know about the apostrophe, how could that help you in a brute force attack to decrypt the message?",
