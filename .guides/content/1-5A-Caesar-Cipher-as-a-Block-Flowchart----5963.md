@@ -1,6 +1,5 @@
-|||The flowchart on the left is a representation of the Caesar Cipher algorithm.
-
-The accompanying flowchart describes the cipher algorithm, or recipe if you will, that shifts characters by the specified amount.
+### The flowchart on the left is a representation of the Caesar Cipher algorithm.
+It describes the cipher algorithm, or recipe, that shifts characters by the specified key. If you were to write the algorithm in plain English, it would look a lot like a recipe. At the end, you'll have a ciphertext instead of chocolate chip cookies.
 
 1. Get the file
 2. Get the number of characters to shift

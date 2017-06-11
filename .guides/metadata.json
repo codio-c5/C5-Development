@@ -35,18 +35,18 @@
   },
   {
    "id": "f3a11fa5-1a8b-0373-eb1c-a92bae198b71",
-   "title": "1.1 Symmetric Key Cryptography (LA) ",
+   "title": "1.1 Symmetric Key Cryptography  ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-1-Symmetric-Key-Cryptography--LA---f3a1.md",
+   "content-file": ".guides/content/1-1-Symmetric-Key-Cryptography---f3a1.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
-   "title": "1.2 Cryptography (Paul) ",
+   "title": "1.2 Cryptography ",
    "files": [
     {
      "path": "#tabs",
@@ -63,14 +63,14 @@
     "IG.PNG"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/1-2-Cryptography--Paul---e918.md",
+   "content-file": ".guides/content/1-2-Cryptography--e918.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "cc716ec0-709d-3645-6fb6-3cf57f39e20b",
-   "title": "1.3  The Main Tenets of Cyber Security (Paul) ",
+   "title": "1.3  The Main Tenets of Cyber Security  ",
    "files": [
     {
      "path": "#tabs",
@@ -80,7 +80,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-3--The-Main-Tenets-of-Cyber-Security--Paul---cc71.md",
+   "content-file": ".guides/content/1-3--The-Main-Tenets-of-Cyber-Security---cc71.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -127,12 +127,12 @@
   },
   {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
-   "title": "1.4 Symmetric Key Cryptography (Paul) ",
+   "title": "1.4 Symmetric Key Cryptography (animation tk) ",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-4-Symmetric-Key-Cryptography--Paul---ed61.md",
+   "content-file": ".guides/content/1-4-Symmetric-Key-Cryptography--animation-tk---ed61.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -151,7 +151,7 @@
   },
   {
    "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
-   "title": "1.5A Caesar Cipher as a Block Flowchart (Paul)  ",
+   "title": "1.5A Caesar Cipher as a Block Flowchart   ",
    "files": [
     {
      "path": "#tabs",
@@ -166,7 +166,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5A-Caesar-Cipher-as-a-Block-Flowchart--Paul----5963.md",
+   "content-file": ".guides/content/1-5A-Caesar-Cipher-as-a-Block-Flowchart----5963.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
