@@ -1,5 +1,5 @@
 ## Module Contents
-Add paragraph here about app crypto to set the stage.
+Add paragraph here about app crypto to set the stage. Perhaps a Dr. P.  or Beth talking head vid?
 
 
 - Symmetric Key 
