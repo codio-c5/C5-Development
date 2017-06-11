@@ -114,7 +114,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "b66f8a9b-c3af-426d-a0f3-4f7b954aa33d"
+      "key": "ce4dd7b2-7190-42a6-8b61-74001899bb56"
      },
      {
       "action": "open",
@@ -122,7 +122,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "bffcf62b-f8b5-4b12-ba75-5b9823093c1d"
+      "key": "3645a011-b104-4ef0-a783-afd99a3e62cf"
      },
      {
       "action": "open",
@@ -130,7 +130,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "f8bfdc98-23fd-4aff-9bd4-8b4272729693"
+      "key": "8e00de55-dc59-4cd4-9342-bd85ca02937a"
      },
      {
       "action": "open",
@@ -138,7 +138,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "64eab34c-9497-4387-b83d-bc1d4dae12f0"
+      "key": "5f91a22e-3470-4a4f-93aa-89158fa021ac"
      }
     ]
    }
@@ -213,7 +213,7 @@
   },
   {
    "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "1.5C CreatorSpace Lab: Encrypting the Caesar Cipher  (Paul***fix caesar-decrypt.py) ",
+   "title": "1.5C CreatorSpace Lab: Encrypting the Caesar Cipher  (fixed; do we want it to capitalize everything?) ",
    "files": [
     {
      "path": "#tabs",
@@ -233,7 +233,7 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5C-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---Paul---fix-caesar-decrypt-py---6d7d.md",
+   "content-file": ".guides/content/1-5C-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---fixed--do-we-want-it-to-capitalize-everything----6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

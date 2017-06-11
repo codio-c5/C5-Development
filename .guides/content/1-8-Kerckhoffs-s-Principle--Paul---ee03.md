@@ -2,7 +2,7 @@
 
 *A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.*
 
-Modern encryption algorithms, such as the DES and AES, depend on this principle. Those algorithms rely on the strength of the keys that they use. The algorithms themselves are public and are considered strong only if they survive attempts by cryptologists to break them. It's like designing a safe and putting it in a park with an open invitation to break into it. If it survives, then it's considered a safe safe.
+Modern encryption algorithms, such as the DES and AES, depend on this principle. Those algorithms rely on the strength of the keys that they use. The algorithms themselves are public and are considered strong only if they survive attempts by cryptologists to break them. It's like designing a safe and providing an open invitation to break into it. If it survives, then it's considered a safe safe.
 
 ## Security by obscurity
 In security engineering, security through obscurity (or security by obscurity) is the reliance on the secrecy of the design or implementation as the main method of providing security for a system or component of a system. 
