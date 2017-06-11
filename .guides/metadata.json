@@ -286,6 +286,10 @@
    "title": "1.8 Kerckhoffs’s Principle (Paul) ",
    "files": [
     {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
      "path": "#preview: https://en.wikipedia.org/wiki/Kerckhoffs's_principle",
      "panel": 0,
      "action": "open"
@@ -314,7 +318,13 @@
   {
    "id": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
    "title": "1.9A Cryptanalysis of a Cipher (Paul) ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-9A-Cryptanalysis-of-a-Cipher--Paul---c3a1.md",
