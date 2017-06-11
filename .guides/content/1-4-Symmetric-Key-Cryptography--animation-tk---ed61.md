@@ -16,4 +16,3 @@ The advantage of symmetric key encryption is that it is more efficient than asym
 [^1]: Applied Cryptography, Schneier, 1996 pg. 216
 =======
 [^1]: Applied Cryptoghraphy, Schneier, 1996 p216
->>>>>>> facc0d0853b57b163bcc8bf5dff02fe9b047a782

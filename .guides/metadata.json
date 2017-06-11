@@ -96,7 +96,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "ce4dd7b2-7190-42a6-8b61-74001899bb56"
+      "key": "e5f9f9b5-8ce3-4649-880c-29e36dd9a910"
      },
      {
       "action": "open",
@@ -104,7 +104,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "3645a011-b104-4ef0-a783-afd99a3e62cf"
+      "key": "e4205d49-df28-4db1-84ea-dbafadc1ceac"
      },
      {
       "action": "open",
@@ -112,7 +112,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "8e00de55-dc59-4cd4-9342-bd85ca02937a"
+      "key": "1303cb22-80f9-4919-8d90-1e2d08d5af4c"
      },
      {
       "action": "open",
@@ -120,7 +120,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "5f91a22e-3470-4a4f-93aa-89158fa021ac"
+      "key": "e16d2266-f439-48c9-ba36-68c6b962dfa0"
      }
     ]
    }
@@ -351,7 +351,7 @@
   },
   {
    "id": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
-   "title": "1.11 Substitution Cipher (Paul*** make hands on better***) ",
+   "title": "1.11 CreatorSpace Lab: Substitution Cipher (Paul*** make hands on better***) ",
    "files": [
     {
      "path": "#tabs",
@@ -361,7 +361,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-11-Substitution-Cipher--Paul----make-hands-on-better------a176.md",
+   "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -458,11 +458,11 @@
   },
   {
    "id": "33ae8bc2-a52d-e622-b170-66e9a8ef074e",
-   "title": "1.16 Meetup: Substitution Ciphers and Attack Scenarios (LA)",
+   "title": "1.16 Meetup: Substitution Ciphers and Attack Scenarios ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-16-Meetup--Substitution-Ciphers-and-Attack-Scenarios--LA--33ae.md",
+   "content-file": ".guides/content/1-16-Meetup--Substitution-Ciphers-and-Attack-Scenarios--33ae.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

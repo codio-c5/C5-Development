@@ -5,7 +5,11 @@ In the following example, the *key* is 3. Each letter is shifted 3 letters to th
 
 ```
 meet me after the toga party
+<<<<<<< HEAD
+XPPE XP LQEPC ESP EZRL ALCEJ
+=======
 PHHW PH DIWHU WKH WRJD SDUWB
+>>>>>>> c4e9229547475f6dc0d7a3569f67adea4d0dd7ce
 ```
 
 Notice how the last N letters (3 in the above example) are dealt with by starting again at the letter "a" if it would go past "z".
