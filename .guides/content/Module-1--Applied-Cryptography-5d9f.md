@@ -1,10 +1,10 @@
 ## Module Contents
-add para about app crypto to set the stage.
+Add paragraph here about app crypto to set the stage.
 
 
-- Symmetric Key Cryptographyjavascript:void(0)
+- Symmetric Key 
 - Public Key 
-- Hash Functions
+- Hash 
 - Digital Signature
 
 add graphic
