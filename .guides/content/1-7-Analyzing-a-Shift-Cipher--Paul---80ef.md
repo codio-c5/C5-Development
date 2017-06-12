@@ -1,7 +1,9 @@
 The Caesar cipher worked well for it's time and was often used to communicate battlefield instructions. Computing power was limited to the Abacus, which was not useful for breaking codes. Okay, that was a bad attempt at humor but illustrates that the concept of encryption was virtually unknown. Almost no one who intercepted such messages would have any the ability to decrypt them or even that there was encryption. There are no recorded incidents of the Caesar cipher having been broken. Simple encryption methods were adequate for that time period.
 
-![](.guides/img/Boulier1.jpg)
 
 Today, the Abacus has given way to powerful, inexpensive computers that could break a shift cipher in a microsecond. However, computers are unnecessary for that purpose and breaking simple shift ciphers can be done with a pen and paper. Recall that the Caesar cipher simply shifts each character in a message by a fixed amount. Since there are 26 letters in the alphabet, there are only 26 minus 1 or 25 possible shifts or keys (shifting by 0, "A"->"A" - doesn't encrypt the plaintext at all). You can simply take the first few characters in a ciphertext and shift them by 1, then by 2, and so-on until you quickly see a legible word or part of a word; it's not necessary to apply a key to the entire ciphertext.
 
+<<<<<<< HEAD
 The formalization of Cryptology as a science and ever more powerful computers necessitated the invention of sophisticated cryptographic ciphers. The following lessons describe what we use today.
+=======
+The formalization of Cryptology as a science and ever more powerful computers necessitated the invention of sophisticated cryptographic ciphers. The following lessons describe what we use today.  

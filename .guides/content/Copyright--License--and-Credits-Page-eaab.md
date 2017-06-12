@@ -6,6 +6,7 @@ dramatis personae
   Paul Sery
   Beth Hawthorne
   Melissa Dark
-  Rick
-  Lori
-Devon
+  Christopher Nebergall (what order?)
+   Rick Pepper
+  Lori Oviatt
+  Devon Musgrave

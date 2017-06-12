@@ -96,7 +96,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "ce4dd7b2-7190-42a6-8b61-74001899bb56"
+      "key": "9426d361-bec9-4b01-918b-97830c1ae00b"
      },
      {
       "action": "open",
@@ -104,7 +104,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "3645a011-b104-4ef0-a783-afd99a3e62cf"
+      "key": "8251f0c0-83ae-48c7-9fd7-05ae9dd39ac4"
      },
      {
       "action": "open",
@@ -112,7 +112,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "8e00de55-dc59-4cd4-9342-bd85ca02937a"
+      "key": "ef765fcf-a074-40c9-841f-0aa84a15781f"
      },
      {
       "action": "open",
@@ -120,7 +120,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "5f91a22e-3470-4a4f-93aa-89158fa021ac"
+      "key": "1b1cd043-e7bf-4823-8052-15191946697b"
      }
     ]
    }
@@ -256,7 +256,13 @@
   {
    "id": "80efc43f-a6a8-9c09-e1c1-adadb2e61383",
    "title": "1.7 Analyzing a Shift Cipher (Paul) ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-7-Analyzing-a-Shift-Cipher--Paul---80ef.md",
@@ -286,6 +292,10 @@
    "title": "1.8 Kerckhoffs’s Principle (Paul) ",
    "files": [
     {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
      "path": "#preview: https://en.wikipedia.org/wiki/Kerckhoffs's_principle",
      "panel": 0,
      "action": "open"
@@ -314,7 +324,13 @@
   {
    "id": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
    "title": "1.9A Cryptanalysis of a Cipher (Paul) ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-9A-Cryptanalysis-of-a-Cipher--Paul---c3a1.md",
@@ -341,7 +357,7 @@
   },
   {
    "id": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
-   "title": "1.11 Substitution Cipher (Paul*** make hands on better***) ",
+   "title": "1.11 CreatorSpace Lab: Substitution Cipher (Paul*** make hands on better***) ",
    "files": [
     {
      "path": "#tabs",
@@ -351,7 +367,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-11-Substitution-Cipher--Paul----make-hands-on-better------a176.md",
+   "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -448,11 +464,11 @@
   },
   {
    "id": "33ae8bc2-a52d-e622-b170-66e9a8ef074e",
-   "title": "1.16 Meetup: Substitution Ciphers and Attack Scenarios (LA)",
+   "title": "1.16 Meetup: Substitution Ciphers and Attack Scenarios ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-16-Meetup--Substitution-Ciphers-and-Attack-Scenarios--LA--33ae.md",
+   "content-file": ".guides/content/1-16-Meetup--Substitution-Ciphers-and-Attack-Scenarios--33ae.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

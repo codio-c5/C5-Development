@@ -1,4 +1,4 @@
-In this cipher each letter/character in the plaintext alphabet is substituted by a different letter/character in the ciphertext alphabet. 
+In this cipher each letter in the plaintext alphabet is substituted by a different letter in the ciphertext alphabet. 
 
 If the alphabet we are using for the plaintext and ciphertext are both letters in the English alphabet, then substitution cipher becomes substituting each letter with a different letter.  
 
@@ -10,5 +10,5 @@ For example the key
 
 would mean A is mapped to Z, B is mapped to Y , etc.  
 
-## Hands On
+## Your Turn
 You can play with the substitution cipher on the left hand side. Enter some text and press the buttons.
