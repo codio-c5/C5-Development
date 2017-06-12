@@ -6,7 +6,7 @@ dramatis personae
   Paul Sery
   Beth Hawthorne
   Melissa Dark
-  Christopher (what order?)
+  Christopher Nebergall (what order?)
    Rick Pepper
   Lori Oviatt
   Devon Musgrave
