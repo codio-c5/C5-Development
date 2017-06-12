@@ -51,11 +51,6 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "#preview: http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.html",
-     "panel": 0,
-     "action": "open"
     }
    ],
    "layout": "1-panel",
@@ -96,7 +91,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "9426d361-bec9-4b01-918b-97830c1ae00b"
+      "key": "6203480d-fd6e-4b9f-a753-eb93fa036aa2"
      },
      {
       "action": "open",
@@ -104,7 +99,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "8251f0c0-83ae-48c7-9fd7-05ae9dd39ac4"
+      "key": "83209d8b-e830-4c11-a5d0-c46988862b44"
      },
      {
       "action": "open",
@@ -112,7 +107,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "ef765fcf-a074-40c9-841f-0aa84a15781f"
+      "key": "3e07f119-d4e4-4e41-8ab8-05ddd03d79db"
      },
      {
       "action": "open",
@@ -120,7 +115,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "1b1cd043-e7bf-4823-8052-15191946697b"
+      "key": "f0dcd711-e757-48f7-90c7-8cc0c106939a"
      }
     ]
    }
@@ -244,28 +239,28 @@
   },
   {
    "id": "59d68695-cf0a-9e9a-746c-70fcbf03db94",
-   "title": "1.6 Shift Ciphers (Paul) ",
+   "title": "1.6 Shift Ciphers",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-6-Shift-Ciphers--Paul---59d6.md",
+   "content-file": ".guides/content/1-6-Shift-Ciphers-59d6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "80efc43f-a6a8-9c09-e1c1-adadb2e61383",
-   "title": "1.7 Analyzing a Shift Cipher (Paul) ",
+   "title": "1.7 Analyzing a Shift Cipher ",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-7-Analyzing-a-Shift-Cipher--Paul---80ef.md",
+   "content-file": ".guides/content/1-7-Analyzing-a-Shift-Cipher--80ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -289,34 +284,29 @@
   },
   {
    "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
-   "title": "1.8 Kerckhoffs’s Principle (Paul) ",
+   "title": "1.8 Kerckhoffs's Principle",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "#preview: https://en.wikipedia.org/wiki/Kerckhoffs's_principle",
-     "panel": 0,
-     "action": "open"
     }
    ],
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-8-Kerckhoffs-s-Principle--Paul---ee03.md",
+   "content-file": ".guides/content/1-8-Kerckhoffs-s-Principle-ee03.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "3502bbde-35f2-6beb-6676-025bb71c05fe",
-   "title": "1.9 The Big Picture: Cryptology (Paul) ",
+   "title": "1.9 The Big Picture: Cryptology ",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-9-The-Big-Picture--Cryptology--Paul---3502.md",
+   "content-file": ".guides/content/1-9-The-Big-Picture--Cryptology--3502.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -340,7 +330,7 @@
   },
   {
    "id": "61e4399a-c753-e848-2836-c5e4e3a2db98",
-   "title": "1.10 Meetup: Shift Ciphers and Attack Scenarios (LA)",
+   "title": "1.10 Meetup: Shift Ciphers and Attack Scenarios ",
    "files": [
     {
      "path": "#tabs",
@@ -350,7 +340,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-10-Meetup--Shift-Ciphers-and-Attack-Scenarios--LA--61e4.md",
+   "content-file": ".guides/content/1-10-Meetup--Shift-Ciphers-and-Attack-Scenarios--61e4.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -497,11 +487,11 @@
   },
   {
    "id": "6b5c9414-44de-3881-b710-0155780a9f23",
-   "title": "1.17A Hackathon: Breaking the Substitution Cipher (Paul) ",
+   "title": "1.17A Hackathon: Breaking the Substitution Cipher ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-17A-Hackathon--Breaking-the-Substitution-Cipher--Paul---6b5c.md",
+   "content-file": ".guides/content/1-17A-Hackathon--Breaking-the-Substitution-Cipher--6b5c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -531,7 +521,13 @@
   {
    "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
    "title": "1.18 Hackathon: Modern Symmetric Ciphers (Paul***) ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-18-Hackathon--Modern-Symmetric-Ciphers--Paul------5590.md",
@@ -560,6 +556,7 @@
    "id": "58a4515f-4c99-3fea-a9f4-291e6ac85cd1",
    "title": "1.20 Modern Symmetric Ciphers: DES (Paul) ",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-20-Modern-Symmetric-Ciphers--DES--Paul---58a4.md",
@@ -628,7 +625,7 @@
   },
   {
    "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-   "title": "1.21C Hackathon: RSA (Paul) ",
+   "title": "1.21C Hackathon: RSA ",
    "files": [
     {
      "path": "#tabs",
@@ -645,19 +642,19 @@
     "rsa"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/1-21C-Hackathon--RSA--Paul---0aea.md",
+   "content-file": ".guides/content/1-21C-Hackathon--RSA--0aea.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "4c976928-c138-4765-3191-a236fe4c6414",
-   "title": "1.22 Meetup: The problem of Key Distribution and Management (LA) ",
+   "title": "1.22 Meetup: The problem of Key Distribution and Management ",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-22-Meetup--The-problem-of-Key-Distribution-and-Management--LA---4c97.md",
+   "content-file": ".guides/content/1-22-Meetup--The-problem-of-Key-Distribution-and-Management--4c97.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -709,11 +706,11 @@
   },
   {
    "id": "90c6cfd6-49eb-48be-8898-46208b2682f0",
-   "title": "2.1 Public Key Encryption LA)",
+   "title": "2.1 Public Key Encryption (LA)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-1-Public-Key-Encryption-LA--90c6.md",
+   "content-file": ".guides/content/2-1-Public-Key-Encryption--LA--90c6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

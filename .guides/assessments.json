@@ -390,7 +390,7 @@
   "taskId": "free-text-1360860550",
   "source": {
    "name": "GH 1.2",
-   "showName": true,
+   "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "For the English alphabet, there are 26 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic? The Armenian alphabet?",
