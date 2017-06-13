@@ -4,13 +4,13 @@ A shift cipher is a generalization of Caesar Cipher in which the key can be any 
 
 Example with `k=11`
 
-```
+```bash
 meet me after the toga party
 XPPE XP LQEPC ESP EZRL ALCEJ
 ```
 
 ## Cryptanalysis of Shift Cipher
-What would it take to break the shift cipher? That is, if you know that a ciphertext is obtained using a shift cipher, how would you get the original plaintext? in the *brute force approach* you try out all possible keys to determine the key space and the number of keys used. 
+What would it take to break the shift cipher? That is, if you know that a ciphertext is obtained using a shift cipher, how would you get the original plaintext? in the brute force approach you try out all possible keys to determine the key space and the number of keys used. 
 
 |||info
 # Note

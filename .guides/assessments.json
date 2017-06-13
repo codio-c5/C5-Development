@@ -401,7 +401,7 @@
   "type": "free-text",
   "taskId": "free-text-3413873105",
   "source": {
-   "name": "GH 1.2",
+   "name": "GH 1.21",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
@@ -418,6 +418,18 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "List three common trigrams.",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-879680027",
+  "source": {
+   "name": "GH 1.22",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "Name three common trigrams.\n **Hint:** Think about common word endings, as well as common three-letter words.",
    "points": 1
   }
  }

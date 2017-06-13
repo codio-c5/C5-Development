@@ -1,3 +1,4 @@
+
 creative commons stuff
 Melissa's NSF paragraph
 dramatis personae
@@ -11,3 +12,5 @@ dramatis personae
    Rick Pepper
   Lori Oviatt
   Devon Musgrave
+  
+  ![.guides/img/CC atribution logo](.guides/img/CC atribution logo.png)

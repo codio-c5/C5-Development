@@ -249,6 +249,23 @@
    "teacherOnly": false
   },
   {
+   "id": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
+   "title": "1.6A: Across the Disciplines: Language",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-6A--Across-the-Disciplines--Language-0a33.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "80efc43f-a6a8-9c09-e1c1-adadb2e61383",
    "title": "1.7 Analyzing a Shift Cipher ",
    "files": [
@@ -261,23 +278,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-7-Analyzing-a-Shift-Cipher--80ef.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
-   "title": "1.7A Across the Disciplines: Languages",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-7A-Across-the-Disciplines--Languages-0a33.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -519,25 +519,8 @@
    "teacherOnly": false
   },
   {
-   "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
-   "title": "1.18 Hackathon: Modern Symmetric Ciphers (Paul***) ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-18-Hackathon--Modern-Symmetric-Ciphers--Paul------5590.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "23c78ec1-2e5e-d3cf-ffce-7f8643b0b3f3",
-   "title": "1.19 NIST and Selection of Ciphers for Federal Processing",
+   "title": "1.18 NIST and the Selection of Ciphers for Federal Processing",
    "files": [
     {
      "path": "#tabs",
@@ -547,19 +530,36 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-19-NIST-and-Selection-of-Ciphers-for-Federal-Processing-23c7.md",
+   "content-file": ".guides/content/1-18-NIST-and-the-Selection-of-Ciphers-for-Federal-Processing-23c7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
+   "title": "1.19 Hackathon: Modern Symmetric Ciphers ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-19-Hackathon--Modern-Symmetric-Ciphers--5590.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "58a4515f-4c99-3fea-a9f4-291e6ac85cd1",
-   "title": "1.20 Modern Symmetric Ciphers: DES (Paul) ",
+   "title": "1.20 Modern Symmetric Ciphers: DES  ",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-20-Modern-Symmetric-Ciphers--DES--Paul---58a4.md",
+   "content-file": ".guides/content/1-20-Modern-Symmetric-Ciphers--DES---58a4.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -577,24 +577,13 @@
    "teacherOnly": false
   },
   {
-   "id": "ebc7386d-4d77-575a-d743-b2f619ea2a6d",
-   "title": "1.21 Modern Encryption Ciphers: AES (Paul) ",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-21-Modern-Encryption-Ciphers--AES--Paul---ebc7.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "7a556bd4-b7ec-f8cf-ad6b-2a2cbc6d6ffa",
-   "title": "1.21A  More on AES Encryption (Paul) ",
+   "title": "1.21 AES Encryption",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-21A--More-on-AES-Encryption--Paul---7a55.md",
+   "content-file": ".guides/content/1-21-AES-Encryption-7a55.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -688,29 +677,12 @@
    "teacherOnly": false
   },
   {
-   "id": "efeeabb1-11a8-ead3-7ec7-0bd97632d1c9",
-   "title": "2.1 Asymmetric Encryption",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/2-1-Asymmetric-Encryption-efee.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "90c6cfd6-49eb-48be-8898-46208b2682f0",
-   "title": "2.1 Public Key Encryption (LA)",
+   "title": "2.1 Public Key Cryptography (LA)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-1-Public-Key-Encryption--LA--90c6.md",
+   "content-file": ".guides/content/2-1-Public-Key-Cryptography--LA--90c6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

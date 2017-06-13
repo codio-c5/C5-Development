@@ -1,5 +1,5 @@
 ## Module Contents
-Add paragraph here about app crypto to set the stage. Perhaps a Dr. P.  or Beth talking head vid?
+Add paragraph here about applied crypto to set the stage. Perhaps a Dr. P.  or Beth talking head vid?
 
 
 - Symmetric Key 
@@ -7,4 +7,3 @@ Add paragraph here about app crypto to set the stage. Perhaps a Dr. P.  or Beth 
 - Hash 
 - Digital Signature
 
-add graphic

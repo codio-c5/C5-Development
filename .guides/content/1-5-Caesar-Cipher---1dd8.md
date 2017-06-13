@@ -13,6 +13,6 @@ Notice how the last N letters (3 in the above example) are dealt with by startin
 If you know a ciphertext is obtained using Caesar Cipher, getting the original plaintext is simple. You can just try different keys until you find the one that works. 
 
 ||| definition 
- Solving a cipher is called  *cryptanalysis*.
- Solving by trying different combinations is call a *brute force attack*.
+ Solving a cipher is called  **cryptanalysis.**
+ Solving by trying different combinations is call a **brute force attack.**
 |||
