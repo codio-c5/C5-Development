@@ -3,7 +3,7 @@ The Caesar cipher is an ancient *(Hail Caesar!)* and simple form of encryption k
 ### Example of a Caesar Cipher
 In the following example, the *key* is 3. Each letter is shifted 3 letters to the right in the alphabet.
 
-```
+```bash
 meet me after the toga party
 PHHW PH DIWHU WKH WRJD SDUWB
 ```

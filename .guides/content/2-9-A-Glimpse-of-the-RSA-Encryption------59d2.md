@@ -1,5 +1,4 @@
 
-2.9 (S13) A Glimpse of the RSA Encryption (  )
 
 Taught as a Hackathon? Leave it out?
 

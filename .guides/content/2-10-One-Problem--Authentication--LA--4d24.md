@@ -1,6 +1,4 @@
 
-2.10 (S14) One Problem: Authentication (Lori/Anne)
-
 Taught as Growth Hack
 
  

@@ -1,6 +1,4 @@
 
-2.15 (S19) Use of Key Agreement Protocols (Paul)
-
 Taught as expository (perhaps building to growth hack)
 
 •Users could create random private/public keys each time they communicate
