@@ -1,10 +1,10 @@
 ## Module Contents
-Add paragraph here about app crypto to set the stage. Perhaps a Dr. P.  or Beth talking head vid?
+Add paragraph here about public key cryptography set the stage. Is there a video?
 
 
-- Symmetric Key 
-- Public Key 
-- Hash 
-- Digital Signature
+- asymmetric (public key)  
+- difference between symmetric and asymmetric
+- Key exchange/agreement protocols
+- Commonly used algorithms
 
 add graphic

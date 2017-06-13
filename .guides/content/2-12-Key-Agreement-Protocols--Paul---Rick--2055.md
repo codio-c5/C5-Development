@@ -1,6 +1,4 @@
 
-2.12 (S16) Key Agreement Protocols (Paul ->Rick)
-
 Taught as 
 
 •Alice and Bob both have public and private keys.

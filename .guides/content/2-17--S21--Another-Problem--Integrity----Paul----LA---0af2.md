@@ -1,6 +1,4 @@
 
-2.17 (S21) Another Problem: Integrity  ( Paul -> LA )
-
 Taught as Growth Hack
 
 •How does Bob know that the message was not altered on the way (in transit)?

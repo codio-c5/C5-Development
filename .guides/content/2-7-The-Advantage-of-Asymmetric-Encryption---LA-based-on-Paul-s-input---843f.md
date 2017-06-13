@@ -1,5 +1,4 @@
 
-2.7 (S11.) The Advantage of Asymmetric Encryption ( LA based on Paul’s input )
 
 Taught as Growth Hack (what are the advantages of? ) 
 

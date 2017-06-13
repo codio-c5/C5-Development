@@ -1,6 +1,4 @@
 
-2.6 (S9 & S10) Asymmetric Encryption/Decryption (Paul to Rick)
-
 Taught as animation
 
 •If Alice wants to send Bob a confidential message, she gets Bob’s public key.

@@ -1,5 +1,4 @@
 
-2.11 (S15) Key Agreement (Exchange) Protocols (Paul to turn over to LA if feasible) 
 
 Could this be taught as a very simple meetup?
 
