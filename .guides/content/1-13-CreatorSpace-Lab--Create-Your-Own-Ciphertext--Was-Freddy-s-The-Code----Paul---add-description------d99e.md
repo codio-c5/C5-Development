@@ -1,4 +1,8 @@
-Feel free to experiment with the file contents. You can run the encryption and decryption using the buttons below.
+Feel free to experiment with the file contents. First, enter some text.
+
+{Enter plaintext}(.guides/caesar.sh)
+
+You can run the encryption and decryption using the buttons below.
 
 {Encrypt}(.guides/caesare.sh)
 {Decrypt}(.guides/caesard.sh)
