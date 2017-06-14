@@ -14,7 +14,7 @@ What would it take to break the shift cipher? That is, if you know that a cipher
 
 |||info
 # Note
-A cipher can have multiple keys!
+A cipher can have multiple keys, making it much more difficult to decrypt.
 |||
   |||info
 # Note

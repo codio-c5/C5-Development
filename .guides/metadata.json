@@ -91,7 +91,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "6203480d-fd6e-4b9f-a753-eb93fa036aa2"
+      "key": "81c67c8f-406e-4d3e-9b1f-86585530be0d"
      },
      {
       "action": "open",
@@ -99,7 +99,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "83209d8b-e830-4c11-a5d0-c46988862b44"
+      "key": "0bff87a3-49dc-4c55-a3c4-bf2a3f13559d"
      },
      {
       "action": "open",
@@ -107,7 +107,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "3e07f119-d4e4-4e41-8ab8-05ddd03d79db"
+      "key": "f9ea8c15-c112-492b-ad08-2c0c35bcde3b"
      },
      {
       "action": "open",
@@ -115,7 +115,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "f0dcd711-e757-48f7-90c7-8cc0c106939a"
+      "key": "aa43a838-72ff-4cf7-8929-8a3947654232"
      }
     ]
    }
