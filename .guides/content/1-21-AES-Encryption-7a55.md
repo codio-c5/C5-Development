@@ -1,3 +1,5 @@
+Two Belgian cryptologists - Vincent Rijmen and John Daemen -  created The Rijndael cipher in the late 1990s. (The is constructed from their concatenated names and pronounced Rain-Dahl). They submitted a subset of the algorithm to the National Institute of Standards and Technology, which was conducting a search for a new encryption standard. NIST selected Rijndael as the new Advanced Encryption Standard or **AES** in 2001.  It is now used extensively worldwide, and is gradually replacing DES and 3DES.
+
 Below is a schematic of the AES encryption algorithm. You can see from this that it is rather more rigorous in its approach than the shift and substitution algorithms we have seen so far. AES uses substitution combined with permutation that is referred to as a substitution-permutation network in cryptography. Each block of data is combined 
 
 ![](.guides/img/aes.jpg)

@@ -1,5 +1,5 @@
 
-2.4 (S7). Public Key Cryptography ( Paul )
+In 1976, Whitfield Diffe and Martin Hellman created public key cryptography. Public key cryptography represents a major innovation because it fundamentally alters the process of encryption and decryption. 
 
 Taught expository text, or voice and stills
 

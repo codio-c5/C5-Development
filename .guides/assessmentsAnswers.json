@@ -50,9 +50,28 @@
   "results": []
  },
  {
+<<<<<<< HEAD
   "taskId": "free-text-1360860550",
   "points": 0,
   "state": {},
   "results": []
+=======
+  "taskId": "multiple-choice-265258656",
+  "points": 1,
+  "state": {
+   "active": "7fbb6e4a-903e-af32-765f-cdb596f44a2e"
+  },
+  "results": [
+   {
+    "current": [
+     "7fbb6e4a-903e-af32-765f-cdb596f44a2e"
+    ],
+    "right": [
+     "7fbb6e4a-903e-af32-765f-cdb596f44a2e"
+    ],
+    "timestamp": 1497326820804
+   }
+  ]
+>>>>>>> 9add22e212f0ceeb3524315f0c1c6ec1ce64eee2
  }
 ]

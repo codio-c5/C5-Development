@@ -1,6 +1,4 @@
 
-2.18 Unit Summary
-
 Bulleted statements that review the unit objectives
 
 2.1: Explain how asymmetric (public key) encryption works.

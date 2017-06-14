@@ -13,6 +13,4 @@ Alice is the sender who wants to send an encrypted message to Bob.
 The advantage of symmetric key encryption is that it is more efficient than asymmetric key encryption[^1] (which you'll learn about in Unit 2). Symmetric key encryption produces significantly less cyphertext for a given plaintext. However, the challenge with symmetric key is that getting the key to the right people and keeping it away from attackers is more difficult than for asymmetric key encryption
 
 
-[^1]: Applied Cryptography, Schneier, 1996 pg. 216
-=======
-[^1]: Applied Cryptoghraphy, Schneier, 1996 p216
+[^1]: Applied Cryptography, Schneier, 1996 pg.216.

@@ -5,7 +5,7 @@
 
 **1. Ciphertext only attacks:** What do you do to break the cipher if all you have is the ciphertext?
 
-**2. Known plaintext attacks:** What do you do to break the cipher if you know that HELLO encrypts to MYZZK? How do you find the key?
+**2. Known plaintext attacks:** What do you do to break the cipher if you know that HELLO encrypts to `MYZZK`? How do you find the key?
 
 **3. Chosen plaintext attacks:** What do you do to break the cipher if you can choose a plaintext and get its ciphertext but no key? 
 

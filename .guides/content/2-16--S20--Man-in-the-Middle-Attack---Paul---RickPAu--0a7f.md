@@ -1,6 +1,4 @@
 
-2.16 (S20) Man in the Middle Attack ( Paul-> RickPAu)
-
 Taught as animation
 
 with voice over

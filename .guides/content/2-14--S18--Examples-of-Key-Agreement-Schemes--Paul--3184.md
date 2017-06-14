@@ -1,6 +1,4 @@
 
-2.14 (S18) Examples of Key Agreement Schemes (Paul)
-
 Taught as expository
 
 •Diffie-Hellman Key Agreement (DH)
