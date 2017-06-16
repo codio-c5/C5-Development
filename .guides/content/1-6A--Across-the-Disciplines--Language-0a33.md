@@ -6,12 +6,16 @@ Cryptography could have changed the fate for one of the most monumental defeats 
 
 ![.guides/img/Tannenberg_001](.guides/img/Tannenberg_001.jpg)
 
- *Captured Russian soldiers at Tilsit station, 27 September, 1914. From Berliner Illustrirte Zeitung by R. Minzloff*
+ *Captured Russian soldiers at Tilsit station, 27 September, 1914. From Berliner Illustrirte Zeitung by R. Minzloff. Sourced from Wikimedia Commons.*
 
 
- |||Instructor note: the video:  https://www.youtube.com/watch?v=y7qbZaf_olY  desribes the battle succinctly. For classroom use, start it at 3:16 and stop at 3:59.|||
+|||guidance
+**Instructor's note:** the video:  https://www.youtube.com/watch?v=y7qbZaf_olY  desribes the battle succinctly. For classroom use, start it at 3:16 and stop at 3:59.
+|||
 
-|||Instructor note: Some good images and reference(and a typo) to the unencoded messages. Here : http://thebattleoftannenburgww1.weebly.com/the-battle-and-battle-tactics.html|||
+|||guidance
+**Instructor's note:** Some good images and reference (and a typo) to the unencoded messages. Here : http://thebattleoftannenburgww1.weebly.com/the-battle-and-battle-tactics.html
+|||
 
 
 
@@ -22,6 +26,6 @@ In Word Wars I and II, the US military used Native American languages like Navaj
 ![.guides/img/Codetalkers](.guides/img/Codetalkers.jpg)
 
 
- *Code talkers at work, Australia, July 1943. From USMC Archives Quantico, VA*
+ *Code talkers at work, Australia, July 1943. From USMC Archives Quantico, VA. Sourced from Wikimedia Commons.*
 
 [Learn more about Code Talkers](http://www.nmai.si.edu/education/codetalkers/html/chapter4.html)  

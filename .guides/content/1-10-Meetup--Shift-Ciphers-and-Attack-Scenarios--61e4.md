@@ -1,6 +1,6 @@
-## Cryptanalysts: How would you crack it?
+## Calling All Cryptanalysts: How would you crack it?
 
-*Divide into four groups. Each group is assigned one of the scenarios below. As a group discuss what approach you would take to solve your scenario.*
+*What approach you would take to solve each scenario?*
 
 
 **1. Ciphertext only attacks:** What do you do to break the cipher if all you have is the ciphertext: `GJFZYNKZQ IFD?`
@@ -11,4 +11,6 @@
 
 **4. Chosen ciphertext attacks:** What do you do to break the cipher if you can choose  a ciphertext and get its plaintext but no key? 
 
-|||**Instructor's Notes:**|||
+|||guidance
+**Instructor's Note:**  This works great as a Meetup.  Divide your class into groups and have each group take on one of the four scenarios. Have the groups report back to the class at large with their findings.
+|||

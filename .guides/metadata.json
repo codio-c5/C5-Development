@@ -2,33 +2,33 @@
  "sections": [
   {
    "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
-   "title": "C5 Course Page",
+   "title": " ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/C5-Course-Page-71e6.md",
+   "content-file": ".guides/content/--71e6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb",
-   "title": "Copyright, License, and Credits Page",
+   "title": "Credits",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Copyright--License--and-Credits-Page-eaab.md",
+   "content-file": ".guides/content/Credits-eaab.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "5d9fd56e-0c98-26b6-b3d1-f55780f7c1d5",
-   "title": "Module 1: Applied Cryptography",
+   "title": " Applied Cryptography",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Module-1--Applied-Cryptography-5d9f.md",
+   "content-file": ".guides/content/-Applied-Cryptography-5d9f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -46,7 +46,7 @@
   },
   {
    "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
-   "title": "1.2 Cryptography ",
+   "title": "1.2 Introduction to Cryptography ",
    "files": [
     {
      "path": "#tabs",
@@ -58,14 +58,14 @@
     "IG.PNG"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/1-2-Cryptography--e918.md",
+   "content-file": ".guides/content/1-2-Introduction-to-Cryptography--e918.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "cc716ec0-709d-3645-6fb6-3cf57f39e20b",
-   "title": "1.3  The Main Tenets of Cyber Security  ",
+   "title": "1.3  The Main Tenets of Cybersecurity  ",
    "files": [
     {
      "path": "#tabs",
@@ -75,7 +75,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-3--The-Main-Tenets-of-Cyber-Security---cc71.md",
+   "content-file": ".guides/content/1-3--The-Main-Tenets-of-Cybersecurity---cc71.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -91,7 +91,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "81c67c8f-406e-4d3e-9b1f-86585530be0d"
+      "key": "ed6f6184-a294-4943-a73d-635e1e6ab2ce"
      },
      {
       "action": "open",
@@ -99,7 +99,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "0bff87a3-49dc-4c55-a3c4-bf2a3f13559d"
+      "key": "32acad93-157a-4df9-a530-78efaa14b03f"
      },
      {
       "action": "open",
@@ -107,7 +107,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "f9ea8c15-c112-492b-ad08-2c0c35bcde3b"
+      "key": "edc32955-5a95-42f6-90d0-22b6d5890802"
      },
      {
       "action": "open",
@@ -115,7 +115,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "aa43a838-72ff-4cf7-8929-8a3947654232"
+      "key": "1b032a73-3bc4-4928-8d49-de59ff3291f1"
      }
     ]
    }
@@ -145,52 +145,8 @@
    "teacherOnly": false
   },
   {
-   "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
-   "title": "1.5A Caesar Cipher as a Block Flowchart   ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "flode/caesar-block.flode",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-5A-Caesar-Cipher-as-a-Block-Flowchart----5963.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "7841f5b5-8fff-a056-5101-c4024e415ad9",
-   "title": "1.5B CreatorSpace Lab: Working with Block Flowcharts (Paul)  ********update****",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "flode/caesar-code.flode",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-5B-CreatorSpace-Lab--Working-with-Block-Flowcharts--Paul-----------update-----7841.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "1.5C CreatorSpace Lab: Encrypting the Caesar Cipher  ",
+   "title": "1.5A CreatorSpace Lab: Encrypting the Caesar Cipher  ",
    "files": [
     {
      "path": "#tabs",
@@ -210,14 +166,14 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5C-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
+   "content-file": ".guides/content/1-5A-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
-   "title": "1.5D CreatorSpace Lab: Decrypting the Caesar Cipher  ",
+   "title": "1.5 B CreatorSpace Lab: Decrypting the Caesar Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -232,7 +188,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5D-CreatorSpace-Lab--Decrypting-the-Caesar-Cipher---3dad.md",
+   "content-file": ".guides/content/1-5-B-CreatorSpace-Lab--Decrypting-the-Caesar-Cipher-3dad.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -240,7 +196,13 @@
   {
    "id": "59d68695-cf0a-9e9a-746c-70fcbf03db94",
    "title": "1.6 Shift Ciphers",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-6-Shift-Ciphers-59d6.md",
@@ -312,8 +274,19 @@
    "teacherOnly": false
   },
   {
+   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
+   "title": "1.9A: A Day in the Life of Raven Alder",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-9A--A-Day-in-the-Life-of-Raven-Alder-3363.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
-   "title": "1.9A Cryptanalysis of a Cipher (Paul) ",
+   "title": "1.9B Cryptanalysis of a Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -323,7 +296,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-9A-Cryptanalysis-of-a-Cipher--Paul---c3a1.md",
+   "content-file": ".guides/content/1-9B-Cryptanalysis-of-a-Cipher-c3a1.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -341,6 +314,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-10-Meetup--Shift-Ciphers-and-Attack-Scenarios--61e4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
+   "title": " 1.11A *New* Substitution Cipher",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-1-11A--New--Substitution-Cipher-9277.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -486,17 +470,6 @@
    "teacherOnly": false
   },
   {
-   "id": "6b5c9414-44de-3881-b710-0155780a9f23",
-   "title": "1.17A Hackathon: Breaking the Substitution Cipher ",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-17A-Hackathon--Breaking-the-Substitution-Cipher--6b5c.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
    "title": "1.17 B Across the Disciplines: Literature (LA)",
    "files": [
@@ -514,6 +487,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-17-B-Across-the-Disciplines--Literature--LA--d7ac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6b5c9414-44de-3881-b710-0155780a9f23",
+   "title": "1.17A Hackathon: Breaking the Substitution Cipher ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-17A-Hackathon--Breaking-the-Substitution-Cipher--6b5c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -537,7 +521,7 @@
   },
   {
    "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
-   "title": "1.19 Hackathon: Modern Symmetric Ciphers ",
+   "title": "1.19 Meetup: Modern Symmetric Ciphers ",
    "files": [
     {
      "path": "#tabs",
@@ -547,7 +531,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-19-Hackathon--Modern-Symmetric-Ciphers--5590.md",
+   "content-file": ".guides/content/1-19-Meetup--Modern-Symmetric-Ciphers--5590.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -613,30 +597,6 @@
    "teacherOnly": false
   },
   {
-   "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-   "title": "1.21C Hackathon: RSA ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: cd rsa",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels-tree",
-   "path": [
-    "rsa"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/1-21C-Hackathon--RSA--0aea.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "4c976928-c138-4765-3191-a236fe4c6414",
    "title": "1.22 Meetup: The problem of Key Distribution and Management ",
    "files": [],
@@ -672,6 +632,50 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-23A-Symmetric-Key-Cryptography-Summary-8fbd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
+   "title": "Hackathon 1: Caesar Cipher as a Block Flowchart   ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "flode/caesar-block.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hackathon-1--Caesar-Cipher-as-a-Block-Flowchart----5963.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7841f5b5-8fff-a056-5101-c4024e415ad9",
+   "title": "(Was 1.5B Should we delete?) CreatorSpace Lab: Working with Block Flowcharts (Paul)  ********update****",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "flode/caesar-code.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-Was-1-5B-Should-we-delete---CreatorSpace-Lab--Working-with-Block-Flowcharts--Paul-----------update-----7841.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -776,6 +780,30 @@
    "teacherOnly": false
   },
   {
+   "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
+   "title": "CreatorSpace Lab: RSA ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: cd rsa",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "rsa"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab--RSA--0aea.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
    "title": "2.10 One Problem: Authentication (LA)",
    "files": [],
@@ -870,6 +898,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-18-Unit-Summary-8465.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2706553b-4623-eba7-48a6-a45095e5602a",
+   "title": "Final Credits Page",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Final-Credits-Page-2706.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
