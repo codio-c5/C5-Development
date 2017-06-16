@@ -11,9 +11,7 @@
   "taskId": "fill-in-the-blanks-836680581",
   "points": 0,
   "state": {
-   "active": [
-    "Cryptography"
-   ]
+   "active": []
   },
   "results": []
  },
@@ -66,5 +64,13 @@
     "timestamp": 1497326820804
    }
   ]
+ },
+ {
+  "taskId": "fill-in-the-blanks-1681383484",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
  }
 ]

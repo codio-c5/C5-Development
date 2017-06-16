@@ -1,6 +1,6 @@
 ## Comparing and Contrasting Block Ciphers
 
-Divide into five teams. Each team is assigned one of the following symmetric ciphers know as block ciphers that are in use today.  For example, the secure network protocol TLS/SSL (Transport layer Security/Secure Socket Layer) lists the following block ciphers in its suite of ciphers:
+Divide into teams. Each team is assigned one of the following symmetric ciphers know as block ciphers that are in use today.  For example, the secure network protocol TLS/SSL (Transport layer Security/Secure Socket Layer) lists the following block ciphers in its suite of ciphers:
 
 1. RC4
 1. DES
@@ -8,8 +8,6 @@ Divide into five teams. Each team is assigned one of the following symmetric cip
 1. IDEA
 1. Camellia
 
- https://en.wikipedia.org/wiki/Cipher_suite
- 
 Research your assigned cipher on the internet to answer the following questions.  Share your results with the class.
 - How does your assigned cipher work?
 - What is (was) it used for?

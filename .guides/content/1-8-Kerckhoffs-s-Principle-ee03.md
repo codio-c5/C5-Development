@@ -1,10 +1,10 @@
 ![.guides/img/Auguste_Kerckhoffs](.guides/img/Auguste_Kerckhoffs.jpg)
 
+*Auguste Kerckhoffs. Photo by Eugen Drezen Historio de la Mondo Lingvo (Leipzig, 1931), 102. Sourced from Wikimedia Commons*
 
 **Auguste Kerckhoffs** (1835-1903) - Dutch linguist and cryptographer said:
 
- ***A cryptosystem should be secure even if everything 
-about the system, except the key, is public knowledge.***
+ ***A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.***
 
 Modern encryption algorithms, such as the DES and AES, depend on this principle. These algorithms rely on the strength of the keys that they use. 
 The stronger the keys, the harder it is to decode the ciphertext. The algorithms are public and are considered strong only if they survive attempts by cryptanalysts to break them. It's like designing a safe and providing an open invitation to break into it. If it survives, then it is considered a safe safe.

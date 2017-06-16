@@ -9,10 +9,15 @@
 **Christopher Morcom:** Alan, I have a funny feeling you're going to be very good at this.
 
 *Source:* The Imitation Game. *Directed by Morten Tyldum. The Weinstein Company, 2014. Film.*
-
 [Learn more about code breaking and the movie The Imitation Game](http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.htm)
 
-![.guides/img/Turing](.guides/img/Turing.PNG)
+![.guides/img/Turingat16](.guides/img/Turingat16.jpg)
+ *Alan Turing Aged 16. Sourced from Wikimedia Commons.*
+
+
+
+
+
 
 During World War II, Alan Turing and his team in British intelligence were able to crack the German Enigma code.  Historians estimate that this shortened the war by two to three years and saved tens of millions of lives. 
 
@@ -31,7 +36,6 @@ Then process is straightforward. It converts plaintext into ciphertext and vice 
 Here's a good cryptography overview video you might share with the class. 
 
 <iframe width="550" height="300" src="https://www.youtube.com/embed/-yFZGF8FHSg" frameborder="0" allowfullscreen></iframe>
-|||
 
 
 

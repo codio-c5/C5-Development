@@ -37,37 +37,25 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-836680581",
   "source": {
-   "name": "CYK 1.1",
+   "name": "CYK 1.1A",
    "showName": false,
    "instructions": "Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.",
    "points": "1",
    "showValues": true,
-   "text": "<<<Cryptography>>> is the science of encoding or <<<encrypting>>> readable messages, also called <<<plaintext>>>, using a(n) <<<encryption key>>> to create unreadable messages called <<<ciphertext>>>. To read encrypted messages, you need a(n) <<<decryption key>>>.  In symmetric key cryptography, the same key is used to encrypt and to decode, or <<<decrypt>>>, the message. ",
+   "text": "<<<cryptography>>> is the science of encoding or <<<encrypting>>> readable messages. Readable messages are knows as <<<plaintext>>>.",
    "tokens": {
     "blank": [
-     "Cryptography",
+     "cryptography",
      "encrypting",
-     "plaintext",
-     "encryption key",
-     "ciphertext",
-     "decryption key",
-     "decrypt"
+     "plaintext"
     ],
     "text": [
      0,
      " is the science of encoding or ",
      0,
-     " readable messages, also called ",
+     " readable messages. Readable messages are knows as ",
      0,
-     ", using a(n) ",
-     0,
-     " to create unreadable messages called ",
-     0,
-     ". To read encrypted messages, you need a(n) ",
-     0,
-     ".  In symmetric key cryptography, the same key is used to encrypt and to decode, or ",
-     0,
-     ", the message. "
+     "."
     ]
    }
   }
@@ -389,7 +377,7 @@
   "type": "free-text",
   "taskId": "free-text-1360860550",
   "source": {
-   "name": "GH 1.2",
+   "name": "GH 1.2B",
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
@@ -430,6 +418,49 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "Name three common trigrams.\n **Hint:** Think about common word endings, as well as common three-letter words.",
+   "points": 1
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1681383484",
+  "source": {
+   "name": "CYK 1.1B",
+   "showName": false,
+   "instructions": "Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.",
+   "points": "1",
+   "showValues": true,
+   "text": "You use a(n) <<<encryption key>>> to create unreadable messages called <<<ciphertext>>>. To read encrypted messages, you need a(n) <<<decryption key>>>.  In symmetric key cryptography, the same key is used to encrypt and to decode, or <<<decrypt>>>, the message. ",
+   "tokens": {
+    "blank": [
+     "encryption key",
+     "ciphertext",
+     "decryption key",
+     "decrypt"
+    ],
+    "text": [
+     "You use a(n) ",
+     0,
+     " to create unreadable messages called ",
+     0,
+     ". To read encrypted messages, you need a(n) ",
+     0,
+     ".  In symmetric key cryptography, the same key is used to encrypt and to decode, or ",
+     0,
+     ", the message. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3680102054",
+  "source": {
+   "name": "GH 1.2A",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "In a shift cipher, what happens if k=0?",
    "points": 1
   }
  }

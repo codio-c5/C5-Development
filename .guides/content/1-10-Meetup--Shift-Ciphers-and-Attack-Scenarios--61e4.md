@@ -1,6 +1,6 @@
 ## Cryptanalysts: How would you crack it?
 
-*Divide into four groups. Each group is assigned one of the scenarios below. As a group discuss what approach you would take to solve your scenario.*
+*Divide into groups. Each group is assigned one of the scenarios below. As a group discuss what approach you would take to solve your scenario.*
 
 
 **1. Ciphertext only attacks:** What do you do to break the cipher if all you have is the ciphertext: `GJFZYNKZQ IFD?`
