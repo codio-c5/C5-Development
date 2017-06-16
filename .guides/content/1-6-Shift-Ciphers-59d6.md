@@ -21,10 +21,14 @@ We assume here that the cryptanalyst knows the language that the original plaint
 
 ## Growth Hack 
 {Submit Answer!|assessment}(free-text-3680102054)
-|||**Instructor's Note:** If K=0, then the ciphertext is the same as the plaintext.|||
+|||guidance
+**Instructor's Note:** If K=0, then the ciphertext is the same as the plaintext.
+|||
 
 For an English alphabet, there are 26 keys. Why?
 {Submit Answer!|assessment}(free-text-1360860550)
 
-||| **Instructor's Note:** There are 33 letters in the Russian Cyrillic alphabet, and 36 in the Armenian alphabet, so the respective answers are 33 and 36.
+|||guidance
+**Instructor's Note:** There are 33 letters in the Russian Cyrillic alphabet, and 36 in the Armenian alphabet, so the respective answers are 33 and 36.
+|||
 

@@ -91,7 +91,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "c6a4a9d7-1a8e-404e-a99d-269fcbf8971b"
+      "key": "ed6f6184-a294-4943-a73d-635e1e6ab2ce"
      },
      {
       "action": "open",
@@ -99,7 +99,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "9c2d12f6-9bcf-4d0e-88a7-6da8e4011b49"
+      "key": "32acad93-157a-4df9-a530-78efaa14b03f"
      },
      {
       "action": "open",
@@ -107,7 +107,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "283e20c6-5bb1-4e7e-86ae-bd5a1fa7f610"
+      "key": "edc32955-5a95-42f6-90d0-22b6d5890802"
      },
      {
       "action": "open",
@@ -115,7 +115,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "bcee038a-ea12-45c7-b922-9ef972fd2687"
+      "key": "1b032a73-3bc4-4928-8d49-de59ff3291f1"
      }
     ]
    }
@@ -314,6 +314,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-10-Meetup--Shift-Ciphers-and-Attack-Scenarios--61e4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
+   "title": " 1.11A *New* Substitution Cipher",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-1-11A--New--Substitution-Cipher-9277.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -586,30 +597,6 @@
    "teacherOnly": false
   },
   {
-   "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-   "title": "1.21C Hackathon: RSA ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: cd rsa",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels-tree",
-   "path": [
-    "rsa"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/1-21C-Hackathon--RSA--0aea.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "4c976928-c138-4765-3191-a236fe4c6414",
    "title": "1.22 Meetup: The problem of Key Distribution and Management ",
    "files": [],
@@ -788,6 +775,30 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-9-A-Glimpse-of-the-RSA-Encryption------59d2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
+   "title": "CreatorSpace Lab: RSA ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: cd rsa",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "rsa"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab--RSA--0aea.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

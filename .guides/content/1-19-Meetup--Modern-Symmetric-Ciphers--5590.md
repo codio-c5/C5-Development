@@ -1,6 +1,6 @@
 ## Comparing and Contrasting Block Ciphers
 
-Divide into teams. Each team is assigned one of the following symmetric ciphers know as block ciphers that are in use today.  For example, the secure network protocol TLS/SSL (Transport layer Security/Secure Socket Layer) lists the following block ciphers in its suite of ciphers:
+There are several modern block ciphers that have different strengths and weaknesses.  Some of the most well known include: 
 
 1. RC4
 1. DES
@@ -8,9 +8,14 @@ Divide into teams. Each team is assigned one of the following symmetric ciphers 
 1. IDEA
 1. Camellia
 
-Research your assigned cipher on the internet to answer the following questions.  Share your results with the class.
+Research each cipher on the Internet to answer the following questions.
 - How does your assigned cipher work?
 - What is (was) it used for?
 - What are its strengths?
 - Does it have any security vulnerabilities?
 - Does it have any down sides that make it less usable?
+
+
+|||guidance
+**Instructor's Note:** As a Meetup, divide your class into groups and have each group take on one of the ciphers. Have the groups report back to the class at large with their findings.
+|||
