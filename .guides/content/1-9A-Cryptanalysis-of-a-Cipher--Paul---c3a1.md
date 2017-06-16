@@ -5,6 +5,7 @@ Cryptanalysts first need to know what information they have to create a decoding
 Following Kerckhoffs’s Principle, let's assume that the details of the algorithm used for encryption is known. 
 
 ## Add info here
+If the algorithm is a simple one, like Caesar cipher, then you have a clear path to decryption. You can simply start shifting the first word of ciphertext until 
 
 
 Describe the process if the hacker has
