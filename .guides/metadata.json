@@ -348,7 +348,7 @@
   },
   {
    "id": "8c7d5a65-82e6-e6ab-d968-e04215302966",
-   "title": "1.11b Hackathon: Substitution Cipher (Paul***add explanation of ROTn***) ",
+   "title": "1.11A CreatorSpace Lab: ROTn",
    "files": [
     {
      "path": "#tabs",
@@ -363,18 +363,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-11b-Hackathon--Substitution-Cipher--Paul---add-explanation-of-ROTn------8c7d.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "b7b0b3b3-9ca2-2d25-c2db-f8a5bfeacb93",
-   "title": "1.12 CreatorSpace Lab: Encrypt/Decrypt the Cipher (Paul***see 1.11***) ",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-12-CreatorSpace-Lab--Encrypt-Decrypt-the-Cipher--Paul---see-1-11------b7b0.md",
+   "content-file": ".guides/content/1-11A-CreatorSpace-Lab--ROTn-8c7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -404,17 +393,6 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/1-13-CreatorSpace-Lab--Create-Your-Own-Ciphertext--Was-Freddy-s-The-Code----Paul---add-description------d99e.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "2551624a-6b97-2fcf-15e8-f346ab5f14ac",
-   "title": "1.14 Hackathon: A Special Substitution Cipher: ROT 13 (Paul) ",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-14-Hackathon--A-Special-Substitution-Cipher--ROT-13--Paul---2551.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -471,7 +449,7 @@
   },
   {
    "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
-   "title": "1.17 B Across the Disciplines: Literature (LA)",
+   "title": "1.17 A Across the Disciplines: Literature (LA)",
    "files": [
     {
      "path": "#tabs",
@@ -486,18 +464,18 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-17-B-Across-the-Disciplines--Literature--LA--d7ac.md",
+   "content-file": ".guides/content/1-17-A-Across-the-Disciplines--Literature--LA--d7ac.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "6b5c9414-44de-3881-b710-0155780a9f23",
-   "title": "1.17A Hackathon: Breaking the Substitution Cipher ",
+   "title": "1.17B CreatorSpace Lab: Frequency Analysis",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-17A-Hackathon--Breaking-the-Substitution-Cipher--6b5c.md",
+   "content-file": ".guides/content/1-17B-CreatorSpace-Lab--Frequency-Analysis-6b5c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -511,7 +489,7 @@
      "action": "close"
     }
    ],
-   "layout": "2-panels",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-18-NIST-and-the-Selection-of-Ciphers-for-Federal-Processing-23c7.md",
@@ -520,8 +498,19 @@
    "teacherOnly": false
   },
   {
+   "id": "c6710826-508f-2c18-9e53-798609eac823",
+   "title": "1.19 Block Ciphers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-19-Block-Ciphers-c671.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
-   "title": "1.19 Meetup: Modern Symmetric Ciphers ",
+   "title": "1.19A Meetup: Block Ciphers ",
    "files": [
     {
      "path": "#tabs",
@@ -531,19 +520,19 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-19-Meetup--Modern-Symmetric-Ciphers--5590.md",
+   "content-file": ".guides/content/1-19A-Meetup--Block-Ciphers--5590.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "58a4515f-4c99-3fea-a9f4-291e6ac85cd1",
-   "title": "1.20 Modern Symmetric Ciphers: DES  ",
+   "title": "1.20 DES Encryption",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-20-Modern-Symmetric-Ciphers--DES---58a4.md",
+   "content-file": ".guides/content/1-20-DES-Encryption-58a4.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -654,6 +643,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hackathon-1--Caesar-Cipher-as-a-Block-Flowchart----5963.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2551624a-6b97-2fcf-15e8-f346ab5f14ac",
+   "title": "1.14 Hackathon: A Special Substitution Cipher: ROT 13 (Paul) ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-14-Hackathon--A-Special-Substitution-Cipher--ROT-13--Paul---2551.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
