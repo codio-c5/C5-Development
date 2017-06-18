@@ -463,5 +463,39 @@
    "instructions": "In a shift cipher, what happens if k=0?",
    "points": 1
   }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1072561676",
+  "source": {
+   "name": "LCI 1.2",
+   "showName": false,
+   "instructions": "What key was used in this exercise?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "6d74bb5f-9a29-be60-0b2c-8cceabd7cadc",
+     "correct": false,
+     "answer": "2"
+    },
+    {
+     "_id": "8d29c7af-3ca2-c91e-f2f4-7273f72b3750",
+     "correct": false,
+     "answer": "3"
+    },
+    {
+     "_id": "f2af236e-5e64-5e2a-88cc-c74a2824fc0c",
+     "correct": false,
+     "answer": "5"
+    },
+    {
+     "_id": "e4478084-2084-212e-5ce2-38cccf54b1f1",
+     "correct": true,
+     "answer": "7"
+    }
+   ]
+  }
  }
 ]

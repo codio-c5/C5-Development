@@ -1,10 +1,6 @@
-In this cipher each letter in the plaintext alphabet is substituted by a different letter in the ciphertext alphabet. 
+Encrypt the message “Never say never” 
+if the key is 
 
-If the alphabet we are using for the plaintext and ciphertext are both letters in the English alphabet, then substitution cipher becomes substituting each letter with a different letter.  
-
-In this case the key is a reordering of the letters in the alphabet.
-
-For example the key
 
 `ZYXWVUTSRQPONMLKJIHGFEDCBA`
 
