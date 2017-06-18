@@ -1,22 +1,23 @@
-## National Science Foundation Development Team
+## NSF C5 Team
   
  
   
-  **Dr. Elizabeth Hawthorne,** Professor, Computer Science at Union County College. Add correct role here. Is it co-PI?
+ **Dr. Yesem Kurt-Peker,** Assistant Professor of Computer Science, Columbus State University, TSYS School of Computer Science. C5 Content Developer for Applied Cryptography.
+ 
+ **Dr. Elizabeth K. Hawthorne,** Senior Professor of Computer Science and Cybersecurity, Union County College, STEM Division. C5 Co-Principal Investigator.
   
-  **Dr. Melissa Dark,** Professor, Computer Science at Purdue University.Add correct role here. Is it co-PI?
+  **Dr. Melissa Dark,** W.C. Furnas Professor Computer and Information Technology, Purdue University, College of Technology. C5 Co-Principal Investigator.
   
-**Dr. Yesem Kurt Peker,** Assistant Professor of Mathematics at Randolph College. Add correct role here. Is it curriculum designer? Academic subject matter expert?
+ 
   
+  ## Codio Content Team
   
-  ## Content Development Team
+  **Paul Sery,** Sandia National Labs: Author.
   
-  **Paul Sery,** Sandia National Labs: Author
+  **Christopher Nebergall,** Sandia National Labs: Technical Editor. Christopher has a bachelor's and degree in Computer Science from Western Illinois University.  He has worked for the past 15 years in Cybersecurity at Sandia National Laboratories as a specialist in authentication tools and technologies, including work in cybersecurity analysis, PKI, and software development. 
   
-  **Christopher Nebergall,** Sandia National Labs: Technical Editor 
+  **Lori Oviatt:** Instructional Designer.
   
-  **Lori Oviatt:** Instructional Designer
+  **Richard Pepper:** Creative Design, illustration, and animation.
   
-  **Rick Pepper,** Aha!Visual: Creative Designer
-  
-  **Devon Musgrave:** Editor
+  **Devon Musgrave:** Editor.

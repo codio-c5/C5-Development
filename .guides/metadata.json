@@ -450,7 +450,7 @@
   },
   {
    "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
-   "title": "1.17 A Across the Disciplines: Literature (LA)",
+   "title": "1.17 A Across the Disciplines: Literature",
    "files": [
     {
      "path": "#tabs",
@@ -465,7 +465,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-17-A-Across-the-Disciplines--Literature--LA--d7ac.md",
+   "content-file": ".guides/content/1-17-A-Across-the-Disciplines--Literature-d7ac.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -650,33 +650,11 @@
   },
   {
    "id": "2551624a-6b97-2fcf-15e8-f346ab5f14ac",
-   "title": "1.14 Hackathon: A Special Substitution Cipher: ROT 13 (Paul) ",
+   "title": "Hackathon 2: A Special Substitution Cipher: ROT 13 (Paul) ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-14-Hackathon--A-Special-Substitution-Cipher--ROT-13--Paul---2551.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "7841f5b5-8fff-a056-5101-c4024e415ad9",
-   "title": "(Was 1.5B Should we delete?) CreatorSpace Lab: Working with Block Flowcharts (Paul)  ********update****",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "flode/caesar-code.flode",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/-Was-1-5B-Should-we-delete---CreatorSpace-Lab--Working-with-Block-Flowcharts--Paul-----------update-----7841.md",
+   "content-file": ".guides/content/Hackathon-2--A-Special-Substitution-Cipher--ROT-13--Paul---2551.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

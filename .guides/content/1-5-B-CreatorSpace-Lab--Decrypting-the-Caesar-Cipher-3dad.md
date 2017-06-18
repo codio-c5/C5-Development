@@ -13,4 +13,4 @@ You  can toggle back and forth between this page and the last page to encrypt an
 {Submit Answer!|assessment}(free-text-2561419183)
 
 ||| guidance
-**Instructor's Note:** Answers for the Growth Hack above include that the apostrophe is likely to indicate possessives that end in "s", or contractions that end in "t", giving more clues for the cryptanalysis.|||
+**Instructor's Note:** Answers for the Growth Hack above include that the apostrophe is likely to indicate possessives that end in "s", or contractions that end in "t", giving more clues for the cryptanalysis.

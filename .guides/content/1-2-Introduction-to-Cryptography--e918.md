@@ -9,7 +9,7 @@
 **Christopher Morcom:** Alan, I have a funny feeling you're going to be very good at this.
 
 *Source:* The Imitation Game. *Directed by Morten Tyldum. The Weinstein Company, 2014. Film.*
-[Learn more about code breaking and the movie The Imitation Game](http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.htm)
+[Learn more about code breaking and the movie *The Imitation Game*](http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.htm)
 
 ![.guides/img/Turingat16](.guides/img/Turingat16.jpg)
  *Alan Turing Aged 16. Sourced from Wikimedia Commons.*

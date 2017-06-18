@@ -6,12 +6,14 @@ Give these questions a try. Don't lose heart if you don't get them right. By the
 {Check It!|assessment}(fill-in-the-blanks-836680581)
 {Check It!|assessment}(fill-in-the-blanks-1681383484)
 
- ## In this unit, you will...
-- Define and use key cryptographic terms 
-- Explore ways to attack different encryption algorithms
-- Create your own ciphers using Caesar cipher and substitution cipher
-- Learn common symmetric encryption algorithms
-- Analyze methods of distributing keys safely
-- Practice symmetric key encryption techniques with software
+ |||guidance
+ ## Instructor's Note:
+ Unit objectives
+- Define  terms including encryption, decryption, plaintext, ciphertext, and encryption/decryption key and explain their use in cryptography 
+ - Describe attack scenarios against an encryption algorithm.
+- Use early cipher methods such as a Caesar cipher or substitution cipher to encrypt/decrypt data by hand. 
+- Identify commonly used algorithms for symmetric encryption
+- Explain the challenge of key distribution in symmetric key encryption
+- Illustrate how symmetric key encryption works using software 
 
 
