@@ -1,4 +1,4 @@
-Substitution ciphers use a susbstitution alphabet, as a key, to replace plaintext characters with different characters to create ciphertext. In its simplest form the key is the alphabet shifted by some number, in which case it operates like a Caesar cipher. More complex versions rearrange the alphabet in arbitrary ways to make for slightly better encryption. Individual characters can also be replaced by multiple groupings to improve encryption - but not by much. Ciphertext is decrypted by simply reversing the process.
+Substitution ciphers use a substitution alphabet, as a key, to replace plaintext characters with different characters to create ciphertext. In its simplest form the key is the alphabet shifted by some number, in which case it operates like a Caesar cipher. More complex versions rearrange the alphabet in arbitrary ways to make for slightly better encryption. Individual characters can also be replaced by multiple groupings to improve encryption - but not by much. Ciphertext is decrypted by simply reversing the process.
 
 Substituion ciphers come in the following primary forms: 
 
