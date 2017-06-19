@@ -5,10 +5,10 @@
 {Check It!|assessment}(fill-in-the-blanks-836680581)
 
 ###  In this lesson, you will...
-- learn how asymmetric (public key) encryption works
-- explain the difference between symmetric and asymmetric encryption and the need for public key cryptography
-- describe the use of key exchange/agreement protocols in cryptography
-- identify commonly used algorithms for asymmetric encryption
+- Explain how asymmetric (public key) encryption works
+- Compare and contrast symmetric and asymmetric encryption and the need for public key cryptography
+- Describe the use of key exchange/agreement protocols in cryptography
+- Identify commonly used algorithms for asymmetric encryption
 
 
 

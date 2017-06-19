@@ -1,5 +1,5 @@
 |||definition
-A **shift cipher** is a generalization of Caesar cipher in which the key can be any number you like. In a Caesar cipher, the key is specifically 11 letters to the right.
+A **shift cipher** is a generalization of Caesar cipher in which the key can be any number you like. In a Caesar cipher, the key is specifically 3 letters to the right.
 
 
 **Shift** each letter in the message `k` letters in the alphabet
@@ -22,7 +22,7 @@ We assume here that the cryptanalyst knows the language that the original plaint
 ## Growth Hack 
 {Submit Answer!|assessment}(free-text-3680102054)
 |||guidance
-**Instructor's Note:** If K=0, then the ciphertext is the same as the plaintext.
+**Instructor's Note:** If k=0, then the ciphertext is the same as the plaintext.
 |||
 
 For an English alphabet, there are 26 keys. Why?
