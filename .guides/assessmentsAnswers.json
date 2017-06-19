@@ -1,0 +1,16 @@
+[
+ {
+  "taskId": "free-text-3413873105",
+  "points": 0,
+  "state": {
+   "text": "sadfasdfas"
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "sadfasdfas",
+    "timestamp": 1497724458939
+   }
+  ]
+ }
+]

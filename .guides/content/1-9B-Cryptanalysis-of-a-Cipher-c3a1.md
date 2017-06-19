@@ -6,8 +6,7 @@ Following Kerckhoffs’s Principle, let's assume that the details of the algorit
 
 If you don't know the key, then you have to solve for it.  If you have only ciphertext, then you use 
 
-## Add info here
-For simple ciphers, like Caesar cipher, then you can use a process called Brute Force to find the key. The process is simple: you test each possible key until you find the plaintext. 
+For simple ciphers, like Caesar cipher, then you can use a process called Brute Force to find the key. The concept is simple: you test each possible key until you find the plaintext. 
 
 Start with key=1 and shift the first "word", or grouping of letters, of ciphertext by that amount and look at the result. If the result is recognizable, then you may have found the key. In that case, you would decrypt the second ciphertext word and if it too is recognizable then you likely have the key. If not, then try key=2 and so on. There are only 25 possible keys so the process can be completed quickly even without a computer.
 

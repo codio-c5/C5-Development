@@ -91,7 +91,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "ed6f6184-a294-4943-a73d-635e1e6ab2ce"
+      "key": "a170d131-7358-4694-b46f-a1c64e40b8aa"
      },
      {
       "action": "open",
@@ -99,7 +99,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "32acad93-157a-4df9-a530-78efaa14b03f"
+      "key": "630538ff-ccdd-4f3c-b2bd-97d44e31f015"
      },
      {
       "action": "open",
@@ -107,7 +107,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "edc32955-5a95-42f6-90d0-22b6d5890802"
+      "key": "c550af56-f7aa-415c-bf2c-6bbad305d997"
      },
      {
       "action": "open",
@@ -115,7 +115,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "1b032a73-3bc4-4928-8d49-de59ff3291f1"
+      "key": "f99835f5-3da5-413a-be5e-8733d3db1c4b"
      }
     ]
    }
@@ -370,7 +370,7 @@
   },
   {
    "id": "d99e7b3f-e512-8bf9-a8e8-1368a18c27f6",
-   "title": "1.13 CreatorSpace Lab: Create Your Own Ciphertext (Was Freddy's The Code)  (Paul***add description***) ",
+   "title": "1.13 CreatorSpace Lab: Create Your Own Ciphertext (Was Freddy's The Code)  (.....Paul***add description***) ",
    "files": [
     {
      "path": "#tabs",
@@ -392,7 +392,7 @@
     "symkey-1"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/1-13-CreatorSpace-Lab--Create-Your-Own-Ciphertext--Was-Freddy-s-The-Code----Paul---add-description------d99e.md",
+   "content-file": ".guides/content/1-13-CreatorSpace-Lab--Create-Your-Own-Ciphertext--Was-Freddy-s-The-Code---------Paul---add-description------d99e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

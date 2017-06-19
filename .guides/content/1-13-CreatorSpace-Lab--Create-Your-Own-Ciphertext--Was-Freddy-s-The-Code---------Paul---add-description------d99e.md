@@ -1,5 +1,9 @@
 Feel free to experiment with the file contents. First, enter some text.
 
+<input type="textbox" id="field"/>
+    <input type="button" value="submit">
+</form>
+
 {Enter plaintext}(.guides/caesar.sh)
 
 You can run the encryption and decryption using the buttons below.

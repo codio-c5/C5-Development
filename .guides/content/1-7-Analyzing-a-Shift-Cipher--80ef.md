@@ -1,5 +1,5 @@
 
-The Caesar cipher worked well for its time and was often used to communicate battlefield instructions. Back then, computing power was limited to the abacus, which was not useful for breaking codes. All kidding aside, the concept of encryption was virtually unknown, and almost anyone who was literate and who intercepted such messages would have thought they were written in another language. There are no recorded incidents of the Caesar cipher having been broken in ancient times. Simple encryption methods were adequate for that time.
+The Caesar cipher worked well for its time and was often used to communicate battlefield instructions. Back then, computing power was limited to the abacus, which was not useful for breaking codes. All kidding aside, the concept of encryption was virtually unknown, and anyone who intercepted such messages, and was also literate, would have thought they were written in another language. There are no recorded incidents of the Caesar cipher having been broken in ancient times. Simple encryption methods were adequate for that time.
 ![.guides/img/Boulier1](.guides/img/Boulier1.jpg)
  *An abacus. Photo by HB.Sourced from Wikimedia Commons.*
 
