@@ -1,5 +1,5 @@
 
-Taught as 
+Taught as Animation 
 
 •Alice and Bob both have public and private keys.
 
