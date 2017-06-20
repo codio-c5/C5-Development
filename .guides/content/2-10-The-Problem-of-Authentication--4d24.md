@@ -1,8 +1,15 @@
 
 ## Growth Hack: What About Bob? or Alice Doesn't Live Here Anymore
 
- ![.guides/img/mask](.guides/img/mask.jpg)
- *Source: A mask CC0 public domain via publicdomainpictures.net*
+
+<figure class="snippetimg" style="margin: 10 auto;width:60%">
+  <img src=".guides/img/mask.jpg" alt="A Mask. Source: Wikimedia Commons>
+  <figcaption style="font-size: 0.8em; text-align: left;">A Mask. Source: Wikimedia Commons</figcaption>
+</figure>
+
+ 
+ 
+ 
 {Submit Answer!|assessment}(free-text-1055445862)
 
 |||guidance

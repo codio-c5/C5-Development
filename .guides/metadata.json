@@ -400,7 +400,7 @@
   },
   {
    "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
-   "title": "1.15 CreatorSpace Lab: Breaking the Substitution Cipher  ",
+   "title": "1.15A CreatorSpace Lab: Breaking the Substitution Cipher  ",
    "files": [
     {
      "path": "#tabs",
@@ -410,7 +410,29 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-15-CreatorSpace-Lab--Breaking-the-Substitution-Cipher---b2ec.md",
+   "content-file": ".guides/content/1-15A-CreatorSpace-Lab--Breaking-the-Substitution-Cipher---b2ec.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
+   "title": "1.15 B Across the Disciplines: Literature",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/img/avoidENGFRNTXT.PNG",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-15-B-Across-the-Disciplines--Literature-d7ac.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -428,33 +450,11 @@
   },
   {
    "id": "4a4e1581-bc92-42e3-ea41-824a03c064b2",
-   "title": "1.16A Knowledge Check In",
+   "title": "1.17 Knowledge Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-16A-Knowledge-Check-In-4a4e.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
-   "title": "1.17 A Across the Disciplines: Literature",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": ".guides/img/avoidENGFRNTXT.PNG",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-17-A-Across-the-Disciplines--Literature-d7ac.md",
+   "content-file": ".guides/content/1-17-Knowledge-Check-In-4a4e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

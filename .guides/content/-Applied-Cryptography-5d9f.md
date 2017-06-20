@@ -8,7 +8,7 @@ Add paragraph here about applied crypto to set the stage. Perhaps a Dr. P.  or B
 - Digital Signature
 
 
-## The Five Tenets of Cybersecurity
+## The Five Tenets of Information Security
 
 The field of cybersecurity is about supporting secure digital communications. Secure communications requires that each of these tenets is met. 
 

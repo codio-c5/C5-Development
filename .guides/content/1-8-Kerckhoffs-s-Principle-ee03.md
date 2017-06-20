@@ -1,6 +1,9 @@
-![.guides/img/Auguste_Kerckhoffs](.guides/img/Auguste_Kerckhoffs.jpg)
-
-*Auguste Kerckhoffs. Photo by Eugen Drezen Historio de la Mondo Lingvo (Leipzig, 1931), 102. Sourced from Wikimedia Commons*
+<figure class="snippetimg" style="margin: 10 auto;width:30%">
+  <img src=".guides/img/Auguste_Kerckhoffs.jpg" alt="Auguste Kerckhoffs. Photo by Eugen Drezen Historio de la Mondo Lingvo (Leipzig, 1931), 102. Sourced from Wikimedia Commons*">
+  <figcaption style="font-size: 0.8em; text-align: left;">Auguste Kerckhoffs. 
+  </br>
+ Photo by Eugen Drezen Historio de la Mondo Lingvo (Leipzig, 1931), 102. Sourced from Wikimedia Commons*</figcaption>
+</figure>
 
  
 > ***A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.***

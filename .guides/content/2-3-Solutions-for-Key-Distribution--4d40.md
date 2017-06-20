@@ -1,12 +1,15 @@
-### In the last unit, you learned that the weakness of symmetric key encryption is the secure distribution of the shared key. This problem can be solved in two ways- through public key encryption or by key agreement algorithms.  
+### In the last unit, you learned that the weakness of symmetric key encryption is the secure distribution of the shared key. This problem can be solved in two ways-- through public key encryption or by key agreement algorithms.  
+
+<br>
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/antiquekeys.jpg" alt="Antique skeleton keys. Sourced under CC 0 public domain. publicdomainpictures.net">
+  <figcaption style="font-size: 0.8em; text-align: left;">Antique skeleton keys.   
+  </br>
+Sourced under CC 0 public domain. publicdomainpictures.net</figcaption>
+</figure>
 
 
-![.guides/img/antiquekeys](.guides/img/antiquekeys.jpg)
-*Source: Antique skeleton keys under CC 0 public domain. publicdomainpictures.net*
-
-## Public Key (Assymetric) Encryption
-
-Encrypts the shared secret key for symmetric ciphers using asymmetric (public key) encryption and send over an unsecured channel.
+Public Key (asymmetric) Encryption uses an asymmetric (public key) encryption and send over an unsecured channel.
 
 ## Key Agreement Algorithms
 

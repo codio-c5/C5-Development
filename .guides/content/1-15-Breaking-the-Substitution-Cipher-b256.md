@@ -8,8 +8,13 @@ You can break simple substitution ciphers like shift ciphers by using pen and pa
 In everyday English, you'll see that some letters are used more frequently than others. For instance, the letters "E", "T" and "A" are used much more frequently than "X", "Q" and "Z". 
 
 
-![.guides/img/FreqAnalysis](.guides/img/FreqAnalysis.png)
-*Source: “English letter frequency (alphabetic)” by Nandhp. Public Domain.* 
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/FreqAnalysis.png" alt="Source: “English letter frequency (alphabetic)” by Nandhp. Public Domain.">
+  <figcaption style="font-size: 0.8em; text-align: left;"> English letter frequency (alphabetic) 
+  </br>
+ Source: by Nandhp. Public Domain.</figcaption>
+</figure>
+
 
 
 
