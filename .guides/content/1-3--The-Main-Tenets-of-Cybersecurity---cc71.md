@@ -9,7 +9,7 @@ We will explore Public Key encryption in the next unit.
 **Integrity** is the concept of ensuring that data has not been altered in any way. **Hash functions** are commonly used for this purpose.
 
 ## Authenticity
-**Authenticity** ensures that the data came from the stated sender. **Digital signatures** and  **digital certificates** are used in this process.
+**Authenticity** ensures that the data originated from the stated sender. **Digital signatures** and  **digital certificates** are used in this process.
 
 ## Nonrepudiation	
 **Nonrepudiation** is the assurance that someone cannot deny something. Typically, nonrepudiation refers to the ability to ensure that a party to a contract or a communication cannot deny the authenticity of their signature on a document or the sending of a message that they originated.

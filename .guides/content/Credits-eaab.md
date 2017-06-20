@@ -13,7 +13,7 @@
   ## Codio Content Team
   
   **Paul Sery,** Cybersecurity Researcher, Sandia National Labs: Content Developer.
-  
+
   **Christopher Nebergall,** Cybersecurity Researcher, Sandia National Labs. Technical Editor. 
   
   **Lori Oviatt:** Instructional Designer.
