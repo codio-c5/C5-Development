@@ -14,8 +14,7 @@
   
   **Paul Sery,** Sandia National Labs: Author.
   
-  **Christopher Nebergall,** Sandia National Labs: Technical Editor. Christopher has a bachelor's and degree in Computer Science from Western Illinois University.  He has worked for the past 15 years in Cybersecurity at Sandia National Laboratories as a specialist in authentication tools and technologies, including work in cybersecurity analysis, PKI, and software development. 
-  
+  **Christopher Nebergall,** Sandia National Laboratories: Technical Editor.  Cyber Security Researcher
   **Lori Oviatt:** Instructional Designer.
   
   **Richard Pepper:** Creative Design, illustration, and animation.
