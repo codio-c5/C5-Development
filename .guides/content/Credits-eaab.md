@@ -1,4 +1,4 @@
-## NSF C5 Team
+## NSF C5 Content Developers
   
  
   
@@ -10,7 +10,7 @@
   
  
   
-  ## Codio Content Team
+  ## Codio Content Contributors
   
   **Paul Sery,** Cybersecurity Researcher, Sandia National Labs: Content Developer.
 

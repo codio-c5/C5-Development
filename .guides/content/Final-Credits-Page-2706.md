@@ -1,1 +1,0 @@
-At the end of the course, insert the same info as opening page with the logos and attributions.

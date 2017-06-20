@@ -397,7 +397,7 @@
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Name three common digrams. \n **Hint:** Think about common word endings, as well as common two-letter words.",
+   "instructions": "Name three common bigrams. \n **Hint:** Think about common word endings, as well as common two-letter words.",
    "points": 1
   }
  },
