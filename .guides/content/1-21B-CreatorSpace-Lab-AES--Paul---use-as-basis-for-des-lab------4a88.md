@@ -1,10 +1,10 @@
-You can now try out some encryption yourself. This time you are going to open up a Linux terminal window and run the command yourself.
+You can now try out some encryption yourself. This time we have opened a Linux terminal window so you can run the command yourself.
 
 On the left hand side is a terminal window. We have written a program in the Python language to handle this. 
 
-Press the button below to clean up the folder with the various files. You can press this button each time you want to experiment again.
+Press the button below to clean up the folder that may be leftover from previous experiments. You can press this button each time you want to experiment again.
 
-{Clean Up}(rm aes/deciphered.txt aes/cipher.txt)
+{Clean Up}(test aes/*cipher*.txt && rm aes/*cipher*.txt)
 
 ## Edit your plain text
 The first thing to do is to type some plain text into a file. Click on `plaintext.txt` in the file tree to open it up.

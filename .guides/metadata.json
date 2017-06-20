@@ -91,7 +91,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "ed6f6184-a294-4943-a73d-635e1e6ab2ce"
+      "key": "a170d131-7358-4694-b46f-a1c64e40b8aa"
      },
      {
       "action": "open",
@@ -99,7 +99,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "32acad93-157a-4df9-a530-78efaa14b03f"
+      "key": "630538ff-ccdd-4f3c-b2bd-97d44e31f015"
      },
      {
       "action": "open",
@@ -107,7 +107,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "edc32955-5a95-42f6-90d0-22b6d5890802"
+      "key": "c550af56-f7aa-415c-bf2c-6bbad305d997"
      },
      {
       "action": "open",
@@ -115,7 +115,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "1b032a73-3bc4-4928-8d49-de59ff3291f1"
+      "key": "f99835f5-3da5-413a-be5e-8733d3db1c4b"
      }
     ]
    }
@@ -371,7 +371,7 @@
   },
   {
    "id": "d99e7b3f-e512-8bf9-a8e8-1368a18c27f6",
-   "title": "1.13 CreatorSpace Lab: Create Your Own Ciphertext (Was Freddy's The Code)  (Paul***add description***) ",
+   "title": "1.13 CreatorSpace Lab: Create Your Own Ciphertext (Was Freddy's The Code)  (.....Paul***add description***) ",
    "files": [
     {
      "path": "#tabs",
@@ -393,7 +393,7 @@
     "symkey-1"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/1-13-CreatorSpace-Lab--Create-Your-Own-Ciphertext--Was-Freddy-s-The-Code----Paul---add-description------d99e.md",
+   "content-file": ".guides/content/1-13-CreatorSpace-Lab--Create-Your-Own-Ciphertext--Was-Freddy-s-The-Code---------Paul---add-description------d99e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -662,7 +662,13 @@
   {
    "id": "90c6cfd6-49eb-48be-8898-46208b2682f0",
    "title": "2.1 Public Key Cryptography (LA)",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-1-Public-Key-Cryptography--LA--90c6.md",
@@ -672,95 +678,84 @@
   },
   {
    "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
-   "title": "2.2 Recall Check (LA)",
+   "title": "2.2 Check Your Memory",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-2-Recall-Check--LA--54c4.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "01e7da48-7f2c-242f-d3b9-f3d29d375af7",
-   "title": "2.3 Check your Knowledge",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/2-3-Check-your-Knowledge-01e7.md",
+   "content-file": ".guides/content/2-2-Check-Your-Memory-54c4.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
-   "title": "2.4 Public Key Cryptography ( Paul )",
+   "title": "2.3 Public Key Cryptography",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-4-Public-Key-Cryptography---Paul---a01b.md",
+   "content-file": ".guides/content/2-3-Public-Key-Cryptography-a01b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
-   "title": "2.5 Solutions for Key Distribution (Paul )",
+   "title": "2.4 Solutions for Key Distribution (Paul )",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-5-Solutions-for-Key-Distribution--Paul---4d40.md",
+   "content-file": ".guides/content/2-4-Solutions-for-Key-Distribution--Paul---4d40.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
-   "title": "2.6 Asymmetric Encryption/Decryption (Paul to Rick)",
+   "title": "2.5 Asymmetric Encryption",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-6-Asymmetric-Encryption-Decryption--Paul-to-Rick--eb73.md",
+   "content-file": ".guides/content/2-5-Asymmetric-Encryption-eb73.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
-   "title": "2.7 The Advantage of Asymmetric Encryption ( LA based on Paul’s input )",
+   "title": "2.6 The Advantage of Asymmetric Encryption",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-7-The-Advantage-of-Asymmetric-Encryption---LA-based-on-Paul-s-input---843f.md",
+   "content-file": ".guides/content/2-6-The-Advantage-of-Asymmetric-Encryption-843f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
-   "title": "2.8 Examples of Asymmetric Encryption Algorithms (Paul )",
+   "title": "2.7 Examples of Asymmetric Encryption Algorithms (Paul )",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-8-Examples-of-Asymmetric-Encryption-Algorithms--Paul---ecf8.md",
+   "content-file": ".guides/content/2-7-Examples-of-Asymmetric-Encryption-Algorithms--Paul---ecf8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
-   "title": "2.9 A Glimpse of the RSA Encryption (  )",
+   "title": "2.8 A Glimpse of the RSA Encryption (  )",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-9-A-Glimpse-of-the-RSA-Encryption------59d2.md",
+   "content-file": ".guides/content/2-8-A-Glimpse-of-the-RSA-Encryption------59d2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-   "title": "CreatorSpace Lab: RSA ",
+   "title": "2.9 CreatorSpace Lab: RSA ",
    "files": [
     {
      "path": "#tabs",
@@ -777,7 +772,7 @@
     "rsa"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--RSA--0aea.md",
+   "content-file": ".guides/content/2-9-CreatorSpace-Lab--RSA--0aea.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -806,33 +801,22 @@
   },
   {
    "id": "20559663-a427-4335-4394-afe3c420da60",
-   "title": "2.12 Key Agreement Protocols (Paul ->Rick)",
+   "title": "2.12 Key Agreement Protocols ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-12-Key-Agreement-Protocols--Paul---Rick--2055.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "e5519e87-daf9-32b8-702c-aeadd169a0d0",
-   "title": "2.13 (S17) Key Agreement (Paul ->Rick)",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/2-13--S17--Key-Agreement--Paul---Rick--e551.md",
+   "content-file": ".guides/content/2-12-Key-Agreement-Protocols--2055.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "31840323-7c31-43ff-0bbd-6f4afa31a51c",
-   "title": "2.14 (S18) Examples of Key Agreement Schemes (Paul)",
+   "title": "2.13 (S18) Examples of Key Agreement Schemes (Paul)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-14--S18--Examples-of-Key-Agreement-Schemes--Paul--3184.md",
+   "content-file": ".guides/content/2-13--S18--Examples-of-Key-Agreement-Schemes--Paul--3184.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -850,11 +834,11 @@
   },
   {
    "id": "0a7f417f-9172-9432-773c-26193370b574",
-   "title": "2.16 (S20) Man in the Middle Attack ( Paul-> RickPAu)",
+   "title": "2.16  Man in the Middle Attack",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-16--S20--Man-in-the-Middle-Attack---Paul---RickPAu--0a7f.md",
+   "content-file": ".guides/content/2-16--Man-in-the-Middle-Attack-0a7f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -895,7 +879,7 @@
  ],
  "theme": "light",
  "scripts": [],
- "lexikonTopic": "",
+ "lexikonTopic": "CyberSecurity",
  "suppressPageNumbering": true,
  "hideMenu": true
 }

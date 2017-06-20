@@ -18,13 +18,13 @@
 
 
 
-During World War II, Alan Turing and his team in British intelligence were able to crack the German Enigma.  Historians estimate that this shortened the war by two to three years and saved tens of millions of lives. 
+During World War II, Alan Turing and his team in British intelligence were able to crack the German Enigma code.  Historians estimate that this shortened the war by two to three years and saved tens of millions of lives. 
 
 ||| definition 
  ***Cryptography*** is the practice and study of techniques for secure communication in the presence of adversaries. 
 |||
 
-Cryptography involves designing systems to store and transmit data in a secure way.  The goal of cryptography is to preserve the integrity of the message and make sure is only accessible to those with proper authentication and authorization.
+Cryptography involves designing systems to store and transmit data in a secure way.  The goal of cryptography is to  preserve the integrity of the message and make sure is only accessible to those with proper authentication and authorization.
 
 Modern cryptography has evolved to use increasingly complex mathematics to transform information in a way that is readily accessible by its intended audience, but not by anyone else.
 

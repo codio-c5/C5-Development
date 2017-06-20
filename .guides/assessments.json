@@ -37,25 +37,29 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-836680581",
   "source": {
-   "name": "CYK 1.1A",
+   "name": "CYK 2.1A",
    "showName": false,
    "instructions": "Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.",
    "points": "1",
    "showValues": true,
-   "text": "<<<cryptography>>> is the science of encoding or <<<encrypting>>> readable messages. Readable messages are knows as <<<plaintext>>>.",
+   "text": "In <<<symmetric key encryption>>>, the same key is used to encrypt and decrypt a message. The challenge is in how to share the key safely and effectively. <<<public key encryption>>> fixes this because the user creates a <<<public>>> key that anyone can access as well as a  <<<private>>> key that only they know.\n",
    "tokens": {
     "blank": [
-     "cryptography",
-     "encrypting",
-     "plaintext"
+     "symmetric key encryption",
+     "public key encryption",
+     "public",
+     "private"
     ],
     "text": [
+     "In ",
      0,
-     " is the science of encoding or ",
+     ", the same key is used to encrypt and decrypt a message. The challenge is in how to share the key safely and effectively. ",
      0,
-     " readable messages. Readable messages are knows as ",
+     " fixes this because the user creates a ",
      0,
-     "."
+     " key that anyone can access as well as a  ",
+     0,
+     " key that only they know.\n"
     ]
    }
   }
@@ -496,6 +500,30 @@
      "answer": "7"
     }
    ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2547250082",
+  "source": {
+   "name": "CYK 2.1B",
+   "showName": false,
+   "instructions": "Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.",
+   "points": "1",
+   "showValues": true,
+   "text": "<<<key agreement>>> algorithms also solve the problem.  Here, the message sender and recipient each generate a new key by combining their own private key with the other’s public key. This results in a <<<session key>>> that is the same for both parties and can be used to encrypt and decrypt messages sent between them.",
+   "tokens": {
+    "blank": [
+     "key agreement",
+     "session key"
+    ],
+    "text": [
+     0,
+     " algorithms also solve the problem.  Here, the message sender and recipient each generate a new key by combining their own private key with the other’s public key. This results in a ",
+     0,
+     " that is the same for both parties and can be used to encrypt and decrypt messages sent between them."
+    ]
+   }
   }
  }
 ]
