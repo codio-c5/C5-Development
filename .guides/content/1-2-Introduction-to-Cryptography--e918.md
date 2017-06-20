@@ -9,13 +9,14 @@
 **Christopher Morcom:** Alan, I have a funny feeling you're going to be very good at this.
 
 *Source:* The Imitation Game. *Directed by Morten Tyldum. The Weinstein Company, 2014. Film.*
-[Learn more about code breaking and the movie *The Imitation Game*](http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.htm)
 
-![.guides/img/Turingat16](.guides/img/Turingat16.jpg)
- *Alan Turing Aged 16. Sourced from Wikimedia Commons.*
+[Learn more about code breaking and the movie *The Imitation Game*](http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.html)
 
-
-
+</br>
+<figure class="snippetimg" style="margin: 0 auto;width:50%">
+  <img src=".guides/img/Turingat16.jpg" alt="Alan Turing Aged 16. Sourced from Wikimedia Commons">
+  <figcaption style="font-size: 0.8em; text-align: center;">Alan Turing Aged 16. Sourced from Wikimedia Commons</figcaption>
+</figure>
 
 
 
@@ -29,7 +30,7 @@ Cryptography involves designing systems to store and transmit data in a secure w
 
 Modern cryptography has evolved to use increasingly complex mathematics to transform information in a way that is readily accessible by its intended audience, but not by anyone else.
 
-Then process is straightforward. It converts plaintext into ciphertext and vice versa. **Plaintext** is a message or data that is not secret or hidden; the words on this page are an example of plaintext. Encryption transforms plaintext into **ciphertext,** or coded text, using a key, which renders it unintelligible by anyone who does not possess the key used to perform the encryption. This prevents attackers from reading or changing the message. Decryption reverses the process and allows anyone who possesses the key to obtain the original plaintext. In symmetric key cryptography, the same key is used to encrypt and decrypt messages. In later chapters, you'll learn about asymmetric cryptography where different keys are used for encryption and decryption. 
+The process is straightforward. It converts plaintext into ciphertext and vice versa. **Plaintext** is a message or data that is not secret or hidden; the words on this page are an example of plaintext. Encryption transforms plaintext into **ciphertext,** or coded text, using a key, which renders it unintelligible by anyone who does not possess the key used to perform the encryption. This prevents attackers from reading or changing the message. Decryption reverses the process and allows anyone who possesses the key to obtain the original plaintext. In symmetric key cryptography, the same key is used to encrypt and decrypt messages. In later chapters, you'll learn about asymmetric cryptography where different keys are used for encryption and decryption. 
 
 ||| guidance
 ### Instructor's Note

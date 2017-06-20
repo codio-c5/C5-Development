@@ -1,16 +1,32 @@
 
+## Growth Hack 
 
-Taught as Growth Hack (what are the advantages of? ) 
+{Submit Answer!|assessment}(free-text-1638677102)
+||| guidance
+**Instructor's Note:** 
+ - With asymmetric encryption, users do not have to share a secret value that they have to communicate or agree on beforehand or over a public channel.
+ 
 
-(Paul: throw in the disadvantages-- where many users not…. 
+ - Public keys are published and available to everyone in the system.
+ 
+|||
+ 
 
-•With asymmetric encryption, users do not have to share a secret value that they have to communicate or agree on beforehand or over a public channel.
 
-•Public keys are published and available to everyone in the system.
-
-•NOTE: Private keys should NOT be shared!
+{Submit Answer!|assessment}(free-text-853926597)
 
  
 
-Hackathon: what about the disadvantages? (Paul for data LA for expository: disadvantages-- where many users not….) 
+||| guidance
+**Instructor's Note:** 
+ - Paul/Topher to spec. disadvantages here, e.g.
+ - The sender cannot decrypt a message they send
+ 
+|||
+
+
+
+ 
+
+
 

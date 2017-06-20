@@ -25,7 +25,7 @@ We assume here that the cryptanalyst knows the language that the original plaint
 **Instructor's Note:** If k=0, then the ciphertext is the same as the plaintext.
 |||
 
-For an English alphabet, there are 26 keys. Why?
+For an English alphabet, there are 26 possible keys. Why?
 {Submit Answer!|assessment}(free-text-1360860550)
 
 |||guidance

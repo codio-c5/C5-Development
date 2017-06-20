@@ -688,23 +688,23 @@
    "teacherOnly": false
   },
   {
-   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
-   "title": "2.3 Public Key Cryptography",
+   "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
+   "title": "2.3 Solutions for Key Distribution ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-3-Public-Key-Cryptography-a01b.md",
+   "content-file": ".guides/content/2-3-Solutions-for-Key-Distribution--4d40.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
-   "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
-   "title": "2.4 Solutions for Key Distribution (Paul )",
+   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+   "title": "2.4 Public Key Cryptography",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-4-Solutions-for-Key-Distribution--Paul---4d40.md",
+   "content-file": ".guides/content/2-4-Public-Key-Cryptography-a01b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -732,30 +732,48 @@
    "teacherOnly": false
   },
   {
-   "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
-   "title": "2.7 Examples of Asymmetric Encryption Algorithms (Paul )",
+   "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
+   "title": "2.7 CreatorSpace Lab: Public Key Encryption",
    "files": [],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-7-Examples-of-Asymmetric-Encryption-Algorithms--Paul---ecf8.md",
+   "content-file": ".guides/content/2-7-CreatorSpace-Lab--Public-Key-Encryption-2a21.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
+   "title": "2.8  RSA Encryption ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/2-8--RSA-Encryption--ecf8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
-   "title": "2.8 A Glimpse of the RSA Encryption (  )",
+   "title": "2.8A Hackathon: Inside RSA Encryption",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-8-A-Glimpse-of-the-RSA-Encryption------59d2.md",
+   "content-file": ".guides/content/2-8A-Hackathon--Inside-RSA-Encryption-59d2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-   "title": "2.9 CreatorSpace Lab: RSA ",
+   "title": "2.8B CreatorSpace Lab: RSA",
    "files": [
     {
      "path": "#tabs",
@@ -772,29 +790,51 @@
     "rsa"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/2-9-CreatorSpace-Lab--RSA--0aea.md",
+   "content-file": ".guides/content/2-8B-CreatorSpace-Lab--RSA-0aea.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
+   "title": "2.9 Elliptic Curve Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/2-9-Elliptic-Curve-Encryption-5a92.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
+   "title": "2.9A Across the Disciplines: Theoretical Mathematics",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/2-9A-Across-the-Disciplines--Theoretical-Mathematics-412e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
-   "title": "2.10 One Problem: Authentication (LA)",
+   "title": "2.10 The Problem of Authentication ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-10-One-Problem--Authentication--LA--4d24.md",
+   "content-file": ".guides/content/2-10-The-Problem-of-Authentication--4d24.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
-   "title": "2.11 Key Agreement (Exchange) Protocols (Paul to turn over to LA if feasible) ",
+   "title": "2.11 Meetup: Key Agreement (Exchange) Protocols ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-11-Key-Agreement--Exchange--Protocols--Paul-to-turn-over-to-LA-if-feasible---c4ef.md",
+   "content-file": ".guides/content/2-11-Meetup--Key-Agreement--Exchange--Protocols--c4ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -872,6 +912,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Final-Credits-Page-2706.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
+   "title": "New Section 61",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-61-b256.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

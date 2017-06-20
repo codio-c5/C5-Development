@@ -525,5 +525,53 @@
     ]
    }
   }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1638677102",
+  "source": {
+   "name": "GH 2.2A",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "What are the advantages of asymmetric (public key) encryption?",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-853926597",
+  "source": {
+   "name": "GH 2.2B",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "What are the disadvantages of assymetric (public key) encryption?",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2750669850",
+  "source": {
+   "name": "GH 2.4",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "Why would asymmetric key algorithms be more mathematically complex than symmetric key algorithms?  ",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1055445862",
+  "source": {
+   "name": "GH 2.1",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "In asymmetric key encryption, how could you pose as someone else?  What could be done to prevent this?",
+   "points": 1
+  }
  }
 ]
