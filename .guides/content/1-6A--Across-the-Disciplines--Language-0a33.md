@@ -3,10 +3,13 @@
 
 Cryptography could have changed the fate for one of the most monumental defeats in military history. During World War I, the Russian 2nd Army marched beyond the reach of their encrypted telegraph lines. They sent communications over open lines, thinking that the Germans would not understand Russian.  The Germans easily translated the Russian communications and were able to outflank the 2nd Army at the  [Battle of Tannenberg](http://thebattleoftannenburgww1.weebly.com/the-battle-and-battle-tactics.html) causing their surrender. There were over 300,000 Russian casualties, and 90,000 were taken prisoner. This, along with other factors, likely contributed to the overthrow of the Czar by the Communists and changed the direction of 20th Century history.
 
-
-![.guides/img/Tannenberg_001](.guides/img/Tannenberg_001.jpg)
-
- *Captured Russian soldiers at Tilsit station, 27 September, 1914. From Berliner Illustrirte Zeitung by R. Minzloff. Sourced from Wikimedia Commons.*
+</br>
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/Tannenberg_001.jpg" alt="Captured Russian soldiers at Tilsit station, 27 September, 1914. From Berliner Illustrirte Zeitung by R. Minzloff. Sourced from Wikimedia Commons.">
+  <figcaption style="font-size: 0.8em; text-align: left;">Captured Russian soldiers at Tilsit station, 27 September, 1914. 
+  </br>
+From Berliner Illustrirte Zeitung by R. Minzloff. Sourced from Wikimedia Commons.</figcaption>
+</figure>
 
 
 |||guidance
@@ -22,9 +25,13 @@ Cryptography could have changed the fate for one of the most monumental defeats 
 
 In Word Wars I and II, the US military used Native American languages like Navajo to communicate in secret.  Initially, there were agreed-upon Navajo words given military meaning.  Later, a cipher key was developed in which a Navajo word was used to represent a specific letter in the English alphabet. The code was never broken by the enemy, and proved to be a significant advantage in battles like Iwo Jima. 
 
-![.guides/img/Codetalkers](.guides/img/Codetalkers.jpg)
+</br>
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/Codetalkers.jpg" alt="Code talkers at work, Australia, July 1943. From USMC Archives Quantico, VA. Sourced from Wikimedia Commons.">
+  <figcaption style="font-size: 0.8em; text-align: left;">Code talkers at work, Australia, July 1943.   
+  </br>
+From USMC Archives Quantico, VA. Sourced from Wikimedia Commons.</figcaption>
+</figure>
 
-
- *Code talkers at work, Australia, July 1943. From USMC Archives Quantico, VA. Sourced from Wikimedia Commons.*
 
 [Learn more about Code Talkers](http://www.nmai.si.edu/education/codetalkers/html/chapter4.html)  

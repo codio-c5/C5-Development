@@ -15,7 +15,9 @@
 </br>
 <figure class="snippetimg" style="margin: 0 auto;width:50%">
   <img src=".guides/img/Turingat16.jpg" alt="Alan Turing Aged 16. Sourced from Wikimedia Commons">
-  <figcaption style="font-size: 0.8em; text-align: center;">Alan Turing Aged 16. Sourced from Wikimedia Commons</figcaption>
+  <figcaption style="font-size: 0.8em; text-align: left;">Alan Turing Aged 16. 
+</br>
+Sourced from Wikimedia Commons</figcaption>
 </figure>
 
 
