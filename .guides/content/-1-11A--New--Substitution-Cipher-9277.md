@@ -5,14 +5,7 @@ Substituion ciphers come in the following primary forms:
 1. Simple substitution, or monoalphabetic, that replace a single letter with another with a one-to-one mapping
 2. Polygraphic substitution that replace each letter in the plaintext with one of several letter combinations from the key
 
-Substitution ciphers provide little practical value in today's world so we'll only discuss the monoalphabetic version here in order to provide background. 
-
-Let's create a simple substitution alphabet as an example:
-
-Plaintext:                            ABCDEFGHIJKLMNOPQRSTUVWXYZ
-Ciphertext (substitution alphabet):   WUPZDLYKAGQJXOBCRIFTMVHNES
-
-A plaintext message like "Hello world" will map into the ciphertext "KDJJB HBIJZ", where H->K, e->D, etc.
+Substitution ciphers provide little practical value in today's world so we'll only discuss the monoalphabetic version here in order to provide background.
 
 |||
 Substitution keys can be constructed from symbols instead of alphabetic characters. Ciphertext consiting of symbols might appear to provide more security at first glance, but a cryptologist, upon recognizing the trick, will quickly convert the symbols into characters and solve the puzzle.

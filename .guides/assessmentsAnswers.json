@@ -1,0 +1,22 @@
+[
+ {
+  "taskId": "free-text-3413873105",
+  "points": 0,
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "asdfasdf",
+    "timestamp": 1498002903214
+   }
+  ]
+ }
+][
+ {
+  "taskId": "free-text-3413873105",
+  "points": 0,
+  "state": {
+   "text": "asdfasdf"
+  },
+  "results": []
+ }
+]

@@ -339,7 +339,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel",
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
