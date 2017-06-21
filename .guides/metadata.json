@@ -415,6 +415,18 @@
    "teacherOnly": false
   },
   {
+   "id": "7a556bd4-b7ec-f8cf-ad6b-2a2cbc6d6ffa",
+   "title": "1.21 AES Encryption",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-21-AES-Encryption-7a55.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
    "title": "1.19A Meetup: Block Ciphers ",
    "files": [
@@ -432,18 +444,6 @@
    "teacherOnly": false
   },
   {
-   "id": "58a4515f-4c99-3fea-a9f4-291e6ac85cd1",
-   "title": "1.20 DES Encryption",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-20-DES-Encryption-58a4.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "a6584dc1-1c51-64fe-d8ba-bacdf87e8550",
    "title": "1.20A CreatorSpace Lab DES (Paul) ",
    "files": [],
@@ -451,18 +451,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-20A-CreatorSpace-Lab-DES--Paul---a658.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "7a556bd4-b7ec-f8cf-ad6b-2a2cbc6d6ffa",
-   "title": "1.21 AES Encryption",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-21-AES-Encryption-7a55.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
