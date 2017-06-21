@@ -260,8 +260,20 @@
   },
   {
    "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
+<<<<<<< HEAD
+   "title": " 1.11A *New* Substitution Cipher",
+   "files": [
+    {
+     "path": "substitution/index-sub.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+=======
    "title": " 1.11A Substitution Cipher",
    "files": [],
+>>>>>>> 8c78da3f50331dcde7ff672c146e752efb13b74e
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/-1-11A-Substitution-Cipher-9277.md",
@@ -276,9 +288,14 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "#preview: substitution/index-sub.html",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
