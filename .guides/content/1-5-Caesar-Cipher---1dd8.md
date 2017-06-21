@@ -4,11 +4,11 @@ The Caesar cipher is an ancient *(Hail Caesar!)* and simple form of encryption t
 In the following example, the *key* is 3. Each letter is shifted 3 letters to the right in the alphabet.
 
 ```bash
-meet me after the toga party
-PHHW PH DIWHU WKH WRJD SDUWB
+**plaintext:** meet me after the toga party
+**ciphertext:** PHHW PH DIWHU WKH WRJD SDUWB
 ```
 
-Notice how the last N letters (3 in the above example) are dealt with by starting again at the letter "a" if it would go past "z".
+Notice how the last `n` letters (3 in the above example) are dealt with by starting again at the letter "a" if it would go past "z".
 
 If you know a ciphertext is obtained using a shift cipher, getting the original plaintext is simple. You can just try different keys until you find the one that produces an intelligible message. 
 

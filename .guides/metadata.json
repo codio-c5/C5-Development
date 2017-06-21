@@ -53,6 +53,17 @@
    "teacherOnly": false
   },
   {
+   "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
+   "title": "1.2 Introduction to Symmetric Key Cryptography",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-2-Introduction-to-Symmetric-Key-Cryptography-dd91.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "cc716ec0-709d-3645-6fb6-3cf57f39e20b",
    "title": "1.3  The Main Tenets of Cybersecurity  ",
    "files": [
