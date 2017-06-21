@@ -397,7 +397,7 @@
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Name three common bigrams. \n **Hint:** Think about common word endings, as well as common two-letter words.",
+   "instructions": "Consider general English usage, such as a newspaper.  Name three common digrams you would find.\n **Hint:** Think about common word endings, as well as common two-letter words.",
    "points": 1
   }
  },
@@ -421,7 +421,7 @@
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Name three common trigrams.\n **Hint:** Think about common word endings, as well as common three-letter words.",
+   "instructions": "Consider general English usage, such as a newspaper.  Name three common trigrams you would find.\n **Hint:** Think about common word endings, as well as common three-letter words.",
    "points": 1
   }
  },

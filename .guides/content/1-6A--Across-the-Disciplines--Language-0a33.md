@@ -4,7 +4,7 @@
 Cryptography could have changed the fate for one of the most monumental defeats in military history. During World War I, the Russian 2nd Army marched beyond the reach of their encrypted telegraph lines. They sent communications over open lines, thinking that the Germans would not understand Russian.  The Germans easily translated the Russian communications and were able to outflank the 2nd Army at the  [Battle of Tannenberg](http://thebattleoftannenburgww1.weebly.com/the-battle-and-battle-tactics.html) causing their surrender. There were over 300,000 Russian casualties, and 90,000 were taken prisoner. This, along with other factors, likely contributed to the overthrow of the Czar by the Communists and changed the direction of 20th Century history.
 
 </br>
-<figure class="snippetimg" style="margin: 0 auto;width:100%">
+<figure class="snippetimg" style="margin: 0 auto; width:100%">
   <img src=".guides/img/Tannenberg_001.jpg" alt="Captured Russian soldiers at Tilsit station, 27 September, 1914. From Berliner Illustrirte Zeitung by R. Minzloff. Sourced from Wikimedia Commons.">
   <figcaption style="font-size: 0.8em; text-align: left;">Captured Russian soldiers at Tilsit station, 27 September, 1914. 
   </br>

@@ -12,13 +12,13 @@ Click the frequency analysis button to see the highest occuring letters.
 
 {Frequency analysis}(.guides/getfreq.sh)
 
-Click to see the bigrams.
+Click to see the digrams.
 
-{Frequency analysis bigrams}(.guides/getbigram.sh)
+{Frequency analysis digrams}(.guides/getbigram.sh)
 
 And trigrams.
 
-{Frequency analysis bigrams}(.guides/gettrigram.sh)
+{Frequency analysis trigrams}(.guides/gettrigram.sh)
 
 
 ## Lab Check In

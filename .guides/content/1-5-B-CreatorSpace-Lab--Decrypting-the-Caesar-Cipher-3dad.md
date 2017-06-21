@@ -1,5 +1,5 @@
 
-The encrypted text from the last page appears both on the left and in the upper window. 
+The encrypted text from the last page appears both on the left. 
 
 Click the button below to decrypt it. The decrypted text will appear below the button.
 

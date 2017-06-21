@@ -13,8 +13,6 @@ Here's a complex graphic describing DES. You can see from this that it is rather
  Source: https://en.wikipedia.org/wiki/Data_Encryption_Standard</figcaption>
 </figure>
 
-
-
 DES is a block cipher, meaning that rather than working on a stream of data - bit-by-bit - it works on one block at a time. One block consists of 64 bits.
 
 Computing power has increased dramatically at less cost since the 1970s. The original DES used a key of 56 bits and given increased compute power it is not considered secure. One reasonable solution is Triple DES (3DES) that simply applies DES three times on each data block.

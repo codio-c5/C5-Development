@@ -65,63 +65,6 @@
    "teacherOnly": false
   },
   {
-   "id": "cc716ec0-709d-3645-6fb6-3cf57f39e20b",
-   "title": "1.3  The Main Tenets of Cybersecurity  ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-3--The-Main-Tenets-of-Cybersecurity---cc71.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "media": {
-    "type": "audio",
-    "name": "Tenet Explanations",
-    "source": "tenet-explanations.mp3",
-    "disabled": false,
-    "actions": [
-     {
-      "action": "open",
-      "tabType": "file",
-      "time": 0,
-      "type": "file_open",
-      "content": ".guides/img/asymmetric_encryption.png",
-      "key": "8266b94c-b292-4075-9131-821a99b9e3c5"
-     },
-     {
-      "action": "open",
-      "tabType": "file",
-      "time": 22,
-      "type": "file_open",
-      "content": ".guides/img/integrity.png",
-      "key": "7abe5eb1-0af6-4b53-b2c7-6630ad0e26fd"
-     },
-     {
-      "action": "open",
-      "tabType": "file",
-      "time": 30,
-      "type": "file_open",
-      "content": ".guides/img/authenticity.png",
-      "key": "9f34eb0d-b0bf-4adb-af22-abe72b50facd"
-     },
-     {
-      "action": "open",
-      "tabType": "file",
-      "time": 39,
-      "type": "file_open",
-      "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "b03dec0e-1d98-4fa1-8961-f5af5c4ba47e"
-     }
-    ]
-   }
-  },
-  {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
    "title": "1.4 Symmetric Key Cryptography (animation tk) ",
    "files": [],
@@ -157,14 +100,9 @@
      "path": "symkey-1/plaintext.txt",
      "panel": 0,
      "action": "open"
-    },
-    {
-     "path": "symkey-1/ciphertext.txt",
-     "panel": 1,
-     "action": "open"
     }
    ],
-   "layout": "3-cell",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-5A-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
@@ -322,6 +260,7 @@
   },
   {
    "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
+<<<<<<< HEAD
    "title": " 1.11A *New* Substitution Cipher",
    "files": [
     {
@@ -331,9 +270,13 @@
     }
    ],
    "layout": "",
+=======
+   "title": " 1.11A Substitution Cipher",
+   "files": [],
+>>>>>>> 8c78da3f50331dcde7ff672c146e752efb13b74e
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/-1-11A--New--Substitution-Cipher-9277.md",
+   "content-file": ".guides/content/-1-11A-Substitution-Cipher-9277.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -383,38 +326,15 @@
    "teacherOnly": false
   },
   {
-   "id": "d99e7b3f-e512-8bf9-a8e8-1368a18c27f6",
-   "title": "1.13 CreatorSpace Lab: Create Your Own Ciphertext (Was Freddy's The Code)  (.....Paul***add description***) ",
+   "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
+   "title": "1.15 Breaking the Substitution Cipher",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "symkey-1/caesar-encrypt.py",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "symkey-1/caesar-decrypt.py",
-     "panel": 0,
-     "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
-   "path": [
-    "symkey-1"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/1-13-CreatorSpace-Lab--Create-Your-Own-Ciphertext--Was-Freddy-s-The-Code---------Paul---add-description------d99e.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
-   "title": "1.15 Breaking the Substitution Cipher",
-   "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-15-Breaking-the-Substitution-Cipher-b256.md",
@@ -774,6 +694,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-8A-Hackathon--Inside-RSA-Encryption-59d2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d9014f1e-97ff-632d-564c-2025f01c3321",
+   "title": "New Section 62",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-62-d901.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
