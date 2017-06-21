@@ -4,6 +4,7 @@
    "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
    "title": " ",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/--71e6.md",
@@ -54,11 +55,11 @@
   },
   {
    "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
-   "title": "1.2 Introduction to Symmetric Key Cryptography",
+   "title": "1.2A Cryptography Terms",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-2-Introduction-to-Symmetric-Key-Cryptography-dd91.md",
+   "content-file": ".guides/content/1-2A-Cryptography-Terms-dd91.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -91,7 +92,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "60e49e59-b986-40f1-9684-6783c7bca992"
+      "key": "8266b94c-b292-4075-9131-821a99b9e3c5"
      },
      {
       "action": "open",
@@ -99,7 +100,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "9d8674f8-011a-4486-8a47-4d12b629d544"
+      "key": "7abe5eb1-0af6-4b53-b2c7-6630ad0e26fd"
      },
      {
       "action": "open",
@@ -107,7 +108,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "e9a83f6e-c16a-4c18-80d6-187b4d11c443"
+      "key": "9f34eb0d-b0bf-4adb-af22-abe72b50facd"
      },
      {
       "action": "open",
@@ -115,7 +116,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "ea93ef3e-6ecd-4dc3-8b11-a2e9cecec5a1"
+      "key": "b03dec0e-1d98-4fa1-8961-f5af5c4ba47e"
      }
     ]
    }
