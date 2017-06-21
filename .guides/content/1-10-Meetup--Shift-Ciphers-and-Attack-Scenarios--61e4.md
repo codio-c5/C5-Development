@@ -3,7 +3,7 @@
 *What approach you would take to solve each scenario?*
 
 
-**1. Ciphertext only attacks:** What do you do to break the cipher if all you have is the ciphertext: `GJFZYNKZQ IFD?`
+**1. Ciphertext only attacks:** What do you do to break the cipher if all you have is the ciphertext: `GJFZYNKZQ IFD`?
 
 **2. Known plaintext attacks:** What do you do to break the cipher if you know that HELLO encrypts to `MJQQT`? 
 
@@ -12,5 +12,15 @@
 **4. Chosen ciphertext attacks:** What do you do to break the cipher if you can choose  a ciphertext and get its plaintext but no key? 
 
 |||guidance
-**Instructor's Note:**  This works great as a Meetup.  Divide your class into groups and have each group take on one of the four scenarios. Have the groups report back to the class at large with their findings.
+**Instructor's Note:**  Divide your class into groups and have each group take on one of the four scenarios. Have the groups report back to the class at large with their findings.
+|||
+
+||| guidance
+**Instructor's Note:** 
+**Answers** 
+**Ciphertext only attacks –**  Brute force the 26 possible keys and see which gives a comprehensible message.
+**Known plaintext attacks –** Figure out how much H is shifted to get to M.
+**Chosen plaintext attacks –** Choose A or any other letter for the plaintext.
+**Chosen ciphertext attacks –** Choose A or any other letter for the ciphertext.
+The correct plaintext for the ciphertext `GJFZYNKZQ IFD` is BEAUTIFUL DAY. 
 |||

@@ -2,7 +2,7 @@
   <img src=".guides/img/Auguste_Kerckhoffs.jpg" alt="Auguste Kerckhoffs. Photo by Eugen Drezen Historio de la Mondo Lingvo (Leipzig, 1931), 102. Sourced from Wikimedia Commons*">
   <figcaption style="font-size: 0.8em; text-align: left;">Auguste Kerckhoffs. 
   </br>
- Photo by Eugen Drezen Historio de la Mondo Lingvo (Leipzig, 1931), 102. Sourced from Wikimedia Commons*</figcaption>
+ Photo by Eugen Drezen Historio de la Mondo Lingvo (Leipzig, 1931), 102. Sourced from Wikimedia Commons</figcaption>
 </figure>
 
  

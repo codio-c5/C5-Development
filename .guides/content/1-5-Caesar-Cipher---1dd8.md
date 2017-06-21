@@ -4,9 +4,11 @@ The Caesar cipher is an ancient *(Hail Caesar!)* and simple form of encryption t
 In the following example, the *key* is 3. Each letter is shifted 3 letters to the right in the alphabet.
 
 ```bash
-**plaintext:** meet me after the toga party
-**ciphertext:** PHHW PH DIWHU WKH WRJD SDUWB
+Plaintext:  meet me after the toga party
+Ciphertext: PHHW PH DIWHU WKH WRJD SDUWB
 ```
+
+
 
 Notice how the last `n` letters (3 in the above example) are dealt with by starting again at the letter "a" if it would go past "z".
 

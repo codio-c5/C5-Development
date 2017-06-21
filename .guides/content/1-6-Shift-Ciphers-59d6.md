@@ -7,8 +7,8 @@ A **shift cipher** is a generalization of Caesar cipher in which the key can be 
 Example with `k=11`
 
 ```bash
-meet me after the toga party
-XPPE XP LQEPC ESP EZRL ALCEJ
+PLaintext:  meet me after the toga party
+Ciphertext: XPPE XP LQEPC ESP EZRL ALCEJ
 ```
 
 ## Cryptanalysis of Shift Cipher
