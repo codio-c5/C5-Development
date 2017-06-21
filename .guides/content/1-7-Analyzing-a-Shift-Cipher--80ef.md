@@ -1,7 +1,14 @@
 
 The Caesar cipher worked well for its time and was often used to communicate battlefield instructions. Back then, computing power was limited to the abacus, which was not useful for breaking codes. All kidding aside, the concept of encryption was virtually unknown, and anyone who intercepted such messages, and was also literate, would have thought they were written in another language. There are no recorded incidents of the Caesar cipher having been broken in ancient times. Simple encryption methods were adequate for that time.
-![.guides/img/Boulier1](.guides/img/Boulier1.jpg)
- *An abacus. Photo by HB.Sourced from Wikimedia Commons.*
+
+
+<figure class="snippetimg" style="margin: 0 auto;width:50%">
+  <img src=".guides/img/Boulier1.jpg" alt="An abacus.Photo by HB. Sourced from Wikimedia Commons.">
+  <figcaption style="font-size: 0.8em; text-align: left;">An Abacus.   
+  </br>
+Photo by HB. Sourced from Wikimedia Commons.</figcaption>
+</figure>
+
 
 Today, the abacus has given way to powerful, inexpensive computers that could break such a cipher in a microsecond. But computers are unnecessary for the purpose of breaking simple shift ciphers. It can be done with a pencil and paper.
 

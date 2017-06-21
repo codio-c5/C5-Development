@@ -1,13 +1,19 @@
 IBM created the Data Encryption Standard (DES) encryption algorithm in 1970's. Following Kerckhoffs’s Principle, they submitted it to the National Bureau of Standards (NBS). That, plus a version modified and endorsed by the NSA, led to its worldwide use for protecting non-classified, sensitive data.
 
-|||
-The NBS is now the National Institute of Standards and Technology (NIST)
+||| note
+The NBS is now the National Institute of Standards and Technology (NIST).
 |||
 
 Here's a complex graphic describing DES. You can see from this that it is rather more rigorous in its approach than the shift and substjavascript:void(0)itution algorithms we have seen so far.
 
-![](.guides/img/DES.png)
-Source: https://en.wikipedia.org/wiki/Data_Encryption_Standard
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/DES.png" alt="Source: https://en.wikipedia.org/wiki/Data_Encryption_Standard">
+  <figcaption style="font-size: 0.8em; text-align: left;"> DES diagram.
+  </br>
+ Source: https://en.wikipedia.org/wiki/Data_Encryption_Standard</figcaption>
+</figure>
+
+
 
 DES is a block cipher, meaning that rather than working on a stream of data - bit-by-bit - it works on one block at a time. One block consists of 64 bits.
 

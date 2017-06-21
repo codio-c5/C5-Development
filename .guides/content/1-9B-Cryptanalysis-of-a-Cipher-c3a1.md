@@ -3,10 +3,11 @@ So, how do you crack a code?
 Cryptanalysts first need to know what information they have to create a decoding strategy.  The elements of a code are the original plaintext, the resulting ciphertext, and the encryption/decryption key. To crack a code, your strategy depends on what you have. 
 
 Following Kerckhoffs’s Principle, let's assume that the details of the algorithm used for encryption is known. If you know the key, then you can simply convert plaintext or ciphertext with ease.
+ 
 
 ## Getting Forceful 
 For simple ciphers, like Caesar cipher, you can use **brute force** to find the key. The process is simple. You test each possible key until you find the plaintext. 
-|||
+|||definition
 **Brute force** is the method of solving for the key by testing each possibility until you find the key.
 |||
 Start with key=1 and shift the first "word", or grouping of letters, of ciphertext by that amount and look at the result. If the result is recognizable, then you may have found the key. In that case, you would decrypt the second ciphertext word and if it too is recognizable then you likely have the key. If not, then try key=2 and so on. In a shift cipher, there are only 25 possible keys so the process can be completed quickly even without a computer.
@@ -24,4 +25,4 @@ You can also discover a key by searching in the opposite direction. You can take
 You can still find the key if you only have part of the plaintext. For example, you might have ciphertext `XPPE XP LQEPC ESP EZRL ALCEJ` but only the plaintext "party". The only ciphertext strings of 5 letters are `LQEPC` and `ALCEJ`. You can try each possible key on these two ciphertext strings until the result matches the plaintext word "party".
 
  
-In the next unit you'll learn about modern ciphers like the Data Encryption Standard (DES) and the Advanced Encryption Standard (AES) that are not so simple. Both are virtually impossible to decrypt when a properly complex encryption key is used, even with advanced computers.  
+Later, you will learn about modern ciphers like the Data Encryption Standard (DES) and the Advanced Encryption Standard (AES) that are not so simple. Both are virtually impossible to decrypt when a properly complex encryption key is used, even with advanced computers.  

@@ -397,7 +397,7 @@
    "showName": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Name three common digrams. \n **Hint:** Think about common word endings, as well as common two-letter words.",
+   "instructions": "Name three common bigrams. \n **Hint:** Think about common word endings, as well as common two-letter words.",
    "points": 1
   }
  },
@@ -571,6 +571,18 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "In asymmetric key encryption, how could you pose as someone else?  What could be done to prevent this?",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1840327201",
+  "source": {
+   "name": "GH 1.2",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "How would knowing this change your attack scenario?",
    "points": 1
   }
  }

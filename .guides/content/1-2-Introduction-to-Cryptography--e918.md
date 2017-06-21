@@ -15,7 +15,9 @@
 </br>
 <figure class="snippetimg" style="margin: 0 auto;width:50%">
   <img src=".guides/img/Turingat16.jpg" alt="Alan Turing Aged 16. Sourced from Wikimedia Commons">
-  <figcaption style="font-size: 0.8em; text-align: center;">Alan Turing Aged 16. Sourced from Wikimedia Commons</figcaption>
+  <figcaption style="font-size: 0.8em; text-align: left;">Alan Turing Aged 16. 
+</br>
+Sourced from Wikimedia Commons</figcaption>
 </figure>
 
 
@@ -37,7 +39,7 @@ The process is straightforward. It converts plaintext into ciphertext and vice v
 Here's a good cryptography overview video you might share with the class. 
 
 <iframe width="550" height="300" src="https://www.youtube.com/embed/-yFZGF8FHSg" frameborder="0" allowfullscreen></iframe>
-
+|||
 
 
 

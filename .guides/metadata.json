@@ -12,17 +12,6 @@
    "teacherOnly": false
   },
   {
-   "id": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb",
-   "title": "Credits",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Credits-eaab.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "5d9fd56e-0c98-26b6-b3d1-f55780f7c1d5",
    "title": " Applied Cryptography",
    "files": [],
@@ -91,7 +80,7 @@
       "time": 0,
       "type": "file_open",
       "content": ".guides/img/asymmetric_encryption.png",
-      "key": "a170d131-7358-4694-b46f-a1c64e40b8aa"
+      "key": "60e49e59-b986-40f1-9684-6783c7bca992"
      },
      {
       "action": "open",
@@ -99,7 +88,7 @@
       "time": 22,
       "type": "file_open",
       "content": ".guides/img/integrity.png",
-      "key": "630538ff-ccdd-4f3c-b2bd-97d44e31f015"
+      "key": "9d8674f8-011a-4486-8a47-4d12b629d544"
      },
      {
       "action": "open",
@@ -107,7 +96,7 @@
       "time": 30,
       "type": "file_open",
       "content": ".guides/img/authenticity.png",
-      "key": "c550af56-f7aa-415c-bf2c-6bbad305d997"
+      "key": "e9a83f6e-c16a-4c18-80d6-187b4d11c443"
      },
      {
       "action": "open",
@@ -115,7 +104,7 @@
       "time": 39,
       "type": "file_open",
       "content": ".guides/img/non-repudiation-frame-work.gif",
-      "key": "f99835f5-3da5-413a-be5e-8733d3db1c4b"
+      "key": "ea93ef3e-6ecd-4dc3-8b11-a2e9cecec5a1"
      }
     ]
    }
@@ -253,7 +242,7 @@
      "action": "close"
     }
    ],
-   "layout": "2-panels",
+   "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-8-Kerckhoffs-s-Principle-ee03.md",
@@ -399,8 +388,19 @@
    "teacherOnly": false
   },
   {
+   "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
+   "title": "1.15 Breaking the Substitution Cipher",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-15-Breaking-the-Substitution-Cipher-b256.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
-   "title": "1.15 Breaking the Substitution Cipher (Paul) ",
+   "title": "1.15A CreatorSpace Lab: Breaking the Substitution Cipher  ",
    "files": [
     {
      "path": "#tabs",
@@ -410,7 +410,29 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-15-Breaking-the-Substitution-Cipher--Paul---b2ec.md",
+   "content-file": ".guides/content/1-15A-CreatorSpace-Lab--Breaking-the-Substitution-Cipher---b2ec.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
+   "title": "1.15 B Across the Disciplines: Literature",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/img/avoidENGFRNTXT.PNG",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-15-B-Across-the-Disciplines--Literature-d7ac.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -428,55 +450,11 @@
   },
   {
    "id": "4a4e1581-bc92-42e3-ea41-824a03c064b2",
-   "title": "1.16A Knowledge Check In",
+   "title": "1.17 Knowledge Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-16A-Knowledge-Check-In-4a4e.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "73775d59-2fcd-a0f7-10cf-6bdfcc50918d",
-   "title": "1.17 Frequency Analysis (Paul***see \"map\" slides***) ",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-17-Frequency-Analysis--Paul---see--map--slides------7377.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
-   "title": "1.17 A Across the Disciplines: Literature",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": ".guides/img/avoidENGFRNTXT.PNG",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-17-A-Across-the-Disciplines--Literature-d7ac.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "6b5c9414-44de-3881-b710-0155780a9f23",
-   "title": "1.17B CreatorSpace Lab: Frequency Analysis",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-17B-CreatorSpace-Lab--Frequency-Analysis-6b5c.md",
+   "content-file": ".guides/content/1-17-Knowledge-Check-In-4a4e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -587,18 +565,6 @@
    "teacherOnly": false
   },
   {
-   "id": "4c976928-c138-4765-3191-a236fe4c6414",
-   "title": "1.22 Meetup: The problem of Key Distribution and Management ",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-22-Meetup--The-problem-of-Key-Distribution-and-Management--4c97.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
    "title": "1.23 Symmetric Key Cryptography Summary",
    "files": [
@@ -655,6 +621,40 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hackathon-2--A-Special-Substitution-Cipher--ROT-13--Paul---2551.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4c976928-c138-4765-3191-a236fe4c6414",
+   "title": "Hackathon 3: The Problem of Key Distribution and Management",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hackathon-3--The-Problem-of-Key-Distribution-and-Management-4c97.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb",
+   "title": "Credits",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Credits-eaab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2706553b-4623-eba7-48a6-a45095e5602a",
+   "title": " ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/--2706.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -739,23 +739,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-7-CreatorSpace-Lab--Public-Key-Encryption-2a21.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
-   "title": "2.8  RSA Encryption ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/2-8--RSA-Encryption--ecf8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -895,34 +878,29 @@
    "teacherOnly": false
   },
   {
+   "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
+   "title": "2.8  RSA Encryption ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/2-8--RSA-Encryption--ecf8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "8465c47f-fb60-e5e0-78f7-705f78587e93",
    "title": "2.18 Unit Summary",
    "files": [],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-18-Unit-Summary-8465.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "2706553b-4623-eba7-48a6-a45095e5602a",
-   "title": "Final Credits Page",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Final-Credits-Page-2706.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
-   "title": "New Section 61",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/New-Section-61-b256.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
