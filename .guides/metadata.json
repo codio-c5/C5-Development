@@ -322,7 +322,6 @@
   },
   {
    "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
-<<<<<<< HEAD
    "title": " 1.11A *New* Substitution Cipher",
    "files": [
     {
@@ -332,10 +331,6 @@
     }
    ],
    "layout": "",
-=======
-   "title": " 1.11A Substitution Cipher",
-   "files": [],
->>>>>>> dbb66184b6414b8e5367d8114c3bbbb8db5455e3
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/-1-11A--New--Substitution-Cipher-9277.md",
@@ -350,9 +345,14 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "#preview: substitution/index-sub.html",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
@@ -512,18 +512,6 @@
    "teacherOnly": false
   },
   {
-   "id": "7a556bd4-b7ec-f8cf-ad6b-2a2cbc6d6ffa",
-   "title": "1.21 AES Encryption",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-21-AES-Encryption-7a55.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
    "title": "1.19A Meetup: Block Ciphers ",
    "files": [
@@ -536,6 +524,66 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-19A-Meetup--Block-Ciphers--5590.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "58a4515f-4c99-3fea-a9f4-291e6ac85cd1",
+   "title": "1.20 DES Encryption",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-20-DES-Encryption-58a4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a6584dc1-1c51-64fe-d8ba-bacdf87e8550",
+   "title": "1.20A CreatorSpace Lab DES (Paul) ",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-20A-CreatorSpace-Lab-DES--Paul---a658.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7a556bd4-b7ec-f8cf-ad6b-2a2cbc6d6ffa",
+   "title": "1.21 AES Encryption",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-21-AES-Encryption-7a55.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4a8883e2-af95-e1e4-9e83-b5af83e4f629",
+   "title": "1.21B CreatorSpace Lab AES (Paul***use as basis for des lab***) ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: cd aes",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "aes"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/1-21B-CreatorSpace-Lab-AES--Paul---use-as-basis-for-des-lab------4a88.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -592,17 +640,11 @@
   },
   {
    "id": "2551624a-6b97-2fcf-15e8-f346ab5f14ac",
-   "title": "Hackathon 2: A Special Substitution Cipher: ROT 13",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "2-panels",
+   "title": "Hackathon 2: A Special Substitution Cipher: ROT 13 (Paul) ",
+   "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon-2--A-Special-Substitution-Cipher--ROT-13-2551.md",
+   "content-file": ".guides/content/Hackathon-2--A-Special-Substitution-Cipher--ROT-13--Paul---2551.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
