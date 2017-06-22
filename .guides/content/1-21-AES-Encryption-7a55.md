@@ -1,4 +1,4 @@
- In 1998, NIST held a competition to replace DES with an encryption standard that would be more secure, yet still efficient.  The winner was the Rijndael algorithm created by Vincent Rijmen and Joan Daemen of Belgium. It became known as the **Advanced Encryption Standard (AES)** Today, AES is used extensively worldwide, and is gradually replacing DES and 3DES. AES uses a process that combines substitution  with permutation that is referred to as a **substitution-permutation network** in cryptography.  
+ In 1998, NIST held a competition to replace DES with an encryption standard that would be more secure, yet still efficient.  In 2000, the winner was the Rijndael algorithm created by Vincent Rijmen and Joan Daemen of Belgium. It became known as the **Advanced Encryption Standard (AES)** Today, AES is used extensively worldwide, and is gradually replacing DES and 3DES. AES uses a process that combines substitution  with permutation that is referred to as a **substitution-permutation network** in cryptography.  
 
 
 |||guidance

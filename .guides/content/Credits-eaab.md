@@ -1,23 +1,26 @@
 ## NSF C5 Content and Assessment Developers
-  
+     
+ **Dr. Yesem Kurt-Peker,** Assistant Professor of Computer Science, Columbus State University, TSYS School of Computer Science. C5 Content Developer for Applied Cryptography
  
+ **Dr. Elizabeth K. Hawthorne,** Senior Professor of Computer Science and Cybersecurity, Union County College, STEM Division. C5 Co-Principal Investigator
   
- **Dr. Yesem Kurt-Peker,** Assistant Professor of Computer Science, Columbus State University, TSYS School of Computer Science. C5 Content Developer for Applied Cryptography.
- 
- **Dr. Elizabeth K. Hawthorne,** Senior Professor of Computer Science and Cybersecurity, Union County College, STEM Division. C5 Co-Principal Investigator.
-  
-  **Dr. Melissa Dark,** W.C. Furnas Professor Computer and Information Technology, Purdue University, College of Technology. C5 Co-Principal Investigator.
+  **Dr. Melissa Dark,** W.C. Furnas Professor Computer and Information Technology, Purdue University, College of Technology. C5 Co-Principal Investigator
   
  
   
   ## Codio Content Contributors
   
-  **Paul Sery,** Cybersecurity Researcher, Sandia National Labs: Content Developer.
+  **Paul Sery,** Cybersecurity Researcher, Sandia National Labs: Content Developer
 
-  **Christopher Nebergall,** Cybersecurity Researcher, Sandia National Labs. Technical Editor. 
+  **Christopher Nebergall,** Cybersecurity Researcher, Sandia National Labs Technical Editor 
   
-  **Lori Oviatt:** Instructional Designer.
+  **Lori Oviatt:** Instructional Designer
   
-  **Richard Pepper:** Creative Design, illustration, and animation.
+  **Richard Pepper:** Creative Design, illustration, and animation
   
-  **Devon Musgrave:** Editor.
+  **Devon Musgrave:** Editor
+  
+  **Raven Alder:** Principal Engineer, Nexum, Inc. Day in the Life of video
+  
+  **NIST person:**
+  

@@ -9,8 +9,7 @@ There are several modern block ciphers that have different strengths and weaknes
 1. Camellia
 
 Research each cipher on the Internet to answer the following questions.
-- How does your assigned cipher work?
-- What is (was) it used for?
+- What is the key size?
 - What are its strengths?
 - Does it have any security vulnerabilities?
 - Does it have any down sides that make it less usable?

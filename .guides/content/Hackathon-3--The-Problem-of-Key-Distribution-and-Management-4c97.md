@@ -8,7 +8,8 @@ With a partner, explore creative ways of how you could share a key between yours
 -  You need a secure channel that makes it very difficult for the adversary to access the actual plaintext that is being transmitted.
 -  The Internet is not secure!
 
-Share your creative solution with another team.  Can you crack their system?  Can they crack yours?
+Share your creative solution with another team.  Can you crack their system?  
+Can they crack yours?
 
 ||| guidance
 **Instructor's note:** Student answers might include: having a trusted carrier;  carrying and delivering the key in a locked case; and sharing a key over an untapped phone line, plus others.

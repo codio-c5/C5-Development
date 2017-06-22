@@ -260,20 +260,8 @@
   },
   {
    "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
-<<<<<<< HEAD
-   "title": " 1.11A *New* Substitution Cipher",
-   "files": [
-    {
-     "path": "substitution/index-sub.html",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "",
-=======
    "title": " 1.11A Substitution Cipher",
    "files": [],
->>>>>>> 8c78da3f50331dcde7ff672c146e752efb13b74e
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/-1-11A-Substitution-Cipher-9277.md",
@@ -288,14 +276,9 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "#preview: substitution/index-sub.html",
-     "panel": 0,
-     "action": "open"
     }
    ],
-   "layout": "2-panels",
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
@@ -461,42 +444,6 @@
    "teacherOnly": false
   },
   {
-   "id": "a6584dc1-1c51-64fe-d8ba-bacdf87e8550",
-   "title": "1.20A CreatorSpace Lab DES (Paul) ",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-20A-CreatorSpace-Lab-DES--Paul---a658.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "4a8883e2-af95-e1e4-9e83-b5af83e4f629",
-   "title": "1.21B CreatorSpace Lab AES (Paul***use as basis for des lab***) ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: cd aes",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels-tree",
-   "path": [
-    "aes"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/1-21B-CreatorSpace-Lab-AES--Paul---use-as-basis-for-des-lab------4a88.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
    "title": "1.23 Symmetric Key Cryptography Summary",
    "files": [
@@ -548,11 +495,17 @@
   },
   {
    "id": "2551624a-6b97-2fcf-15e8-f346ab5f14ac",
-   "title": "Hackathon 2: A Special Substitution Cipher: ROT 13 (Paul) ",
-   "files": [],
+   "title": "Hackathon 2: A Special Substitution Cipher: ROT 13",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon-2--A-Special-Substitution-Cipher--ROT-13--Paul---2551.md",
+   "content-file": ".guides/content/Hackathon-2--A-Special-Substitution-Cipher--ROT-13-2551.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -682,17 +635,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-8A-Hackathon--Inside-RSA-Encryption-59d2.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "d9014f1e-97ff-632d-564c-2025f01c3321",
-   "title": "New Section 62",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/New-Section-62-d901.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
