@@ -66,12 +66,12 @@
   },
   {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
-   "title": "1.4 Symmetric Key Cryptography (animation tk) ",
+   "title": "1.4 An Overview of Symmetric Key Cryptography",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-4-Symmetric-Key-Cryptography--animation-tk---ed61.md",
+   "content-file": ".guides/content/1-4-An-Overview-of-Symmetric-Key-Cryptography-ed61.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -327,7 +327,7 @@
   },
   {
    "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
-   "title": "1.15A CreatorSpace Lab: Breaking the Substitution Cipher  ",
+   "title": "CreatorSpace Lab: Frequency Analysis and the Substitution Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -337,7 +337,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-15A-CreatorSpace-Lab--Breaking-the-Substitution-Cipher---b2ec.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Frequency-Analysis-and-the-Substitution-Cipher-b2ec.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -410,18 +410,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-19-Block-Ciphers-c671.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "7a556bd4-b7ec-f8cf-ad6b-2a2cbc6d6ffa",
-   "title": "1.21 AES Encryption",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-21-AES-Encryption-7a55.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -502,7 +490,7 @@
      "action": "close"
     }
    ],
-   "layout": "2-panels",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hackathon-2--A-Special-Substitution-Cipher--ROT-13-2551.md",

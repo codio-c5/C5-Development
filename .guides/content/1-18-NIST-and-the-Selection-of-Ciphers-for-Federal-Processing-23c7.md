@@ -1,6 +1,6 @@
 
 
-## NIST employee Jeopardy-style vid on parallel pane
+
 
 
 ![.guides/img/NISTlogo](.guides/img/NISTlogo.PNG)

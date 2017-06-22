@@ -7,6 +7,7 @@ There are several modern block ciphers that have different strengths and weaknes
 1. Triple DES (3DES)
 1. IDEA
 1. Camellia
+1. AES
 
 Research each cipher on the Internet to answer the following questions.
 - What is the key size?

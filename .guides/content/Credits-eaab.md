@@ -20,7 +20,7 @@
   
   **Devon Musgrave:** Editor
   
-  **Raven Alder:** Principal Engineer, Nexum, Inc. Day in the Life of video
+  **Raven Alder:** Principal Engineer, Nexum, Inc. *A Day in the Life of...* video
   
-  **NIST person:**
+
   

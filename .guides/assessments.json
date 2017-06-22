@@ -585,5 +585,17 @@
    "instructions": "How would knowing this change your attack scenario?",
    "points": 1
   }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3117283162",
+  "source": {
+   "name": "GH 1.4",
+   "showName": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "What is the result of your second encryption?  Why?",
+   "points": 1
+  }
  }
 ]

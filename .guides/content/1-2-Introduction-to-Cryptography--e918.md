@@ -13,7 +13,7 @@
 
 [Learn more about code breaking and the movie *The Imitation Game*](http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.html)
 
-</br>
+<br>
 <figure class="snippetimg" style="margin: 0 auto;width:50%">
   <img src=".guides/img/Turingat16.jpg" alt="Alan Turing Aged 16. Sourced from Wikimedia Commons">
   <figcaption style="font-size: 0.8em; text-align: left;">Alan Turing Aged 16. 
