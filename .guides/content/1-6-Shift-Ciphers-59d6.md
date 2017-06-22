@@ -7,15 +7,18 @@ A **shift cipher** is a generalization of Caesar cipher in which the key can be 
 Example with `k=11`
 
 ```bash
-PLaintext:  meet me after the toga party
+Plaintext:  meet me after the toga party
 Ciphertext: XPPE XP LQEPC ESP EZRL ALCEJ
 ```
 
 ## Cryptanalysis of Shift Cipher
 What would it take to break the shift cipher? If you know that a ciphertext is obtained using a shift cipher, how would you get the original plaintext? In the brute force approach you try out all possible keys to determine the key space and the number of keys used. 
 
-|||info
-**Note:** We assume here that the cryptanalyst knows the language that the original plaintext is in.|||
+||| info
+
+**Note:** We assume here that the cryptanalyst knows the language that the original plaintext is in. 
+
+|||
 
 
 ## Growth Hack 
