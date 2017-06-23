@@ -11,12 +11,12 @@ key = keyfile.read()
 keyfile.close
 
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
-#key = 'ZYXWVUTSRQPONMLKJIHGFEDCBA '
 
 keyfile = open("/home/codio/workspace/substitution/subplaintext.txt","r")
 plaintext = keyfile.read()
 keyfile.close
-#plaintext = "What are you talking about? What's this about?"
+
+keyCheck = dict(zip(alphabet, key))
 
 def subEncrypt(plaintext, key, alphabet):
     keyIndex = dict(zip(alphabet, key))
