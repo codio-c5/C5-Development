@@ -298,9 +298,19 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "substitution/subkey.txt",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "substitution/subplaintext.txt",
+     "panel": 1,
+     "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "3-cell",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
