@@ -1,0 +1,432 @@
+{
+ "name": "C5 Development",
+ "children": [
+  {
+   "title": " ",
+   "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
+   "pageId": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": " Applied Cryptography",
+   "id": "5d9fd56e-0c98-26b6-b3d1-f55780f7c1d5",
+   "pageId": "5d9fd56e-0c98-26b6-b3d1-f55780f7c1d5",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.1 Symmetric Key Cryptography  ",
+   "id": "f3a11fa5-1a8b-0373-eb1c-a92bae198b71",
+   "pageId": "f3a11fa5-1a8b-0373-eb1c-a92bae198b71",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.2 Introduction to Cryptography ",
+   "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
+   "pageId": "e918ce5b-d74b-289e-5014-2e4ad543e726",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.2A Cryptography Terms",
+   "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
+   "pageId": "dd910baf-297f-35ea-dd6d-08eedab756f6",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.3  The Main Tenets of Cybersecurity  ",
+   "id": "cc716ec0-709d-3645-6fb6-3cf57f39e20b",
+   "pageId": "cc716ec0-709d-3645-6fb6-3cf57f39e20b",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.4 Symmetric Key Cryptography (animation tk) ",
+   "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
+   "pageId": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.5 Caesar Cipher  ",
+   "id": "1dd80aa3-a4a0-2b33-5373-2f567db42317",
+   "pageId": "1dd80aa3-a4a0-2b33-5373-2f567db42317",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.5A CreatorSpace Lab: Encrypting the Caesar Cipher  ",
+   "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
+   "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.5 B CreatorSpace Lab: Decrypting the Caesar Cipher",
+   "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
+   "pageId": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.6 Shift Ciphers",
+   "id": "59d68695-cf0a-9e9a-746c-70fcbf03db94",
+   "pageId": "59d68695-cf0a-9e9a-746c-70fcbf03db94",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.6A: Across the Disciplines: Language",
+   "id": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
+   "pageId": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.7 Analyzing a Shift Cipher ",
+   "id": "80efc43f-a6a8-9c09-e1c1-adadb2e61383",
+   "pageId": "80efc43f-a6a8-9c09-e1c1-adadb2e61383",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.8 Kerckhoffs's Principle",
+   "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
+   "pageId": "ee032af8-9505-2c4e-187e-102b1f584a4c",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.9 The Big Picture: Cryptology ",
+   "id": "3502bbde-35f2-6beb-6676-025bb71c05fe",
+   "pageId": "3502bbde-35f2-6beb-6676-025bb71c05fe",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.9A: A Day in the Life of Raven Alder",
+   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
+   "pageId": "33631974-d9bc-f937-fd6b-779cb40a0611",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.9B Cryptanalysis of a Cipher",
+   "id": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
+   "pageId": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.10 Meetup: Shift Ciphers and Attack Scenarios ",
+   "id": "61e4399a-c753-e848-2836-c5e4e3a2db98",
+   "pageId": "61e4399a-c753-e848-2836-c5e4e3a2db98",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": " 1.11A *New* Substitution Cipher",
+   "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
+   "pageId": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.11 CreatorSpace Lab: Substitution Cipher (Paul*** make hands on better***) ",
+   "id": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
+   "pageId": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.11A CreatorSpace Lab: ROTn",
+   "id": "8c7d5a65-82e6-e6ab-d968-e04215302966",
+   "pageId": "8c7d5a65-82e6-e6ab-d968-e04215302966",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.13 CreatorSpace Lab: Create Your Own Ciphertext (Was Freddy's The Code)  (.....Paul***add description***) ",
+   "id": "d99e7b3f-e512-8bf9-a8e8-1368a18c27f6",
+   "pageId": "d99e7b3f-e512-8bf9-a8e8-1368a18c27f6",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.15 Breaking the Substitution Cipher",
+   "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
+   "pageId": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.15A CreatorSpace Lab: Breaking the Substitution Cipher  ",
+   "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
+   "pageId": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.15 B Across the Disciplines: Literature",
+   "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
+   "pageId": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.16 Meetup: Substitution Ciphers and Attack Scenarios ",
+   "id": "33ae8bc2-a52d-e622-b170-66e9a8ef074e",
+   "pageId": "33ae8bc2-a52d-e622-b170-66e9a8ef074e",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.17 Knowledge Check In",
+   "id": "4a4e1581-bc92-42e3-ea41-824a03c064b2",
+   "pageId": "4a4e1581-bc92-42e3-ea41-824a03c064b2",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.18 NIST and the Selection of Ciphers for Federal Processing",
+   "id": "23c78ec1-2e5e-d3cf-ffce-7f8643b0b3f3",
+   "pageId": "23c78ec1-2e5e-d3cf-ffce-7f8643b0b3f3",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.19 Block Ciphers",
+   "id": "c6710826-508f-2c18-9e53-798609eac823",
+   "pageId": "c6710826-508f-2c18-9e53-798609eac823",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.19A Meetup: Block Ciphers ",
+   "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
+   "pageId": "55906d07-36a5-4156-7e44-0d968e6589f2",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.20 DES Encryption",
+   "id": "58a4515f-4c99-3fea-a9f4-291e6ac85cd1",
+   "pageId": "58a4515f-4c99-3fea-a9f4-291e6ac85cd1",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.20A CreatorSpace Lab DES (Paul) ",
+   "id": "a6584dc1-1c51-64fe-d8ba-bacdf87e8550",
+   "pageId": "a6584dc1-1c51-64fe-d8ba-bacdf87e8550",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.21 AES Encryption",
+   "id": "7a556bd4-b7ec-f8cf-ad6b-2a2cbc6d6ffa",
+   "pageId": "7a556bd4-b7ec-f8cf-ad6b-2a2cbc6d6ffa",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.21B CreatorSpace Lab AES (Paul***use as basis for des lab***) ",
+   "id": "4a8883e2-af95-e1e4-9e83-b5af83e4f629",
+   "pageId": "4a8883e2-af95-e1e4-9e83-b5af83e4f629",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.23 Symmetric Key Cryptography Summary",
+   "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
+   "pageId": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "1.23A Symmetric Key Cryptography Summary",
+   "id": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
+   "pageId": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "Hackathon 1: Caesar Cipher as a Block Flowchart   ",
+   "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
+   "pageId": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "Hackathon 2: A Special Substitution Cipher: ROT 13 (Paul) ",
+   "id": "2551624a-6b97-2fcf-15e8-f346ab5f14ac",
+   "pageId": "2551624a-6b97-2fcf-15e8-f346ab5f14ac",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "Hackathon 3: The Problem of Key Distribution and Management",
+   "id": "4c976928-c138-4765-3191-a236fe4c6414",
+   "pageId": "4c976928-c138-4765-3191-a236fe4c6414",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "Credits",
+   "id": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb",
+   "pageId": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": " ",
+   "id": "2706553b-4623-eba7-48a6-a45095e5602a",
+   "pageId": "2706553b-4623-eba7-48a6-a45095e5602a",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.1 Public Key Cryptography (LA)",
+   "id": "90c6cfd6-49eb-48be-8898-46208b2682f0",
+   "pageId": "90c6cfd6-49eb-48be-8898-46208b2682f0",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.2 Check Your Memory",
+   "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
+   "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.3 Solutions for Key Distribution ",
+   "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
+   "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.4 Public Key Cryptography",
+   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+   "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.5 Asymmetric Encryption",
+   "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
+   "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.6 The Advantage of Asymmetric Encryption",
+   "id": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
+   "pageId": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.7 CreatorSpace Lab: Public Key Encryption",
+   "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
+   "pageId": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.8A Hackathon: Inside RSA Encryption",
+   "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
+   "pageId": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.8B CreatorSpace Lab: RSA",
+   "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
+   "pageId": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.9 Elliptic Curve Encryption",
+   "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
+   "pageId": "5a9266e7-9fe3-188a-5b14-f25a19808721",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.9A Across the Disciplines: Theoretical Mathematics",
+   "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
+   "pageId": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.10 The Problem of Authentication ",
+   "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
+   "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.11 Meetup: Key Agreement (Exchange) Protocols ",
+   "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
+   "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.12 Key Agreement Protocols ",
+   "id": "20559663-a427-4335-4394-afe3c420da60",
+   "pageId": "20559663-a427-4335-4394-afe3c420da60",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.13 (S18) Examples of Key Agreement Schemes (Paul)",
+   "id": "31840323-7c31-43ff-0bbd-6f4afa31a51c",
+   "pageId": "31840323-7c31-43ff-0bbd-6f4afa31a51c",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.15 (S19) Use of Key Agreement Protocols (Paul)",
+   "id": "ad2dd920-b379-233d-165c-ea316b3b9dbb",
+   "pageId": "ad2dd920-b379-233d-165c-ea316b3b9dbb",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.16  Man in the Middle Attack",
+   "id": "0a7f417f-9172-9432-773c-26193370b574",
+   "pageId": "0a7f417f-9172-9432-773c-26193370b574",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.17 (S21) Another Problem: Integrity  ( Paul -> LA )",
+   "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
+   "pageId": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.8  RSA Encryption ",
+   "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
+   "pageId": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
+   "type": "page",
+   "children": []
+  },
+  {
+   "title": "2.18 Unit Summary",
+   "id": "8465c47f-fb60-e5e0-78f7-705f78587e93",
+   "pageId": "8465c47f-fb60-e5e0-78f7-705f78587e93",
+   "type": "page",
+   "children": []
+  }
+ ]
+}
