@@ -225,6 +225,17 @@
    "teacherOnly": false
   },
   {
+   "id": "e88a2a5f-5a45-5689-e309-3f7fa1be906d",
+   "title": "A Day in the life of Angy Shavit",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Day-in-the-life-of-Angy-Shavit-e88a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
    "title": "1.9B Cryptanalysis of a Cipher",
    "files": [
