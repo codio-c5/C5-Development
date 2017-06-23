@@ -4,8 +4,10 @@ As we've learned shift ciphers provide little or no encryption. However, the ROT
 
 The interactive ROTn on the left hand side is an cryptanalyst tool that lets you experiment with decoding ciphertext. It applies all 26 possible keys to the ciphertext.
 
-Enter some ciphertext, for instance like  "XPPE XP LQEPC ESP EZRL ALCEJ", in the main text area and then press **Show ROTn**.
+Enter some ciphertext, for instance like  "WDNH PH RXW WR WKH EDOO JDPH", in the main text area and then press **Show ROTn**.
 
 The application applies all 26 possible keys - rotations - to the ciphertext. Examine the results and see if something stands out.
 
-Indeed. The plaintext is revealed from a previous use of the Caesar cipher. This is an example of using the Brute Force technique. This tool tried every possible key and that revealed the original plaintext.
+Hint: look towards the bottom.
+
+Indeed, the plaintext is revealed from a previous example of the Caesar cipher. You just used the Brute Force cryptanalysis technique by trying every possible key. That process revealed the original plaintext.
