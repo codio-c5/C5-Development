@@ -9,8 +9,8 @@ You can see that it maps "A" to "Z", "B" to "Y" , etc.
 ## Your Turn
 You can play with the substitution cipher on the left. Enter some text and press the Encrypt button and then the Decrypt button to get a feel for how a substitution cipher works.
 
-{Encrypt with substitution cipher}(substitution/subencrypt.sh)
+{Encrypt}(substitution/subencrypt.sh)
 
 Now decrypt the ciphertext
 
-{Decrypt with substitution cipher}(substitution/subdecrypt.sh)
+{Decrypt}(substitution/subdecrypt.sh)
