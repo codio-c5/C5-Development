@@ -242,6 +242,28 @@
    "teacherOnly": false
   },
   {
+   "id": "8c7d5a65-82e6-e6ab-d968-e04215302966",
+   "title": "1.9C CreatorSpace Lab: ROTn",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: substitution/index.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-9C-CreatorSpace-Lab--ROTn-8c7d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "61e4399a-c753-e848-2836-c5e4e3a2db98",
    "title": "1.10 Meetup: Shift Ciphers and Attack Scenarios ",
    "files": [
@@ -282,28 +304,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "8c7d5a65-82e6-e6ab-d968-e04215302966",
-   "title": "1.11A CreatorSpace Lab: ROTn",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#preview: substitution/index.html",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-11A-CreatorSpace-Lab--ROTn-8c7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

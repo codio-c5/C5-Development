@@ -2,7 +2,7 @@ Let's create an example key for a simple, monoalphabetic substitution cipher: `Z
 
 we get the result
 
-"MVEVI HZB NVEVI"
+`MVEVI HZB NVEVI`
 
 You can see that it maps "A" to "Z", "B" to "Y" , etc.  
 
