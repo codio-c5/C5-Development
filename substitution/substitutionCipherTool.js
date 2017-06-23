@@ -244,10 +244,7 @@ function shift(n, letter, min, max) {
 }
 
 function init() {
-  $('input#analyze').click(analyze);
   $('input#rotn').click(rotButton);
-  $('input#guessFinnish').click(guessFinnish);
-  $('input#guessEnglish').click(guessEnglish);
   $('div#resultContainer').width($('div#input textarea').width());
 }
 
