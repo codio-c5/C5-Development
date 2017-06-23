@@ -323,13 +323,7 @@
   {
    "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
    "title": " 1.11A *New* Substitution Cipher",
-   "files": [
-    {
-     "path": "substitution/index-sub.html",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
+   "files": [],
    "layout": "",
    "path": [],
    "type": "markdown",
@@ -347,12 +341,17 @@
      "action": "close"
     },
     {
-     "path": "#preview: substitution/index-sub.html",
+     "path": "substitution/subkey.txt",
      "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "substitution/subcipher.py",
+     "panel": 1,
      "action": "open"
     }
    ],
-   "layout": "2-panels",
+   "layout": "3-cell",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
@@ -415,6 +414,7 @@
    "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
    "title": "1.15 Breaking the Substitution Cipher",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/1-15-Breaking-the-Substitution-Cipher-b256.md",
