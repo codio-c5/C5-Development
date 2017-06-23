@@ -6,6 +6,6 @@ The interactive ROTn on the left hand side is an cryptanalyst tool that lets you
 
 Enter some ciphertext, for instance like  "XPPE XP LQEPC ESP EZRL ALCEJ", in the main text area and then press **Show ROTn**.
 
-The application applies all 26 possible keys - rotations - to the ciphertext. Examine the results and see if something stands out. Hint: look towards to the bottom.
+The application applies all 26 possible keys - rotations - to the ciphertext. Examine the results and see if something stands out.
 
-Indeed. The plaintext is revealed from a previous use of the Caesar cipher. Recall that we used the key equal to 3. When ROT=23 is applied, it effectively reverses the encryption process and decrypts the original message.
+Indeed. The plaintext is revealed from a previous use of the Caesar cipher. This is an example of using the Brute Force technique. This tool tried every possible key and that revealed the original plaintext.
