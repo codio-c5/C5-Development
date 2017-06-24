@@ -1,6 +1,8 @@
-Let's create an example key for a simple, monoalphabetic substitution cipher: `ZYXWVUTSRQPONMLKJIHGFEDCBA`. In this example, it's just the alphabet reversed. If we use it to encrypt the message “Never say never”.
+Let's create an example key for a simple, monoalphabetic substitution cipher: `ZYXWVUTSRQPONMLKJIHGFEDCBA`. In this example, it's just the alphabet reversed.
 
-we get the result
+If we use it to encrypt the message “Never say never”.
+
+we get the result:
 
 `MVEVI HZB NVEVI`
 
