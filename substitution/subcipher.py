@@ -74,5 +74,4 @@ newplaintext  = subDecrypt(ciphertext, keyIndex)
 if encrypt:
 	print(ciphertext)
 else:
-        print 'decode'
 	print(newplaintext)
