@@ -1,4 +1,4 @@
-So, how do you crack a code?
+## So, how do you crack a code?
 
 Cryptanalysts first need to know what information they have to create a decoding strategy.  The elements of a code are the original plaintext, the resulting ciphertext, and the encryption/decryption key. To crack a code, your strategy depends on what you have. 
 

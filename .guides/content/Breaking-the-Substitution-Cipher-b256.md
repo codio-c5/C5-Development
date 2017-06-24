@@ -1,5 +1,4 @@
-
-
+## Using Frequency Analysis 
 
 Simple substitution ciphers offer little more security than shift ciphers do. Recall that **monographic ciphers** replace letters in plaintext one for one with ciphertext. There are also **polygraphic ciphers** that replace multiple letters at a time.  They provide more security by effectively increasing the **key size**, but ultimately do not provide adequate encryption for modern needs, as they are easy to break with a computer.
 
@@ -14,8 +13,6 @@ In everyday English, you'll see that some letters are used more frequently than 
   </br>
  Source: by Nandhp. Public Domain.</figcaption>
 </figure>
-
-
 
 
 This analysis can be extended to letter groupings like [**digrams**, (also known as bigrams)](https://en.wikipedia.org/wiki/Bigram) and [**trigrams**](https://en.wikipedia.org/wiki/Trigram) plus common words. It won't be a surprise that words like "the" and "it" occur more frequently than words like "cryptanalyst". 

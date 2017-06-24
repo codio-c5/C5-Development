@@ -1,4 +1,4 @@
-###  Points to Ponder
+## Points to Ponder
  
  {Submit Answer!|assessment}(free-text-1894789270)
  {Submit Answer!|assessment}(free-text-3290180585)
