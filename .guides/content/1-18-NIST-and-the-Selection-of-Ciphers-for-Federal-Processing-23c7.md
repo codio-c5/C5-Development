@@ -3,12 +3,12 @@
 
 
 
-![.guides/img/NISTlogo](.guides/img/NISTlogo.PNG)
+<div>
+  <iframe src="//player.vimeo.com/video/222909163" width="500" height="290" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
-### The National Institute of Standards and Technology (NIST) publishes standards and guidelines for federal agencies to follow so that sensitive federal information is protected.
+ The National Institute of Standards and Technology (NIST) publishes standards and guidelines for federal agencies to follow so that sensitive federal information is protected. 
 
-- In 1973 the agency, then called the National Bureau of Standards (NBS), solicited algorithms to be used for protecting sensitive federal data.
-- In 1976 DES (Data Encryption Standard) was approved as a federal standard.
-- In 1997 NIST called for new algorithms to replace DES, as the key length (56 bits) used in DES was too small for the increasing computational power.
-- In 2000 AES (Advanced Encryption Standard) was approved.
+Deputy Director Bill Newhouse stepped away from his busy day to explain NIST's involvement with block cipher standards. 
+
   

@@ -397,17 +397,6 @@
    "teacherOnly": false
   },
   {
-   "id": "4a4e1581-bc92-42e3-ea41-824a03c064b2",
-   "title": "1.17 Knowledge Check In",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-17-Knowledge-Check-In-4a4e.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "23c78ec1-2e5e-d3cf-ffce-7f8643b0b3f3",
    "title": "1.18 NIST and the Selection of Ciphers for Federal Processing",
    "files": [
@@ -503,8 +492,8 @@
    "teacherOnly": false
   },
   {
-   "id": "2551624a-6b97-2fcf-15e8-f346ab5f14ac",
-   "title": "Hackathon 2: A Special Substitution Cipher: ROT 13",
+   "id": "4c976928-c138-4765-3191-a236fe4c6414",
+   "title": "Hackathon 2: The Problem of Key Distribution",
    "files": [
     {
      "path": "#tabs",
@@ -514,19 +503,18 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon-2--A-Special-Substitution-Cipher--ROT-13-2551.md",
+   "content-file": ".guides/content/Hackathon-2--The-Problem-of-Key-Distribution-4c97.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
-   "id": "4c976928-c138-4765-3191-a236fe4c6414",
-   "title": "Hackathon 3: The Problem of Key Distribution and Management",
+   "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
+   "title": "Assessment items",
    "files": [],
-   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon-3--The-Problem-of-Key-Distribution-and-Management-4c97.md",
+   "content-file": ".guides/content/Assessment-items-7e9f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
