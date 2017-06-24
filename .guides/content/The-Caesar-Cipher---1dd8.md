@@ -18,3 +18,6 @@ If you know a ciphertext is obtained using a shift cipher, getting the original 
  Solving a cipher is called  **cryptanalysis.**
  Solving a cipher by trying different combinations to determine the key is call a **brute force attack.**
 |||
+
+## Knowledge Check in 
+{Check It!|assessment}(fill-in-the-blanks-3769728457)

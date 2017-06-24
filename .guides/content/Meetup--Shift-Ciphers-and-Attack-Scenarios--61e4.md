@@ -14,6 +14,10 @@
 |||guidance
 **Instructor's Note:**  Divide your class into groups and have each group take on one of the four scenarios. Have the groups report back to the class at large with their findings.
 |||
+## Knowledge Check In
+
+{Check It!|assessment}(fill-in-the-blanks-1068247789)
+{Check It!|assessment}(fill-in-the-blanks-1844380040)
 
 ||| guidance
 **Instructor's Note:** 
