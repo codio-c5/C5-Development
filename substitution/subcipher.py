@@ -36,10 +36,12 @@ def buildKey(key, alphabet):
     keylen=0
     for k in key:
         if k != '\n':
-            tmpkey.append(k)
+            tmpkey.append(k.upper())
             keylen+=1
 
-    # fill in missing alphabetic characters if key is incomplete
+    keyIndex = dict(zip(alphabet, tmpkey))
+
+    # fill out key if missing characters
     i=0
     for a in alphabet:
         if i >= keylen:
@@ -47,6 +49,11 @@ def buildKey(key, alphabet):
         i+=1
 
     newkey = tmpkey + missing 
+
+    if os.path.isfile(fk):
+        keyfile = open(fk,"w")
+        keyfile.write(''.join(newkey))
+        keyfile.close
 
     keyIndex = dict(zip(alphabet, newkey))
     return keyIndex
@@ -67,4 +74,5 @@ newplaintext  = subDecrypt(ciphertext, keyIndex)
 if encrypt:
 	print(ciphertext)
 else:
+        print 'decode'
 	print(newplaintext)
