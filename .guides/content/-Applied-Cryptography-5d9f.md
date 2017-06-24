@@ -1,20 +1,16 @@
 
-Add paragraph here about applied crypto to set the stage. Perhaps a Dr. P. talking head vid?
+<div>
+  <iframe src="//player.vimeo.com/video/222891432" width="480" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
-
-- Symmetric Key 
-- Public Key 
-- Hash Functions
-- Digital Signatures
-
-
+<br>
 ## The Five Tenets of Information Security
 
 The field of cybersecurity is about supporting secure digital communications. Secure communications requires that each of these tenets is met. 
 
 In this module, you will learn about each tenet and how applied cryptography methods address them.
 
-**Confidentiality** is the concept of ensuring that data is not made available or disclosed to unauthorized people. Confidentiality, achieved through encryption, was the original purpose of cryptography. In units 1 and 2, you will learn about different forms of cryptography, their strengths and weaknesses, and approaches for solving them.
+**Confidentiality** is the concept of ensuring that data is not made available or disclosed to unauthorized people. Confidentiality, achieved through encryption, was the original purpose of cryptography. In Units 1 and 2, you will learn about different forms of cryptography, their strengths and weaknesses, and approaches for solving them.
 
 **Integrity** is the concept of ensuring that data has not been altered in any way. Unit 3 explores **hash functions,** which are commonly used for this purpose.
 

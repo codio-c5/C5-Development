@@ -17,7 +17,7 @@ Students can explore DES further here: http://page.math.tu-berlin.de/~kant/teach
 
 **Triple DES (3DES)** evolved as a replacement for DES. In 3DES, a 56 bit key is applied three times on each data block. This has the advantage of being more secure than a single 56-bit key,yet remains more efficient than a single longer length key.
 
- In 1998, NIST held a competition to replace DES with an encryption standard that would be more secure, yet still efficient.  In 2000, the winner was the Rijndael algorithm created by Vincent Rijmen and Joan Daemen of Belgium. It became known as the **Advanced Encryption Standard (AES)** Today, AES is used extensively worldwide, and is gradually replacing DES and 3DES. AES uses a process that combines substitution  with permutation that is referred to as a **substitution-permutation network** in cryptography.  
+ In 1998, NIST held a competition to replace DES with an encryption standard that would be more secure, yet still efficient.  In 2000, the winner was the Rijndael algorithm created by Vincent Rijmen and Joan Daemen of Belgium. It became known as the **Advanced Encryption Standard (AES)** Today, AES is used extensively worldwide, and is gradually replacing DES and 3DES. AES uses 128 bits in a process that combines substitution  with permutation that is referred to as a **substitution-permutation network** in cryptography.  
 
 
 |||guidance

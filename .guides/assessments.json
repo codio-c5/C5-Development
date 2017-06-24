@@ -37,7 +37,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-836680581",
   "source": {
-   "name": "CYK 2.1A",
+   "name": "AH 1.1.1",
    "showName": false,
    "instructions": "Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.",
    "points": "1",
@@ -125,7 +125,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-2647053800",
   "source": {
-   "name": "KCI 1.2",
+   "name": "1.1.1",
    "showName": false,
    "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?",
    "points": "1",
@@ -159,7 +159,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1557635309",
   "source": {
-   "name": "CYM 1.2",
+   "name": "1.2.1",
    "showName": false,
    "instructions": "In which of the following attack scenarios does the attacker has most power? ",
    "points": "1",
@@ -215,7 +215,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1475741445",
   "source": {
-   "name": "CYM 1.4",
+   "name": "1.4.1",
    "showName": false,
    "instructions": "Which of the following are symmetric key ciphers? Select all that apply.",
    "points": "1",
@@ -429,7 +429,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1681383484",
   "source": {
-   "name": "CYK 1.1B",
+   "name": "AH 1.1.2",
    "showName": false,
    "instructions": "Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.",
    "points": "1",
@@ -596,6 +596,779 @@
    "oneTimeTest": true,
    "instructions": "What is the result of your second encryption?  Why?",
    "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-462797056",
+  "source": {
+   "name": "1.1.1",
+   "showName": true,
+   "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "3514fa43-015a-e7e1-3c78-7003c35a68f6",
+     "correct": false,
+     "answer": "File hashing"
+    },
+    {
+     "_id": "aabc5222-903e-3e6b-f783-045daef1abd7",
+     "correct": true,
+     "answer": "File encryption"
+    },
+    {
+     "_id": "5bc06775-3203-4929-7a57-b6c12de6b954",
+     "correct": false,
+     "answer": "File permissions"
+    },
+    {
+     "_id": "5aead881-29a4-fded-80a1-aa813cf1b5d8",
+     "correct": false,
+     "answer": "File backup"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3680413213",
+  "source": {
+   "name": "1.1.2",
+   "showName": true,
+   "instructions": "Fill in the blank with the one-word term that fits best. Be sure to check your spelling.",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<encryption>>> is  the process of converting an original message (plaintext) into a form that cannot be used by unauthorized individuals (ciphertext).\n\n",
+   "tokens": {
+    "blank": [
+     "encryption"
+    ],
+    "text": [
+     0,
+     " is  the process of converting an original message (plaintext) into a form that cannot be used by unauthorized individuals (ciphertext).\n\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2234088531",
+  "source": {
+   "name": "1.1.3",
+   "showName": true,
+   "instructions": "Fill in the blank with the one-word term that fits best. Be sure to check your spelling.\n",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<decryption>>> is the process of converting an encoded or enciphered message (ciphertext) back to its original readable form (plaintext).\n",
+   "tokens": {
+    "blank": [
+     "decryption"
+    ],
+    "text": [
+     0,
+     " is the process of converting an encoded or enciphered message (ciphertext) back to its original readable form (plaintext).\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1038442309",
+  "source": {
+   "name": "1.1.4",
+   "showName": true,
+   "instructions": "Fill in the blank with the one-word term that fits best. Be sure to check your spelling.",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<Plaintext>>> is the original unencrypted message that is encrypted and is the result of successful decryption.",
+   "tokens": {
+    "blank": [
+     "Plaintext"
+    ],
+    "text": [
+     0,
+     " is the original unencrypted message that is encrypted and is the result of successful decryption."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3762368337",
+  "source": {
+   "name": "1.1.5",
+   "showName": true,
+   "instructions": "Fill in the blank with the one-word term that fits best. Be sure to check your spelling.",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<Ciphertext>>> is the unintelligible encrypted or encoded message resulting from an encryption.\n\n",
+   "tokens": {
+    "blank": [
+     "Ciphertext"
+    ],
+    "text": [
+     0,
+     " is the unintelligible encrypted or encoded message resulting from an encryption.\n\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2535938077",
+  "source": {
+   "name": "1.1.6",
+   "showName": true,
+   "instructions": "Fill in the blank with the one-word term that fits best. Be sure to check your spelling.",
+   "points": "1",
+   "showValues": false,
+   "text": "The <<<key>>> is the information used in conjunction with the algorithm to create the ciphertext from the plaintext.",
+   "tokens": {
+    "blank": [
+     "key"
+    ],
+    "text": [
+     "The ",
+     0,
+     " is the information used in conjunction with the algorithm to create the ciphertext from the plaintext."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1798888751",
+  "source": {
+   "name": "1.1.7",
+   "showName": false,
+   "instructions": "Which of the following are true about plaintext?  Select all that apply.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "3ea08248-86f7-4414-ee90-b708fade4144",
+     "correct": true,
+     "answer": "It is a readable format. "
+    },
+    {
+     "_id": "72423b21-03eb-d52a-c031-c11151251572",
+     "correct": false,
+     "answer": "It is an encryption method. "
+    },
+    {
+     "_id": "4d345103-df50-9a4e-578e-4749f4bc6d59",
+     "correct": false,
+     "answer": "It cannot be encrypted."
+    },
+    {
+     "_id": "c34ffa13-cd3b-1976-075c-2ce5539556ff",
+     "correct": false,
+     "answer": "It is always hashed."
+    },
+    {
+     "_id": "fd1f0951-4992-217d-2b0b-56f726ecd314",
+     "correct": false,
+     "answer": "It turns an encrypted format into an unreadable format. "
+    },
+    {
+     "_id": "58b25af2-8d02-e24b-4256-0be3c18222c3",
+     "correct": true,
+     "answer": "Is any data, including binary files, in a form that can be viewed or used without requiring a key."
+    },
+    {
+     "_id": "9124a200-7c55-1efb-3f52-8845eb76b028",
+     "correct": false,
+     "answer": "The output of an encryption algorithm is plaintext.\n"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3839580908",
+  "source": {
+   "name": "1.1.8",
+   "showName": true,
+   "instructions": "Which of the following statements is true about symmetric encryption?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "f806bc46-8733-87b8-d1e9-ceb96ef16b58",
+     "correct": false,
+     "answer": "It has two equal keys."
+    },
+    {
+     "_id": "db38a7d0-5d91-b19b-65b1-0219a183a078",
+     "correct": true,
+     "answer": "There is a single shared key."
+    },
+    {
+     "_id": "3919dfdc-4d84-a542-1e41-3700da1fa657",
+     "correct": false,
+     "answer": "It hashes documents."
+    },
+    {
+     "_id": "af057fc8-2df1-e3e0-1f04-ea08cabc6617",
+     "correct": false,
+     "answer": "It hashes symmetrically."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3168863083",
+  "source": {
+   "name": "1.1.9",
+   "showName": false,
+   "instructions": "Which of the following is/are not a part of symmetric key cryptography? Select all that apply.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "b442d138-ce14-7d11-fdf3-c20977aa0bab",
+     "correct": false,
+     "answer": "Ciphertext"
+    },
+    {
+     "_id": "9fc417de-6a98-e883-78d5-94360c38a49d",
+     "correct": false,
+     "answer": "Encryption Key"
+    },
+    {
+     "_id": "fe2d069c-86cf-b78a-e204-a4d344ef888f",
+     "correct": true,
+     "answer": "Public keys"
+    },
+    {
+     "_id": "d22a45e8-377d-eacb-b918-e0ae4d20c4d5",
+     "correct": true,
+     "answer": "Digital Certificates"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4068578647",
+  "source": {
+   "name": "1.2.7",
+   "showName": false,
+   "instructions": "Which of the following are possible attacks scenarios for symmetric key encryption? Select all that apply.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "3703224f-cb6d-5d4b-9bab-b32901f088c9",
+     "correct": true,
+     "answer": "Cryptanalysis"
+    },
+    {
+     "_id": "7d1588a1-f353-93c9-5586-cd2234e05749",
+     "correct": true,
+     "answer": "Known plaintext"
+    },
+    {
+     "_id": "4be22fdc-7dc3-2e7e-dc10-c252bf95dc8a",
+     "correct": true,
+     "answer": "Chosen plaintext"
+    },
+    {
+     "_id": "de94f6e4-775d-3417-c3bf-3a5eab14db6f",
+     "correct": false,
+     "answer": "Man in the middle attack"
+    },
+    {
+     "_id": "575d6e57-0bed-743d-955d-5e0bd171b169",
+     "correct": false,
+     "answer": "Incidence of coincidence attack"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3360977174",
+  "source": {
+   "name": "1.3.2",
+   "showName": false,
+   "instructions": "Fill in the blank with the correct response. Use only lowercase characters. ",
+   "points": "1",
+   "showValues": false,
+   "text": "Alice uses a special substitution cipher known as ROT13 to encrypt her message to Bob. If Alice’s plaintext is “codecracker\", the ciphertext Bob receives is <<<pbqrpenpxre>>>.",
+   "tokens": {
+    "blank": [
+     "pbqrpenpxre"
+    ],
+    "text": [
+     "Alice uses a special substitution cipher known as ROT13 to encrypt her message to Bob. If Alice’s plaintext is “codecracker\", the ciphertext Bob receives is ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3572864988",
+  "source": {
+   "name": "1.3.3",
+   "showName": false,
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "The letter that appears most frequently in the English alphabet is <<<e>>>.",
+   "tokens": {
+    "blank": [
+     "e"
+    ],
+    "text": [
+     "The letter that appears most frequently in the English alphabet is ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4134289906",
+  "source": {
+   "name": "1.4.5",
+   "showName": false,
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "You want to encrypt data on a removable storage using the strongest method possible.  <<<AES>>> is the encryption method you choose.",
+   "tokens": {
+    "blank": [
+     "AES"
+    ],
+    "text": [
+     "You want to encrypt data on a removable storage using the strongest method possible.  ",
+     0,
+     " is the encryption method you choose."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1804246982",
+  "source": {
+   "name": "1.4.6",
+   "showName": false,
+   "instructions": "Which of the following are types of symmetric key encryption algorithms? Select all that apply.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "4da932b2-60f4-8f8e-b61c-7d1e050ab38e",
+     "correct": true,
+     "answer": "Block ciphers"
+    },
+    {
+     "_id": "50f63f4b-c2d0-5c9c-473a-a9792c84f13e",
+     "correct": false,
+     "answer": "Digital signatures"
+    },
+    {
+     "_id": "4555d946-67e5-812a-10f5-52e708ede1c9",
+     "correct": true,
+     "answer": "Stream ciphers"
+    },
+    {
+     "_id": "84af74c3-5c30-0228-65eb-faf8788db23b",
+     "correct": false,
+     "answer": "Channel ciphers"
+    },
+    {
+     "_id": "18ba51cd-4560-4d1a-6368-e81f29a586a7",
+     "correct": false,
+     "answer": "Generation ciphers"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-79059355",
+  "source": {
+   "name": "1.5.5",
+   "showName": false,
+   "instructions": "What is the biggest challenge associated with the distribution of key in symmetric key encryption?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "2b4d6cca-1d54-60f8-b93f-7757ba7737b9",
+     "correct": false,
+     "answer": "Because the key is public, the algorithm must be kept secret."
+    },
+    {
+     "_id": "89e1c7b6-3b18-18e4-0f80-57dec224fe39",
+     "correct": false,
+     "answer": "It is slow because both parties have their individual keys and the algorithm must be long enough to work with both keys."
+    },
+    {
+     "_id": "57fd5783-1553-0358-9982-a12a29000fc9",
+     "correct": true,
+     "answer": "The parties must have a trusted third party or a means of sending the secret key through an encrypted channel. "
+    },
+    {
+     "_id": "ee5af4dc-2f12-34d0-c514-165d23786da6",
+     "correct": false,
+     "answer": "It relies solely on a single handshake to verify the identity of the other party."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-757564519",
+  "source": {
+   "name": "1.5.6",
+   "showName": false,
+   "instructions": "If both sender and receiver use the same key, the system is referred to as:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "00022df9-9d0b-2627-ebf3-190c31d9268f",
+     "correct": true,
+     "answer": "Symmetric key encryption"
+    },
+    {
+     "_id": "a75b1cc2-215c-f003-ab4a-b3699e0ff804",
+     "correct": false,
+     "answer": "Asymmetric key encryption"
+    },
+    {
+     "_id": "e53cf593-38de-547a-5415-7b456528c6ad",
+     "correct": false,
+     "answer": "Public key encryption"
+    },
+    {
+     "_id": "8d75926e-c20a-a5f1-b598-d006c8574b38",
+     "correct": false,
+     "answer": "One key encryption"
+    },
+    {
+     "_id": "94a2f65a-7aff-4d30-3f73-90be8da8e2fe",
+     "correct": false,
+     "answer": "Same key encryption"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4274829830",
+  "source": {
+   "name": "1.6.3",
+   "showName": false,
+   "instructions": "Fill in the blank with the correct number.",
+   "points": "1",
+   "showValues": false,
+   "text": "DES encrypts <<<64>>> bits at a time. ",
+   "tokens": {
+    "blank": [
+     "64"
+    ],
+    "text": [
+     "DES encrypts ",
+     0,
+     " bits at a time. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2796959550",
+  "source": {
+   "name": "1.6.6",
+   "showName": false,
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<Block ciphers>>> are method of encryption that transposes plaintext to ciphertext in chunks.",
+   "tokens": {
+    "blank": [
+     "Block ciphers"
+    ],
+    "text": [
+     0,
+     " are method of encryption that transposes plaintext to ciphertext in chunks."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4214331039",
+  "source": {
+   "name": "1.1.11",
+   "showName": false,
+   "instructions": "Choose the best response. The primary goal of encryption is:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "ffab7439-7c54-8b59-5acf-1e2ceb03004f",
+     "correct": false,
+     "answer": "To prevent data from being manipulated."
+    },
+    {
+     "_id": "0c5df5e8-8b65-47d0-a4b9-2dafb19a5926",
+     "correct": true,
+     "answer": "To turn sensitive information into unintelligible data. "
+    },
+    {
+     "_id": "c6febfde-b0f5-661d-19e3-eee38de80ee3",
+     "correct": false,
+     "answer": "To use a series of mathematical operations to produce an encryption key."
+    },
+    {
+     "_id": "8f6c5944-b67f-ddc9-ef26-15454be1d1a1",
+     "correct": false,
+     "answer": "To use a key to convert ciphertext into plaintext."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4000311647",
+  "source": {
+   "name": "1.2.2",
+   "showName": false,
+   "instructions": "You know that HELLO encrypts to MJQQT. What is the shift key?  \nChoose the best response.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "292f23b6-ef77-5c21-1df0-4fb492bd6fec",
+     "correct": false,
+     "answer": "2"
+    },
+    {
+     "_id": "710dabe3-9c71-e137-4a6e-2a0a7be0623f",
+     "correct": false,
+     "answer": "3"
+    },
+    {
+     "_id": "c026b500-eaaa-db51-eef9-5c3e4af050ef",
+     "correct": false,
+     "answer": "4"
+    },
+    {
+     "_id": "791402a6-6126-4d5d-1844-50f262db0179",
+     "correct": true,
+     "answer": "5"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1550412927",
+  "source": {
+   "name": "1.2.6",
+   "showName": false,
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<AES>>> Is an encryption scheme uses the Rijndael block cipher which is resistant to all known attacks.",
+   "tokens": {
+    "blank": [
+     "AES"
+    ],
+    "text": [
+     0,
+     " Is an encryption scheme uses the Rijndael block cipher which is resistant to all known attacks."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4267388236",
+  "source": {
+   "name": "1.3.1",
+   "showName": false,
+   "instructions": "Fill in the blank.  Do not include any spaces in your answer.",
+   "points": "1",
+   "showValues": false,
+   "text": "Alice uses a shift cipher with a shift of 4 to encrypt her message to Bob. If the ciphertext she obtains is `KSSHPYGO`, what is her message in plaintext? <<<goodluck>>>",
+   "tokens": {
+    "blank": [
+     "goodluck"
+    ],
+    "text": [
+     "Alice uses a shift cipher with a shift of 4 to encrypt her message to Bob. If the ciphertext she obtains is `KSSHPYGO`, what is her message in plaintext? ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-241919936",
+  "source": {
+   "name": "1.3.8",
+   "showName": false,
+   "instructions": "Which of the following is an accurate statements about Caesar cipher? ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "e50685a3-21f5-9e99-ebbd-7866e99d9a37",
+     "correct": false,
+     "answer": "A shifted ciphered message has an incidence of coincidence dissimilar to the language of the plain text."
+    },
+    {
+     "_id": "53907a1d-c472-0568-ec6c-e1c24758def3",
+     "correct": false,
+     "answer": "Caesar cipher can be used with letters but not numbers."
+    },
+    {
+     "_id": "c8651ac5-3158-cc43-5b9b-b1b1adb812c1",
+     "correct": true,
+     "answer": "Caesar cipher decryption replaces a letter another with an inverse alphabet shift: a previous letter in the alphabet. "
+    },
+    {
+     "_id": "7592fb9b-608c-4c8e-74b0-1dd24b5d9fbf",
+     "correct": false,
+     "answer": "This is an example of a message encoded with a Caesar cipher:  `ELPMAXE ELPMIS A`"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3931260191",
+  "source": {
+   "name": "1.4.8",
+   "showName": false,
+   "instructions": "Select all that apply. Block ciphers found in use today:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "68b85765-2e1f-a921-3dac-2c654716da84",
+     "correct": true,
+     "answer": "Conduct encryption operations over multiple rounds. "
+    },
+    {
+     "_id": "f63a9f19-a8d7-421c-2211-df8dbc409f39",
+     "correct": true,
+     "answer": "Use subkeys that are created from the primary or original key of the cipher. "
+    },
+    {
+     "_id": "20895b68-b3d9-5e7c-eb4c-7e0e360e0812",
+     "correct": true,
+     "answer": "Include two paired algorithms, one is used for decryption (D), and one for is used encryption (E). "
+    },
+    {
+     "_id": "a8d7caf4-31d9-6749-c993-ac5da2bda86a",
+     "correct": true,
+     "answer": "The ciphertext output from the first encryption block is subsequently used as the initialization vector for the next plaintext block meant to encrypt."
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4103378083",
+  "source": {
+   "name": "1.5.3",
+   "showName": false,
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "An issue in symmetric key cryptography is the problem of<<<trust>>> between two parties that share a secret key.",
+   "tokens": {
+    "blank": [
+     "trust"
+    ],
+    "text": [
+     "An issue in symmetric key cryptography is the problem of",
+     0,
+     " between two parties that share a secret key."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3922173266",
+  "source": {
+   "name": "1.6.2",
+   "showName": false,
+   "instructions": "Fill in the blank with the correct number.",
+   "points": "1",
+   "showValues": false,
+   "text": "In the AES encryption process, the cipher takes a plaintext block size of <<<128>>> bits.",
+   "tokens": {
+    "blank": [
+     "128"
+    ],
+    "text": [
+     "In the AES encryption process, the cipher takes a plaintext block size of ",
+     0,
+     " bits."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4146738163",
+  "source": {
+   "name": "1.6.4",
+   "showName": false,
+   "instructions": "Choose the best response.  \nWhat form of cryptography is best suited for bulk encryption because it is so fast?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "1c6c19e4-2751-9b1c-d4b1-a94c0fca5be5",
+     "correct": true,
+     "answer": "Symmetric key cryptography"
+    },
+    {
+     "_id": "925e61a1-2627-8f34-16df-3139b879fa05",
+     "correct": false,
+     "answer": "Ciphertext"
+    },
+    {
+     "_id": "0d66b7da-e33a-82fe-8fea-0d6a71f85fc2",
+     "correct": false,
+     "answer": "DES"
+    },
+    {
+     "_id": "a0e508bf-df1e-1003-e8f5-f7237b1f6c0e",
+     "correct": false,
+     "answer": "Public key cryptography"
+    }
+   ]
   }
  }
 ]

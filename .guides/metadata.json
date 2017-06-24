@@ -25,18 +25,18 @@
   },
   {
    "id": "f3a11fa5-1a8b-0373-eb1c-a92bae198b71",
-   "title": "1.1 Symmetric Key Cryptography  ",
+   "title": "Symmetric Key Cryptography  ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-1-Symmetric-Key-Cryptography---f3a1.md",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography---f3a1.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
-   "title": "1.2 Introduction to Cryptography ",
+   "title": "Introducing Cryptography",
    "files": [
     {
      "path": "#tabs",
@@ -48,49 +48,49 @@
     "IG.PNG"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/1-2-Introduction-to-Cryptography--e918.md",
+   "content-file": ".guides/content/Introducing-Cryptography-e918.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
-   "title": "1.2A Cryptography Terms",
+   "title": "Cryptography Terms",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-2A-Cryptography-Terms-dd91.md",
+   "content-file": ".guides/content/Cryptography-Terms-dd91.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
-   "title": "1.4 An Overview of Symmetric Key Cryptography",
+   "title": "An Overview of Symmetric Key Cryptography",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-4-An-Overview-of-Symmetric-Key-Cryptography-ed61.md",
+   "content-file": ".guides/content/An-Overview-of-Symmetric-Key-Cryptography-ed61.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "1dd80aa3-a4a0-2b33-5373-2f567db42317",
-   "title": "1.5 Caesar Cipher  ",
+   "title": "The Caesar Cipher  ",
    "files": [],
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5-Caesar-Cipher---1dd8.md",
+   "content-file": ".guides/content/The-Caesar-Cipher---1dd8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "1.5A CreatorSpace Lab: Encrypting the Caesar Cipher  ",
+   "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
    "files": [
     {
      "path": "#tabs",
@@ -105,14 +105,14 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5A-CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
-   "title": "1.5 B CreatorSpace Lab: Decrypting the Caesar Cipher",
+   "title": "CreatorSpace Lab: Decrypting the Caesar Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -127,14 +127,14 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-5-B-CreatorSpace-Lab--Decrypting-the-Caesar-Cipher-3dad.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Decrypting-the-Caesar-Cipher-3dad.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "59d68695-cf0a-9e9a-746c-70fcbf03db94",
-   "title": "1.6 Shift Ciphers",
+   "title": "Shift Ciphers",
    "files": [
     {
      "path": "#tabs",
@@ -144,14 +144,14 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-6-Shift-Ciphers-59d6.md",
+   "content-file": ".guides/content/Shift-Ciphers-59d6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
-   "title": "1.6A: Across the Disciplines: Language",
+   "title": "Across the Disciplines: Language",
    "files": [
     {
      "path": "#tabs",
@@ -161,14 +161,14 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-6A--Across-the-Disciplines--Language-0a33.md",
+   "content-file": ".guides/content/Across-the-Disciplines--Language-0a33.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "80efc43f-a6a8-9c09-e1c1-adadb2e61383",
-   "title": "1.7 Analyzing a Shift Cipher ",
+   "title": "Analyzing a Shift Cipher ",
    "files": [
     {
      "path": "#tabs",
@@ -178,14 +178,14 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-7-Analyzing-a-Shift-Cipher--80ef.md",
+   "content-file": ".guides/content/Analyzing-a-Shift-Cipher--80ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
-   "title": "1.8 Kerckhoffs's Principle",
+   "title": "Kerckhoffs's Principle",
    "files": [
     {
      "path": "#tabs",
@@ -195,38 +195,37 @@
    "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-8-Kerckhoffs-s-Principle-ee03.md",
+   "content-file": ".guides/content/Kerckhoffs-s-Principle-ee03.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "3502bbde-35f2-6beb-6676-025bb71c05fe",
-   "title": "1.9 The Big Picture: Cryptology ",
+   "title": "The Big Picture: Cryptology ",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-9-The-Big-Picture--Cryptology--3502.md",
+   "content-file": ".guides/content/The-Big-Picture--Cryptology--3502.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
-   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
-   "title": "1.9A: A Day in the Life of Raven Alder",
+   "id": "e88a2a5f-5a45-5689-e309-3f7fa1be906d",
+   "title": "A Day in the life of Angy Shavit",
    "files": [],
-   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-9A--A-Day-in-the-Life-of-Raven-Alder-3363.md",
+   "content-file": ".guides/content/A-Day-in-the-life-of-Angy-Shavit-e88a.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
-   "title": "1.9B Cryptanalysis of a Cipher",
+   "title": "Cryptanalysis of a Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -236,14 +235,14 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-9B-Cryptanalysis-of-a-Cipher-c3a1.md",
+   "content-file": ".guides/content/Cryptanalysis-of-a-Cipher-c3a1.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "8c7d5a65-82e6-e6ab-d968-e04215302966",
-   "title": "1.9C CreatorSpace Lab: ROTn",
+   "title": "CreatorSpace Lab: The ROTn Shift Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -258,14 +257,14 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-9C-CreatorSpace-Lab--ROTn-8c7d.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--The-ROTn-Shift-Cipher-8c7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "61e4399a-c753-e848-2836-c5e4e3a2db98",
-   "title": "1.10 Meetup: Shift Ciphers and Attack Scenarios ",
+   "title": "Meetup: Shift Ciphers and Attack Scenarios ",
    "files": [
     {
      "path": "#tabs",
@@ -275,25 +274,25 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-10-Meetup--Shift-Ciphers-and-Attack-Scenarios--61e4.md",
+   "content-file": ".guides/content/Meetup--Shift-Ciphers-and-Attack-Scenarios--61e4.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
-   "title": " 1.11A Substitution Cipher",
+   "title": "The Substitution Cipher",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/-1-11A-Substitution-Cipher-9277.md",
+   "content-file": ".guides/content/The-Substitution-Cipher-9277.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
-   "title": "1.11 CreatorSpace Lab: Substitution Cipher (Paul*** make hands on better***) ",
+   "title": "CreatorSpace Lab: The Substitution Cipher ",
    "files": [
     {
      "path": "#tabs",
@@ -313,14 +312,14 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-11-CreatorSpace-Lab--Substitution-Cipher--Paul----make-hands-on-better------a176.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--The-Substitution-Cipher--a176.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
-   "title": "1.15 Breaking the Substitution Cipher",
+   "title": "Breaking the Substitution Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -330,7 +329,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-15-Breaking-the-Substitution-Cipher-b256.md",
+   "content-file": ".guides/content/Breaking-the-Substitution-Cipher-b256.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -354,7 +353,7 @@
   },
   {
    "id": "d7acba51-7dfa-2d9e-9af8-fc11bfa42193",
-   "title": "1.15 B Across the Disciplines: Literature",
+   "title": "Across the Disciplines: Literature",
    "files": [
     {
      "path": "#tabs",
@@ -369,36 +368,25 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-15-B-Across-the-Disciplines--Literature-d7ac.md",
+   "content-file": ".guides/content/Across-the-Disciplines--Literature-d7ac.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "33ae8bc2-a52d-e622-b170-66e9a8ef074e",
-   "title": "1.16 Meetup: Substitution Ciphers and Attack Scenarios ",
+   "title": "Meetup: Substitution Ciphers and Attack Scenarios ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-16-Meetup--Substitution-Ciphers-and-Attack-Scenarios--33ae.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "4a4e1581-bc92-42e3-ea41-824a03c064b2",
-   "title": "1.17 Knowledge Check In",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/1-17-Knowledge-Check-In-4a4e.md",
+   "content-file": ".guides/content/Meetup--Substitution-Ciphers-and-Attack-Scenarios--33ae.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "23c78ec1-2e5e-d3cf-ffce-7f8643b0b3f3",
-   "title": "1.18 NIST and the Selection of Ciphers for Federal Processing",
+   "title": "NIST and the Selection of Ciphers for Federal Processing",
    "files": [
     {
      "path": "#tabs",
@@ -408,25 +396,25 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-18-NIST-and-the-Selection-of-Ciphers-for-Federal-Processing-23c7.md",
+   "content-file": ".guides/content/NIST-and-the-Selection-of-Ciphers-for-Federal-Processing-23c7.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "c6710826-508f-2c18-9e53-798609eac823",
-   "title": "1.19 Block Ciphers",
+   "title": "Block Ciphers",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-19-Block-Ciphers-c671.md",
+   "content-file": ".guides/content/Block-Ciphers-c671.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "55906d07-36a5-4156-7e44-0d968e6589f2",
-   "title": "1.19A Meetup: Block Ciphers ",
+   "title": "Meetup: Block Ciphers ",
    "files": [
     {
      "path": "#tabs",
@@ -436,14 +424,14 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-19A-Meetup--Block-Ciphers--5590.md",
+   "content-file": ".guides/content/Meetup--Block-Ciphers--5590.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
-   "title": "1.23 Symmetric Key Cryptography Summary",
+   "title": "Symmetric Key Cryptography: Summary",
    "files": [
     {
      "path": "#tabs",
@@ -453,18 +441,29 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-23-Symmetric-Key-Cryptography-Summary-055f.md",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography--Summary-055f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8d9c1b63-2bd8-bcca-d015-c36e28ed1da5",
+   "title": "Symmetric Key Cryptography: Assessment",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography--Assessment-8d9c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
-   "title": "1.23A Symmetric Key Cryptography Summary",
+   "title": "Symmetric Key Cryptography: Critical Thinking",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/1-23A-Symmetric-Key-Cryptography-Summary-8fbd.md",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography--Critical-Thinking-8fbd.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -492,8 +491,8 @@
    "teacherOnly": false
   },
   {
-   "id": "2551624a-6b97-2fcf-15e8-f346ab5f14ac",
-   "title": "Hackathon 2: A Special Substitution Cipher: ROT 13",
+   "id": "4c976928-c138-4765-3191-a236fe4c6414",
+   "title": "Hackathon 2: The Problem of Key Distribution",
    "files": [
     {
      "path": "#tabs",
@@ -503,19 +502,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon-2--A-Special-Substitution-Cipher--ROT-13-2551.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "4c976928-c138-4765-3191-a236fe4c6414",
-   "title": "Hackathon 3: The Problem of Key Distribution and Management",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Hackathon-3--The-Problem-of-Key-Distribution-and-Management-4c97.md",
+   "content-file": ".guides/content/Hackathon-2--The-Problem-of-Key-Distribution-4c97.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -538,6 +525,40 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/--2706.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
+   "title": " A Day in the Life of Raven Alder",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-A-Day-in-the-Life-of-Raven-Alder-3363.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
+   "title": "Additional Assessment Items",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Additional-Assessment-Items-7e9f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
+   "title": "2.11 Meetup: Key Agreement (Exchange) Protocols ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/2-11-Meetup--Key-Agreement--Exchange--Protocols--c4ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -690,17 +711,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-10-The-Problem-of-Authentication--4d24.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
-   "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
-   "title": "2.11 Meetup: Key Agreement (Exchange) Protocols ",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/2-11-Meetup--Key-Agreement--Exchange--Protocols--c4ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
