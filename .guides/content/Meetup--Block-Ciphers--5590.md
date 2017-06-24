@@ -19,3 +19,8 @@ Research each cipher on the Internet to answer the following questions.
 |||guidance
 **Instructor's Note:** As a Meetup, divide your class into groups and have each group take on one of the ciphers. Have the groups report back to the class at large with their findings.
 |||
+
+## Knowledge Check In
+{Check It!|assessment}(fill-in-the-blanks-2699867756)
+{Check It!|assessment}(multiple-choice-174078294)
+

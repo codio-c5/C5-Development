@@ -14,3 +14,9 @@ Can they crack yours?
 ||| guidance
 **Instructor's note:** Student answers might include: having a trusted carrier;  carrying and delivering the key in a locked case; and sharing a key over an untapped phone line, plus others.
 |||
+
+## Knowledge Check In
+{Check It!|assessment}(fill-in-the-blanks-3119267098)
+{Check It!|assessment}(multiple-choice-3756736902)
+
+

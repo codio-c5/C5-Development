@@ -8,18 +8,30 @@ The ROTate by 13 places cipher (ROT13) is variation of the shift cipher. It shif
 </figure>
 
 
-As we've learned shift ciphers provide only the most basic encryption. However, the ROT13 cipher is still a useful tool. It can be used to hide information like plot spoilers on movie review websites. It's also good for teaching introductory cryptography.
 
-The interactive ROTn on the left hand side is an cryptanalyst tool that lets you experiment with decoding ciphertext. It applies all 26 possible keys to the ciphertext.
+The interactive ROTn in the left panel is an cryptanalyst tool that lets you experiment with decoding ciphertext. It applies all 26 possible keys to the ciphertext.
 
-Enter some ciphertext, for instance like  `WDNH PH RXW WR WKH EDOO JDPH`, in the main text area and then press `Show ROTn`.
+- Enter the ciphertext, from the prior exercise `WDNH PH RXW WR WKH EDOO JDPH` in the main text area.
+ - Click `Show ROTn`.
+ - The result shows all 26 possible keys - or rotations - to the ciphertext.
+ - Examine the results and see if something stands out. **Hint:** look towards the bottom.
 
-The application applies all 26 possible keys - rotations - to the ciphertext. Examine the results and see if something stands out.
+You just used the **brute force** cryptanalysis technique by trying every possible key.
 
-**Hint:** look towards the bottom.
+## Lab Check In
+
+{Check It!|assessment}(multiple-choice-2247377726)
+You just used the **brute force** cryptanalysis technique by trying every possible key.
+
+ - Now, select the deciphered plaintext from the chart. 
+ - Copy it and paste it back in the main text area and then press `Show ROTn`.  
+ - Look through the results and see if you can identify `WDNH PH RXW WR WKH EDOO JDPH`.  
+ - Note the ROT key.
+
+## Growth Hack
 {Submit Answer!|assessment}(free-text-3117283162)
+Now try encrypting and decrypting other any other phrases you like. Do you recognize the pattern?
 
-You just used the **brute force** cryptanalysis technique by trying every possible key. 
 |||guidance
 **Instructor's Note:** When ROT13 is applied twice to a message, you get the message back because of 13 being the number of the middle character in the alphabet. 
 

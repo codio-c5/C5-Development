@@ -22,5 +22,9 @@
   
   **Raven Alder:** Principal Engineer, Nexum, Inc. *A Day in the Life of...* video
   
+  **Angy Shavit:** IT Security Auditor,  *A Day in the Life of...* video
+  
+  **Bill Newhouse** Deputy Director, Security Engineer, NIST *NIST and Block Ciphers* video
+  
 
   

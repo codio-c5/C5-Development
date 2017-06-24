@@ -1370,5 +1370,332 @@
     }
    ]
   }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2247377726",
+  "source": {
+   "name": "LCI 1.2.2",
+   "showName": false,
+   "instructions": "What key is used in this cipher?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "77117a69-2a64-9caf-1d94-b88222509ca5",
+     "correct": false,
+     "answer": "ROT 16"
+    },
+    {
+     "_id": "c4fdc2c4-e4fe-3c16-7991-48148a2efc60",
+     "correct": false,
+     "answer": "ROT 2"
+    },
+    {
+     "_id": "e3c25470-3dc7-1e4d-ed18-5b6add8c6309",
+     "correct": false,
+     "answer": "ROT 27"
+    },
+    {
+     "_id": "fe606829-1560-7848-b68b-ba1e4afc29af",
+     "correct": true,
+     "answer": "ROT 23"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1969010385",
+  "source": {
+   "name": "LCI 1.2.3",
+   "showName": false,
+   "instructions": "Complete the sentence below.  Keep the spaces in place in your response.",
+   "points": "1",
+   "showValues": false,
+   "text": "Using this key, the plaintext phrase \"An apple a day\" encrypts into the ciphertext <<<ZM ZKKOV Z WZB>>>.",
+   "tokens": {
+    "blank": [
+     "ZM ZKKOV Z WZB"
+    ],
+    "text": [
+     "Using this key, the plaintext phrase \"An apple a day\" encrypts into the ciphertext ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1281638209",
+  "source": {
+   "name": "1.1.6",
+   "showName": false,
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "A <<<key>>> is the information used in conjunction with the algorithm to create the ciphertext from the plaintext.",
+   "tokens": {
+    "blank": [
+     "key"
+    ],
+    "text": [
+     "A ",
+     0,
+     " is the information used in conjunction with the algorithm to create the ciphertext from the plaintext."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1752398954",
+  "source": {
+   "name": "1.1.10",
+   "showName": false,
+   "instructions": "Which of the following is a true statement?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "1d5df02f-6000-0709-45ce-0b589c69ccb1",
+     "correct": true,
+     "answer": "Ciphertext is the result of encryption performed on plaintext using an algorithm, called a cipher. "
+    },
+    {
+     "_id": "b8a511da-bf7e-5811-5637-41366bebb305",
+     "correct": false,
+     "answer": "Ciphertext is the result of encryption performed on plaintext using an encryption key."
+    },
+    {
+     "_id": "a4b761a0-6fe1-31eb-9fee-d192238eeb56",
+     "correct": false,
+     "answer": "Ciphertext is also called codetext."
+    },
+    {
+     "_id": "4954b473-f5fb-66c4-ac7f-6cac92d2e2ce",
+     "correct": false,
+     "answer": "You can create ciphertext by substituting one word for another word or sentence."
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1068247789",
+  "source": {
+   "name": "1.2.3",
+   "showName": false,
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "Your company produces an encryption device that lets you enter text and receive encrypted text in response. An attacker obtains one of these devices and starts inputting random plain text to see the resulting cipher text. This is called a <<<chosen plaintext>>> attack.\n\n",
+   "tokens": {
+    "blank": [
+     "chosen plaintext"
+    ],
+    "text": [
+     "Your company produces an encryption device that lets you enter text and receive encrypted text in response. An attacker obtains one of these devices and starts inputting random plain text to see the resulting cipher text. This is called a ",
+     0,
+     " attack.\n\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1844380040",
+  "source": {
+   "name": "1.2.4",
+   "showName": false,
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "In a <<<known plaintext>>> attack, the attacker has access to both the unencrypted message and the resulting cipher text, but does not have the ability to encrypt the plain text.\n\n",
+   "tokens": {
+    "blank": [
+     "known plaintext"
+    ],
+    "text": [
+     "In a ",
+     0,
+     " attack, the attacker has access to both the unencrypted message and the resulting cipher text, but does not have the ability to encrypt the plain text.\n\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3478192411",
+  "source": {
+   "name": "1.3.4",
+   "showName": false,
+   "instructions": "Which pair is NOT considered the most common repeated letters in the English language? ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "4fc3676a-71b5-6c4e-edff-93f1529a9439",
+     "correct": true,
+     "answer": "ss"
+    },
+    {
+     "_id": "c28bfd5d-71cc-e32c-04f4-29197f30d52c",
+     "correct": false,
+     "answer": "ee"
+    },
+    {
+     "_id": "bf4ceebf-95f2-aaf8-13fb-ad8ddee3acf8",
+     "correct": false,
+     "answer": "tt"
+    },
+    {
+     "_id": "f0a50acf-d8df-5b66-7019-4f193b09d9fc",
+     "correct": false,
+     "answer": "ff"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3769728457",
+  "source": {
+   "name": "1.3.7",
+   "showName": true,
+   "instructions": "Fill in the blank.\n",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<4>>> is the shift for this Caesar Cipher`gfrghfdhvdu`.\n",
+   "tokens": {
+    "blank": [
+     "4"
+    ],
+    "text": [
+     0,
+     " is the shift for this Caesar Cipher`gfrghfdhvdu`.\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2699867756",
+  "source": {
+   "name": "1.4.3",
+   "showName": false,
+   "instructions": "Fill in the blank. ",
+   "points": "1",
+   "showValues": false,
+   "text": "<<<AES>>>is the first (and only) publicly accessible cipher approved by the National Security Agency for top secret information. ",
+   "tokens": {
+    "blank": [
+     "AES"
+    ],
+    "text": [
+     0,
+     "is the first (and only) publicly accessible cipher approved by the National Security Agency for top secret information. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-174078294",
+  "source": {
+   "name": "1.4.4",
+   "showName": true,
+   "instructions": "Choose the best response. Which of the following block ciphers offers the least security because of weak keys? ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "9235ebb0-bdc0-ed5c-b8d2-a2e4c77eb348",
+     "correct": false,
+     "answer": "Triple DES (3DES)"
+    },
+    {
+     "_id": "f48da662-8b9b-c06e-f7fe-19697500779a",
+     "correct": false,
+     "answer": "AES"
+    },
+    {
+     "_id": "c240d99e-6f70-bc2f-c0d6-f3e4be3eee50",
+     "correct": true,
+     "answer": "DES"
+    },
+    {
+     "_id": "8d3cb7aa-38cb-0b3b-68a7-b3157e8a1a50",
+     "correct": false,
+     "answer": "RC4"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3119267098",
+  "source": {
+   "name": "1.5.2",
+   "showName": false,
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "text": "The Diffie-Hellman algorithm is used as a method of exchanging  a cryptography <<<key>>> for use in symmetric encryption algorithms like AES.  ",
+   "tokens": {
+    "blank": [
+     "key"
+    ],
+    "text": [
+     "The Diffie-Hellman algorithm is used as a method of exchanging  a cryptography ",
+     0,
+     " for use in symmetric encryption algorithms like AES.  "
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3756736902",
+  "source": {
+   "name": "1.5.7",
+   "showName": false,
+   "instructions": "Select the best response.  Key distribution often involves the use of _________ which are generated and distributed for temporary use between two parties.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "d69cdb36-1582-85ad-a3b3-5bd9382de3aa",
+     "correct": false,
+     "answer": "public key certificates"
+    },
+    {
+     "_id": "4bba6483-1ebe-4fa7-542a-fe95bc1649ca",
+     "correct": false,
+     "answer": "master keys"
+    },
+    {
+     "_id": "d3cae621-f58f-131a-ceb1-ad84a6821dae",
+     "correct": false,
+     "answer": "public keys"
+    },
+    {
+     "_id": "1859c0de-b0bd-86e2-db3a-8507c43e7a85",
+     "correct": true,
+     "answer": "session keys"
+    },
+    {
+     "_id": "74ad6a12-b995-dea5-cfdb-05d781b9a873",
+     "correct": false,
+     "answer": "private key certificates"
+    }
+   ]
+  }
  }
 ]

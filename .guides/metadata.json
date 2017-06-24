@@ -376,7 +376,13 @@
   {
    "id": "33ae8bc2-a52d-e622-b170-66e9a8ef074e",
    "title": "Meetup: Substitution Ciphers and Attack Scenarios ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Meetup--Substitution-Ciphers-and-Attack-Scenarios--33ae.md",
