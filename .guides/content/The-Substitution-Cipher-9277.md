@@ -6,6 +6,7 @@ Substituion ciphers come in the following primary forms:
 2. **Polygraphic** substitution ciphers replace each letter of plaintext with one of several letter combinations from the key,
 
 Let's create a monographic substitution cipher key as an example.
+
 ```
    ABCDEFGHIJKLMNOPQRSTUVWXYZ
    WUPZDLYKAGQJXOBCRIFTMVHNES

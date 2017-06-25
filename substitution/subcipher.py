@@ -41,7 +41,6 @@ def buildKey(key, alphabet):
     for a in alphabet:
         if a in keyIndex:
             v=keyIndex[a].lower()
-            #print a,":",keyIndex[a]," | ",v,":",tmp[v]
             tmp.pop(v)
 
     # finish building key if not complete
@@ -72,7 +71,6 @@ def subDecrypt(cipheritext, keyIndex):
     return ''.join(revIndex.get(c, c) for c in ciphertext)
 
 keyIndex = buildKey(key, alphabet)
-print keyIndex
 
 ciphertext = subEncrypt(plaintext, keyIndex )
 newplaintext  = subDecrypt(ciphertext, keyIndex)
