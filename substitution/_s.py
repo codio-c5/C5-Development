@@ -1,0 +1,93 @@
+#!/usr/bin/env python
+#
+import sys, os.path
+from collections import OrderedDict
+
+fk="/home/codio/workspace/substitution/subkey.txt"
+fp="/home/codio/workspace/substitution/subplaintext.txt"
+
+keyIndex = {}
+alphabet = {}
+alphabet = 'abcdefghijklmnopqrstuvwxyz'
+
+encrypt=False
+if len(sys.argv) > 1 and sys.argv[1] == 'encrypt':
+	encrypt=True
+
+def getKey():
+    if os.path.isfile(fk):
+        keyfile = open(fk,"r")
+        key = keyfile.read()
+        keyfile.close
+    else:
+        key = 'ZYXWVUTSRQPONMLKJIHGFEDCBA'
+    return(dedup(key))
+
+def getPlaintext():
+    if os.path.isfile(fp):
+        pfile = open(fp,"r")
+        plaintext = pfile.read()
+        pfile.close
+    else:
+        plaintext = ""
+
+    return(plaintext)
+
+def dedup(plaintext):
+    return ("".join(OrderedDict.fromkeys(plaintext)))
+
+def buildKey(key, alphabet):
+    tmpkey = []
+    missing = []
+
+    keylen = len(key)-1
+
+    # construct key list from key string
+    keylen=0
+    for k in key:
+        if k != '\n':
+            tmpkey.append(k.upper())
+            keylen+=1
+
+    keyIndex = dict(zip(alphabet, tmpkey))
+
+    # fill out key if missing characters
+    i=0
+    for a in alphabet:
+        if i >= keylen:
+            missing += a.upper()
+        i+=1
+
+    newkey = tmpkey + missing 
+
+    if os.path.isfile(fk):
+        keyfile = open(fk,"w")
+        keyfile.write(''.join(newkey))
+        keyfile.close
+
+    keyIndex = dict(zip(alphabet, newkey))
+    return keyIndex
+
+def subEncrypt(plaintext, keyIndex):
+    return ''.join(keyIndex.get(c.lower(), c) for c in plaintext)
+
+
+def subDecrypt(cipheritext, keyIndex):
+    revIndex = dict((v, k) for k, v in keyIndex.iteritems())
+    return ''.join(revIndex.get(c, c) for c in ciphertext)
+
+
+key = getKey()
+print "KEY:",key
+sys.exit()
+plaintext = getPlaintext()
+
+keyIndex = buildKey(key, alphabet)
+
+ciphertext = subEncrypt(plaintext, keyIndex )
+newplaintext  = subDecrypt(ciphertext, keyIndex)
+
+if encrypt:
+	print(ciphertext)
+else:
+	print(newplaintext)
