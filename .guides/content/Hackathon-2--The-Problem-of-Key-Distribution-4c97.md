@@ -16,7 +16,6 @@ Can they crack yours?
 |||
 
 ## Knowledge Check In
+{Check It!|assessment}(multiple-choice-79059355)
 {Check It!|assessment}(fill-in-the-blanks-3119267098)
-{Check It!|assessment}(multiple-choice-3756736902)
-
 

@@ -1003,12 +1003,14 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-79059355",
   "source": {
-   "name": "1.5.5",
+   "name": "1.5.6",
    "showName": false,
+   "bloomsObjectiveLevel": "",
    "instructions": "What is the biggest challenge associated with the distribution of key in symmetric key encryption?",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "2b4d6cca-1d54-60f8-b93f-7757ba7737b9",
@@ -1641,11 +1643,13 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3119267098",
   "source": {
-   "name": "1.5.2",
+   "name": "1.5.3",
    "showName": false,
+   "bloomsObjectiveLevel": "",
    "instructions": "Fill in the blank.",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "The Diffie-Hellman algorithm is used as a method of exchanging  a cryptography <<<key>>> for use in symmetric encryption algorithms like AES.  ",
    "tokens": {
     "blank": [
@@ -1663,12 +1667,14 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3756736902",
   "source": {
-   "name": "1.5.7",
+   "name": "1.5.8",
    "showName": false,
+   "bloomsObjectiveLevel": "",
    "instructions": "Select the best response.  Key distribution often involves the use of _________ which are generated and distributed for temporary use between two parties.",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "d69cdb36-1582-85ad-a3b3-5bd9382de3aa",

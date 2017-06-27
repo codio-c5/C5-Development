@@ -23,6 +23,7 @@ What would it take to break the shift cipher? If you know that a ciphertext is o
 
 ## Growth Hack 
 {Submit Answer!|assessment}(free-text-3680102054)
+
 |||guidance
 **Instructor's Note:** If k=0, then the ciphertext is the same as the plaintext.
 |||

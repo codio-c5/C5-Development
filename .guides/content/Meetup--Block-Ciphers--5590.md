@@ -21,6 +21,6 @@ Research each cipher on the Internet to answer the following questions.
 |||
 
 ## Knowledge Check In
-{Check It!|assessment}(fill-in-the-blanks-2699867756)
+
 {Check It!|assessment}(multiple-choice-174078294)
 
