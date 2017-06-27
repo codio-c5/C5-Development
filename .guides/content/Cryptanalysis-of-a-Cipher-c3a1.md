@@ -7,12 +7,12 @@ Following Kerckhoffs’s Principle, let's assume that the details of the algorit
 
 ## Getting Forceful 
 For simple ciphers, like Caesar cipher, you can use **brute force** to find the key. The process is simple. You test each possible key until you find the plaintext. 
-|||definition
+||| definition
 **Brute force** is the method of solving for the key by testing each possibility until you find the key.
 |||
 Start with key=1 and shift the first "word", or grouping of letters, of ciphertext by that amount and look at the result. If the result is recognizable, then you may have found the key. In that case, you would decrypt the second ciphertext word and if it too is recognizable then you likely have the key. If not, then try key=2 and so on. In a shift cipher, there are only 25 possible keys so the process can be completed quickly even without a computer.
 
-|||guidance
+||| guidance
 **Instructor's note:**  When the Caesar cipher shifts past the end of the alphabet, it cycles back to the beginning and continues the count specified by the key. You can also think of the alphabet as a circle where each letter has a numeric position and there is no beginning nor end. When you use that concept you enter into the world of modular arithmetic. In Modular Arithmetic the alphabet has a Modulus of 26.
 https://en.wikipedia.org/wiki/Modular_arithmetic
 That shift ciphers like Caesar use modular arithmetic is probably interesting only to those with a mathematical background. However, modular arithmetic is the basis for ciphers like RSA.

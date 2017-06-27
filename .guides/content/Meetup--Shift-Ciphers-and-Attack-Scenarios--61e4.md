@@ -11,7 +11,7 @@
 
 **4. Chosen ciphertext attacks:** What do you do to break the cipher if you can choose  a ciphertext and get its plaintext but no key? 
 
-|||guidance
+||| guidance
 **Instructor's Note:**  Divide your class into groups and have each group take on one of the four scenarios. Have the groups report back to the class at large with their findings.
 |||
 ## Knowledge Check In

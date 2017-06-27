@@ -20,7 +20,7 @@ Give these questions a try. Don't lose heart if you don't get them right. By the
 
 
 
- |||guidance
+ ||| guidance
  ## Instructor's Note:
  Unit objectives
 - Define  terms including encryption, decryption, plaintext, ciphertext, and encryption/decryption key and explain their use in cryptography 
@@ -29,6 +29,7 @@ Give these questions a try. Don't lose heart if you don't get them right. By the
 - Identify commonly used algorithms for symmetric encryption
 - Explain the challenge of key distribution in symmetric key encryption
 - Illustrate how symmetric key encryption works using software 
+
 |||
 
 

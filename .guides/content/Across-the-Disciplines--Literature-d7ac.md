@@ -6,6 +6,6 @@ The French novel <u>La Disparition</u> by Georges Perec was written without usin
 ## Growth Hack 
 {Submit Answer!|assessment}(free-text-1840327201)
 
-|||guidance
+||| guidance
 **Instructor's Note:**Answers might include adapting the frequency patterns in the given language to eliminate "E."
 |||

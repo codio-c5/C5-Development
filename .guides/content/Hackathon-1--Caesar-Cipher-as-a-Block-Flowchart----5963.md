@@ -8,4 +8,4 @@ It describes the cipher algorithm, or recipe, that shifts characters by the spec
 5. Shift the character specified number
 6. Check if the shift goes past the end of the alphabet and, if so, go back to the beginning of the alphabet
 7. Check if the shifted character is the last character in the file and exit if true
-8. Get the next character and start at 4th step
+8. Get the next character and start at fourth step

@@ -32,7 +32,7 @@ You just used the **brute force** cryptanalysis technique by trying every possib
 {Submit Answer!|assessment}(free-text-3117283162)
 Now try encrypting and decrypting other any other phrases you like. Do you recognize the pattern?
 
-|||guidance
+||| guidance
 **Instructor's Note:** When ROT13 is applied twice to a message, you get the message back because of 13 being the number of the middle character in the alphabet. 
 
 Plaintext   -->  Ciphertext  --> Plaintext

@@ -12,10 +12,10 @@ From Berliner Illustrirte Zeitung by R. Minzloff. Sourced from Wikimedia Commons
 </figure>
 
 
-|||guidance
+||| guidance
 **Instructor's Note:** the video:  https://www.youtube.com/watch?v=y7qbZaf_olY  desribes the battle succinctly. For classroom use, start it at 3:16 and stop at 3:59.
 |||
-|||guidance
+||| guidance
 **Instructor's Note:** Some good images and reference (and a typo) to the unencoded messages here : http://thebattleoftannenburgww1.weebly.com/the-battle-and-battle-tactics.html
 |||
 

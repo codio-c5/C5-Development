@@ -16,7 +16,7 @@ Let's create a monographic substitution cipher key as an example.
 A plaintext message like "Hello world" encrypts to the ciphertext `KDJJB HBIJZ` where H is substituted with K, E is substituted with D, and so on.
 
 
-|||info
+||| info
 **Note:**
 Substitution keys can be constructed from symbols instead of alphabetic characters. Ciphertext consisting of symbols might appear to provide more security at first glance, but a cryptologist, upon recognizing the trick, will quickly convert the symbols into characters and solve the puzzle.
 |||
