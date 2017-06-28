@@ -558,6 +558,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "0a7f417f-9172-9432-773c-26193370b574",
+   "title": "Unit 2 Sneak Peek: Man in the Middle",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Unit-2-Sneak-Peek--Man-in-the-Middle-0a7f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "2706553b-4623-eba7-48a6-a45095e5602a",
    "title": " ",
    "files": [],
@@ -590,18 +602,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Additional-Assessment-Items-7e9f.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
-   "title": "2.11 Meetup: Key Agreement (Exchange) Protocols ",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/2-11-Meetup--Key-Agreement--Exchange--Protocols--c4ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -699,6 +699,24 @@
    "learningObjectives": ""
   },
   {
+   "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
+   "title": "2.8  RSA Encryption ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/2-8--RSA-Encryption--ecf8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
    "title": "2.8A Hackathon: Inside RSA Encryption",
    "files": [],
@@ -772,6 +790,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
+   "title": "2.11 Meetup: Key Agreement (Exchange) Protocols ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/2-11-Meetup--Key-Agreement--Exchange--Protocols--c4ef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "20559663-a427-4335-4394-afe3c420da60",
    "title": "2.12 Key Agreement Protocols ",
    "files": [],
@@ -808,12 +838,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "0a7f417f-9172-9432-773c-26193370b574",
-   "title": "2.16  Man in the Middle Attack",
+   "id": "027482d0-3d75-ad7c-9115-e948894f207f",
+   "title": "2.16: Man in the Middle",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-16--Man-in-the-Middle-Attack-0a7f.md",
+   "content-file": ".guides/content/2-16--Man-in-the-Middle-0274.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -826,24 +856,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-17--S21--Another-Problem--Integrity----Paul----LA---0af2.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
-   "title": "2.8  RSA Encryption ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/2-8--RSA-Encryption--ecf8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

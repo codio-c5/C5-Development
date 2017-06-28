@@ -1571,17 +1571,19 @@
   "source": {
    "name": "1.3.7",
    "showName": true,
+   "bloomsObjectiveLevel": "",
    "instructions": "Fill in the blank.\n",
    "points": "1",
    "showValues": false,
-   "text": "<<<4>>> is the shift for this Caesar Cipher`gfrghfdhvdu`.\n",
+   "learningObjectives": "",
+   "text": "<<<3>>> is the shift for this Caesar Cipher`GHFRGH FDHVDU`.\n",
    "tokens": {
     "blank": [
-     "4"
+     "3"
     ],
     "text": [
      0,
-     " is the shift for this Caesar Cipher`gfrghfdhvdu`.\n"
+     " is the shift for this Caesar Cipher`GHFRGH FDHVDU`.\n"
     ]
    }
   }
@@ -1704,6 +1706,30 @@
      "answer": "private key certificates"
     }
    ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2723281712",
+  "source": {
+   "name": "1.5.4",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "instructions": "Fill in the blank.",
+   "points": "1",
+   "showValues": false,
+   "learningObjectives": "",
+   "text": "An issue in symmetric key cryptography is the problem of <<<trust>>>between two parties that share a secret key.",
+   "tokens": {
+    "blank": [
+     "trust"
+    ],
+    "text": [
+     "An issue in symmetric key cryptography is the problem of ",
+     0,
+     "between two parties that share a secret key."
+    ]
+   }
   }
  }
 ]

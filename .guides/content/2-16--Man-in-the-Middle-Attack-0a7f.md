@@ -1,4 +1,0 @@
-
-Taught as animation
-
-

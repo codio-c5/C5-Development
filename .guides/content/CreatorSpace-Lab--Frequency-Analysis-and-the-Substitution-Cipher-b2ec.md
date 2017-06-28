@@ -8,7 +8,7 @@ L GRQ'W FDUH LI L QHYHU JHW EDFN
 OHW PH URRW
 ```
 
-Click the frequency analysis button to see the highest occuring letters.
+Click the frequency analysis button to see the highest occurring letters.
 
 {Frequency analysis}(.guides/getfreq.sh)
 

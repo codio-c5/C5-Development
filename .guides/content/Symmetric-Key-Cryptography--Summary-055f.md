@@ -11,7 +11,7 @@
 {Check It!|assessment}(multiple-choice-241919936)
 {Check It!|assessment}(multiple-choice-1475741445)
 {Check It!|assessment}(multiple-choice-3931260191)
-{Check It!|assessment}(fill-in-the-blanks-4103378083)
+{Check It!|assessment}(fill-in-the-blanks-2723281712)
 {Check It!|assessment}(fill-in-the-blanks-3922173266)
 {Check It!|assessment}(multiple-choice-4146738163)
 
