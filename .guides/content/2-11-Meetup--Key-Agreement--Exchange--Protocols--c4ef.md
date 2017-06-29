@@ -6,8 +6,13 @@ Pair up with a classmate.You're going to create a shared key.
 
 Task:  Each pair will create their own key then exchange messages with another team.  
  -Paul, we need a steplist here of how they can create a key with simple arithmetic.
-  - Step
-  - Step
+  - Step 0 Pick a partner. One person will will be referred to as P1 and the other P2.
+  - Step 1. Agree with your partner on a shared number and assign that number to the variable called S. For instance, pick S=3.
+  - Step 2. P1 picks a number and P2 picks a number. Each person keeps their number a secret. P1 assign it to the variable X1 and the other to X2. For instance, P1 picks X1=5 and P2 picks X2=4.
+  - Step 3. Partner P1 plugs the shared number S=3 into the formula B=S^X1 or B equals S to the power of P1 or 3^5 = 243. Partner P2 does the same using C=S*P2 or 3^4, which eauals C=81.
+  - Step 4. P1 gives the result B=243 to P2. P2 gives the result C=81. Neither person needs to hide the exchanged numbers.
+  - Step 5. Now, P1 can compute P2's secret number by taking the Nth root of the P2's public number C, which is 81. This is C^-S = 81^3=4. P2 does the same with P1's  public number. Now, both P1 and P2 know each other's secret number without have transmitted the secrets to each other.
+  
 Now you have a shared key with your partner.  
 
  - Encrypt a message to your partner.  

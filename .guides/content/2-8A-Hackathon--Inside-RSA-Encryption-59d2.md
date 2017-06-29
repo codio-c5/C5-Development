@@ -1,4 +1,6 @@
-### Note the math involved in this algorithm. You can see how much more mathematically complicated this algorithm is compared to the symmetric key algorithms DES and AES in Unit 1. 
+### Note the math involved in this algorithm. You can see how much more mathematically complicated this algorithm is compared to the symmetric key algorithms DES and AES in Unit 1.
+
+It's based on Modular arithmetic and 
 
 ## Key generation by Bob:
 
