@@ -31,5 +31,3 @@ Give these questions a try. Don't lose heart if you don't get them right. By the
 - Illustrate how symmetric key encryption works using software 
 
 |||
-
-

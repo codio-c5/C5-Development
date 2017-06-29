@@ -14,24 +14,24 @@
    "learningObjectives": ""
   },
   {
-   "id": "5d9fd56e-0c98-26b6-b3d1-f55780f7c1d5",
-   "title": " Applied Cryptography",
+   "id": "4360edfc-a74e-38a4-9891-5e4977abd95f",
+   "title": "Applied Cryptography",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/-Applied-Cryptography-5d9f.md",
+   "content-file": ".guides/content/Applied-Cryptography-4360.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": ""
   },
   {
-   "id": "f3a11fa5-1a8b-0373-eb1c-a92bae198b71",
-   "title": "Symmetric Key Cryptography  ",
+   "id": "dccce670-daf5-ba4b-e27e-e7e0ce6dedfb",
+   "title": "Symmetric Key Cryptography",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Symmetric-Key-Cryptography---f3a1.md",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography-dccc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -83,36 +83,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "1dd80aa3-a4a0-2b33-5373-2f567db42317",
-   "title": "The Caesar Cipher  ",
+   "id": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
+   "title": "The Caesar Cipher",
    "files": [],
-   "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Caesar-Cipher---1dd8.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "symkey-1/plaintext.txt",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
+   "content-file": ".guides/content/The-Caesar-Cipher-ac90.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -142,18 +118,35 @@
    "learningObjectives": ""
   },
   {
-   "id": "59d68695-cf0a-9e9a-746c-70fcbf03db94",
-   "title": "Shift Ciphers",
+   "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
+   "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "symkey-1/plaintext.txt",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "1-panel",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Shift-Ciphers-59d6.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3fd1db77-1a25-5692-1ec9-0bb6ff39de1e",
+   "title": "Shift Ciphers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Shift-Ciphers-3fd1.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -214,13 +207,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "3502bbde-35f2-6beb-6676-025bb71c05fe",
-   "title": "The Big Picture: Cryptology ",
+   "id": "227736ae-23d4-4a63-6bea-24cad2eefe07",
+   "title": "The Big Picture: Cryptology",
    "files": [],
-   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Big-Picture--Cryptology--3502.md",
+   "content-file": ".guides/content/The-Big-Picture--Cryptology-2277.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -298,12 +290,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "92772a0d-ccb1-b615-61e4-70b9d7957c95",
+   "id": "e20f7a42-d00f-0727-77d9-6aa00be78ce9",
    "title": "The Substitution Cipher",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Substitution-Cipher-9277.md",
+   "content-file": ".guides/content/The-Substitution-Cipher-e20f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -415,18 +407,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "23c78ec1-2e5e-d3cf-ffce-7f8643b0b3f3",
-   "title": "NIST and the Selection of Ciphers for Federal Processing",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
+   "id": "39b831a9-2f1b-59bd-4b41-478504cfa5a5",
+   "title": "Block Ciphers and NIST",
+   "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/NIST-and-the-Selection-of-Ciphers-for-Federal-Processing-23c7.md",
+   "content-file": ".guides/content/Block-Ciphers-and-NIST-39b8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -434,11 +420,11 @@
   },
   {
    "id": "c6710826-508f-2c18-9e53-798609eac823",
-   "title": "Block Ciphers",
+   "title": "Block Ciphers at a Glance",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Block-Ciphers-c671.md",
+   "content-file": ".guides/content/Block-Ciphers-at-a-Glance-c671.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -463,18 +449,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
-   "title": "Symmetric Key Cryptography: Summary",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
+   "id": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
+   "title": "Symmetric Key Cryptography: Critical Thinking",
+   "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Symmetric-Key-Cryptography--Summary-055f.md",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography--Critical-Thinking-8fbd.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -493,12 +473,18 @@
    "learningObjectives": ""
   },
   {
-   "id": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
-   "title": "Symmetric Key Cryptography: Critical Thinking",
-   "files": [],
+   "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
+   "title": "Symmetric Key Cryptography: Summary",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Symmetric-Key-Cryptography--Critical-Thinking-8fbd.md",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography--Summary-055f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

@@ -39,4 +39,3 @@ For an English alphabet, there are 26 possible keys. Why?
 **Instructor's Note:** There are 33 letters in the Russian Cyrillic alphabet, and 36 in the Armenian alphabet, so the respective answers are 33 and 36.
 
 |||
-

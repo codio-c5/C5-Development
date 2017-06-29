@@ -7,5 +7,4 @@
 
 - **Cryptanalysis** focuses on breaking these systems. Cryptanalysis is also part of the field of cryptology. It studies cryptographic ciphers with the aim of breaking them. **Cryptanalysts** are people who seek to break a cipher. Today, you may have heard them called **hackers.** Alan Turing is an example of a cryptanalyst.
 
-![](.guides/img/cryptology.png) 
-
+![](.guides/img/cryptology.png) # Sample content The Big Picture: Cryptology

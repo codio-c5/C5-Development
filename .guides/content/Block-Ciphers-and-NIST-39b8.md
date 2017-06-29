@@ -5,6 +5,3 @@ Deputy Director Bill Newhouse stepped away from his busy day to explain NIST's i
 <div>
   <iframe src="//player.vimeo.com/video/222909163" width="500" height="290" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
-
-  
