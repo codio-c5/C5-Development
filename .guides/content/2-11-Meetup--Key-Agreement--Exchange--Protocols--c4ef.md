@@ -6,6 +6,7 @@ Pair up with a classmate.You're going to create a shared key.
 
 Task:  Each pair will create their own key then exchange messages with another team.  
  -Paul, we need a steplist here of how they can create a key with simple arithmetic.
+ (The following steps describe how to compute a trivial version of Diffie-Hellman algorithm. It demonstrates the essential aspect of D-H that enables 2 parties to generate a shared secret without directly communicating that secret. This algorithm has 2 purposes: 1. to demonstrate the general process and 2. to be easily breakable. The following lesson will use this demonstrate the actual D-H algorithm and how it works.)
   - Step 0 Pick a partner. One person will will be referred to as P1 and the other P2.
   - Step 1. Agree with your partner on a shared number and assign that number to the variable called S. For instance, pick S=3.
   - Step 2. P1 picks a number and P2 picks a number. Each person keeps their number a secret. P1 assign it to the variable X1 and the other to X2. For instance, P1 picks X1=5 and P2 picks X2=4.
@@ -15,7 +16,9 @@ Task:  Each pair will create their own key then exchange messages with another t
   
 Now you have a shared key with your partner.  
 
- - Encrypt a message to your partner.  
+ - Encrypt a message to your partner.
+ 
+ U
  - Give the encrypted message to another team, and take a message they have encrypted using their shared key.
  - Try to decrypt the other without their key
  - If you weren't successful, try again using their key.
