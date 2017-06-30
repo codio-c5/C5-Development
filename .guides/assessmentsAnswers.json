@@ -9,7 +9,7 @@
  },
  {
   "taskId": "fill-in-the-blanks-836680581",
-  "points": 1,
+  "points": 0,
   "state": {
    "active": [
     "symmetric key encryption",
@@ -108,6 +108,22 @@
   "points": 0,
   "state": {
    "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-2547250082",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-462797056",
+  "points": 0,
+  "state": {
+   "active": null
   },
   "results": []
  }
