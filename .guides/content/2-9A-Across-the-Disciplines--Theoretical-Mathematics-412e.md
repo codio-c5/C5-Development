@@ -11,4 +11,5 @@
 
 
 ## Paul to describe what the heck this is and why it's relevant....
+## Will do. It's the basis for the Internet as we know it. It should be moved back before the 2.8x RSA stuff but before the modular arithmetic that I'm writing: 2.X1 Modular Arithmetic, 2.X2 Fermat, 2.X3 RSA slides.
 
