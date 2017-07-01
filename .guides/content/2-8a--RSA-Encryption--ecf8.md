@@ -18,7 +18,7 @@ And this is possible because the A to the power of P-minus-1 minus 1 is divisabl
 
 Huh? That's Fermat's ("Fair-ma") Little Theorem. He discovered the mathemtical relationship in 1640. In 1783, Leonhard Euler ("Oiler") expanded that theorem as Euler's Totient function. 
 
-Nearly 200 years later Rivest, Shamir and Adelman discovered that by combining Fermat's Little Theorem, Euler's Totient Function (a generalization of Fermat's Little Theorem), along with aid of other mathematical wonders like the Chiness Remainder Theorem, the Euclidean Algorithm, they could calculate two numbers that are the inverse of each other. This relationship satisfies the fundamental requirement of Public Key encryption: one number can be used as a public key and its inverse as the private key.
+Nearly 200 years later Rivest, Shamir and Adelman discovered that by combining Fermat's Little Theorem, Euler's Totient Function (a generalization of Fermat's Little Theorem), along with aid of other mathematical wonders like the Chiness Remainder Theorem, the Euclidean Algorithm, they could calculate two numbers that are the inverse of each other. Actually they're the modulo inverse of each other, but this relationship satisfies the fundamental requirement of Public Key encryption: one number can be used as a public key and its inverse as the private key.
 
 RSA brilliantly combines mathematics spanning centuries and, in the case of the Euclidean Algorithm, millenia.
 
