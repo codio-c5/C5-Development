@@ -10,9 +10,9 @@ In 1977, three researchers at the MIT Laboratory of Computer Science came up wit
 The Internet as we know it exists because RSA made e-commerce possible. RSA encryption allows two strangers to securely and confidently communicate with each other.
 
 [author's note]
-Without a profit motive, the Internet would still be the sleepy domain of nerds, universities and the military that it was until the early-to-mid 1990's. The Internet exploded in uses and users when business figured out how to use the Internet to make money over the Internet, investment flowed in to build up the underlying infrastructure - faster fibre, data centers, software, devices, etc. Constant investment and innovation has let to the ubiquity and omniprecense of the Web [this is !=PC but oh well...]
+Without the ability of two or more strangers to securily communicate with each other, the Internet would still be the sleepy domain of nerds, universities and the military that it was until the early-to-mid 1990's. Use of the Internet exploded once it became possible to use it for commerce. Once big money was made, a tidal wave of investment flowed in and built the underlying infrastructure - faster fibre, data centers, software, devices, etc. Constant investment and innovation has let to the ubiquity and omniprecense of the Web [this is !=PC but oh well...]
 
-And securing Internet communications is possible because modulus m of a-to-the-power-of-m-minus-1 is congruent to 1. In other words, A to the power of (P − 1) − 1 is divisible by P, when P is a prime number and A is an integer that is not divisible by P; alternatively this mathematical truth can be expressed in modular arithmetic as a^(m-1) ≡ 1(mod m).
+And making money is possible because the modulus M of A-to-the-power-of-M-minus-1 is congruent to 1. In other words, A to the power of (P − 1) − 1 is divisible by P, when P is a prime number and A is an integer that is not divisible by P; alternatively this mathematical truth can be expressed in modular arithmetic as A^(M-1) ≡ 1(mod M). 
 
 [Recall that 2 numbers are congruent if they only share one common divisor of 1.]
 
