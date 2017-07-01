@@ -5,7 +5,7 @@
  
 *Source: From left to right: by Ronald L. Rivest (Own work) CC BY-SA 4.0; by Erik Tews (Own work) CC BY-SA 3.0; by Len Adleman, (Own work) CC BY- SA 3.0, via Wikimedia Commons.*
  
-In 1977, three researchers at the MIT Laboratory of Computer Science came up with the RSA Encryption algorithm. RSA was the first viable and publically available public key encryption algorithm [1] and  became the foundation for secure global communication unhindered by the necessity of explicit key distribution...
+In 1977, three researchers at the MIT Laboratory of Computer Science came up with the RSA Encryption algorithm. Inspired by the work of Diffie-Helman[verify reference ps], RSA was the first viable and publically available public key encryption algorithm [1] and  became the foundation for secure global communication unhindered by the necessity of expensive symmetric key distribution systems.
 
 The Internet as we know it exists because RSA made e-commerce possible. RSA encryption allows two strangers to securely and confidently communicate with each other.
 
