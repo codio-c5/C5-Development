@@ -9,7 +9,7 @@
 **Christopher Morcom:** Alan, I have a funny feeling you're going to be very good at this.
 
 <figcaption style="font-size: 0.8em; text-align: left;"> <i>Source:</i> The Imitation Game.<i> Directed by Morten Tyldum. The Weinstein Company, 2014. Film.</i> 
-
+</figcaption> 
 
 [Learn more about code breaking and the movie *The Imitation Game*](http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.html)
 

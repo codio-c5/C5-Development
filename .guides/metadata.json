@@ -95,29 +95,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
-   "title": "CreatorSpace Lab: Decrypting the Caesar Cipher",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "symkey-1/ciphertext.txt",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Decrypting-the-Caesar-Cipher-3dad.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
    "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
    "files": [
@@ -135,6 +112,29 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
+   "title": "CreatorSpace Lab: Decrypting the Caesar Cipher",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "symkey-1/ciphertext.txt",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab--Decrypting-the-Caesar-Cipher-3dad.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -197,7 +197,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Kerckhoffs-s-Principle-ee03.md",
@@ -569,25 +569,24 @@
    "learningObjectives": ""
   },
   {
-   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
-   "title": " A Day in the Life of Raven Alder",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/-A-Day-in-the-Life-of-Raven-Alder-3363.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
    "title": "Additional Assessment Items",
    "files": [],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Additional-Assessment-Items-7e9f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "17831e64-4619-743c-bd9f-b1ea696429f9",
+   "title": "2.1 Public Key Cryptography",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/2-1-Public-Key-Cryptography-1783.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -703,18 +702,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
-   "title": "2.8A Hackathon: Inside RSA Encryption",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/2-8A-Hackathon--Inside-RSA-Encryption-59d2.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
    "title": "2.8B CreatorSpace Lab: RSA",
    "files": [
@@ -770,6 +757,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-10-The-Problem-of-Authentication--4d24.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d228c8f4-09b3-57f5-0992-338cab98d00a",
+   "title": "Key Agreement Protocols",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Key-Agreement-Protocols-d228.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -837,11 +836,11 @@
   },
   {
    "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
-   "title": "2.17 (S21) Another Problem: Integrity  ( Paul -> LA )",
+   "title": "2.17 (S21) Another Problem: Integrity  (Paul -> LA)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-17--S21--Another-Problem--Integrity----Paul----LA---0af2.md",
+   "content-file": ".guides/content/2-17--S21--Another-Problem--Integrity---Paul----LA--0af2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -854,6 +853,31 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/2-18-Unit-Summary-8465.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
+   "title": " A Day in the Life of Raven Alder",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-A-Day-in-the-Life-of-Raven-Alder-3363.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
+   "title": "2.8A Hackathon: Inside RSA Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/2-8A-Hackathon--Inside-RSA-Encryption-59d2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

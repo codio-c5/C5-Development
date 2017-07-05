@@ -44,20 +44,19 @@
      "id": "cc4c81dc-677d-4ad4-d61b-2dab9ed4e7ad",
      "type": "section",
      "pageId": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
-     "children": [
-      {
-       "title": "CreatorSpace Lab: Decrypting the Caesar Cipher",
-       "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
-       "type": "page",
-       "pageId": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad"
-      },
-      {
-       "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
-       "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-       "type": "page",
-       "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
-      }
-     ]
+     "children": []
+    },
+    {
+     "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
+     "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
+     "type": "page",
+     "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
+    },
+    {
+     "title": "CreatorSpace Lab: Decrypting the Caesar Cipher",
+     "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
+     "type": "page",
+     "pageId": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad"
     },
     {
      "title": "Shift Ciphers",
@@ -238,136 +237,166 @@
    ]
   },
   {
-   "title": " A Day in the Life of Raven Alder",
-   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
-   "type": "page",
-   "pageId": "33631974-d9bc-f937-fd6b-779cb40a0611"
-  },
-  {
    "title": "Additional Assessment Items",
    "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
    "type": "page",
    "pageId": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b"
   },
   {
-   "title": "2.1 Public Key Cryptography (LA)",
-   "id": "90c6cfd6-49eb-48be-8898-46208b2682f0",
-   "type": "page",
-   "pageId": "90c6cfd6-49eb-48be-8898-46208b2682f0"
+   "title": "2.1 Public Key Cryptography",
+   "id": "1fe0611e-ea32-ed39-2fb7-71dde62800ea",
+   "type": "section",
+   "pageId": "17831e64-4619-743c-bd9f-b1ea696429f9",
+   "children": [
+    {
+     "title": "2.1 Public Key Cryptography (LA)",
+     "id": "90c6cfd6-49eb-48be-8898-46208b2682f0",
+     "type": "page",
+     "pageId": "90c6cfd6-49eb-48be-8898-46208b2682f0"
+    },
+    {
+     "title": "2.2 Check Your Memory",
+     "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
+     "type": "page",
+     "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
+    },
+    {
+     "title": "2.3 Solutions for Key Distribution ",
+     "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
+     "type": "page",
+     "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
+    },
+    {
+     "title": "2.4 Public Key Cryptography",
+     "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+     "type": "page",
+     "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
+    },
+    {
+     "title": "2.5 Asymmetric Encryption",
+     "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
+     "type": "page",
+     "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
+    },
+    {
+     "title": "2.6 The Advantage of Asymmetric Encryption",
+     "id": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
+     "type": "page",
+     "pageId": "843f3f22-9cdc-d3fd-492e-c42c868d304b"
+    },
+    {
+     "title": "2.7 CreatorSpace Lab: Public Key Encryption",
+     "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
+     "type": "page",
+     "pageId": "2a216c35-e941-83a0-6d1c-f8841fa636ef"
+    },
+    {
+     "title": "2.8  RSA Encryption ",
+     "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
+     "type": "page",
+     "pageId": "ecf8ddfe-7fc1-7614-9990-a4f733c37879"
+    },
+    {
+     "title": "2.8B CreatorSpace Lab: RSA",
+     "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
+     "type": "page",
+     "pageId": "0aea8b8a-9ae1-245d-3df7-f4359fc01908"
+    },
+    {
+     "title": "2.9 Elliptic Curve Encryption",
+     "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
+     "type": "page",
+     "pageId": "5a9266e7-9fe3-188a-5b14-f25a19808721"
+    },
+    {
+     "title": "2.9A Across the Disciplines: Theoretical Mathematics",
+     "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
+     "type": "page",
+     "pageId": "412ee72f-0ab6-c2f6-c119-0af2e685db97"
+    },
+    {
+     "title": "2.10 The Problem of Authentication ",
+     "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
+     "type": "page",
+     "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59"
+    }
+   ]
   },
   {
-   "title": "2.2 Check Your Memory",
-   "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
-   "type": "page",
-   "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
+   "title": "Key Agreement Protocols",
+   "id": "05a2a31d-0568-79c3-77d0-ccb985eb24d8",
+   "type": "section",
+   "pageId": "d228c8f4-09b3-57f5-0992-338cab98d00a",
+   "children": [
+    {
+     "title": "2.11 Meetup: Key Agreement (Exchange) Protocols ",
+     "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
+     "type": "page",
+     "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
+    },
+    {
+     "title": "2.12 Key Agreement Protocols ",
+     "id": "20559663-a427-4335-4394-afe3c420da60",
+     "type": "page",
+     "pageId": "20559663-a427-4335-4394-afe3c420da60"
+    },
+    {
+     "title": "2.13 (S18) Examples of Key Agreement Schemes (Paul)",
+     "id": "31840323-7c31-43ff-0bbd-6f4afa31a51c",
+     "type": "page",
+     "pageId": "31840323-7c31-43ff-0bbd-6f4afa31a51c"
+    },
+    {
+     "title": "2.15 (S19) Use of Key Agreement Protocols (Paul)",
+     "id": "ad2dd920-b379-233d-165c-ea316b3b9dbb",
+     "type": "page",
+     "pageId": "ad2dd920-b379-233d-165c-ea316b3b9dbb"
+    },
+    {
+     "title": "2.16: Man in the Middle",
+     "id": "027482d0-3d75-ad7c-9115-e948894f207f",
+     "type": "page",
+     "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"
+    },
+    {
+     "title": "2.17 (S21) Another Problem: Integrity  ( Paul -> LA )",
+     "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
+     "type": "page",
+     "pageId": "0af28b74-85d7-9f74-cabf-9a0c1974a197"
+    }
+   ]
   },
   {
-   "title": "2.3 Solutions for Key Distribution ",
-   "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
-   "type": "page",
-   "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
+   "title": "Unit Summary & Assessments",
+   "id": "27bccd3d-0273-4c6b-c782-3eb1a72cbd4a",
+   "type": "section",
+   "children": [
+    {
+     "title": "2.18 Unit Summary",
+     "id": "8465c47f-fb60-e5e0-78f7-705f78587e93",
+     "type": "page",
+     "pageId": "8465c47f-fb60-e5e0-78f7-705f78587e93"
+    }
+   ]
   },
   {
-   "title": "2.4 Public Key Cryptography",
-   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+   "title": " A Day in the Life of Raven Alder",
+   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
    "type": "page",
-   "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
+   "pageId": "33631974-d9bc-f937-fd6b-779cb40a0611"
   },
   {
-   "title": "2.5 Asymmetric Encryption",
-   "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
-   "type": "page",
-   "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
-  },
-  {
-   "title": "2.6 The Advantage of Asymmetric Encryption",
-   "id": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
-   "type": "page",
-   "pageId": "843f3f22-9cdc-d3fd-492e-c42c868d304b"
-  },
-  {
-   "title": "2.7 CreatorSpace Lab: Public Key Encryption",
-   "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
-   "type": "page",
-   "pageId": "2a216c35-e941-83a0-6d1c-f8841fa636ef"
-  },
-  {
-   "title": "2.8  RSA Encryption ",
-   "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
-   "type": "page",
-   "pageId": "ecf8ddfe-7fc1-7614-9990-a4f733c37879"
-  },
-  {
-   "title": "2.8A Hackathon: Inside RSA Encryption",
-   "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
-   "type": "page",
-   "pageId": "59d277e2-2dc2-d8d8-f688-33045a4a3e97"
-  },
-  {
-   "title": "2.8B CreatorSpace Lab: RSA",
-   "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-   "type": "page",
-   "pageId": "0aea8b8a-9ae1-245d-3df7-f4359fc01908"
-  },
-  {
-   "title": "2.9 Elliptic Curve Encryption",
-   "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
-   "type": "page",
-   "pageId": "5a9266e7-9fe3-188a-5b14-f25a19808721"
-  },
-  {
-   "title": "2.9A Across the Disciplines: Theoretical Mathematics",
-   "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
-   "type": "page",
-   "pageId": "412ee72f-0ab6-c2f6-c119-0af2e685db97"
-  },
-  {
-   "title": "2.10 The Problem of Authentication ",
-   "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
-   "type": "page",
-   "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59"
-  },
-  {
-   "title": "2.11 Meetup: Key Agreement (Exchange) Protocols ",
-   "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
-   "type": "page",
-   "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
-  },
-  {
-   "title": "2.12 Key Agreement Protocols ",
-   "id": "20559663-a427-4335-4394-afe3c420da60",
-   "type": "page",
-   "pageId": "20559663-a427-4335-4394-afe3c420da60"
-  },
-  {
-   "title": "2.13 (S18) Examples of Key Agreement Schemes (Paul)",
-   "id": "31840323-7c31-43ff-0bbd-6f4afa31a51c",
-   "type": "page",
-   "pageId": "31840323-7c31-43ff-0bbd-6f4afa31a51c"
-  },
-  {
-   "title": "2.15 (S19) Use of Key Agreement Protocols (Paul)",
-   "id": "ad2dd920-b379-233d-165c-ea316b3b9dbb",
-   "type": "page",
-   "pageId": "ad2dd920-b379-233d-165c-ea316b3b9dbb"
-  },
-  {
-   "title": "2.16: Man in the Middle",
-   "id": "027482d0-3d75-ad7c-9115-e948894f207f",
-   "type": "page",
-   "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"
-  },
-  {
-   "title": "2.17 (S21) Another Problem: Integrity  ( Paul -> LA )",
-   "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
-   "type": "page",
-   "pageId": "0af28b74-85d7-9f74-cabf-9a0c1974a197"
-  },
-  {
-   "title": "2.18 Unit Summary",
-   "id": "8465c47f-fb60-e5e0-78f7-705f78587e93",
-   "type": "page",
-   "pageId": "8465c47f-fb60-e5e0-78f7-705f78587e93"
+   "title": "Hackathons",
+   "id": "53e1c4d2-b4f8-4619-270d-d4fc6177dd21",
+   "type": "section",
+   "children": [
+    {
+     "title": "2.8A Hackathon: Inside RSA Encryption",
+     "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
+     "type": "page",
+     "pageId": "59d277e2-2dc2-d8d8-f688-33045a4a3e97"
+    }
+   ]
   }
  ],
  "name": "C5 Cybersecurity"

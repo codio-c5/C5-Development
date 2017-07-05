@@ -7,5 +7,5 @@ The French novel <u>La Disparition</u> by Georges Perec was written without usin
 {Submit Answer!|assessment}(free-text-1840327201)
 
 ||| guidance
-**Instructor's Note:**Answers might include adapting the frequency patterns in the given language to eliminate "E."
+**Instructor's Note:** Answers might include adapting the frequency patterns in the given language to eliminate "E."
 |||
