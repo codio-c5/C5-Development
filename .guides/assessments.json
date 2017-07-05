@@ -127,10 +127,15 @@
   "source": {
    "name": "1.1.1",
    "showName": false,
-   "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "c178d48c-64a3-3928-2f9b-f1b73da88af3",
@@ -161,10 +166,15 @@
   "source": {
    "name": "1.2.1",
    "showName": false,
-   "instructions": "In which of the following attack scenarios does the attacker has most power? ",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**In which of the following attack scenarios does the attacker has most power?** ",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "20c724b1-6542-4278-c922-401992497848",
@@ -217,10 +227,15 @@
   "source": {
    "name": "1.4.1",
    "showName": false,
-   "instructions": "Which of the following are symmetric key ciphers? Select all that apply.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following are symmetric key ciphers? Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "bd1ede30-fcc1-9d41-2f9f-1364338b5b1c",
@@ -251,9 +266,13 @@
   "source": {
    "name": "CYM 1.2",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "When can frequency analysis fail?",
+   "instructions": "**When can frequency analysis fail?**",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -263,9 +282,13 @@
   "source": {
    "name": "CYM 1.5",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Why is key distribution problematic?",
+   "instructions": "**Why is key distribution problematic?**",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -275,9 +298,13 @@
   "source": {
    "name": "CYM 1.2A",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Compare and contrast \"Security by obscurity\" with Kerckhoffs's Principle.",
+   "instructions": "**Compare and contrast \"Security by obscurity\" with Kerckhoffs's Principle.**",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -316,10 +343,15 @@
   "source": {
    "name": "CI 1.2",
    "showName": false,
-   "instructions": "How does the code handle the apostrophe in the word \"it's\"?",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**How does the code handle the apostrophe in the word \"it's\"?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "7fbb6e4a-903e-af32-765f-cdb596f44a2e",
@@ -350,9 +382,13 @@
   "source": {
    "name": "GH 1.2",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Using what you know about the apostrophe, how could that help you in a brute force attack to decrypt the message?",
+   "instructions": "**Using what you know about the apostrophe, how could that help you in a brute force attack to decrypt the message?**",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -383,9 +419,13 @@
   "source": {
    "name": "GH 1.2B",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "For the English alphabet, there are 26 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic? The Armenian alphabet?",
+   "instructions": "**For the English alphabet, there are 26 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic? The Armenian alphabet?**",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -395,9 +435,13 @@
   "source": {
    "name": "GH 1.21",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Consider general English usage, such as a newspaper.  Name three common digrams you would find.\n **Hint:** Think about common word endings, as well as common two-letter words.",
+   "instructions": "**Consider general English usage, such as a newspaper.  Name three common digrams you would find.**\n **Hint:** Think about common word endings, as well as common two-letter words.",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -419,9 +463,13 @@
   "source": {
    "name": "GH 1.22",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Consider general English usage, such as a newspaper.  Name three common trigrams you would find.\n **Hint:** Think about common word endings, as well as common three-letter words.",
+   "instructions": "**Consider general English usage, such as a newspaper.  Name three common trigrams you would find.**\n **Hint:** Think about common word endings, as well as common three-letter words.",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -462,9 +510,13 @@
   "source": {
    "name": "GH 1.2A",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "In a shift cipher, what happens if k=0?",
+   "instructions": "**In a shift cipher, what happens if k=0?**",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -475,7 +527,10 @@
    "name": "LCI 1.2",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "instructions": "What key was used in this exercise?",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**What key was used in this exercise?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -582,9 +637,13 @@
   "source": {
    "name": "GH 1.2",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "How would knowing this change your attack scenario?",
+   "instructions": "**How would knowing this change your attack scenario?**",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -594,9 +653,13 @@
   "source": {
    "name": "GH 1.4",
    "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "What is the result of your second encryption?  Why?",
+   "instructions": "**What is the result of your second encryption?  Why?**",
+   "learningObjectives": "",
    "points": 1
   }
  },
@@ -746,10 +809,15 @@
   "source": {
    "name": "1.1.7",
    "showName": false,
-   "instructions": "Which of the following are true about plaintext?  Select all that apply.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following are true about plaintext?  Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "3ea08248-86f7-4414-ee90-b708fade4144",
@@ -829,10 +897,15 @@
   "source": {
    "name": "1.1.9",
    "showName": false,
-   "instructions": "Which of the following is/are not a part of symmetric key cryptography? Select all that apply.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following is/are not a part of symmetric key cryptography? Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "b442d138-ce14-7d11-fdf3-c20977aa0bab",
@@ -863,10 +936,15 @@
   "source": {
    "name": "1.2.7",
    "showName": false,
-   "instructions": "Which of the following are possible attacks scenarios for symmetric key encryption? Select all that apply.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following are possible attacks scenarios for symmetric key encryption? Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "3703224f-cb6d-5d4b-9bab-b32901f088c9",
@@ -902,9 +980,14 @@
   "source": {
    "name": "1.3.2",
    "showName": false,
-   "instructions": "Fill in the blank with the correct response. Use only lowercase characters. ",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank with the correct response. Use only lowercase characters.** ",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "Alice uses a special substitution cipher known as ROT13 to encrypt her message to Bob. If Alice’s plaintext is “codecracker\", the ciphertext Bob receives is <<<pbqrpenpxre>>>.",
    "tokens": {
     "blank": [
@@ -924,9 +1007,14 @@
   "source": {
    "name": "1.3.3",
    "showName": false,
-   "instructions": "Fill in the blank.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "The letter that appears most frequently in the English alphabet is <<<e>>>.",
    "tokens": {
     "blank": [
@@ -946,9 +1034,14 @@
   "source": {
    "name": "1.4.5",
    "showName": false,
-   "instructions": "Fill in the blank.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "You want to encrypt data on a removable storage using the strongest method possible.  <<<AES>>> is the encryption method you choose.",
    "tokens": {
     "blank": [
@@ -968,10 +1061,15 @@
   "source": {
    "name": "1.4.6",
    "showName": false,
-   "instructions": "Which of the following are types of symmetric key encryption algorithms? Select all that apply.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following are types of symmetric key encryption algorithms? Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "4da932b2-60f4-8f8e-b61c-7d1e050ab38e",
@@ -1008,7 +1106,10 @@
    "name": "1.5.6",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "instructions": "What is the biggest challenge associated with the distribution of key in symmetric key encryption?",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**What is the biggest challenge associated with the distribution of key in symmetric key encryption?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -1043,10 +1144,15 @@
   "source": {
    "name": "1.5.6",
    "showName": false,
-   "instructions": "If both sender and receiver use the same key, the system is referred to as:",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**If both sender and receiver use the same key, the system is referred to as:**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "00022df9-9d0b-2627-ebf3-190c31d9268f",
@@ -1082,9 +1188,14 @@
   "source": {
    "name": "1.6.3",
    "showName": false,
-   "instructions": "Fill in the blank with the correct number.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank with the correct number.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "DES encrypts <<<64>>> bits at a time. ",
    "tokens": {
     "blank": [
@@ -1104,9 +1215,14 @@
   "source": {
    "name": "1.6.6",
    "showName": false,
-   "instructions": "Fill in the blank.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "<<<Block ciphers>>> are method of encryption that transposes plaintext to ciphertext in chunks.",
    "tokens": {
     "blank": [
@@ -1125,10 +1241,15 @@
   "source": {
    "name": "1.1.11",
    "showName": false,
-   "instructions": "Choose the best response. The primary goal of encryption is:",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Choose the best response. The primary goal of encryption is:**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "ffab7439-7c54-8b59-5acf-1e2ceb03004f",
@@ -1159,10 +1280,15 @@
   "source": {
    "name": "1.2.2",
    "showName": false,
-   "instructions": "You know that HELLO encrypts to MJQQT. What is the shift key?  \nChoose the best response.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**You know that HELLO encrypts to MJQQT. What is the shift key?  \nChoose the best response.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "292f23b6-ef77-5c21-1df0-4fb492bd6fec",
@@ -1193,9 +1319,14 @@
   "source": {
    "name": "1.2.6",
    "showName": false,
-   "instructions": "Fill in the blank.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "<<<AES>>> Is an encryption scheme uses the Rijndael block cipher which is resistant to all known attacks.",
    "tokens": {
     "blank": [
@@ -1214,9 +1345,14 @@
   "source": {
    "name": "1.3.1",
    "showName": false,
-   "instructions": "Fill in the blank.  Do not include any spaces in your answer.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.  Do not include any spaces in your answer.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "Alice uses a shift cipher with a shift of 4 to encrypt her message to Bob. If the ciphertext she obtains is `KSSHPYGO`, what is her message in plaintext? <<<goodluck>>>",
    "tokens": {
     "blank": [
@@ -1235,10 +1371,15 @@
   "source": {
    "name": "1.3.8",
    "showName": false,
-   "instructions": "Which of the following is an accurate statements about Caesar cipher? ",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following is an accurate statements about Caesar cipher?** ",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "e50685a3-21f5-9e99-ebbd-7866e99d9a37",
@@ -1269,10 +1410,15 @@
   "source": {
    "name": "1.4.8",
    "showName": false,
-   "instructions": "Select all that apply. Block ciphers found in use today:",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Select all that apply. Block ciphers found in use today:**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "68b85765-2e1f-a921-3dac-2c654716da84",
@@ -1303,9 +1449,14 @@
   "source": {
    "name": "1.5.3",
    "showName": false,
-   "instructions": "Fill in the blank.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "An issue in symmetric key cryptography is the problem of<<<trust>>> between two parties that share a secret key.",
    "tokens": {
     "blank": [
@@ -1325,9 +1476,14 @@
   "source": {
    "name": "1.6.2",
    "showName": false,
-   "instructions": "Fill in the blank with the correct number.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank with the correct number.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "In the AES encryption process, the cipher takes a plaintext block size of <<<128>>> bits.",
    "tokens": {
     "blank": [
@@ -1347,10 +1503,15 @@
   "source": {
    "name": "1.6.4",
    "showName": false,
-   "instructions": "Choose the best response.  \nWhat form of cryptography is best suited for bulk encryption because it is so fast?",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Choose the best response. What form of cryptography is best suited for bulk encryption because it is so fast?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "1c6c19e4-2751-9b1c-d4b1-a94c0fca5be5",
@@ -1381,10 +1542,15 @@
   "source": {
    "name": "LCI 1.2.2",
    "showName": false,
-   "instructions": "What key is used in this cipher?",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**What key is used in this cipher?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "77117a69-2a64-9caf-1d94-b88222509ca5",
@@ -1415,9 +1581,14 @@
   "source": {
    "name": "LCI 1.2.3",
    "showName": false,
-   "instructions": "Complete the sentence below.  Keep the spaces in place in your response.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Complete the sentence below.  Keep the spaces in place in your response.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "Using this key, the plaintext phrase \"An apple a day\" encrypts into the ciphertext <<<ZM ZKKOV Z WZB>>>.",
    "tokens": {
     "blank": [
@@ -1437,9 +1608,14 @@
   "source": {
    "name": "1.1.6",
    "showName": false,
-   "instructions": "Fill in the blank.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "A <<<key>>> is the information used in conjunction with the algorithm to create the ciphertext from the plaintext.",
    "tokens": {
     "blank": [
@@ -1459,10 +1635,15 @@
   "source": {
    "name": "1.1.10",
    "showName": false,
-   "instructions": "Which of the following is a true statement?",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following is a true statement?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "1d5df02f-6000-0709-45ce-0b589c69ccb1",
@@ -1493,9 +1674,14 @@
   "source": {
    "name": "1.2.3",
    "showName": false,
-   "instructions": "Fill in the blank.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "Your company produces an encryption device that lets you enter text and receive encrypted text in response. An attacker obtains one of these devices and starts inputting random plain text to see the resulting cipher text. This is called a <<<chosen plaintext>>> attack.\n\n",
    "tokens": {
     "blank": [
@@ -1515,9 +1701,14 @@
   "source": {
    "name": "1.2.4",
    "showName": false,
-   "instructions": "Fill in the blank.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
+   "learningObjectives": "",
    "text": "In a <<<known plaintext>>> attack, the attacker has access to both the unencrypted message and the resulting cipher text, but does not have the ability to encrypt the plain text.\n\n",
    "tokens": {
     "blank": [
@@ -1575,7 +1766,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "Fill in the blank.\n",
+   "instructions": "**Fill in the blank.**\n",
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
@@ -1658,7 +1849,10 @@
    "name": "1.5.3",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "instructions": "Fill in the blank.",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
@@ -1682,7 +1876,10 @@
    "name": "1.5.8",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "instructions": "Select the best response.  Key distribution often involves the use of _________ which are generated and distributed for temporary use between two parties.",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Select the best response.  Key distribution often involves the use of _________ which are generated and distributed for temporary use between two parties.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -1723,7 +1920,10 @@
    "name": "1.5.4",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "instructions": "Fill in the blank.",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
    "learningObjectives": "",

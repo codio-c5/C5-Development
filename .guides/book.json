@@ -178,10 +178,10 @@
      "type": "section",
      "children": [
       {
-       "title": "Symmetric Key Cryptography: Critical Thinking",
-       "id": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
+       "title": "Symmetric Key Cryptography: Summary",
+       "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
        "type": "page",
-       "pageId": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1"
+       "pageId": "055f8e8c-bf6d-14b0-df29-4354d6c4a613"
       },
       {
        "title": "Symmetric Key Cryptography: Assessments",
@@ -190,10 +190,10 @@
        "pageId": "8d9c1b63-2bd8-bcca-d015-c36e28ed1da5"
       },
       {
-       "title": "Symmetric Key Cryptography: Summary",
-       "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
+       "title": "Symmetric Key Cryptography: Critical Thinking",
+       "id": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
        "type": "page",
-       "pageId": "055f8e8c-bf6d-14b0-df29-4354d6c4a613"
+       "pageId": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1"
       }
      ]
     },

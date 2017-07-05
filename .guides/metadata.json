@@ -449,12 +449,18 @@
    "learningObjectives": ""
   },
   {
-   "id": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
-   "title": "Symmetric Key Cryptography: Critical Thinking",
-   "files": [],
+   "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
+   "title": "Symmetric Key Cryptography: Summary",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Symmetric-Key-Cryptography--Critical-Thinking-8fbd.md",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography--Summary-055f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -473,18 +479,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
-   "title": "Symmetric Key Cryptography: Summary",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
+   "id": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
+   "title": "Symmetric Key Cryptography: Critical Thinking",
+   "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Symmetric-Key-Cryptography--Summary-055f.md",
+   "content-file": ".guides/content/Symmetric-Key-Cryptography--Critical-Thinking-8fbd.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
