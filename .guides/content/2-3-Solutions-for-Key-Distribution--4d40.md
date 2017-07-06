@@ -1,4 +1,6 @@
-### lfdlfjsdlfjsfsdl;f, you learned that the weakness of symmetric key encryption is the secure distribution of the shared key. This problem can be solved in two ways-- through public key encryption or by key agreement algorithms.  
+### The greatest flaw in symmetric key encryption is the secure distribution of the shared key. Getting the key to just the person you want --and no one else-- is tricky over unsecured channels.
+
+### This problem can be solved in two ways-- through public key encryption (also known as asymmetric encryption) or by key agreement algorithms.  
 
 <br>
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
@@ -9,7 +11,8 @@ Sourced under CC 0 public domain. publicdomainpictures.net</figcaption>
 </figure>
 
 
-Public Key (asymmetric) Encryption uses an asymmetric (public key) encryption and send over an unsecured channel.
+## Public Key (asymmetric) Encryption 
+uses an asymmetric (public key) encryption and send over an unsecured channel.
 
 ## Key Agreement Algorithms
 
