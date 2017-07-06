@@ -6,9 +6,9 @@
 <br>
 ## The Five Tenets of Information Security
 
-The field of cybersecurity is about supporting secure digital communications. Secure communications requires that each of these tenets is met. 
+The field of cybersecurity focuses on keeping digital communications and other electronic data secure. Ensuring such security requires that all five of the tenets of information security are met. 
 
-In this module, you will learn about each tenet and how applied cryptography methods address them.
+In this module, you'll learn about these tenets and how to apply the methods of cryptography---the art of writing or solving codes---to satisfy each tenet.
 
 **Confidentiality** is the concept of ensuring that data is not made available or disclosed to unauthorized people. Confidentiality, achieved through encryption, was the original purpose of cryptography. In Units 1 and 2, you will learn about different forms of cryptography, their strengths and weaknesses, and approaches for solving them.
 
