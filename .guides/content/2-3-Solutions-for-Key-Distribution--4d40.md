@@ -1,4 +1,4 @@
-### In the last unit, you learned that the weakness of symmetric key encryption is the secure distribution of the shared key. This problem can be solved in two ways-- through public key encryption or by key agreement algorithms.  
+### lfdlfjsdlfjsfsdl;f, you learned that the weakness of symmetric key encryption is the secure distribution of the shared key. This problem can be solved in two ways-- through public key encryption or by key agreement algorithms.  
 
 <br>
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
