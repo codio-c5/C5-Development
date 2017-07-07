@@ -104,9 +104,14 @@
   "source": {
    "name": "1.1 KCI",
    "showName": false,
-   "instructions": "Choose the best response for each statement.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Choose the best response for each statement.**",
    "points": "1",
    "showValues": true,
+   "learningObjectives": "",
    "text": "- The key to the <<<Caesar cipher>>> is to exchange each plaintext letter with the letter three letters down the alphabet.\n- A <<<substitution cipher>>> maps specific letters together to replace each other in plaintext to create the ciphertext.\n- A <<<shift cipher>>> key is created by determining a specific number of letters to move down the alphabet. The new letter replaces the plaintext letter to create the ciphertext.\n",
    "tokens": {
     "blank": [
@@ -484,9 +489,14 @@
   "source": {
    "name": "AH 1.1.2",
    "showName": false,
-   "instructions": "Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.**",
    "points": "1",
    "showValues": true,
+   "learningObjectives": "",
    "text": "You use a(n) <<<encryption key>>> to create unreadable messages called <<<ciphertext>>>. To read encrypted messages, you need a(n) <<<decryption key>>>.  In symmetric key cryptography, the same key is used to encrypt and to decode, or <<<decrypt>>>, the message. ",
    "tokens": {
     "blank": [
@@ -570,9 +580,14 @@
   "source": {
    "name": "CYK 2.1B",
    "showName": false,
-   "instructions": "Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.**",
    "points": "1",
    "showValues": true,
+   "learningObjectives": "",
    "text": "<<<key agreement>>> algorithms also solve the problem.  Here, the message sender and recipient each generate a new key by combining their own private key with the other’s public key. This results in a <<<session key>>> that is the same for both parties and can be used to encrypt and decrypt messages sent between them.",
    "tokens": {
     "blank": [

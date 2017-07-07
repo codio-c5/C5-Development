@@ -9,7 +9,7 @@
  },
  {
   "taskId": "fill-in-the-blanks-836680581",
-  "points": 0,
+  "points": 1,
   "state": {
    "active": [
     "symmetric key encryption",
@@ -32,19 +32,20 @@
      "public",
      "private"
     ],
-    "timestamp": 1497992077965
+    "timestamp": 1499445175333,
+    "state": "pass"
    }
   ]
  },
  {
   "taskId": "fill-in-the-blanks-1681383484",
-  "points": 0,
+  "points": 1,
   "state": {
    "active": [
     "encryption key",
     "ciphertext",
-    "decrypt",
-    "encryption key"
+    "decryption key",
+    "decrypt"
    ]
   },
   "results": [
@@ -52,8 +53,8 @@
     "current": [
      "encryption key",
      "ciphertext",
-     "decrypt",
-     "encryption key"
+     "decryption key",
+     "decrypt"
     ],
     "right": [
      "encryption key",
@@ -61,7 +62,8 @@
      "decryption key",
      "decrypt"
     ],
-    "timestamp": 1497992094724
+    "timestamp": 1499448226605,
+    "state": "pass"
    }
   ]
  },
@@ -113,11 +115,27 @@
  },
  {
   "taskId": "fill-in-the-blanks-2547250082",
-  "points": 0,
+  "points": 1,
   "state": {
-   "active": []
+   "active": [
+    "key agreement",
+    "session key"
+   ]
   },
-  "results": []
+  "results": [
+   {
+    "current": [
+     "key agreement",
+     "session key"
+    ],
+    "right": [
+     "key agreement",
+     "session key"
+    ],
+    "timestamp": 1499445190487,
+    "state": "pass"
+   }
+  ]
  },
  {
   "taskId": "multiple-choice-462797056",
@@ -126,5 +144,32 @@
    "active": null
   },
   "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-3101450858",
+  "points": 1,
+  "state": {
+   "active": [
+    "Caesar cipher",
+    "substitution cipher",
+    "shift cipher"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "Caesar cipher",
+     "substitution cipher",
+     "shift cipher"
+    ],
+    "right": [
+     "Caesar cipher",
+     "substitution cipher",
+     "shift cipher"
+    ],
+    "timestamp": 1499448161297,
+    "state": "pass"
+   }
+  ]
  }
 ]
