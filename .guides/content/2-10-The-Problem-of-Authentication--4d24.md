@@ -16,5 +16,5 @@
 **Instructor's Note:** Someone else might have used Bob’s public key, sent him the message, and claimed he/she was Alice.
 |||
 
-If your solution included a process that verified the identity of the sender, that is correct.  In an upcome lesson you'll learn more about digital signatures and digital certificates.
+If your solution included a process that verified the identity of the sender, that is correct.  In an upcoming lesson you'll learn more about digital signatures and digital certificates.
 

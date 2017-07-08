@@ -267,7 +267,7 @@
      "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
     },
     {
-     "title": "2.5 Asymmetric Encryption",
+     "title": "2.5 An Overview of Public Key (Asymmetric) Encryption",
      "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
      "type": "page",
      "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
@@ -291,19 +291,31 @@
      "pageId": "ecf8ddfe-7fc1-7614-9990-a4f733c37879"
     },
     {
+     "title": "Alternate 2.8A for Paul to consider. Across the Disciplines: Mathematics",
+     "id": "5077a5bf-0c59-d9dd-cfc3-5a813f6ed5fe",
+     "type": "page",
+     "pageId": "abbc437e-487e-9b93-2230-599a582187e5"
+    },
+    {
+     "title": "Alternate 2.8B RSA Encryption for Paul to consider",
+     "id": "37e96197-c62b-a039-a062-f855e41b3bba",
+     "type": "page",
+     "pageId": "862e5e82-94dc-37b4-406d-4e76175fb86c"
+    },
+    {
      "title": "2.8B CreatorSpace Lab: RSA",
      "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
      "type": "page",
      "pageId": "0aea8b8a-9ae1-245d-3df7-f4359fc01908"
     },
     {
-     "title": "2.9 Elliptic Curve Encryption",
+     "title": "2.9 Elliptic Curve Cryptography (ECC)",
      "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
      "type": "page",
      "pageId": "5a9266e7-9fe3-188a-5b14-f25a19808721"
     },
     {
-     "title": "2.9A Across the Disciplines: Theoretical Mathematics",
+     "title": "2.9A Hackathon: Theoretical Mathematics",
      "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
      "type": "page",
      "pageId": "412ee72f-0ab6-c2f6-c119-0af2e685db97"
@@ -317,28 +329,22 @@
    ]
   },
   {
-   "title": "Key Agreement Protocols",
+   "title": "2.11 A An Overview of Key Agreement Protocols",
    "id": "05a2a31d-0568-79c3-77d0-ccb985eb24d8",
    "type": "section",
    "pageId": "d228c8f4-09b3-57f5-0992-338cab98d00a",
    "children": [
     {
-     "title": "2.11 Meetup: Key Agreement (Exchange) Protocols ",
-     "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
-     "type": "page",
-     "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
-    },
-    {
-     "title": "2.12 Key Agreement Protocols ",
-     "id": "20559663-a427-4335-4394-afe3c420da60",
-     "type": "page",
-     "pageId": "20559663-a427-4335-4394-afe3c420da60"
-    },
-    {
      "title": "2.13 (S18) Examples of Key Agreement Schemes (Paul)",
      "id": "31840323-7c31-43ff-0bbd-6f4afa31a51c",
      "type": "page",
      "pageId": "31840323-7c31-43ff-0bbd-6f4afa31a51c"
+    },
+    {
+     "title": "2.11 C: Meetup: Key Agreement (Exchange) Protocols ",
+     "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
+     "type": "page",
+     "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
     },
     {
      "title": "2.15 (S19) Use of Key Agreement Protocols (Paul)",
@@ -359,6 +365,12 @@
      "pageId": "0af28b74-85d7-9f74-cabf-9a0c1974a197"
     }
    ]
+  },
+  {
+   "title": "2.12 Key Agreement Protocols ",
+   "id": "20559663-a427-4335-4394-afe3c420da60",
+   "type": "page",
+   "pageId": "20559663-a427-4335-4394-afe3c420da60"
   },
   {
    "title": "Unit Summary & Assessments",

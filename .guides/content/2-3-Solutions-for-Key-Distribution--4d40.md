@@ -1,6 +1,6 @@
-### The greatest flaw in symmetric key encryption is the secure distribution of the shared key. Getting the key to just the person you want --and no one else-- is tricky over unsecured channels.
+ The greatest flaw in symmetric key encryption is the secure distribution of a shared key. Getting the key to just the person you want,and no one else, is tricky over unsecured channels.
 
-### This problem can be solved in two ways-- through public key encryption (also known as asymmetric encryption) or by key agreement algorithms.  
+In this unit, you'll learn that the problem can be solved in two ways- through **public key encryption** (also known as **asymmetric encryption**) or by **key agreement algorithms.**
 
 <br>
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
@@ -10,11 +10,4 @@
 Sourced under CC 0 public domain. publicdomainpictures.net</figcaption>
 </figure>
 
-
-## Public Key (asymmetric) Encryption 
-uses an asymmetric (public key) encryption and send over an unsecured channel.
-
-## Key Agreement Algorithms
-
-Uses public and private keys to agree on a third key, **the session key,** without exchanging any private information.
 
