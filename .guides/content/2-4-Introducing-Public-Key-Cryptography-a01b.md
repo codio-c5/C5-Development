@@ -1,4 +1,4 @@
-### In 1976, Whitfield Diffie and Martin Hellman created public key cryptography. It fundamentally alters the process by establishing separate, one-way paths for of encryption and decryption. 
+### In 1976, Whitfield Diffie and Martin Hellman created public key cryptography. It fundamentally alters the process by establishing separate, one-way paths for encryption and decryption. 
 
 Diffie and Hellman solved the issue of key distribution by realizing that you could encrypt a message securely using a broadly shared public key if you didn't need to decrypt it again.  Only the recipient would be able to decrypt the ciphertext using a private key. 
 

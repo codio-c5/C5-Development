@@ -178,12 +178,6 @@
      "type": "section",
      "children": [
       {
-       "title": "Symmetric Key Cryptography: Summary",
-       "id": "055f8e8c-bf6d-14b0-df29-4354d6c4a613",
-       "type": "page",
-       "pageId": "055f8e8c-bf6d-14b0-df29-4354d6c4a613"
-      },
-      {
        "title": "Symmetric Key Cryptography: Assessments",
        "id": "8d9c1b63-2bd8-bcca-d015-c36e28ed1da5",
        "type": "page",
@@ -195,7 +189,8 @@
        "type": "page",
        "pageId": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1"
       }
-     ]
+     ],
+     "pageId": "8d67d15e-3269-43ee-12a1-0ce02534bcd6"
     },
     {
      "title": "Hackathons",
@@ -261,7 +256,7 @@
      "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
     },
     {
-     "title": "2.4 Public Key Cryptography",
+     "title": "2.4 Introducing Public Key Cryptography",
      "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
      "type": "page",
      "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
@@ -273,16 +268,16 @@
      "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
     },
     {
-     "title": "2.6 The Advantage of Asymmetric Encryption",
-     "id": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
-     "type": "page",
-     "pageId": "843f3f22-9cdc-d3fd-492e-c42c868d304b"
-    },
-    {
      "title": "2.7 CreatorSpace Lab: Public Key Encryption",
      "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
      "type": "page",
      "pageId": "2a216c35-e941-83a0-6d1c-f8841fa636ef"
+    },
+    {
+     "title": "2.6 The Advantage of Public Key (Asymmetric) Encryption",
+     "id": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
+     "type": "page",
+     "pageId": "843f3f22-9cdc-d3fd-492e-c42c868d304b"
     },
     {
      "title": "2.8  RSA Encryption ",
@@ -313,53 +308,41 @@
      "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
      "type": "page",
      "pageId": "5a9266e7-9fe3-188a-5b14-f25a19808721"
-    },
-    {
-     "title": "2.9A Hackathon: Theoretical Mathematics",
-     "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
-     "type": "page",
-     "pageId": "412ee72f-0ab6-c2f6-c119-0af2e685db97"
-    },
-    {
-     "title": "2.10 The Problem of Authentication ",
-     "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
-     "type": "page",
-     "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59"
     }
    ]
   },
   {
-   "title": "2.11 A An Overview of Key Agreement Protocols",
+   "title": "2.10. Key Agreement Algorithms",
    "id": "05a2a31d-0568-79c3-77d0-ccb985eb24d8",
    "type": "section",
    "pageId": "d228c8f4-09b3-57f5-0992-338cab98d00a",
    "children": [
     {
-     "title": "2.13 (S18) Examples of Key Agreement Schemes (Paul)",
-     "id": "31840323-7c31-43ff-0bbd-6f4afa31a51c",
+     "title": "2.10.A An Overview of Key Agreement",
+     "id": "92de8510-6ad8-1174-ff08-d9e06dac8713",
      "type": "page",
-     "pageId": "31840323-7c31-43ff-0bbd-6f4afa31a51c"
+     "pageId": "f8b66935-383a-0a46-a410-9c5d85fb278a"
     },
     {
-     "title": "2.11 C: Meetup: Key Agreement (Exchange) Protocols ",
+     "title": "2.11 B: Meetup: Key Agreement (Exchange) Protocols ",
      "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
      "type": "page",
      "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
     },
     {
-     "title": "2.15 (S19) Use of Key Agreement Protocols (Paul)",
-     "id": "ad2dd920-b379-233d-165c-ea316b3b9dbb",
+     "title": "2.12 A The Problem of Authentication ",
+     "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
      "type": "page",
-     "pageId": "ad2dd920-b379-233d-165c-ea316b3b9dbb"
+     "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59"
     },
     {
-     "title": "2.16: Man in the Middle",
+     "title": "2.12 B: Man in the Middle Attack",
      "id": "027482d0-3d75-ad7c-9115-e948894f207f",
      "type": "page",
      "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"
     },
     {
-     "title": "2.17 (S21) Another Problem: Integrity  ( Paul -> LA )",
+     "title": "2.13 (S21) Growth Hack: Another Problem: Integrity",
      "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
      "type": "page",
      "pageId": "0af28b74-85d7-9f74-cabf-9a0c1974a197"
@@ -367,23 +350,24 @@
    ]
   },
   {
-   "title": "2.12 Key Agreement Protocols ",
-   "id": "20559663-a427-4335-4394-afe3c420da60",
-   "type": "page",
-   "pageId": "20559663-a427-4335-4394-afe3c420da60"
-  },
-  {
    "title": "Unit Summary & Assessments",
    "id": "27bccd3d-0273-4c6b-c782-3eb1a72cbd4a",
    "type": "section",
    "children": [
     {
-     "title": "2.18 Unit Summary",
+     "title": "Public Key Cryptography: Assessments",
      "id": "8465c47f-fb60-e5e0-78f7-705f78587e93",
      "type": "page",
      "pageId": "8465c47f-fb60-e5e0-78f7-705f78587e93"
+    },
+    {
+     "id": "943b7535-f61e-aa9c-8467-109cdcf68535",
+     "title": "Public Key Cryptography: Critical Thinking",
+     "pageId": "2889d63c-379a-975e-ee8d-2e9cf6d7b6c7",
+     "type": "page"
     }
-   ]
+   ],
+   "pageId": "79f6a1c7-e79d-a3ba-44c3-f27ca7584f42"
   },
   {
    "title": " A Day in the Life of Raven Alder",
@@ -401,6 +385,12 @@
      "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
      "type": "page",
      "pageId": "59d277e2-2dc2-d8d8-f688-33045a4a3e97"
+    },
+    {
+     "title": "2.9A Hackathon: Theoretical Mathematics",
+     "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
+     "type": "page",
+     "pageId": "412ee72f-0ab6-c2f6-c119-0af2e685db97"
     }
    ]
   }

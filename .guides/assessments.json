@@ -1959,5 +1959,21 @@
     ]
    }
   }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-546197875",
+  "source": {
+   "name": "GH 2.2B",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**What are some ways that a message might be altered?  How could this be prevented?**",
+   "learningObjectives": "",
+   "points": 1
+  }
  }
 ]
