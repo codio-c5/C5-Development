@@ -44,19 +44,20 @@
      "id": "cc4c81dc-677d-4ad4-d61b-2dab9ed4e7ad",
      "type": "section",
      "pageId": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
-     "children": []
-    },
-    {
-     "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
-     "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-     "type": "page",
-     "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
-    },
-    {
-     "title": "CreatorSpace Lab: Decrypting the Caesar Cipher",
-     "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
-     "type": "page",
-     "pageId": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad"
+     "children": [
+      {
+       "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
+       "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
+       "type": "page",
+       "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
+      },
+      {
+       "title": "CreatorSpace Lab: Decrypting the Caesar Cipher",
+       "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
+       "type": "page",
+       "pageId": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad"
+      }
+     ]
     },
     {
      "title": "Shift Ciphers",
@@ -176,6 +177,7 @@
      "title": "Unit Summary & Assessments",
      "id": "7a8e0d8e-797d-4a81-098f-b2b35a85d6bf",
      "type": "section",
+     "pageId": "8d67d15e-3269-43ee-12a1-0ce02534bcd6",
      "children": [
       {
        "title": "Symmetric Key Cryptography: Assessments",
@@ -189,8 +191,7 @@
        "type": "page",
        "pageId": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1"
       }
-     ],
-     "pageId": "8d67d15e-3269-43ee-12a1-0ce02534bcd6"
+     ]
     },
     {
      "title": "Hackathons",
@@ -210,24 +211,6 @@
        "pageId": "4c976928-c138-4765-3191-a236fe4c6414"
       }
      ]
-    },
-    {
-     "title": "Credits",
-     "id": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb",
-     "type": "page",
-     "pageId": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb"
-    },
-    {
-     "title": "Unit 2 Sneak Peek: Man in the Middle",
-     "id": "0a7f417f-9172-9432-773c-26193370b574",
-     "type": "page",
-     "pageId": "0a7f417f-9172-9432-773c-26193370b574"
-    },
-    {
-     "title": " ",
-     "id": "2706553b-4623-eba7-48a6-a45095e5602a",
-     "type": "page",
-     "pageId": "2706553b-4623-eba7-48a6-a45095e5602a"
     }
    ]
   },
@@ -353,6 +336,7 @@
    "title": "Unit Summary & Assessments",
    "id": "27bccd3d-0273-4c6b-c782-3eb1a72cbd4a",
    "type": "section",
+   "pageId": "79f6a1c7-e79d-a3ba-44c3-f27ca7584f42",
    "children": [
     {
      "title": "Public Key Cryptography: Assessments",
@@ -361,13 +345,113 @@
      "pageId": "8465c47f-fb60-e5e0-78f7-705f78587e93"
     },
     {
-     "id": "943b7535-f61e-aa9c-8467-109cdcf68535",
      "title": "Public Key Cryptography: Critical Thinking",
-     "pageId": "2889d63c-379a-975e-ee8d-2e9cf6d7b6c7",
-     "type": "page"
+     "id": "943b7535-f61e-aa9c-8467-109cdcf68535",
+     "type": "page",
+     "pageId": "2889d63c-379a-975e-ee8d-2e9cf6d7b6c7"
     }
-   ],
-   "pageId": "79f6a1c7-e79d-a3ba-44c3-f27ca7584f42"
+   ]
+  },
+  {
+   "title": "Hackathons",
+   "id": "53e1c4d2-b4f8-4619-270d-d4fc6177dd21",
+   "type": "section",
+   "children": [
+    {
+     "title": "2.9A Hackathon: Theoretical Mathematics",
+     "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
+     "type": "page",
+     "pageId": "412ee72f-0ab6-c2f6-c119-0af2e685db97"
+    },
+    {
+     "title": "2.8A Hackathon: Inside RSA Encryption",
+     "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
+     "type": "page",
+     "pageId": "59d277e2-2dc2-d8d8-f688-33045a4a3e97"
+    }
+   ]
+  },
+  {
+   "title": "Hash Functions",
+   "id": "e3769ab8-1b5d-f3af-80f4-e1fbe237d481",
+   "type": "section",
+   "pageId": "c690d6b2-fd2c-e599-fea6-055a11a095a8",
+   "children": [
+    {
+     "title": "Check Your Memory",
+     "id": "c2289919-39a2-7ad5-e815-c127a70947ca",
+     "type": "page",
+     "pageId": "d26d0aee-c9ec-1f73-45d8-3b6626b5682e"
+    },
+    {
+     "title": "Introducing Hash Functions",
+     "id": "50dc7cc3-0425-6d0e-5ba3-453b64b33035",
+     "type": "page",
+     "pageId": "96439ddf-d5fd-8c48-8322-75cf218a5763"
+    },
+    {
+     "title": "Requirements for a Cryptographic Hash Function",
+     "id": "b928c39a-b900-5466-a6fe-bb8fd7e9dd2c",
+     "type": "page",
+     "pageId": "aab4a588-7108-a343-740a-e5f22f624cad"
+    },
+    {
+     "title": "Uses of Hash Functions",
+     "id": "5784c2e1-c3f1-376e-5f03-0d669d1ebae9",
+     "type": "page",
+     "pageId": "615d8b47-c464-a519-a634-b4fbb16b111f"
+    },
+    {
+     "title": "More Uses of Hash Functions",
+     "id": "54b6aff1-2d00-3d1d-3354-5ea3ddbfe9ee",
+     "type": "page",
+     "pageId": "7b45fefe-b3ef-3962-750a-06f25384d839"
+    },
+    {
+     "title": "Examples of Cryptographic Hash Functions",
+     "id": "d256ec17-6ee0-3a74-08a6-58dd10578fb8",
+     "type": "page",
+     "pageId": "3ac59f6a-2899-9220-8521-33b70df052df"
+    },
+    {
+     "title": "A Cryptographic Hash Function (SHA-1) at Work",
+     "id": "20c43d05-0955-91b1-a2c3-daaf154faa2f",
+     "type": "page",
+     "pageId": "b47d0ccb-99b0-652e-bb69-ee8c69fe02e1"
+    },
+    {
+     "title": "CreatorSpace Lab: Comparing Hashes of Strings",
+     "id": "fff97a51-93e6-cd58-bcf7-02ab6f7406b3",
+     "type": "page",
+     "pageId": "4b9459ad-4935-c4bf-3d8f-3b7fc0232243"
+    },
+    {
+     "title": "Unit Summary & Assessments",
+     "id": "82120325-ec0a-4a5c-2a9a-533631f2aa79",
+     "type": "section",
+     "pageId": "3bc211e1-056b-9ad8-802d-1452b8ad17af",
+     "children": [
+      {
+       "title": "Hash Functions: Assessments",
+       "id": "9001c913-25dc-a449-da75-2c711afed717",
+       "type": "page",
+       "pageId": "ac5dfe41-a7a0-ac10-7eab-afc0e3b206e9"
+      },
+      {
+       "title": "Hash Functions: Critical Thinking",
+       "id": "cd57f2ef-f741-26d0-0a79-bf74ebd386ae",
+       "type": "page",
+       "pageId": "10ca8f7e-0006-bd56-9847-266c94a4d6d9"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digital Signatures and PKI",
+   "id": "d09b97a2-8c62-e34b-3e3f-33b96c871b2b",
+   "type": "section",
+   "children": []
   },
   {
    "title": " A Day in the Life of Raven Alder",
@@ -376,23 +460,16 @@
    "pageId": "33631974-d9bc-f937-fd6b-779cb40a0611"
   },
   {
-   "title": "Hackathons",
-   "id": "53e1c4d2-b4f8-4619-270d-d4fc6177dd21",
-   "type": "section",
-   "children": [
-    {
-     "title": "2.8A Hackathon: Inside RSA Encryption",
-     "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
-     "type": "page",
-     "pageId": "59d277e2-2dc2-d8d8-f688-33045a4a3e97"
-    },
-    {
-     "title": "2.9A Hackathon: Theoretical Mathematics",
-     "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
-     "type": "page",
-     "pageId": "412ee72f-0ab6-c2f6-c119-0af2e685db97"
-    }
-   ]
+   "title": "Credits",
+   "id": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb",
+   "type": "page",
+   "pageId": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb"
+  },
+  {
+   "title": " ",
+   "id": "2706553b-4623-eba7-48a6-a45095e5602a",
+   "type": "page",
+   "pageId": "2706553b-4623-eba7-48a6-a45095e5602a"
   }
  ],
  "name": "C5 Cybersecurity"

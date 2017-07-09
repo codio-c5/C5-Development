@@ -11,4 +11,6 @@ Do you have some familiarity with public key cryptography? Try out these  questi
 - Explain how asymmetric (public key) encryption works
 - Compare and contrast symmetric and asymmetric encryption and the need for public key cryptographyDescribe attack scenarios against an encryption algorithm.
 - Describe the use of key exchange/agreement protocols in cryptography
-- Identify commonly used algorithms for asymmetric encryption# Sample content 2.1 Public Key Cryptography
+- Identify commonly used algorithms for asymmetric encryption 
+
+|||
