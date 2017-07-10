@@ -1,25 +1,25 @@
 {
  "sections": [
   {
-   "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
-   "title": " ",
-   "files": [],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/--71e6.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "4360edfc-a74e-38a4-9891-5e4977abd95f",
    "title": "Applied Cryptography",
    "files": [],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Applied-Cryptography-4360.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2706553b-4623-eba7-48a6-a45095e5602a",
+   "title": " ",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/--2706.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -58,18 +58,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
-   "title": "Cryptography Terms",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Cryptography-Terms-dd91.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
    "title": "An Overview of Symmetric Key Cryptography",
    "files": [],
@@ -77,6 +65,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/An-Overview-of-Symmetric-Key-Cryptography-ed61.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
+   "title": "Cryptography Terms",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Cryptography-Terms-dd91.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -666,7 +666,7 @@
   },
   {
    "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-   "title": "CreatorSpace Lab: RSA",
+   "title": "CreatorSpace Lab: RSA Encryption",
    "files": [
     {
      "path": "#tabs",
@@ -683,7 +683,7 @@
     "rsa"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--RSA-0aea.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--RSA-Encryption-0aea.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -697,6 +697,29 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Elliptic-Curve-Cryptography--ECC--5a92.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68",
+   "title": "Across the Disciplines: Business",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: https://iamcybersafe.org/wp-content/uploads/2017/03/WomensReport.pdf",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Across-the-Disciplines--Business-15fc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -908,11 +931,40 @@
   },
   {
    "id": "3ac59f6a-2899-9220-8521-33b70df052df",
-   "title": "Examples of Cryptographic Hash Functions",
-   "files": [],
+   "title": "Cryptographic Hash Functions: SHA-1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: https://cacm.acm.org/news/214995-hash-function-sha-1-is-broken/fulltext",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Examples-of-Cryptographic-Hash-Functions-3ac5.md",
+   "content-file": ".guides/content/Cryptographic-Hash-Functions--SHA-1-3ac5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "33c50f08-729d-2c2d-a3c2-9a1793aff8a7",
+   "title": "Cryptographic Hash Functions: SHA-2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Cryptographic-Hash-Functions--SHA-2-33c5.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1268,13 +1320,13 @@
    "learningObjectives": ""
   },
   {
-   "id": "2706553b-4623-eba7-48a6-a45095e5602a",
+   "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
    "title": " ",
    "files": [],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/--2706.md",
+   "content-file": ".guides/content/--71e6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
