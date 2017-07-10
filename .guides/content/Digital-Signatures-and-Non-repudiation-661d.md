@@ -1,0 +1,2 @@
+Non-repudiation refers to the ability to ensure that a party to a contract or a communication cannot deny the authenticity of their signature on a document or the sending of a message that they originated.
+In the scenario for digital signatures, because the private key is known only to the owner, if a signature verifies on a message, it is highly unlikely that it was signed by someone else! 
