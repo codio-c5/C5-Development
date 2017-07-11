@@ -1,25 +1,24 @@
 {
  "sections": [
   {
-   "id": "4360edfc-a74e-38a4-9891-5e4977abd95f",
-   "title": "Applied Cryptography",
+   "id": "cc88dc9b-e7c2-71c0-9c8b-ed53a9c86d5f",
+   "title": "C5",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Applied-Cryptography-4360.md",
+   "content-file": ".guides/content/C5-cc88.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": ""
   },
   {
-   "id": "2706553b-4623-eba7-48a6-a45095e5602a",
-   "title": " ",
+   "id": "4360edfc-a74e-38a4-9891-5e4977abd95f",
+   "title": "Applied Cryptography",
    "files": [],
-   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/--2706.md",
+   "content-file": ".guides/content/Applied-Cryptography-4360.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -613,7 +612,13 @@
   {
    "id": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
    "title": "Advantages of Public Key (Asymmetric) Encryption",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Advantages-of-Public-Key--Asymmetric--Encryption-843f.md",
@@ -728,7 +733,13 @@
   {
    "id": "d228c8f4-09b3-57f5-0992-338cab98d00a",
    "title": "Key Agreement Algorithms",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Key-Agreement-Algorithms-d228.md",

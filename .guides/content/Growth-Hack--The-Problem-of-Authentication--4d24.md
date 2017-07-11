@@ -17,8 +17,6 @@
 {Submit Answer!|assessment}(free-text-1055445862)
 
 ||| guidance
-**Instructor's Note:** Someone else might have used Bob’s public key to send him the message posing as Alice.
+**Instructor's Note:** Someone else might have used Bob’s public key to send him the message posing as Alice.  There needs to be a way to authenticate the sender to keep the system secure.
 |||
-
-If your solution included a process that verified the identity of the sender, that is correct.  In an upcoming lesson you'll learn more about digital signatures and digital certificates.
 

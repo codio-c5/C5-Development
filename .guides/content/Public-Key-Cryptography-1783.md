@@ -1,4 +1,4 @@
-### What do you know about public (or asymmetric) key  cryptography? Public key cryptography represents a major innovation because it fundamentally alters the process of encryption and decryption, and solves the problem of shared key distribution  
+### What do you know about public (or asymmetric) key  cryptography? Public key cryptography solves the problem of shared key distribution. It represents a major innovation because it fundamentally alters the process by separating encryption and decryption as separate one-way channels.
 
 Do you have some familiarity with public key cryptography? Try out these  questions before you dig in. You might not get them right yet, but by the end of this lesson, you'll know them all.
 

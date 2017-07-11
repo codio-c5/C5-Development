@@ -15,8 +15,7 @@ The advantage of elliptic curve cryptography over RSA is that the key size is mu
 
 This is important for mobile devices, which often have small processors and storage capacity. It is included in Bluetooth Low Energy (LE) protocols.
 
-It is also included in the cipher suite for key agreement exchange in TLS/SSL (https://en.wikipedia.org/wiki/Cipher_suite).
-
+It is also included in the cipher suite for key agreement exchange in [ the cipher suite TLS/SSL protocols.](https://en.wikipedia.org/wiki/Cipher_suite)
 ||| guidance
 
 **Instructor's Note:**

@@ -882,11 +882,16 @@
   "taskId": "multiple-choice-3839580908",
   "source": {
    "name": "1.1.8",
-   "showName": true,
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
    "instructions": "Which of the following statements is true about symmetric encryption?",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "f806bc46-8733-87b8-d1e9-ceb96ef16b58",
@@ -1972,6 +1977,255 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What are some ways that a message might be altered?  How could this be prevented?**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2248183240",
+  "source": {
+   "name": "2.1.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Assume Alice and Bob both have public and private keys in a public key setting. If Alice wants to send Bob a secret message, Alice encrypts her message using __________________ key and Bob decrypts it using ______________ key.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "c67d06ba-9806-86df-09a4-e1dc7e55d088",
+     "correct": false,
+     "answer": "Alice’s public, Bob’s private"
+    },
+    {
+     "_id": "b661566a-b257-31f9-e19a-b5675f01f8bf",
+     "correct": true,
+     "answer": "Bob’s public, Bob’s private"
+    },
+    {
+     "_id": "62d30b20-8818-11bd-c0ba-87e23b93346d",
+     "correct": false,
+     "answer": "Alice’s private, Bob’s public"
+    },
+    {
+     "_id": "9d43fc19-4133-dfc9-e521-8a190c361dc6",
+     "correct": false,
+     "answer": "Alice’s private, Bob’s private"
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1111421759",
+  "source": {
+   "name": "2.2.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": " In symmetric cryptography the key used for encryption is essentially the same key used for decryption. In public key cryptography, the key used for encrypting a message does not work for decrypting it.  ",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**What is the main difference between symmetric cryptography and asymmetric cryptography?**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3268362577",
+  "source": {
+   "name": "2.2.3",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "Asymmetric key cryptography solves the problem of key distribution in symmetric key cryptography. It also helps with key management, as each party only needs to have only a private and a public key, whereas in symmetric cryptography he/she needs as many keys as the number of people he/she is communicating with.\n\n",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**What does asymmetric key cryptography provide that symmetric key cryptography does not? Explain.**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-4045614430",
+  "source": {
+   "name": "2.2.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "In symmetric cryptography the key used for encryption is essentially the same key used for decryption. In public key cryptography, the key used for encrypting a message does not work for decrypting it.  ",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**What is the main difference between symmetric cryptography and asymmetric cryptography?**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2012702888",
+  "source": {
+   "name": "2.4.1",
+   "showName": true,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following are symmetric key ciphers? Select all that apply.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "fced1f80-3f5b-d954-8b66-ec3df49cecfc",
+     "correct": true,
+     "answer": "DES"
+    },
+    {
+     "_id": "ef681447-8fcb-bdd8-0541-756e9fe604aa",
+     "correct": false,
+     "answer": "RSA"
+    },
+    {
+     "_id": "dbd74ae6-12e4-cebf-0231-8245c0b31a82",
+     "correct": false,
+     "answer": "Diffie-Hellman"
+    },
+    {
+     "_id": "0328d2b7-0848-9b67-fc79-0e61b68f24c9",
+     "correct": true,
+     "answer": "AES"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4118271051",
+  "source": {
+   "name": "AH 2.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "Which of the following is a an effective attack against public key encryption algorithms?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "30500c5f-3dcc-f40d-46b6-18fae50bc7b1",
+     "correct": false,
+     "answer": "File hashing attack"
+    },
+    {
+     "_id": "f8777646-afa8-daa6-fcf5-8a882b6f8689",
+     "correct": true,
+     "answer": "Man in the middle attack"
+    },
+    {
+     "_id": "f6269259-5573-5f46-4da6-14eb9f5745b9",
+     "correct": false,
+     "answer": "Chosen plaintext attack"
+    },
+    {
+     "_id": "970cd7c9-bb38-75ee-e04e-5f51394f25d8",
+     "correct": false,
+     "answer": "Chosen ciphertext attack"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2939888461",
+  "source": {
+   "name": "3.1.",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "False. There is no way to decrypt the message to the original from the hash value.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**True or False: Hash functions can be used for confidentiality.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "93cb8a3b-2a08-61c2-be4a-b882b64d25cb",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "f85dd61c-571e-6ffa-62f1-c3c59c0cc43f",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4063844412",
+  "source": {
+   "name": "3.3.3",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of these are commonly used hash functions?  Choose all that apply.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "0e8388f1-50dd-e507-4a2b-a7ba68937226",
+     "correct": false,
+     "answer": "DES"
+    },
+    {
+     "_id": "89023e8a-d35e-4ae5-d6a9-83ae81e431df",
+     "correct": true,
+     "answer": "SHA 3 (Secure Hash Algorithm) "
+    },
+    {
+     "_id": "54ad8067-65ae-39b9-71db-e6c004282ea0",
+     "correct": true,
+     "answer": "MD5 (Message Digest)"
+    },
+    {
+     "_id": "a8401074-8296-3ed8-293b-64760fa93776",
+     "correct": false,
+     "answer": "3DES"
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-557065751",
+  "source": {
+   "name": "3.2.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "Hash functions can be used to check the integrity of a file. If collision resistance property lacks in a hash function, two files that have the same hash value may be found, reducing confidence in the detection of a change in a file. ",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Explain how the lack of the collision resistance property defies the purpose of a hash function.**",
    "learningObjectives": "",
    "points": 1
   }

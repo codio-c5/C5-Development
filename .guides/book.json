@@ -2,17 +2,18 @@
  "Title": "C5",
  "children": [
   {
+   "title": "C5",
+   "id": "bdb7bb6d-43c1-4da3-6f76-03f1d5eacf67",
+   "type": "chapter",
+   "pageId": "cc88dc9b-e7c2-71c0-9c8b-ed53a9c86d5f",
+   "children": []
+  },
+  {
    "title": "Applied Cryptography",
    "id": "5795d1fd-8eb0-15ae-d269-819fd93e6980",
    "type": "chapter",
    "pageId": "4360edfc-a74e-38a4-9891-5e4977abd95f",
    "children": [
-    {
-     "title": " ",
-     "id": "2706553b-4623-eba7-48a6-a45095e5602a",
-     "type": "page",
-     "pageId": "2706553b-4623-eba7-48a6-a45095e5602a"
-    },
     {
      "title": "Symmetric Key Cryptography",
      "id": "780066fe-1a15-e542-7e59-422bfb7f3dc0",
@@ -291,10 +292,10 @@
        "pageId": "5a9266e7-9fe3-188a-5b14-f25a19808721"
       },
       {
-       "id": "e3649d4f-6eb2-4224-a9cb-7d1f516b8e1a",
        "title": "Across the Disciplines: Business",
-       "pageId": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68",
-       "type": "page"
+       "id": "e3649d4f-6eb2-4224-a9cb-7d1f516b8e1a",
+       "type": "page",
+       "pageId": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68"
       },
       {
        "title": "Key Agreement Algorithms",
@@ -418,10 +419,10 @@
        "pageId": "3ac59f6a-2899-9220-8521-33b70df052df"
       },
       {
-       "id": "65a3ccfb-1e1e-a8c1-d67c-dfe3487796e9",
        "title": "Cryptographic Hash Functions: SHA-2",
-       "pageId": "33c50f08-729d-2c2d-a3c2-9a1793aff8a7",
-       "type": "page"
+       "id": "65a3ccfb-1e1e-a8c1-d67c-dfe3487796e9",
+       "type": "page",
+       "pageId": "33c50f08-729d-2c2d-a3c2-9a1793aff8a7"
       },
       {
        "title": "A Cryptographic Hash Function (SHA-1) at Work",
