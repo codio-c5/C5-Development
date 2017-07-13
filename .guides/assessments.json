@@ -2073,7 +2073,7 @@
   "taskId": "multiple-choice-2012702888",
   "source": {
    "name": "2.4.1",
-   "showName": true,
+   "showName": false,
    "bloomsObjectiveLevel": "",
    "guidance": "",
    "showGuidanceAfterResponse": false,
@@ -2153,10 +2153,10 @@
    "name": "3.1.",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "False. There is no way to decrypt the message to the original from the hash value.",
+   "guidance": "False. Since there is no way to decrypt the message to the original from the hash value, hash functions do not support confidentiality.  Rather, they are used to support authentication and integrity.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**True or False: Hash functions can be used for confidentiality.**",
+   "instructions": "**True or False: Hash functions are used to support confidentiality.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -2226,6 +2226,67 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**Explain how the lack of the collision resistance property defies the purpose of a hash function.**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3637430973",
+  "source": {
+   "name": "AH 3.3.1 ",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "Longer messages have have bigger hash values.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "c38656af-aa79-804c-6941-d97950324de7",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "9449b2fa-2f73-676c-30b3-94d7d0820225",
+     "correct": true,
+     "answer": "False "
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1875117663",
+  "source": {
+   "name": "GH 3.3.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "If the plaintext changes, does the hash value change?  Why or why not?",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3717140303",
+  "source": {
+   "name": "GH 3.3.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "Can you tell how a plaintext has changed by looking at the hash function? Why or why not?",
    "learningObjectives": "",
    "points": 1
   }

@@ -232,16 +232,16 @@
        "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
       },
       {
-       "title": "Solutions for Key Distribution ",
-       "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
-       "type": "page",
-       "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
-      },
-      {
        "title": "Introducing Public Key Cryptography",
        "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
        "type": "page",
        "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
+      },
+      {
+       "title": "Solutions for Key Distribution ",
+       "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
+       "type": "page",
+       "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
       },
       {
        "title": "An Overview of Public Key (Asymmetric) Encryption",
@@ -402,33 +402,61 @@
       },
       {
        "title": "Uses of Hash Functions",
-       "id": "5784c2e1-c3f1-376e-5f03-0d669d1ebae9",
-       "type": "page",
-       "pageId": "615d8b47-c464-a519-a634-b4fbb16b111f"
+       "id": "e15cc3b5-c30f-e935-7448-060e2731118b",
+       "type": "section",
+       "pageId": "00c6d5dc-a61f-bb9d-213c-e6c6dd906f7c",
+       "children": [
+        {
+         "title": "Password Files",
+         "id": "78aa392b-07b9-00ff-0320-8e54df4e075a",
+         "type": "page",
+         "pageId": "5b6aa8c7-f2f3-0457-3f12-bdca4b062c16"
+        },
+        {
+         "title": "Intrusion and Virus Detection",
+         "id": "54b6aff1-2d00-3d1d-3354-5ea3ddbfe9ee",
+         "type": "page",
+         "pageId": "7b45fefe-b3ef-3962-750a-06f25384d839"
+        },
+        {
+         "id": "8cf2e63b-c6b1-7eb8-98ea-2015b67e215d",
+         "title": "Pseudorandom Number Generation",
+         "pageId": "bc437ee6-2c90-188b-50b3-168e36766eac",
+         "type": "page"
+        },
+        {
+         "id": "c5682735-c5a6-8cbb-94f7-824f4dac5b85",
+         "title": "File Synchronization",
+         "pageId": "21b3e5dc-3812-618c-4496-474f537928e7",
+         "type": "page"
+        }
+       ]
       },
       {
-       "title": "More Uses of Hash Functions",
-       "id": "54b6aff1-2d00-3d1d-3354-5ea3ddbfe9ee",
-       "type": "page",
-       "pageId": "7b45fefe-b3ef-3962-750a-06f25384d839"
-      },
-      {
-       "title": "Cryptographic Hash Functions: SHA-1",
-       "id": "d256ec17-6ee0-3a74-08a6-58dd10578fb8",
-       "type": "page",
-       "pageId": "3ac59f6a-2899-9220-8521-33b70df052df"
-      },
-      {
-       "title": "Cryptographic Hash Functions: SHA-2",
-       "id": "65a3ccfb-1e1e-a8c1-d67c-dfe3487796e9",
-       "type": "page",
-       "pageId": "33c50f08-729d-2c2d-a3c2-9a1793aff8a7"
-      },
-      {
-       "title": "A Cryptographic Hash Function (SHA-1) at Work",
-       "id": "20c43d05-0955-91b1-a2c3-daaf154faa2f",
-       "type": "page",
-       "pageId": "b47d0ccb-99b0-652e-bb69-ee8c69fe02e1"
+       "title": "Cryptographic Hash Functions",
+       "id": "e2038a27-d93c-117a-783a-1ff178cbfacb",
+       "type": "section",
+       "children": [
+        {
+         "title": "SHA-1 at Work",
+         "id": "20c43d05-0955-91b1-a2c3-daaf154faa2f",
+         "type": "page",
+         "pageId": "b47d0ccb-99b0-652e-bb69-ee8c69fe02e1"
+        },
+        {
+         "title": "Cryptographic Hash Functions: SHA-2",
+         "id": "65a3ccfb-1e1e-a8c1-d67c-dfe3487796e9",
+         "type": "page",
+         "pageId": "33c50f08-729d-2c2d-a3c2-9a1793aff8a7"
+        },
+        {
+         "id": "7dd439f5-e795-47d1-b6ed-254cb3c690c2",
+         "title": "SHA-2 and SHA-3",
+         "pageId": "551a827f-9f21-fe26-89cd-fcd392db6e11",
+         "type": "page"
+        }
+       ],
+       "pageId": "eb870739-0ec0-8b05-24ee-101039a2ade7"
       },
       {
        "title": "CreatorSpace Lab: Comparing Hashes of Strings",

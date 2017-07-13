@@ -9,33 +9,11 @@
  },
  {
   "taskId": "fill-in-the-blanks-836680581",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": [
-    "symmetric key encryption",
-    "public key encryption",
-    "public",
-    "private"
-   ]
+   "active": []
   },
-  "results": [
-   {
-    "current": [
-     "symmetric key encryption",
-     "public key encryption",
-     "public",
-     "private"
-    ],
-    "right": [
-     "symmetric key encryption",
-     "public key encryption",
-     "public",
-     "private"
-    ],
-    "timestamp": 1499445175333,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "fill-in-the-blanks-1681383484",
@@ -171,5 +149,11 @@
     "state": "pass"
    }
   ]
+ },
+ {
+  "taskId": "free-text-1894789270",
+  "points": 0,
+  "state": {},
+  "results": []
  }
 ]

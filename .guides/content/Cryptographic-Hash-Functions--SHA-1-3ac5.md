@@ -1,4 +1,4 @@
-SHA: Secure Hash Algorithm 
+HA: Secure Hash Algorithm 
 
 SHA-1 
 Designed by NSA
