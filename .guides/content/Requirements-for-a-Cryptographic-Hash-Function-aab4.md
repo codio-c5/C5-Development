@@ -10,8 +10,7 @@ These requirements are:
 <br>
 <figure class="snippetimg" style="margin: 0 auto;width:70%">
 
-  <img src=".guides/img/SnowflakesWilsonBentley.jpg" alt="Public key cryptography inventors Whitfield Diffie and Martin Hellman. . *Source: Whitfield Diffie photo by Mary Holzer licensed under CC-BY and Martin Hellman originated from Martin Hellman licensed under GFDL.*
-">
+  <img src=".guides/img/SnowflakesWilsonBentley.jpg" alt="Snowflakes.">
   <figcaption style="font-size: 0.8em; text-align: left;">Snowflakes. 
 </br>
  By Wilson Bentley [Public domain], via Wikimedia Commons</figcaption>
