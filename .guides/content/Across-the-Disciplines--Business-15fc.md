@@ -15,5 +15,5 @@
 1. By 2022, the number of unfilled cybersecurity positions worldwide is expected to be 1.8 million
 1. Cybersecurity issues in business are increasing in number and threat level for modern businesses. 
 
-The article further describes the importance of diversity in such complext and far-reaching fields as cybersecurity.
+The article further describes the importance of diversity in such complex and far-reaching fields as cybersecurity.
 

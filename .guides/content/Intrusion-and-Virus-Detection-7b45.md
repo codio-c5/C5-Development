@@ -3,11 +3,11 @@
 
 Intruders need to change the hash value of a file without changing the file itself to hide their actions. The collision resistance property makes it very hard for an intruder to make this change.
 
-<figure class="snippetimg" style="margin: 0 auto;width:80%">
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
 
-  <img src=".guides/img/lightsfence.jpg" alt="Public key cryptography inventors Whitfield Diffie and Martin Hellman. . *Source: Whitfield Diffie photo by Mary Holzer licensed under CC-BY and Martin Hellman originated from Martin Hellman licensed under GFDL.*
+  <img src=".guides/img/virus.jpg" alt="Public key cryptography inventors Whitfield Diffie and Martin Hellman. . *Source: Whitfield Diffie photo by Mary Holzer licensed under CC-BY and Martin Hellman originated from Martin Hellman licensed under GFDL.*
 ">
-  <figcaption style="font-size: 0.8em; text-align: left;">Police lights behind a chainlink fence.
+  <figcaption style="font-size: 0.8em; text-align: left;">A cellular virus.
 </br>
- By Tony Webster from Minneapolis, Minnesota (Watchful) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons.</figcaption>
+ By biology pop [CC BY-SA 4.0], via Wikimedia Commons.</figcaption>
 </figure>
