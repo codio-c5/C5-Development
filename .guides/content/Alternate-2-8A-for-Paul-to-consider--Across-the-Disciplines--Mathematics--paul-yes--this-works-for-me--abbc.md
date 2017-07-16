@@ -13,7 +13,7 @@ Do you remember created a **number line** back in grade school?
 ```
 <   0   1   2   3   4   5   6   7   8   9   10   11   12  13... >
 ```
-Number lines are useful for visualizing mathematical operations like addition and subtraction. For instance,  by moving from 0 to 1 and then from 1 to 2 and you have calculated ```1 + 1```. You can also multiply two numbers, for instance ```2 x 2``` by first moving from 0 to 2 and then from 2 to 4 to get the answer 4. 
+Number lines are useful for visualizing mathematical operations like addition and subtraction. For instance,  by moving from 0 to 1 and then from 1 to 2 and you have calculated ```1 + 1```. You can also multiply two numbers, for instance ```2 x 3``` by first moving from 0 to 2, then from 2 to 4 and once again from 4 to 6 to get the answer 6.
 
 Modular arithmetic starts with imagining a number line as a circle. 
 
@@ -33,7 +33,7 @@ Compare this with the horizontal number line.  There, adding 9 and 4, you end up
 
 Here's a little more on the math. The example adds two numbers, 9 and 4, and then divides by 12. Twelve can go into 13 once and leaves a remainder of 1. When using everyday arithmetic, we'd continue the process by dividing the remainder 1 by 12 and end up with a fractional result of 1/12 or 1.0833. However, when using modular arithmetic the result ***is*** the remainder. Stated in modular arithmetic terms  the answer is 13 mod 12, or alternatively 13 (mod 12).  
 
-Modular arithmetic describes the size of the circle as the modulus. The above modulus is 12, ```mod = 12```. Instead of using the concept of something equal (=) to something, you use the concept of congruence, designated with the symbol (≡).
+Modular arithmetic describes the size of the circle as the modulus. The above modulus is 12, ```mod = 12```. Instead of using the concept of something equal (=) to something, you use the concept of congruence, designated with the Congruant symbol (≡).
 
 ```x ≡ y (mod n)```
 

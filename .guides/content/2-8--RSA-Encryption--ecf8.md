@@ -67,6 +67,8 @@ You can use modular arithmetic to perform operations similar to every day arithm
 
 Modular arithmetic is used in many areas of mathematics but is especially important in cryptography. 
 
+||| RSA Encryption
+
 [add introduction to modular arithmetic in previous section]
 
 .guides/img/RivestShamirAdleman Ronald Rivest, Adi Shamir, and Leonard Adleman, Creators of RSA Encryption.
