@@ -4,7 +4,7 @@ You are now going to get your hands dirty and do everything from the Linux comma
 
 Here is a button to clean everything up in your folder.
 
-{Clean Up}(rm rsa/encrypted.txt rsa/private.key rsa/public.key rsa/unencrypted.txt)
+{Clean Up}(sh rsa/cleanup.sh)
 Generate some keys
 
 The first thing we need to do is to generate a key pair that consists of a private key and a public key.
