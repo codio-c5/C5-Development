@@ -7,7 +7,7 @@
  Source: Wikimedia Commons</figcaption>
 </figure>
 
-Fermat ("Fair-ma") is credited with creating modern number theory. His interest in pure mathematics also helped create the basis for calculus and eventually to public key encryption.
+Fermat ("Fair-mah") is credited with creating modern number theory. His interest in pure mathematics also helped create the basis for calculus and eventually to public key encryption.
 
 
 [Learn more about Fermat.](http://www.storyofmathematics.com/17th_fermat.html.)

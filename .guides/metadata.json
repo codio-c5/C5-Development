@@ -70,6 +70,36 @@
    "learningObjectives": ""
   },
   {
+   "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
+   "title": "Kerckhoffs's Principle",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Kerckhoffs-s-Principle-ee03.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "227736ae-23d4-4a63-6bea-24cad2eefe07",
+   "title": "The Big Picture: Cryptology",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-Big-Picture--Cryptology-2277.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
    "title": "Cryptography Terms",
    "files": [],
@@ -182,36 +212,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Analyzing-a-Shift-Cipher--80ef.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
-   "title": "Kerckhoffs's Principle",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Kerckhoffs-s-Principle-ee03.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "227736ae-23d4-4a63-6bea-24cad2eefe07",
-   "title": "The Big Picture: Cryptology",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/The-Big-Picture--Cryptology-2277.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

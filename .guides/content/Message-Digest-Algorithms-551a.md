@@ -1,6 +1,6 @@
 ## The Rivest Digest
 
-### In 1989, Ronald Rivest (of RSA fame)developed MD2 for 8-bit computers. It was replaced by MD4 in 1990. 
+### In 1989, Ronald Rivest (of RSA fame) developed MD2 for 8-bit computers. It was replaced by MD4 in 1990. 
 
 **MD4** was designed for 32-bit computers, produced 128 bit digests, and was used in TLS certificates. It was compromised in collision attacks in 1995.
 
