@@ -226,12 +226,6 @@
      "pageId": "17831e64-4619-743c-bd9f-b1ea696429f9",
      "children": [
       {
-       "title": "Check Your Memory",
-       "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
-       "type": "page",
-       "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
-      },
-      {
        "title": "Introducing Public Key Cryptography",
        "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
        "type": "page",
@@ -242,12 +236,6 @@
        "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
        "type": "page",
        "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
-      },
-      {
-       "title": "An Overview of Public Key (Asymmetric) Encryption",
-       "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
-       "type": "page",
-       "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
       },
       {
        "title": "CreatorSpace Lab: Public Key Encryption",
@@ -266,6 +254,12 @@
        "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
        "type": "page",
        "pageId": "ecf8ddfe-7fc1-7614-9990-a4f733c37879"
+      },
+      {
+       "title": "Check Your Memory",
+       "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
+       "type": "page",
+       "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
       },
       {
        "title": "Alternate 2.8A for Paul to consider. Across the Disciplines: Mathematics",
@@ -308,6 +302,12 @@
          "id": "92de8510-6ad8-1174-ff08-d9e06dac8713",
          "type": "page",
          "pageId": "f8b66935-383a-0a46-a410-9c5d85fb278a"
+        },
+        {
+         "title": "An Overview of Public Key (Asymmetric) Encryption",
+         "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
+         "type": "page",
+         "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
         },
         {
          "title": "Meetup: Key Agreement (Exchange) Protocols  PAUL Can this be a LAB?)",

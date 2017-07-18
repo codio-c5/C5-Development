@@ -2290,5 +2290,44 @@
    "learningObjectives": "",
    "points": 1
   }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-146398319",
+  "source": {
+   "name": "CYK 2.4",
+   "showName": false,
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is 4.** First add 7+9 to get 16, then divide by the modulus 6. Six goes into 16 2 times, with a remainder of 4.  In modular math, the remainder is the answer.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "Calculate 7+9 (mod 6)",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "2.4: Identify commonly used algorithms for asymmetric encryption. ",
+   "answers": [
+    {
+     "_id": "f693b0c7-e57a-f006-c0cf-7798f81ac1fe",
+     "correct": false,
+     "answer": "16"
+    },
+    {
+     "_id": "7664350e-aa25-7e0d-700f-960fb406338c",
+     "correct": false,
+     "answer": "22"
+    },
+    {
+     "_id": "3eeb2693-dc19-bf1f-4485-9b6969e2f345",
+     "correct": false,
+     "answer": "10"
+    },
+    {
+     "_id": "ef5984aa-a2b9-d092-b225-c3686453b70d",
+     "correct": true,
+     "answer": "4"
+    }
+   ]
+  }
  }
 ]

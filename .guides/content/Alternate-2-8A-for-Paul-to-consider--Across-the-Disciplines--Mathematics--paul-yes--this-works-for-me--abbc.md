@@ -5,7 +5,7 @@
 ### Today, cryptography methods continue to evolve as cryptanalysis techniques emerge and computing power grows.  In asymmetric cryptography, mathematics and the way numbers work provides new encryption methods that are increasingly secure.
 
 ||| definition
-**Modular Arithmetic** performs a calculation by dividing by the *size* of a circle and returns a result as the remainder of a division. 
+In **modular arithmetic**  calculations are performed by dividing by the size of a circle, called the **modulus,** or mod for short. The resulting remainder is the answer. 
 |||
 
 Do you remember created a **number line** back in grade school?
@@ -15,7 +15,7 @@ Do you remember created a **number line** back in grade school?
 ```
 Number lines are useful for visualizing mathematical operations like addition and subtraction. For instance,  by moving from 0 to 1 and then from 1 to 2 and you have calculated ```1 + 1```. You can also multiply two numbers, for instance ```2 x 3``` by first moving from 0 to 2, then from 2 to 4 and once again from 4 to 6 to get the answer 6.
 
-Modular arithmetic starts with imagining a number line as a circle. 
+Modular arithmetic starts with imagining a number line as a circle. The circle can vary in size.  Let's start with a familiar circle with a modulus, or size, of 12.   
 
 <br>
 <figure class="snippetimg" style="margin: 0 auto;width:50%">
@@ -38,6 +38,9 @@ Modular arithmetic describes the size of the circle as the modulus. The above mo
 ```x ≡ y (mod n)```
 
 This means that x is congruent with y for a given modulus of n. So if y = 1 and n = 12, then y will be 13. Actually, x can be 13, 26, 39, or any integer that's a multiple of 12.
+
+{Check It!|assessment}(multiple-choice-146398319)
+
 
 "Modular arithmetic can be handled mathematically by introducing a congruence relation on the integers that is compatible with the operations on integers: addition, subtraction, and multiplication. For a positive integer n, two numbers a and b are said to be congruent modulo n, if their difference a − b is an integer multiple of n (that is, if there is an integer k such that a − b = kn). This congruence relation is typically considered when a and b are integers, and is denoted
 
