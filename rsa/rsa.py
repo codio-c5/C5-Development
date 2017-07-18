@@ -1,3 +1,5 @@
+#!/usr/env/python
+#
 import base64
 import sys
 import ast
@@ -49,6 +51,7 @@ def encrypt(args):
   encoded_text = _encode(encrypted_text)
   if len(args) == 3:
     write_file(args[2], encoded_text)
+    sys.stdout.write(encoded_text)
   else:
     sys.stdout.write(encoded_text)
 
