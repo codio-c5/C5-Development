@@ -34,5 +34,5 @@ This is important for cryptography because it hints at a possible mathematical i
 Huh? That's Fermat's Little Theorem. He discovered the mathematical relationship in 1640. In 1783, Leonhard Euler ("Oiler") expanded that theorem as Euler's Totient function.
 
 ## Paul to describe what the heck this is and why it's relevant....
-Will do. It's the basis for the Internet as we know it. It should be moved back before the 2.8x RSA stuff but after the modular arithmetic that I'm writing: 2.X1 Modular Arithmetic, 2.X2 Fermat, 2.X3 RSA slides.
+Will do. It's the basis for the Internet as we know it. 
 

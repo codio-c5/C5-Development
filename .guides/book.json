@@ -226,16 +226,28 @@
      "pageId": "17831e64-4619-743c-bd9f-b1ea696429f9",
      "children": [
       {
-       "title": "Introducing Public Key Cryptography",
-       "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+       "title": "Check Your Memory",
+       "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
        "type": "page",
-       "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
+       "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
       },
       {
        "title": "Solutions for Key Distribution ",
        "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
        "type": "page",
        "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
+      },
+      {
+       "title": "Introducing Public Key Cryptography",
+       "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+       "type": "page",
+       "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
+      },
+      {
+       "title": "An Overview of Public Key (Asymmetric) Encryption",
+       "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
+       "type": "page",
+       "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
       },
       {
        "title": "CreatorSpace Lab: Public Key Encryption",
@@ -250,25 +262,7 @@
        "pageId": "843f3f22-9cdc-d3fd-492e-c42c868d304b"
       },
       {
-       "title": "2.8  RSA Encryption ",
-       "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
-       "type": "page",
-       "pageId": "ecf8ddfe-7fc1-7614-9990-a4f733c37879"
-      },
-      {
-       "title": "Check Your Memory",
-       "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
-       "type": "page",
-       "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
-      },
-      {
-       "title": "Alternate 2.8A for Paul to consider. Across the Disciplines: Mathematics",
-       "id": "5077a5bf-0c59-d9dd-cfc3-5a813f6ed5fe",
-       "type": "page",
-       "pageId": "abbc437e-487e-9b93-2230-599a582187e5"
-      },
-      {
-       "title": "Alternate 2.8B RSA Encryption for Paul to consider",
+       "title": "RSA Encryption",
        "id": "37e96197-c62b-a039-a062-f855e41b3bba",
        "type": "page",
        "pageId": "862e5e82-94dc-37b4-406d-4e76175fb86c"
@@ -280,16 +274,16 @@
        "pageId": "0aea8b8a-9ae1-245d-3df7-f4359fc01908"
       },
       {
+       "title": "Across the Disciplines: Mathematics ",
+       "id": "5077a5bf-0c59-d9dd-cfc3-5a813f6ed5fe",
+       "type": "page",
+       "pageId": "abbc437e-487e-9b93-2230-599a582187e5"
+      },
+      {
        "title": "Elliptic Curve Cryptography (ECC)",
        "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
        "type": "page",
        "pageId": "5a9266e7-9fe3-188a-5b14-f25a19808721"
-      },
-      {
-       "title": "Across the Disciplines: Business",
-       "id": "e3649d4f-6eb2-4224-a9cb-7d1f516b8e1a",
-       "type": "page",
-       "pageId": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68"
       },
       {
        "title": "Key Agreement Algorithms",
@@ -304,16 +298,16 @@
          "pageId": "f8b66935-383a-0a46-a410-9c5d85fb278a"
         },
         {
-         "title": "An Overview of Public Key (Asymmetric) Encryption",
-         "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
-         "type": "page",
-         "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
-        },
-        {
          "title": "Meetup: Key Agreement (Exchange) Protocols  PAUL Can this be a LAB?)",
          "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
          "type": "page",
          "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
+        },
+        {
+         "title": "Across the Disciplines: Business",
+         "id": "e3649d4f-6eb2-4224-a9cb-7d1f516b8e1a",
+         "type": "page",
+         "pageId": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68"
         },
         {
          "title": "Growth Hack: The Problem of Authentication ",
@@ -326,14 +320,14 @@
          "id": "027482d0-3d75-ad7c-9115-e948894f207f",
          "type": "page",
          "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"
-        },
-        {
-         "title": "Growth Hack: Another Problem: Integrity",
-         "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
-         "type": "page",
-         "pageId": "0af28b74-85d7-9f74-cabf-9a0c1974a197"
         }
        ]
+      },
+      {
+       "title": "Growth Hack: Another Problem: Integrity",
+       "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
+       "type": "page",
+       "pageId": "0af28b74-85d7-9f74-cabf-9a0c1974a197"
       },
       {
        "title": "Unit Summary & Assessments",
@@ -361,13 +355,13 @@
        "type": "section",
        "children": [
         {
-         "title": "2.9A Hackathon: Theoretical Mathematics",
+         "title": "Hackathon: Theoretical Mathematics",
          "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
          "type": "page",
          "pageId": "412ee72f-0ab6-c2f6-c119-0af2e685db97"
         },
         {
-         "title": "2.8A Hackathon: Inside RSA Encryption",
+         "title": "Hackathon: Inside RSA Encryption",
          "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
          "type": "page",
          "pageId": "59d277e2-2dc2-d8d8-f688-33045a4a3e97"
@@ -423,6 +417,12 @@
          "id": "8cf2e63b-c6b1-7eb8-98ea-2015b67e215d",
          "type": "page",
          "pageId": "bc437ee6-2c90-188b-50b3-168e36766eac"
+        },
+        {
+         "title": "An Overview of Signature Creation and Verification",
+         "id": "762894ec-c695-e364-1a39-911e7db5da0b",
+         "type": "page",
+         "pageId": "4e0d8ff3-f01c-6fac-cd50-da1b41ff2e37"
         },
         {
          "title": "File Synchronization",
@@ -499,22 +499,22 @@
        "pageId": "6d1bbe93-c6a5-e3ef-3c42-ea66377dc83d"
       },
       {
-       "title": "Introducing Digital Signatures",
+       "title": "Growth Hack: Digital Signatures",
        "id": "3c6935ba-122c-b3b1-b0c7-5b21e6dd2a2e",
        "type": "page",
        "pageId": "7bafd249-4a71-6db4-5844-73ae8edcba6b"
       },
       {
-       "title": "Digital Signatures and Authentication",
+       "title": "Introducing Digital Signatures",
+       "id": "b62ade3d-1c8c-3d14-2082-e60f573cb419",
+       "type": "page",
+       "pageId": "048c8006-0acd-23e3-9125-5137f54e2802"
+      },
+      {
+       "title": "An Overview of the Digital Signature Standard (DSS) insert correct vid ",
        "id": "efb468b1-bb72-03fa-af13-90b8d8d5fdf8",
        "type": "page",
        "pageId": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9"
-      },
-      {
-       "title": "An Overview of Signature Creation and Verification",
-       "id": "762894ec-c695-e364-1a39-911e7db5da0b",
-       "type": "page",
-       "pageId": "4e0d8ff3-f01c-6fac-cd50-da1b41ff2e37"
       },
       {
        "title": "Digital Signatures and Integrity",
@@ -535,7 +535,7 @@
        "pageId": "e77bd3a4-10c7-ef01-5d40-8ee38d9cff34"
       },
       {
-       "title": "Examples of Digital Signature Algorithms",
+       "title": " Digital Signature Algorithms",
        "id": "77420d09-bb20-d4f1-7522-522e98b7541e",
        "type": "page",
        "pageId": "5a74f790-0bff-4a25-e0e3-2b4b848597a7"
@@ -547,10 +547,11 @@
        "pageId": "060774df-f1f5-a093-8745-f3e85f6d9c8a"
       },
       {
-       "title": "PKI – Public Key Infrastructure",
-       "id": "9f7688d5-631e-4393-bb37-fc1fbd685bec",
-       "type": "page",
-       "pageId": "fb560af9-b21a-8647-f7ed-51b0964335ae"
+       "title": "Public Key Infrastructure (PKI)",
+       "id": "0d37d2b2-2a51-a020-2af7-a48212612f60",
+       "type": "section",
+       "children": [],
+       "pageId": "a849eedc-1b81-d50a-89a8-5a36c81bc971"
       },
       {
        "title": "Digital Certificates Plus Fig from S18",
@@ -565,28 +566,22 @@
        "pageId": "cc3288ba-badb-2946-1607-4a029c283ca4"
       },
       {
-       "title": "Certificate Authority (CA)",
-       "id": "9c2c84eb-da79-0a10-c32e-6fe0198397b6",
-       "type": "page",
-       "pageId": "a7ffac94-e7b5-81a7-9c66-9c4d0a9fbc4f"
-      },
-      {
        "title": "Certification Path and Chain of Trust S 21",
        "id": "15255b7e-cea2-59ba-2cb9-f4326d22d3e5",
        "type": "page",
        "pageId": "05f3c289-d96f-0400-73bb-01e6183f0985"
       },
       {
+       "title": "Certificate Authority (CA)",
+       "id": "9c2c84eb-da79-0a10-c32e-6fe0198397b6",
+       "type": "page",
+       "pageId": "a7ffac94-e7b5-81a7-9c66-9c4d0a9fbc4f"
+      },
+      {
        "title": "Elements of PKI",
        "id": "b8fc55a0-0022-ab86-7c0f-8dc2c3e8cb2e",
        "type": "page",
        "pageId": "fce751c5-310b-a096-de6a-75edd6c041ee"
-      },
-      {
-       "title": "Some Applications in Which Cryptography Is Used",
-       "id": "f6740787-ba36-f87c-1ebd-ebf648fc35b3",
-       "type": "page",
-       "pageId": "fdf6363b-efde-703a-36d4-fbda6c8b1de0"
       },
       {
        "title": "CreatorSpace Lab: Examine Digital Certificates",
@@ -639,6 +634,12 @@
      "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
      "type": "page",
      "pageId": "71e6998d-67bf-2c49-1c43-0089e75ad5fb"
+    },
+    {
+     "title": "Some Applications in Which Cryptography Is Used",
+     "id": "f6740787-ba36-f87c-1ebd-ebf648fc35b3",
+     "type": "page",
+     "pageId": "fdf6363b-efde-703a-36d4-fbda6c8b1de0"
     }
    ]
   }

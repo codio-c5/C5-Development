@@ -2153,9 +2153,9 @@
    "name": "3.1.",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "False. Since there is no way to decrypt the message to the original from the hash value, hash functions do not support confidentiality.  Rather, they are used to support authentication and integrity.",
-   "showGuidanceAfterResponse": false,
-   "showExpectedAnswer": true,
+   "guidance": "**The correct answer is false.** Since there is no way to decrypt the message to the original from the hash value, hash functions do not support confidentiality.  Rather, they are used to support authentication and integrity.",
+   "showGuidanceAfterResponse": true,
+   "showExpectedAnswer": false,
    "instructions": "**True or False: Hash functions are used to support confidentiality.**",
    "points": "1",
    "incorrectPoints": "0",
@@ -2182,7 +2182,7 @@
    "name": "3.3.3",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "guidance": "**Then correct answers are SHA 3 and MD5.** DES and 3DES are forms of symmetric key encryption.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which of these are commonly used hash functions?  Choose all that apply.**",
@@ -2237,10 +2237,10 @@
    "name": "AH 3.3.1 ",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "guidance": "**The correct answer is false.**  Hash values compute to a designated size, so the length of the message is irrelevant to the size of the hash value.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "Longer messages have have bigger hash values.",
+   "instructions": "**Longer messages have have bigger hash values.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -2295,13 +2295,13 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-146398319",
   "source": {
-   "name": "CYK 2.4",
+   "name": "CYK 2.4.1",
    "showName": false,
    "bloomsObjectiveLevel": "3",
    "guidance": "**The correct answer is 4.** First add 7+9 to get 16, then divide by the modulus 6. Six goes into 16 2 times, with a remainder of 4.  In modular math, the remainder is the answer.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "Calculate 7+9 (mod 6)",
+   "instructions": "**Calculate 7+9 (mod 6)**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -2328,6 +2328,225 @@
      "answer": "4"
     }
    ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3027256850",
+  "source": {
+   "name": "CYK 2.4.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is 3.**  7x9=63.  63 divided by 6 is 10, with a remainder of 3.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Calculate 7x9 (mod 6)**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "2.4 ",
+   "answers": [
+    {
+     "_id": "f375f3d5-0988-0531-60ba-e5ae399fc152",
+     "correct": false,
+     "answer": "10"
+    },
+    {
+     "_id": "a1dc586a-eb03-e2b7-98c5-510c59f40f6d",
+     "correct": true,
+     "answer": "3"
+    },
+    {
+     "_id": "5e549574-0908-30bb-d120-525be88cfe70",
+     "correct": false,
+     "answer": "63"
+    },
+    {
+     "_id": "a2b86040-5a17-9a1d-24bc-b111518c3472",
+     "correct": false,
+     "answer": "22"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-259300797",
+  "source": {
+   "name": "CYK 2.4.3",
+   "showName": false,
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is 1.** 7^3^=343. 343 divided by 9=38 with a remainder of 1.",
+   "showGuidanceAfterResponse": true,
+   "showExpectedAnswer": true,
+   "instructions": "**Calculate 7^3^ (mod 9)**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "2.4",
+   "answers": [
+    {
+     "_id": "24e00559-f900-c53a-ea6b-fffc6202582f",
+     "correct": true,
+     "answer": "1"
+    },
+    {
+     "_id": "e467503a-a1fb-3057-ea38-d9db584278ba",
+     "correct": false,
+     "answer": "343"
+    },
+    {
+     "_id": "8ce21653-62b4-6de2-7956-3754ec85a031",
+     "correct": false,
+     "answer": "38"
+    },
+    {
+     "_id": "638894f9-8301-5d62-d6fc-264ed60d4f14",
+     "correct": false,
+     "answer": "10"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3263075382",
+  "source": {
+   "name": "4.1.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**The correct answer is C.*** For digital signatures, Alice encrypts her hash value with her private key, then sends it to Bob who can then confirm that the hash value matches that of the original message.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**To sign a message for Bob, Alice encrypts the hash of her message using _______________.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "4.1",
+   "answers": [
+    {
+     "_id": "7b85d442-abad-da3b-67ce-134305fbe5a9",
+     "correct": false,
+     "answer": "her public key"
+    },
+    {
+     "_id": "b6d29342-9dc5-2c86-2960-5f379b0c850f",
+     "correct": false,
+     "answer": "Bob's public key"
+    },
+    {
+     "_id": "edefc761-cc85-25b3-dc13-394244fe0152",
+     "correct": false,
+     "answer": "Bob's private key"
+    },
+    {
+     "_id": "1f539b83-468a-3fb9-7b8a-4c1085df37db",
+     "correct": true,
+     "answer": "her private key"
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3860324690",
+  "source": {
+   "name": "4.1.2",
+   "showName": true,
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct response:**  A signature on a message will verify only if the signature was signed using the private key that goes with the public key used for verification.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "Describe how asymmetric (public) key cryptography is used for providing authenticity through digital signatures.",
+   "learningObjectives": "4.1.2",
+   "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1754224551",
+  "source": {
+   "name": "4.2.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**The correct answer is a, c, d, and f.**  \nA digital certificate includes the certificate validity period, the algorithm used, the signature of the issuer, and the public key of the owner. Since private keys are always kept private, answers b and g are incorrect.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following does a digital certificate include? Choose all that apply.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "9f6444ae-37ba-ce5f-1be9-f2a38786df58",
+     "correct": true,
+     "answer": "Validity period of the certificate"
+    },
+    {
+     "_id": "0b1f5cac-57ce-ed0a-25eb-010f65d696b6",
+     "correct": false,
+     "answer": "Private key of the issuer"
+    },
+    {
+     "_id": "e160ddd8-f999-bbb2-2df7-3d13efb67dcb",
+     "correct": true,
+     "answer": "Algorithm to verify the signature"
+    },
+    {
+     "_id": "d6d0a437-b48f-278c-cbbe-ff6d489635e5",
+     "correct": true,
+     "answer": "Signature of the issuer"
+    },
+    {
+     "_id": "813cbb23-855c-ac94-c549-9ddd1f8fee7f",
+     "correct": false,
+     "answer": "Signature of the owner"
+    },
+    {
+     "_id": "bb5121da-97e9-e584-51ba-0a57eacb813d",
+     "correct": true,
+     "answer": "Public key of the owner"
+    },
+    {
+     "_id": "79b29a9a-189a-033b-ed83-d2889e2b28fc",
+     "correct": false,
+     "answer": "Private key of the owner"
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-594995176",
+  "source": {
+   "name": "GH 4.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "4",
+   "guidance": "If encrypted with a private key,  the successful decryption of a ciphertext with the corresponding public key authenticates the message.\n ",
+   "showGuidanceAfterResponse": true,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Can you think of reasons why  the  process would reverse?**",
+   "learningObjectives": "4.1",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1707188528",
+  "source": {
+   "name": "GH 4.2.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "6",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "** Either on your own or with a group, create ways to verify that the sender is really who they say they are. \n- How would you verify the identity of a classmate?  \n- Of someone you didn't know on the Internet? \n- Of your bank? **",
+   "learningObjectives": "4.2",
+   "points": 1
   }
  }
 ]

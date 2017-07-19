@@ -19,8 +19,9 @@
 
 ||| guidance
 **Instructor's Note:** 
- - Paul/Topher to spec. disadvantages here, e.g.
- - The sender cannot decrypt a message they send
+
+ - The sender cannot decrypt a message they send.  Encryption is a one-way process.
+ - Public key encryption takes more processing power and storage than symmetric key.  This is not much of an issue given today's fast processors and inexpensive storage.
  
 |||
 

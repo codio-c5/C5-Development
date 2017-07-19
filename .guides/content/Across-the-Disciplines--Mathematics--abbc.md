@@ -37,21 +37,14 @@ Modular arithmetic describes the size of the circle as the modulus. The above mo
 
 ```x ≡ y (mod n)```
 
-This means that x is congruent with y for a given modulus of n. So if y = 1 and n = 12, then y will be 13. Actually, x can be 13, 26, 39, or any integer that's a multiple of 12.
 
+This means that x is congruent with y for a given modulus of n. So if y = 1 and n = 12, then y will be 13. Actually, x can be 13, 26, 39, or any integer that's a multiple of 13.
+
+## Check Your Knowledge
 {Check It!|assessment}(multiple-choice-146398319)
+{Check It!|assessment}(multiple-choice-3027256850)
+{Check It!|assessment}(multiple-choice-259300797)
 
 
-"Modular arithmetic can be handled mathematically by introducing a congruence relation on the integers that is compatible with the operations on integers: addition, subtraction, and multiplication. For a positive integer n, two numbers a and b are said to be congruent modulo n, if their difference a − b is an integer multiple of n (that is, if there is an integer k such that a − b = kn). This congruence relation is typically considered when a and b are integers, and is denoted
-
-    a ≡ b ( mod n ) . {\displaystyle a\equiv b{\pmod {n}}.} {\displaystyle a\equiv b{\pmod {n}}.}
-
-(some authors use = instead of ≡; in this case, if the parentheses are omitted, this generally means that "mod" denotes the modulo operation, that is, that 0 ≤ a < n).
-
-The number n is called the modulus of the congruence."
-
-You can use modular arithmetic to perform operations similar to every day arithmetic. Here are some of the following properties that will be useful in this course.
-
-
-Modular arithmetic is used in many areas of mathematics but is especially important in cryptography. 
+Along with prime numbers, modular arithmetic is important in cryptography because it enables two parties to encrypt and decrypt messages using an indecipherable key pair that no one else can calculate. It is essential to RSA encryption.
 
