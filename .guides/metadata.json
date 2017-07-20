@@ -668,7 +668,13 @@
   {
    "id": "abbc437e-487e-9b93-2230-599a582187e5",
    "title": "Across the Disciplines: Mathematics ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Across-the-Disciplines--Mathematics--abbc.md",
@@ -830,7 +836,13 @@
   {
    "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
    "title": "Hackathon: Theoretical Mathematics",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hackathon--Theoretical-Mathematics-412e.md",

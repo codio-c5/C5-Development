@@ -7,7 +7,7 @@
 ">
   <figcaption style="font-size: 0.8em; text-align: left;">Ronald Rivest, Adi Shamir, and Leonard Adleman, Creators of RSA Encryption. 
 <br>
-*Source: From left to right: by Ronald L. Rivest (Own work) CC BY-SA 4.0; by Erik Tews (Own work) CC BY-SA 3.0; by Len Adleman, (Own work) CC BY- SA 3.0, via Wikimedia Commons.*</figcaption>
+Source: From left to right: by Ronald L. Rivest (Own work) CC BY-SA 4.0; by Erik Tews (Own work) CC BY-SA 3.0; by Len Adleman, (Own work) CC BY- SA 3.0, via Wikimedia Commons.</figcaption>
 </figure>
 
 Rivest, Shamir, and Adelman discovered that they could calculate two numbers that are the inverse of each other by multiplying two prime numbers. This relationship satisfies the fundamental requirement of public key encryption: one number can be used as a public key and its inverse is used as the private key. Without knowing the prime numbers, it is very hard to factor them.  The larger the prime numbers used, the more difficult it becomes, and the more secure the encryption. 
