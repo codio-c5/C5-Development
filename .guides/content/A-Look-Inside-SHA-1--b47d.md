@@ -11,6 +11,13 @@
 
 The blue boxes show different iterations of plaintext. Each plaintext iteration is sent through a SHA-1 hash function, yielding the hash value or message digest in pink.
 
+|||info
+# Take Note
+Note that the hash value is always the same length, regardless of the message length.
+
+Note that the hash values change completely regardless of how minor the changes to the message are.
+|||
+
 ## Growth Hack
 {Submit Answer!|assessment}(free-text-1875117663)
 {Submit Answer!|assessment}(free-text-3717140303)

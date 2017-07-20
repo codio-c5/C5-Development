@@ -1,4 +1,6 @@
-Not unlike paper equivalents, digital signatures are unique to each document. Your digital signature on one message is different from your signature on a different message. The differences in digital signatures is more obvious than paper signatures, and easier to authenticate as well.
+Not unlike paper equivalents, digital signatures are unique to each document. On a paper, you might use different types of pens, the paper could be different, or your angle or care taken could change. 
+
+Every digital signature is a completely unique code. The differences in digital signatures is more obvious than paper signatures, and easier to authenticate as well.
 
 
 <br>

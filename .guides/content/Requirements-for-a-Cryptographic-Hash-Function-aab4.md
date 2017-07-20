@@ -16,7 +16,11 @@ These requirements are:
  By Wilson Bentley [Public domain], via Wikimedia Commons</figcaption>
 </figure>
 
-- **Collision resistant.** Hash values are like snowflakes. It is computationally infeasible  to find two inputs that have the same hash value. Infeasible, but theoreticahlly, still possible.  Since hash functions map long input values to a shorter compressed value, it is theoretically possible for sequences of bits to map to the same hash value. A **collision** occurs when two messages that have the same hash value.
+- **Collision resistant.** Hash values are like snowflakes. It is computationally infeasible  to find two inputs that have the same hash value. Infeasible, but theoreticahlly, still possible.  Since hash functions map long input values to a shorter compressed value, it is theoretically possible for sequences of bits to map to the same hash value. 
+
+||| definition
+A **collision** occurs when two messages that have the same hash value.
+|||
 
 - **Efficient.** Hash values are fast and easy to compute.  This makes them practical for storage and for use on even small devices.
 
