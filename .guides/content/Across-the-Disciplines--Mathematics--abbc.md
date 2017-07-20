@@ -5,7 +5,7 @@
 ### Today, cryptography methods continue to evolve as cryptanalysis techniques emerge and computing power grows.  In asymmetric cryptography, mathematics and the way numbers work provides new encryption methods that are increasingly secure.
 
 ||| definition
-**Modular Arithmetic** performs a calculation by dividing by the *size* of a circle and returns a result as the remainder of a division. 
+In **modular arithmetic**  calculations are performed by dividing by the size of a circle, called the **modulus,** or mod for short. The resulting remainder is the answer. 
 |||
 
 Do you remember created a **number line** back in grade school?
@@ -15,7 +15,7 @@ Do you remember created a **number line** back in grade school?
 ```
 Number lines are useful for visualizing mathematical operations like addition and subtraction. For instance,  by moving from 0 to 1 and then from 1 to 2 and you have calculated ```1 + 1```. You can also multiply two numbers, for instance ```2 x 3``` by first moving from 0 to 2, then from 2 to 4 and once again from 4 to 6 to get the answer 6.
 
-Modular arithmetic starts with imagining a number line as a circle. 
+Modular arithmetic starts with imagining a number line as a circle. The circle can vary in size.  Let's start with a familiar circle with a modulus, or size, of 12.   
 
 <br>
 <figure class="snippetimg" style="margin: 0 auto;width:50%">
@@ -37,14 +37,18 @@ Modular arithmetic describes the size of the circle as the modulus. The above mo
 
 ```x ≡ y (mod n)```
 
-This means that x is congruent with y for a given modulus of n. So if y = 1 and n = 12, then y will be 13. Actually, x can be 13, 26, 39, or any integer that's a multiple of 12.
 
+<<<<<<< HEAD:.guides/content/Alternate-2-8A-for-Paul-to-consider--Across-the-Disciplines--Mathematics--paul-yes--this-works-for-me--abbc.md
 (Some authors use = instead of ≡; in this case, if the parentheses are omitted, this generally means that "mod" denotes the modulo operation, that is, that 0 ≤ a < n).
+=======
+This means that x is congruent with y for a given modulus of n. So if y = 1 and n = 12, then y will be 13. Actually, x can be 13, 26, 39, or any integer that's a multiple of 13.
 
-The number n is called the modulus of the congruence."
+## Check Your Knowledge
+{Check It!|assessment}(multiple-choice-146398319)
+{Check It!|assessment}(multiple-choice-3027256850)
+{Check It!|assessment}(multiple-choice-259300797)
 
-You can use modular arithmetic to perform operations similar to every day arithmetic. Here are some of the following properties that will be useful in this course.
+>>>>>>> 25458799fde6019c33dd51dc35bf076c7eb2716c:.guides/content/Across-the-Disciplines--Mathematics--abbc.md
 
-
-Modular arithmetic is used in many areas of mathematics but is especially important in cryptography. 
+Along with prime numbers, modular arithmetic is important in cryptography because it enables two parties to encrypt and decrypt messages using an indecipherable key pair that no one else can calculate. It is essential to RSA encryption.
 

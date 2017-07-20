@@ -4,6 +4,7 @@
    "id": "cc88dc9b-e7c2-71c0-9c8b-ed53a9c86d5f",
    "title": "C5",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/C5-cc88.md",
@@ -561,24 +562,24 @@
    "learningObjectives": ""
   },
   {
-   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
-   "title": "Introducing Public Key Cryptography",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Introducing-Public-Key-Cryptography-a01b.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
    "title": "Solutions for Key Distribution ",
    "files": [],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Solutions-for-Key-Distribution--4d40.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+   "title": "Introducing Public Key Cryptography",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introducing-Public-Key-Cryptography-a01b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -628,42 +629,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "ecf8ddfe-7fc1-7614-9990-a4f733c37879",
-   "title": "2.8  RSA Encryption ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/2-8--RSA-Encryption--ecf8.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "abbc437e-487e-9b93-2230-599a582187e5",
-   "title": "Alternate 2.8A for Paul to consider. Across the Disciplines: Mathematics (paul-yes, this works for me)",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Alternate-2-8A-for-Paul-to-consider--Across-the-Disciplines--Mathematics--paul-yes--this-works-for-me--abbc.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "862e5e82-94dc-37b4-406d-4e76175fb86c",
-   "title": "Alternate 2.8B RSA Encryption for Paul to consider",
+   "title": "RSA Encryption",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Alternate-2-8B-RSA-Encryption-for-Paul-to-consider-862e.md",
+   "content-file": ".guides/content/RSA-Encryption-862e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -695,6 +666,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "abbc437e-487e-9b93-2230-599a582187e5",
+   "title": "Across the Disciplines: Mathematics ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Across-the-Disciplines--Mathematics--abbc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
    "title": "Elliptic Curve Cryptography (ECC)",
    "files": [],
@@ -702,29 +685,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Elliptic-Curve-Cryptography--ECC--5a92.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68",
-   "title": "Across the Disciplines: Business",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#preview: https://iamcybersafe.org/wp-content/uploads/2017/03/WomensReport.pdf",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Across-the-Disciplines--Business-15fc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -767,6 +727,29 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Meetup--Key-Agreement--Exchange--Protocols--PAUL-Can-this-be-a-LAB---c4ef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68",
+   "title": "Across the Disciplines: Business",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#preview: https://iamcybersafe.org/wp-content/uploads/2017/03/WomensReport.pdf",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Across-the-Disciplines--Business-15fc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -846,11 +829,11 @@
   },
   {
    "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
-   "title": "2.9A Hackathon: Theoretical Mathematics",
+   "title": "Hackathon: Theoretical Mathematics",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-9A-Hackathon--Theoretical-Mathematics-412e.md",
+   "content-file": ".guides/content/Hackathon--Theoretical-Mathematics-412e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -858,11 +841,11 @@
   },
   {
    "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
-   "title": "2.8A Hackathon: Inside RSA Encryption",
+   "title": "Hackathon: Inside RSA Encryption",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/2-8A-Hackathon--Inside-RSA-Encryption-59d2.md",
+   "content-file": ".guides/content/Hackathon--Inside-RSA-Encryption-59d2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -959,6 +942,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Pseudorandom-Number-Generation-bc43.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "4e0d8ff3-f01c-6fac-cd50-da1b41ff2e37",
+   "title": "An Overview of Signature Creation and Verification",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/An-Overview-of-Signature-Creation-and-Verification-4e0d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1115,11 +1110,23 @@
   },
   {
    "id": "7bafd249-4a71-6db4-5844-73ae8edcba6b",
+   "title": "Growth Hack: Digital Signatures",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Growth-Hack--Digital-Signatures-7baf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "048c8006-0acd-23e3-9125-5137f54e2802",
    "title": "Introducing Digital Signatures",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Introducing-Digital-Signatures-7baf.md",
+   "content-file": ".guides/content/Introducing-Digital-Signatures-048c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1127,23 +1134,11 @@
   },
   {
    "id": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9",
-   "title": "Digital Signatures and Authentication",
+   "title": "An Overview of the Digital Signature Standard (DSS) insert correct vid ",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Digital-Signatures-and-Authentication-0c8e.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "4e0d8ff3-f01c-6fac-cd50-da1b41ff2e37",
-   "title": "An Overview of Signature Creation and Verification",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-Signature-Creation-and-Verification-4e0d.md",
+   "content-file": ".guides/content/An-Overview-of-the-Digital-Signature-Standard--DSS--insert-correct-vid--0c8e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1187,11 +1182,11 @@
   },
   {
    "id": "5a74f790-0bff-4a25-e0e3-2b4b848597a7",
-   "title": "Examples of Digital Signature Algorithms",
+   "title": " Digital Signature Algorithms",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Examples-of-Digital-Signature-Algorithms-5a74.md",
+   "content-file": ".guides/content/-Digital-Signature-Algorithms-5a74.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1210,12 +1205,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "fb560af9-b21a-8647-f7ed-51b0964335ae",
-   "title": "PKI – Public Key Infrastructure",
+   "id": "a849eedc-1b81-d50a-89a8-5a36c81bc971",
+   "title": "Public Key Infrastructure (PKI)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/PKI---Public-Key-Infrastructure-fb56.md",
+   "content-file": ".guides/content/Public-Key-Infrastructure--PKI--a849.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1246,18 +1241,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "a7ffac94-e7b5-81a7-9c66-9c4d0a9fbc4f",
-   "title": "Certificate Authority (CA)",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Certificate-Authority--CA--a7ff.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "05f3c289-d96f-0400-73bb-01e6183f0985",
    "title": "Certification Path and Chain of Trust S 21",
    "files": [],
@@ -1270,24 +1253,24 @@
    "learningObjectives": ""
   },
   {
-   "id": "fce751c5-310b-a096-de6a-75edd6c041ee",
-   "title": "Elements of PKI",
+   "id": "a7ffac94-e7b5-81a7-9c66-9c4d0a9fbc4f",
+   "title": "Certificate Authority (CA)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Elements-of-PKI-fce7.md",
+   "content-file": ".guides/content/Certificate-Authority--CA--a7ff.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": ""
   },
   {
-   "id": "fdf6363b-efde-703a-36d4-fbda6c8b1de0",
-   "title": "Some Applications in Which Cryptography Is Used",
+   "id": "fce751c5-310b-a096-de6a-75edd6c041ee",
+   "title": "Elements of PKI",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Some-Applications-in-Which-Cryptography-Is-Used-fdf6.md",
+   "content-file": ".guides/content/Elements-of-PKI-fce7.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1386,6 +1369,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/--71e6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "fdf6363b-efde-703a-36d4-fbda6c8b1de0",
+   "title": "Some Applications in Which Cryptography Is Used",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Some-Applications-in-Which-Cryptography-Is-Used-fdf6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

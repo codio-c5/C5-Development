@@ -1,5 +1,6 @@
 
-### Do you remember these key points? You will encounter these important concepts again soon.  See if you remember them all.  You may want to go back and review the topics on questions you miss.
+### Do you remember these key points? 
+These concepts come up again in this lesson, so you may want to go back and review the topics on questions you miss.
 
 
 A few questions here..  Include issues about hash functions, integrity, etc.
