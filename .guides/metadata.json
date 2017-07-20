@@ -3,7 +3,12 @@
   {
    "id": "cc88dc9b-e7c2-71c0-9c8b-ed53a9c86d5f",
    "title": "C5",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
@@ -16,7 +21,13 @@
   {
    "id": "4360edfc-a74e-38a4-9891-5e4977abd95f",
    "title": "Applied Cryptography",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Applied-Cryptography-4360.md",
@@ -28,7 +39,13 @@
   {
    "id": "dccce670-daf5-ba4b-e27e-e7e0ce6dedfb",
    "title": "Symmetric Key Cryptography",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Symmetric-Key-Cryptography-dccc.md",
@@ -60,7 +77,12 @@
   {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
    "title": "An Overview of Symmetric Key Cryptography",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
@@ -91,7 +113,13 @@
   {
    "id": "227736ae-23d4-4a63-6bea-24cad2eefe07",
    "title": "The Big Picture: Cryptology",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-Big-Picture--Cryptology-2277.md",
@@ -103,7 +131,13 @@
   {
    "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
    "title": "Cryptography Terms",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Cryptography-Terms-dd91.md",
@@ -115,7 +149,13 @@
   {
    "id": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
    "title": "The Caesar Cipher",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-Caesar-Cipher-ac90.md",
@@ -173,7 +213,13 @@
   {
    "id": "3fd1db77-1a25-5692-1ec9-0bb6ff39de1e",
    "title": "Shift Ciphers",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Shift-Ciphers-3fd1.md",
@@ -221,7 +267,13 @@
   {
    "id": "e88a2a5f-5a45-5689-e309-3f7fa1be906d",
    "title": "A Day in the life of Angy Shavit",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/A-Day-in-the-life-of-Angy-Shavit-e88a.md",
@@ -239,7 +291,7 @@
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Cryptanalysis-of-a-Cipher-c3a1.md",
@@ -292,7 +344,13 @@
   {
    "id": "e20f7a42-d00f-0727-77d9-6aa00be78ce9",
    "title": "The Substitution Cipher",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/The-Substitution-Cipher-e20f.md",
@@ -409,7 +467,13 @@
   {
    "id": "39b831a9-2f1b-59bd-4b41-478504cfa5a5",
    "title": "Block Ciphers and NIST",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Block-Ciphers-and-NIST-39b8.md",
@@ -421,7 +485,13 @@
   {
    "id": "c6710826-508f-2c18-9e53-798609eac823",
    "title": "Block Ciphers at a Glance",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Block-Ciphers-at-a-Glance-c671.md",
@@ -451,7 +521,13 @@
   {
    "id": "8d67d15e-3269-43ee-12a1-0ce02534bcd6",
    "title": "Unit Summary & Assessments",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Unit-Summary---Assessments-8d67.md",
@@ -463,7 +539,13 @@
   {
    "id": "8d9c1b63-2bd8-bcca-d015-c36e28ed1da5",
    "title": "Symmetric Key Cryptography: Assessments",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Symmetric-Key-Cryptography--Assessments-8d9c.md",
@@ -475,7 +557,13 @@
   {
    "id": "8fbd1a65-ada3-4c17-2fb2-208797e5ceb1",
    "title": "Symmetric Key Cryptography: Critical Thinking",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Symmetric-Key-Cryptography--Critical-Thinking-8fbd.md",
@@ -528,7 +616,13 @@
   {
    "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
    "title": "Additional Assessment Items",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Additional-Assessment-Items-7e9f.md",
@@ -540,7 +634,13 @@
   {
    "id": "17831e64-4619-743c-bd9f-b1ea696429f9",
    "title": "Public Key Cryptography",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Public-Key-Cryptography-1783.md",
@@ -552,7 +652,13 @@
   {
    "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
    "title": "Check Your Memory",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Check-Your-Memory-54c4.md",
@@ -564,7 +670,13 @@
   {
    "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
    "title": "Solutions for Key Distribution ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Solutions-for-Key-Distribution--4d40.md",
@@ -576,7 +688,13 @@
   {
    "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
    "title": "Introducing Public Key Cryptography",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Introducing-Public-Key-Cryptography-a01b.md",
@@ -588,7 +706,13 @@
   {
    "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
    "title": "An Overview of Public Key (Asymmetric) Encryption",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/An-Overview-of-Public-Key--Asymmetric--Encryption-eb73.md",
@@ -600,7 +724,12 @@
   {
    "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
    "title": "CreatorSpace Lab: Public Key Encryption",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
@@ -631,7 +760,13 @@
   {
    "id": "862e5e82-94dc-37b4-406d-4e76175fb86c",
    "title": "RSA Encryption",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/RSA-Encryption-862e.md",
@@ -686,7 +821,12 @@
   {
    "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
    "title": "Elliptic Curve Cryptography (ECC)",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
@@ -717,7 +857,13 @@
   {
    "id": "f8b66935-383a-0a46-a410-9c5d85fb278a",
    "title": "An Overview of Key Agreement",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/An-Overview-of-Key-Agreement-f8b6.md",
@@ -729,7 +875,13 @@
   {
    "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
    "title": "Meetup: Key Agreement (Exchange) Protocols  PAUL Can this be a LAB?)",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Meetup--Key-Agreement--Exchange--Protocols--PAUL-Can-this-be-a-LAB---c4ef.md",
@@ -764,7 +916,13 @@
   {
    "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
    "title": "Growth Hack: The Problem of Authentication ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Growth-Hack--The-Problem-of-Authentication--4d24.md",
@@ -776,7 +934,13 @@
   {
    "id": "027482d0-3d75-ad7c-9115-e948894f207f",
    "title": "Man in the Middle Attack",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Man-in-the-Middle-Attack-0274.md",
@@ -788,7 +952,13 @@
   {
    "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
    "title": "Growth Hack: Another Problem: Integrity",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Growth-Hack--Another-Problem--Integrity-0af2.md",
@@ -800,7 +970,13 @@
   {
    "id": "79f6a1c7-e79d-a3ba-44c3-f27ca7584f42",
    "title": "Unit Summary & Assessments",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Unit-Summary---Assessments-79f6.md",
@@ -812,7 +988,13 @@
   {
    "id": "8465c47f-fb60-e5e0-78f7-705f78587e93",
    "title": "Public Key Cryptography: Assessments",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Public-Key-Cryptography--Assessments-8465.md",
@@ -824,7 +1006,13 @@
   {
    "id": "2889d63c-379a-975e-ee8d-2e9cf6d7b6c7",
    "title": "Public Key Cryptography: Critical Thinking",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Public-Key-Cryptography--Critical-Thinking-2889.md",
@@ -854,7 +1042,13 @@
   {
    "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
    "title": "Hackathon: Inside RSA Encryption",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hackathon--Inside-RSA-Encryption-59d2.md",
@@ -866,7 +1060,13 @@
   {
    "id": "c690d6b2-fd2c-e599-fea6-055a11a095a8",
    "title": "Hash Functions",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hash-Functions-c690.md",
@@ -878,7 +1078,13 @@
   {
    "id": "d26d0aee-c9ec-1f73-45d8-3b6626b5682e",
    "title": "Check Your Memory",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Check-Your-Memory-d26d.md",
@@ -890,7 +1096,13 @@
   {
    "id": "96439ddf-d5fd-8c48-8322-75cf218a5763",
    "title": "Introducing Hash Functions",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Introducing-Hash-Functions-9643.md",
@@ -902,7 +1114,13 @@
   {
    "id": "aab4a588-7108-a343-740a-e5f22f624cad",
    "title": "Requirements for a Cryptographic Hash Function",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Requirements-for-a-Cryptographic-Hash-Function-aab4.md",
@@ -914,7 +1132,13 @@
   {
    "id": "00c6d5dc-a61f-bb9d-213c-e6c6dd906f7c",
    "title": "Uses of Hash Functions",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Uses-of-Hash-Functions-00c6.md",
@@ -926,7 +1150,13 @@
   {
    "id": "5b6aa8c7-f2f3-0457-3f12-bdca4b062c16",
    "title": "Password Files",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Password-Files-5b6a.md",
@@ -938,7 +1168,13 @@
   {
    "id": "7b45fefe-b3ef-3962-750a-06f25384d839",
    "title": "Intrusion and Virus Detection",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Intrusion-and-Virus-Detection-7b45.md",
@@ -950,7 +1186,13 @@
   {
    "id": "bc437ee6-2c90-188b-50b3-168e36766eac",
    "title": "Pseudorandom Number Generation",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Pseudorandom-Number-Generation-bc43.md",
@@ -960,21 +1202,15 @@
    "learningObjectives": ""
   },
   {
-   "id": "4e0d8ff3-f01c-6fac-cd50-da1b41ff2e37",
-   "title": "An Overview of Signature Creation and Verification",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-Signature-Creation-and-Verification-4e0d.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "21b3e5dc-3812-618c-4496-474f537928e7",
    "title": "File Synchronization",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/File-Synchronization-21b3.md",
@@ -1009,7 +1245,13 @@
   {
    "id": "b47d0ccb-99b0-652e-bb69-ee8c69fe02e1",
    "title": "A Look Inside SHA-1 ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/A-Look-Inside-SHA-1--b47d.md",
@@ -1039,7 +1281,13 @@
   {
    "id": "551a827f-9f21-fe26-89cd-fcd392db6e11",
    "title": "Message Digest Algorithms",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Message-Digest-Algorithms-551a.md",
@@ -1063,7 +1311,13 @@
   {
    "id": "3bc211e1-056b-9ad8-802d-1452b8ad17af",
    "title": "Unit Summary & Assessments",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Unit-Summary---Assessments-3bc2.md",
@@ -1075,7 +1329,13 @@
   {
    "id": "ac5dfe41-a7a0-ac10-7eab-afc0e3b206e9",
    "title": "Hash Functions: Assessments",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hash-Functions--Assessments-ac5d.md",
@@ -1087,7 +1347,13 @@
   {
    "id": "10ca8f7e-0006-bd56-9847-266c94a4d6d9",
    "title": "Hash Functions: Critical Thinking",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Hash-Functions--Critical-Thinking-10ca.md",
@@ -1099,7 +1365,13 @@
   {
    "id": "0af86b3e-5971-40ed-f17d-fad4280d04e3",
    "title": "Digital Signatures and PKI",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Digital-Signatures-and-PKI-0af8.md",
@@ -1111,7 +1383,13 @@
   {
    "id": "6d1bbe93-c6a5-e3ef-3c42-ea66377dc83d",
    "title": "Check Your Memory",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Check-Your-Memory-6d1b.md",
@@ -1123,7 +1401,13 @@
   {
    "id": "7bafd249-4a71-6db4-5844-73ae8edcba6b",
    "title": "Growth Hack: Digital Signatures",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Growth-Hack--Digital-Signatures-7baf.md",
@@ -1135,7 +1419,13 @@
   {
    "id": "048c8006-0acd-23e3-9125-5137f54e2802",
    "title": "Introducing Digital Signatures",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Introducing-Digital-Signatures-048c.md",
@@ -1147,7 +1437,13 @@
   {
    "id": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9",
    "title": "An Overview of the Digital Signature Standard (DSS) insert correct vid ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/An-Overview-of-the-Digital-Signature-Standard--DSS--insert-correct-vid--0c8e.md",
@@ -1159,7 +1455,13 @@
   {
    "id": "a9fd5e55-19ef-1e86-1f50-379924fdd774",
    "title": "Digital Signatures and Integrity",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Digital-Signatures-and-Integrity-a9fd.md",
@@ -1171,7 +1473,13 @@
   {
    "id": "661df4ff-256f-2a82-48fa-07fb7afcd5d3",
    "title": "Digital Signatures and Non-repudiation",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Digital-Signatures-and-Non-repudiation-661d.md",
@@ -1183,7 +1491,13 @@
   {
    "id": "e77bd3a4-10c7-ef01-5d40-8ee38d9cff34",
    "title": "Digital Signatures and Hash Functions",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Digital-Signatures-and-Hash-Functions-e77b.md",
@@ -1195,7 +1509,13 @@
   {
    "id": "5a74f790-0bff-4a25-e0e3-2b4b848597a7",
    "title": " Digital Signature Algorithms",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/-Digital-Signature-Algorithms-5a74.md",
@@ -1207,7 +1527,13 @@
   {
    "id": "060774df-f1f5-a093-8745-f3e85f6d9c8a",
    "title": "Meetup: Still a Problem: Authenticity",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Meetup--Still-a-Problem--Authenticity-0607.md",
@@ -1219,7 +1545,13 @@
   {
    "id": "a849eedc-1b81-d50a-89a8-5a36c81bc971",
    "title": "Public Key Infrastructure (PKI)",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Public-Key-Infrastructure--PKI--a849.md",
@@ -1231,7 +1563,13 @@
   {
    "id": "757a93b5-eb20-32ad-783d-934a46e442f4",
    "title": "Digital Certificates Plus Fig from S18",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Digital-Certificates-Plus-Fig-from-S18-757a.md",
@@ -1243,7 +1581,13 @@
   {
    "id": "cc3288ba-badb-2946-1607-4a029c283ca4",
    "title": "A Digital Certificate S 19",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/A-Digital-Certificate-S-19-cc32.md",
@@ -1255,7 +1599,13 @@
   {
    "id": "05f3c289-d96f-0400-73bb-01e6183f0985",
    "title": "Certification Path and Chain of Trust S 21",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Certification-Path-and-Chain-of-Trust-S-21-05f3.md",
@@ -1267,7 +1617,13 @@
   {
    "id": "a7ffac94-e7b5-81a7-9c66-9c4d0a9fbc4f",
    "title": "Certificate Authority (CA)",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Certificate-Authority--CA--a7ff.md",
@@ -1279,7 +1635,13 @@
   {
    "id": "fce751c5-310b-a096-de6a-75edd6c041ee",
    "title": "Elements of PKI",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Elements-of-PKI-fce7.md",
@@ -1289,9 +1651,33 @@
    "learningObjectives": ""
   },
   {
+   "id": "fdf6363b-efde-703a-36d4-fbda6c8b1de0",
+   "title": "Some Applications in Which Cryptography Is Used",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Some-Applications-in-Which-Cryptography-Is-Used-fdf6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "939d28c8-b89f-b883-7272-a3f900d4644a",
    "title": "CreatorSpace Lab: Examine Digital Certificates",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Examine-Digital-Certificates-939d.md",
@@ -1303,7 +1689,13 @@
   {
    "id": "67dc7d0a-d765-6c7f-f4e6-d42633fafe96",
    "title": "CreatorSpace Lab: Find the Certification Path",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Find-the-Certification-Path-67dc.md",
@@ -1315,7 +1707,13 @@
   {
    "id": "b9dbcbcb-97d5-e895-5601-15f00098c597",
    "title": "Unit Summary & Assessments",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Unit-Summary---Assessments-b9db.md",
@@ -1327,7 +1725,13 @@
   {
    "id": "02d5e9d5-45ee-a398-a67f-2da07e1cf9a0",
    "title": "Digital Signatures and PKI: Assessments",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Digital-Signatures-and-PKI--Assessments-02d5.md",
@@ -1339,7 +1743,13 @@
   {
    "id": "67268cfb-bf92-ac54-b7d0-981cd4333bb1",
    "title": "Digital Signatures and PKI: Critical Thinking",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Digital-Signatures-and-PKI--Critical-Thinking-6726.md",
@@ -1351,7 +1761,12 @@
   {
    "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
    "title": " A Day in the Life of Raven Alder",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
@@ -1364,7 +1779,13 @@
   {
    "id": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb",
    "title": "Credits",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Credits-eaab.md",
@@ -1376,23 +1797,16 @@
   {
    "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
    "title": " ",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/--71e6.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "fdf6363b-efde-703a-36d4-fbda6c8b1de0",
-   "title": "Some Applications in Which Cryptography Is Used",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Some-Applications-in-Which-Cryptography-Is-Used-fdf6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

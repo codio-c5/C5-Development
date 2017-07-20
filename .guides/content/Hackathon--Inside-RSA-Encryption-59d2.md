@@ -21,19 +21,20 @@ Encryption by Alice (of a message for Bob)
 
 Plaintext: (message) $m<n$
 
-Ciphertext: $C= M^e^ mod n$
+Ciphertext: $C= m^e^ mod n$
 
     
-Plaintext: (message) M<n
+Plaintext: (message) $m<n$
 
-Ciphertext: C= M^e^ mod n
+Ciphertext: $c= m^e^ mod n$
 
 Decryption by Bob (of the message from Alice)
 
-    Ciphertext: C
+Ciphertext: $c$
 
-    Plaintext: M = C^d^ mod n
+Plaintext: $m= c^d^ mod n$
 
 {Submit Answer!|assessment}(free-text-2750669850)
 
-|||guidance Instructor's Note: Asymmetric key algorithms have become increasingly complex as computing power evolves. The more complex the algorithm, more time and computing power is required by those seeking to crack the code. |||
+|||guidance
+**Instructor's Note:** Asymmetric key algorithms become increasingly complex as computing power evolves. The more complex the algorithm, more time and computing power is required by those seeking to crack the code. |||
