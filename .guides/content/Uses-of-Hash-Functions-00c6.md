@@ -1,7 +1,7 @@
 
 ## On the Dotted Line
-**Digital Signatures.** When messages are digitally signed, only the hash value of the message is encrypted, not the message itself. This allows messages of arbitrary lengths to be signed, because the hash value is of a predetermined length. 
-You'll learn more about how hashes are used in digital signatures in the next unit.
+**Digital Signatures.** When messages are digitally signed, only the hash value of the message is encrypted, not the message itself. Because the hash value is of a predetermined length, it is easier to manage files of a predictable size for signatures. 
+
 
 <figure class="snippetimg" style="margin: 0 auto;width:70%">
 

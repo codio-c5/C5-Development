@@ -1,5 +1,4 @@
-### What do you know about digital signatures and PKI? A couple of statements here that speak about it generally.
-
+### What do you know about digital signatures and PKI? Digital signatures help with ensuring integrity and non-repudiation, while PKI helps validate authenticity. 
 Are you in the know? Try out these questions before you start this unit to find out. You may not know them yet, but soon you'll know them all.
 
 A coupla assessments here.

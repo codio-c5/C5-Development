@@ -93,27 +93,11 @@
  },
  {
   "taskId": "fill-in-the-blanks-2547250082",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": [
-    "key agreement",
-    "session key"
-   ]
+   "active": []
   },
-  "results": [
-   {
-    "current": [
-     "key agreement",
-     "session key"
-    ],
-    "right": [
-     "key agreement",
-     "session key"
-    ],
-    "timestamp": 1499445190487,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "multiple-choice-462797056",
@@ -125,30 +109,11 @@
  },
  {
   "taskId": "fill-in-the-blanks-3101450858",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": [
-    "Caesar cipher",
-    "substitution cipher",
-    "shift cipher"
-   ]
+   "active": []
   },
-  "results": [
-   {
-    "current": [
-     "Caesar cipher",
-     "substitution cipher",
-     "shift cipher"
-    ],
-    "right": [
-     "Caesar cipher",
-     "substitution cipher",
-     "shift cipher"
-    ],
-    "timestamp": 1499448161297,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "free-text-1894789270",

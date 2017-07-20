@@ -419,12 +419,6 @@
          "pageId": "bc437ee6-2c90-188b-50b3-168e36766eac"
         },
         {
-         "title": "An Overview of Signature Creation and Verification",
-         "id": "762894ec-c695-e364-1a39-911e7db5da0b",
-         "type": "page",
-         "pageId": "4e0d8ff3-f01c-6fac-cd50-da1b41ff2e37"
-        },
-        {
          "title": "File Synchronization",
          "id": "c5682735-c5a6-8cbb-94f7-824f4dac5b85",
          "type": "page",
@@ -550,8 +544,8 @@
        "title": "Public Key Infrastructure (PKI)",
        "id": "0d37d2b2-2a51-a020-2af7-a48212612f60",
        "type": "section",
-       "children": [],
-       "pageId": "a849eedc-1b81-d50a-89a8-5a36c81bc971"
+       "pageId": "a849eedc-1b81-d50a-89a8-5a36c81bc971",
+       "children": []
       },
       {
        "title": "Digital Certificates Plus Fig from S18",
@@ -582,6 +576,12 @@
        "id": "b8fc55a0-0022-ab86-7c0f-8dc2c3e8cb2e",
        "type": "page",
        "pageId": "fce751c5-310b-a096-de6a-75edd6c041ee"
+      },
+      {
+       "title": "Some Applications in Which Cryptography Is Used",
+       "id": "f6740787-ba36-f87c-1ebd-ebf648fc35b3",
+       "type": "page",
+       "pageId": "fdf6363b-efde-703a-36d4-fbda6c8b1de0"
       },
       {
        "title": "CreatorSpace Lab: Examine Digital Certificates",
@@ -634,12 +634,6 @@
      "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
      "type": "page",
      "pageId": "71e6998d-67bf-2c49-1c43-0089e75ad5fb"
-    },
-    {
-     "title": "Some Applications in Which Cryptography Is Used",
-     "id": "f6740787-ba36-f87c-1ebd-ebf648fc35b3",
-     "type": "page",
-     "pageId": "fdf6363b-efde-703a-36d4-fbda6c8b1de0"
     }
    ]
   }

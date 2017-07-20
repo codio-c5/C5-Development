@@ -1,5 +1,5 @@
 ## Pass the Salt, Please
-**Password Files.** Websites store hashes of passwords,not the passwords themselves. This provides an extra layer of security in case the password file is stolen, because of the one-way nature of the hash value. A **salt** value is a randomly generated number that is added to the password before hashing it, to provide protection against **rainbow attacks.** 
+**Password Files.** Websites store hashes of passwords, not the passwords themselves. This provides an extra layer of security in case the password file is stolen because of the one-way nature of the hash value. A **salt** value is a randomly generated number that is added to the password before hashing it, to provide protection against **rainbow attacks.** 
 
 <figure class="snippetimg" style="margin: 0 auto;width:80%">
 

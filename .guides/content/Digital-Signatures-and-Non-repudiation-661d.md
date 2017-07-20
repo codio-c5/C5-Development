@@ -1,5 +1,5 @@
 ||| definition
-**Non-repudiation** refers to the ability to ensure that a party to a contract or a communication cannot deny the authenticity of their signature on a document or on a message that they sent.
+**Non-repudiation** is the ability to ensure that a party cannot deny the authenticity of their signature on a document or a message that they sent.
 
 <br>
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
@@ -9,4 +9,4 @@
 Attributed to Bernhard Keil [Public domain], via Wikimedia Commons</figcaption>
 </figure>
 
-Digital signatures require the use of a private key known only to the owner. This is referred to as the **signing key.** If a digital signature verifies on a message, it is highly unlikely that it came from anyone else.
+Digital signatures require the use of a private key known only to the owner. This is referred to as the **signing key.** If a digital signature is verified it is highly unlikely that it came from anyone else.

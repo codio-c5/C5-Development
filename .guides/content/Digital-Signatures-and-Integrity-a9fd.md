@@ -1,7 +1,7 @@
 ## Alice Doesn't Live Here Anymore.
 
 
-The last step in the digital signatures process is for Bob to match the hash values of the message and the signature. 
+The last step in the digital signatures process is for Bob to match the hash values of the message and the digital signature. 
 
 <br>
 <figure class="snippetimg" style="margin: 0 auto;width:90%">

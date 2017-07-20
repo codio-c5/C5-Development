@@ -2199,12 +2199,12 @@
     {
      "_id": "89023e8a-d35e-4ae5-d6a9-83ae81e431df",
      "correct": true,
-     "answer": "SHA 3 (Secure Hash Algorithm) "
+     "answer": "SHA-3 "
     },
     {
      "_id": "54ad8067-65ae-39b9-71db-e6c004282ea0",
      "correct": true,
-     "answer": "MD5 (Message Digest)"
+     "answer": "MD5"
     },
     {
      "_id": "a8401074-8296-3ed8-293b-64760fa93776",
@@ -2524,7 +2524,7 @@
    "name": "GH 4.1",
    "showName": false,
    "bloomsObjectiveLevel": "4",
-   "guidance": "If encrypted with a private key,  the successful decryption of a ciphertext with the corresponding public key authenticates the message.\n ",
+   "guidance": "If encrypted with a private key,  the successful decryption of a ciphertext with the corresponding public key authenticates the message.  If you consider the ciphertext of the message as a signature, then the successful decryption indicates a verification of the signature.\n\n ",
    "showGuidanceAfterResponse": true,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
@@ -2544,7 +2544,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "** Either on your own or with a group, create ways to verify that the sender is really who they say they are. \n- How would you verify the identity of a classmate?  \n- Of someone you didn't know on the Internet? \n- Of your bank? **",
+   "instructions": "**Either on your own or with a group, create ways to verify that the sender is really who they say they are.**\n - How would you verify the identity of a classmate?\n - Of someone you didn't know on the internet?\n - Of your bank? ",
    "learningObjectives": "4.2",
    "points": 1
   }

@@ -8,3 +8,4 @@ In this lesson, you'll learn about schemes that allow the private key to be used
 
 ||| guidance
 **Instructor's Note:** In practice, the **hash value** of the message is encrypted to get the signature, rather than the message itself. this is because the hash value has a fixed length.
+|||
