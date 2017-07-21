@@ -3,7 +3,7 @@
 These concepts come up again in this lesson, so you may want to go back and review the topics on questions you miss.
 
 
-A few questions here..  Include issues about hash functions, integrity, etc.
+==A few questions here..  Include issues about hash functions, integrity, etc.==
 
 
 |||guidance

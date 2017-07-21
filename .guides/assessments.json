@@ -2415,10 +2415,10 @@
    "name": "4.1.1",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "**The correct answer is C.*** For digital signatures, Alice encrypts her hash value with her private key, then sends it to Bob who can then confirm that the hash value matches that of the original message.",
+   "guidance": "**The correct answer is C.** For digital signatures, Alice encrypts her hash value with her private key, then sends it to Bob who can then confirm that the hash value matches that of the original message.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**To sign a message for Bob, Alice encrypts the hash of her message using _______________.**",
+   "instructions": "**To digitally sign a message for Bob, Alice encrypts the hash of her message using _______________.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -2546,6 +2546,22 @@
    "oneTimeTest": true,
    "instructions": "**Either on your own or with a group, create ways to verify that the sender is really who they say they are.**\n - How would you verify the identity of a classmate?\n - Of someone you didn't know on the internet?\n - Of your bank? ",
    "learningObjectives": "4.2",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2730712183",
+  "source": {
+   "name": "GH 4.3",
+   "showName": false,
+   "bloomsObjectiveLevel": "3",
+   "guidance": "This certificate shows fingerprints for SHA-256 and SHA 1.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**What algorithm(s) were used in this certificate?**",
+   "learningObjectives": "4.3",
    "points": 1
   }
  }

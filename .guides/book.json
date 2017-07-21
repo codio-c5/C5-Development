@@ -214,12 +214,6 @@
      ]
     },
     {
-     "title": "Additional Assessment Items",
-     "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
-     "type": "page",
-     "pageId": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b"
-    },
-    {
      "title": "Public Key Cryptography",
      "id": "1fe0611e-ea32-ed39-2fb7-71dde62800ea",
      "type": "section",
@@ -548,28 +542,22 @@
        "children": []
       },
       {
-       "title": "Digital Certificates Plus Fig from S18",
+       "title": "Digital Certificates ",
        "id": "d2c82f41-7d81-335f-ee9e-c374890fbbe1",
        "type": "page",
        "pageId": "757a93b5-eb20-32ad-783d-934a46e442f4"
-      },
-      {
-       "title": "A Digital Certificate S 19",
-       "id": "018f6581-c61c-3e89-a4e8-907cf59cf4cd",
-       "type": "page",
-       "pageId": "cc3288ba-badb-2946-1607-4a029c283ca4"
-      },
-      {
-       "title": "Certification Path and Chain of Trust S 21",
-       "id": "15255b7e-cea2-59ba-2cb9-f4326d22d3e5",
-       "type": "page",
-       "pageId": "05f3c289-d96f-0400-73bb-01e6183f0985"
       },
       {
        "title": "Certificate Authority (CA)",
        "id": "9c2c84eb-da79-0a10-c32e-6fe0198397b6",
        "type": "page",
        "pageId": "a7ffac94-e7b5-81a7-9c66-9c4d0a9fbc4f"
+      },
+      {
+       "title": "Certification Path and Chain of Trust S 21",
+       "id": "15255b7e-cea2-59ba-2cb9-f4326d22d3e5",
+       "type": "page",
+       "pageId": "05f3c289-d96f-0400-73bb-01e6183f0985"
       },
       {
        "title": "Elements of PKI",
@@ -634,6 +622,12 @@
      "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
      "type": "page",
      "pageId": "71e6998d-67bf-2c49-1c43-0089e75ad5fb"
+    },
+    {
+     "title": "Additional Assessment Items",
+     "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
+     "type": "page",
+     "pageId": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b"
     }
    ]
   }
