@@ -843,10 +843,17 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "1-panel",
-   "path": [],
+   "layout": "2-panels-tree",
+   "path": [
+    "rsa"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Key-Agreement-Algorithms-d228.md",
    "chapter": false,
@@ -879,16 +886,23 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "#terminal: cd keyagree",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "1-panel",
-   "path": [],
+   "layout": "2-panels-tree",
+   "path": [
+    "rsa"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Meetup--Key-Agreement--Exchange--Protocols--PAUL-Can-this-be-a-LAB---c4ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
-   "learningObjectives": ""
+   "learningObjectives": "key agreement"
   },
   {
    "id": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68",
