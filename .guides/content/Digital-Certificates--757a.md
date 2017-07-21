@@ -3,8 +3,9 @@
 ||| definition
 **A digital certificate** is an electronic document that binds a public key with an entity (person,  organization).
  
-A **certificate authority (CA)** is a trusted entity that issues digital certificates.  Certificates typically include the owner's name and public key, the validity period of the certificate, the algorithm used, and the digital signature. 
-     
+A **certificate authority (CA)** is a trusted entity that issues digital certificates.  Certificates typically include the owner's name and public key, the validity period of the certificate, the algorithm used, and the digital signature.      
+|||
+
 <br>
 <figure class="snippetimg" style="margin:0; width:100%">
   <img src=".guides/img/DigiCert.png" alt="https://commons.wikimedia.org/wiki/File% Antique skeleton keys.">
