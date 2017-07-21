@@ -1,12 +1,15 @@
 
-## Down to the Roots
-||| definition
-A **certificate authority (CA)** is a trusted third party that issues digital certificates. These certificates verify the owner of a public key, which authenticates the owner's identity on the internet.
+## The Roots of Trust
+|||definition
+A **certificate authority (CA)** is a trusted entity that issues digital certificates.  Certificates typically include the owner's name and public key, the validity period of the certificate, the algorithm used, and the digital signature. A certificate authority signs certificates using its private key. Its public key is published in a self-signed CA certificate, called a **trusted root certificate.** 
 |||
 
-A CA signs these certificates using its private key. Its public key is published in a self-signed CA certificate, called a **trusted root certificate.** 
+<br>
+  <figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/PreahKhan.jpg" alt="https://commons.wikimedia.org/wiki/File:NYS-Notary-Seal.jpg">
+  <figcaption style="font-size: 0.8em; text-align: left;">  Tree roots penetrating a temple at Preah Kahn. <br>
+By Anne Hamilton. Used with permission of the photographer.
+</figure>
+<br>
 
-
-
-CAs use the trusted root certificate to create a **chain of trust,** in which all of the certificates signed by the root certificate inherit the trustworthiness of the root certificate.  Many root certificates are embedded in web browsers so they have built-in trust of those CAs. 
-Web servers, email clients, smartphones, and many other types of hardware and software also support PKI and contain trusted root certificates from the major CAs.
+provides services that authenticate the identity of individuals, computers and other entitiesMany root certificates are embedded in web browsers so they have built-in trust of those CAs. Web servers, email clients, smartphones, and many other types of hardware and software use PKI and contain trusted root certificates from  major CAs.

@@ -2524,7 +2524,7 @@
    "name": "GH 4.1",
    "showName": false,
    "bloomsObjectiveLevel": "4",
-   "guidance": "If encrypted with a private key,  the successful decryption of a ciphertext with the corresponding public key authenticates the message.  If you consider the ciphertext of the message as a signature, then the successful decryption indicates a verification of the signature.\n\n ",
+   "guidance": "If encrypted with a private key,  the successful decryption of a ciphertext with the corresponding public key authenticates the message. The ciphertext is the digital signature, and successful decryption indicates a verification of the signature.\n\n ",
    "showGuidanceAfterResponse": true,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
@@ -2562,6 +2562,22 @@
    "oneTimeTest": true,
    "instructions": "**What algorithm(s) were used in this certificate?**",
    "learningObjectives": "4.3",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-4200048754",
+  "source": {
+   "name": "GH 4.1.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "5",
+   "guidance": "\n1. It wasn’t Alice’s private key that was used to sign the message.  The message came from someone posing as Alice.\n\n2. The message was altered en route. \n",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Can you think of two reasons why Alice’s signature on the message might not match the hash value of the message?  What is the implication of each reason?**",
+   "learningObjectives": "4.1",
    "points": 1
   }
  }
