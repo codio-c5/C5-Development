@@ -2548,5 +2548,21 @@
    "learningObjectives": "4.2",
    "points": 1
   }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2730712183",
+  "source": {
+   "name": "GH 4.3",
+   "showName": false,
+   "bloomsObjectiveLevel": "3",
+   "guidance": "This certificate shows fingerprints for SHA-256 and SHA 1.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**What algorithm(s) were used in this certificate?**",
+   "learningObjectives": "4.3",
+   "points": 1
+  }
  }
 ]

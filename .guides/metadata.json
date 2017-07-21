@@ -1562,7 +1562,7 @@
   },
   {
    "id": "757a93b5-eb20-32ad-783d-934a46e442f4",
-   "title": "Digital Certificates Plus Fig from S18",
+   "title": "Digital Certificates ",
    "files": [
     {
      "path": "#tabs",
@@ -1572,43 +1572,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Digital-Certificates-Plus-Fig-from-S18-757a.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "cc3288ba-badb-2946-1607-4a029c283ca4",
-   "title": "A Digital Certificate S 19",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/A-Digital-Certificate-S-19-cc32.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "05f3c289-d96f-0400-73bb-01e6183f0985",
-   "title": "Certification Path and Chain of Trust S 21",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Certification-Path-and-Chain-of-Trust-S-21-05f3.md",
+   "content-file": ".guides/content/Digital-Certificates--757a.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1627,6 +1591,24 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Certificate-Authority--CA--a7ff.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "05f3c289-d96f-0400-73bb-01e6183f0985",
+   "title": "Certification Path and Chain of Trust S 21",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Certification-Path-and-Chain-of-Trust-S-21-05f3.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
