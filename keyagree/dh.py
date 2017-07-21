@@ -1,7 +1,7 @@
 #!/usr/bin/env
 #
 #
-import sys
+import sys, os
 
 # example :
 # Alice & Bob agree on shared/pulbic values P=23, G=5
@@ -19,8 +19,9 @@ def usage():
 def main():
 	primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
 
+	os.system('clear') 
+
 	arguments = sys.argv
-	print len(arguments)
 	if len(arguments) < 4:
 		usage()
 
@@ -63,6 +64,7 @@ def main():
 
 	privkey = extpubkey**S % P
 
+	os.system('clear') 
 	print "Your shared private key = ",privkey
 
 main()

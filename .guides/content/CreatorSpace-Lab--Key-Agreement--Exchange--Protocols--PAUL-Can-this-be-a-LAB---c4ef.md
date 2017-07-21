@@ -3,14 +3,14 @@
 Pair up with a classmate. You're going to create a shared key using the Diffie-Hellman Key Exchange algorithm. This algorithm enables two parties to generate a shared secret without directly communicating that secret. 
     
 1. **Pick a partner.** One person will will take the role of Alice and the other Bob.
-1. **Agree on two non-secret numbers.** Agree with your partner on two shared numbers, "P" must be prime and "G" a primitive root modulo of "P". 
+1. **Agree on two non-secret numbers.** Agree with your partner on two shared numbers, "P" and "G" must be prime numbers.
   Here are a few prime numbers to use for "P" and "G": 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97
   For example, pick P=23 and G=5.
 1.  **Choose a private number.** Alice picks a number, called ***A*** and Bob picks a number ***B.*** Each person keeps their number a secret. For instance, Alice picks A=6 and Bob picks B=15.
 1. **Now, let's do the first calculation that will determine the shared - public - key**
 1. **Alice calculates.** If you are "Alice", enter the following command in the window to the left:
 
-"python dh-genpubkey.py 23 5 6"
+"python dh.py 23 5 6"
 
 Alice plugs the shared numbers "P" and "G" into the formula, X = G^A mod P. In plain English, X equals "G" multiplied by itself "A" times and then divided by "P" keeping only the remainder. Using the example values: 5*5*5*5*5*5 = 15625 and then 15625 mod 23 = 8.
 
