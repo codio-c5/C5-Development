@@ -881,7 +881,7 @@
   },
   {
    "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
-   "title": "Meetup: Key Agreement (Exchange) Protocols  PAUL Can this be a LAB?)",
+   "title": "CreatorSpace Lab: Key Agreement (Exchange) Protocols  PAUL Can this be a LAB?)",
    "files": [
     {
      "path": "#tabs",
@@ -898,7 +898,7 @@
     "rsa"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Meetup--Key-Agreement--Exchange--Protocols--PAUL-Can-this-be-a-LAB---c4ef.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Key-Agreement--Exchange--Protocols--PAUL-Can-this-be-a-LAB---c4ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
