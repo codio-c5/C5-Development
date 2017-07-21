@@ -3,17 +3,17 @@
 It's based on modular arithmetic and prime numbers.
 Key generation by Bob:
 
-Select $p$ and $ q$. they are both prime numbers where $ p≠q$
+Select $p$ and $ q$. they are both prime numbers where $p\neq q$
 
-Calculate $n=p x q$.
+Calculate $n=p\times q$.
 
 Calculate $φ(n)=(p-1)(q-1)$
+
 This is **Euler’s phi function**
 
 Select $e$ where $1 < e < φ(n)$, $gcd⁡(e,φ(n))=1$
 
-Calculate $d$.  $d= e^-1^ mod φ(n)$
-
+Calculate $d$.  $d=e^{-1}\bmodφ(n)$
 
 This yields a public key: $(e,n)$  and a private key: $(d,n)$.
 
@@ -21,18 +21,13 @@ Encryption by Alice (of a message for Bob)
 
 Plaintext: (message) $m < n$
 
-Ciphertext: $C= m^e^ mod n$
-
-    
-Plaintext: (message) 
-
-Ciphertext: $c= m^e^ mod n$
+Ciphertext: $C=M^e \bmod n$
 
 Decryption by Bob (of the message from Alice)
 
 Ciphertext: $c$
 
-Plaintext: $m= c^d^ mod n$
+Plaintext: $m= C^d \bmod n$
 
 {Submit Answer!|assessment}(free-text-2750669850)
 

@@ -614,24 +614,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
-   "title": "Additional Assessment Items",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Additional-Assessment-Items-7e9f.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "17831e64-4619-743c-bd9f-b1ea696429f9",
    "title": "Public Key Cryptography",
    "files": [
@@ -1803,6 +1785,24 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/--71e6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
+   "title": "Additional Assessment Items",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Additional-Assessment-Items-7e9f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

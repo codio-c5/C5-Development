@@ -214,12 +214,6 @@
      ]
     },
     {
-     "title": "Additional Assessment Items",
-     "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
-     "type": "page",
-     "pageId": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b"
-    },
-    {
      "title": "Public Key Cryptography",
      "id": "1fe0611e-ea32-ed39-2fb7-71dde62800ea",
      "type": "section",
@@ -628,6 +622,12 @@
      "id": "71e6998d-67bf-2c49-1c43-0089e75ad5fb",
      "type": "page",
      "pageId": "71e6998d-67bf-2c49-1c43-0089e75ad5fb"
+    },
+    {
+     "title": "Additional Assessment Items",
+     "id": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b",
+     "type": "page",
+     "pageId": "7e9f88d3-9917-1a76-5d7b-066cbf09ea7b"
     }
    ]
   }
