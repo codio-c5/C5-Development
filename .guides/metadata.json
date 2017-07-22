@@ -1816,6 +1816,18 @@
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": ""
+  },
+  {
+   "id": "7d2cd5c0-5132-02c1-4994-ffc55e1b6553",
+   "title": "New Section 98",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-98-7d2c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",
