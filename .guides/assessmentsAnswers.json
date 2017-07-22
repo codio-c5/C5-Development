@@ -123,11 +123,22 @@
  },
  {
   "taskId": "multiple-choice-146398319",
-  "points": 0,
+  "points": 1,
   "state": {
-   "active": null
+   "active": "ef5984aa-a2b9-d092-b225-c3686453b70d"
   },
-  "results": []
+  "results": [
+   {
+    "current": [
+     "ef5984aa-a2b9-d092-b225-c3686453b70d"
+    ],
+    "right": [
+     "ef5984aa-a2b9-d092-b225-c3686453b70d"
+    ],
+    "timestamp": 1500679387143,
+    "state": "pass"
+   }
+  ]
  },
  {
   "taskId": "free-text-546197875",
@@ -142,5 +153,38 @@
    "active": []
   },
   "results": []
+ },
+ {
+  "taskId": "multiple-choice-259300797",
+  "points": 1,
+  "state": {
+   "active": "24e00559-f900-c53a-ea6b-fffc6202582f"
+  },
+  "results": [
+   {
+    "current": [
+     "24e00559-f900-c53a-ea6b-fffc6202582f"
+    ],
+    "right": [
+     "24e00559-f900-c53a-ea6b-fffc6202582f"
+    ],
+    "timestamp": 1500679396209,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "free-text-4200048754",
+  "state": {
+   "text": "w"
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "w",
+    "timestamp": 1500680059145,
+    "state": "fail"
+   }
+  ]
  }
 ]

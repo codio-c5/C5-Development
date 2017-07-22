@@ -759,7 +759,7 @@
   },
   {
    "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-   "title": "CreatorSpace Lab: RSA Encryption",
+   "title": "CreatorSpace Lab: Inside RSA Encryption",
    "files": [
     {
      "path": "#tabs",
@@ -776,7 +776,7 @@
     "rsa"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--RSA-Encryption-0aea.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption-0aea.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

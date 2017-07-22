@@ -2580,5 +2580,94 @@
    "learningObjectives": "4.1",
    "points": 1
   }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1750723723",
+  "source": {
+   "name": "CYK 2.1.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "2",
+   "guidance": "The private key is significantly larger in the RSA algorithm.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Which of the following was true when you generated the key pair?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "2.1",
+   "answers": [
+    {
+     "_id": "b07a919d-f12d-19ff-976b-bd96578fb5fb",
+     "correct": false,
+     "answer": "The public key and the private key were the same size"
+    },
+    {
+     "_id": "3ecb49a5-949f-8f4c-9e98-9feedf9692f5",
+     "correct": true,
+     "answer": "The private key was larger"
+    },
+    {
+     "_id": "d290272f-7a23-ee17-7fbf-d6eb343a40b2",
+     "correct": false,
+     "answer": "The public key was larger"
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1268726708",
+  "source": {
+   "name": "GH 2.1.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "5",
+   "guidance": "The RSA algorithm is mathematically complex, involving large prime numbers and modular arithmetic.  The factoring algorithm generates a longer key and a shorter key.  The shorter key is used as the public key for greater processing and storage efficiency.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**If you generated a key pair with one key longer than the other, why is that the case?  If one is longer than the other, would you want the longer one to be the public key or the private key? Why?**",
+   "learningObjectives": "2.1",
+   "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3023733973",
+  "source": {
+   "name": "CYK 2.1.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "Bob's message is Take me out to the ball game.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**What was Bob's message to Alice?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "7056ecb8-4bdb-83d7-4a9f-d7c89800af88",
+     "correct": false,
+     "answer": "Meet me at the park"
+    },
+    {
+     "_id": "7891cd8a-9caf-a4a7-5d89-09d367f7c108",
+     "correct": true,
+     "answer": "Take me out to the ball game"
+    },
+    {
+     "_id": "7505ef49-251d-3fbd-a458-4edc05ed7edd",
+     "correct": false,
+     "answer": "Meet me at the bank"
+    },
+    {
+     "_id": "72b3ae0c-3257-a2e2-0d5b-3d687e25e6fa",
+     "correct": false,
+     "answer": "Be there at 11:00"
+    }
+   ]
+  }
  }
 ]
