@@ -22,4 +22,9 @@ RSA is included in the cipher suite for key agreement/exchange in TLS/SSL (Trans
 
 The Internet as we know it exists because RSA made e-commerce possible. RSA brilliantly combines mathematics spanning centuries and, in the case of the Euclidean algorithm, millenia.
 
+|||guidance 
+**Instructor's note:**  The optional Hackathons at the end of the lesson are best integrated after this page.  If you plan to use them, they fit here nicely.
+|||
+
+
 
