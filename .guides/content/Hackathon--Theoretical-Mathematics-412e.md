@@ -14,10 +14,13 @@ Fermat ("Fair-mah") is credited with creating modern number theory. His interest
 **Fermat's Little Theorem** says that for any integer A and prime number P, if you raise A to the power of P, then the result is congruent (i.e., equivalent) to multiplying A by itself P times. The modular arithmetic formula shows this as:
 
 ```A^P ≡ A ( mod P )```
+$A^P ≡ A (mod P$)
 
 Fermat also discovered that if P is a prime number and A is not a multiple of P, this formula becomes:
 
 ```A^(P − 1) ≡ 1 ( mod P )```
+
+$A^P-1 ≡ 1 (mod P$)
 
 In English, this means that if you multiply A by itself P minus 1 times, the result is divisable by P. It also means that the left side of the equation will always be equal to 1 for a modulus of P.
 
@@ -28,6 +31,8 @@ Fermat's Little Theorem gives a modular inverse if you choose certain numbers.
 Fermat discovered this mathematical relationship in 1640. More than one hundred years later, Leonhard Euler ("Oiler") proved Fermat's Little Theorem and expanded it to what is now know as Euler's Totient Theorem. 
 
     a^φ ( P ) ≡ 1 ( mod P )
+    
+    $a^φ ( P ) ≡ 1 ( mod P $)
 
 It depends on additional relationships between integers and prime numbers: A and P must be coprime positive integers, which means the only common denominator they share is 1. 
 

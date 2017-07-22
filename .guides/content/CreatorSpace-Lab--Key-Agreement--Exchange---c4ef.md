@@ -20,7 +20,7 @@ Pair up with a classmate. You're going to create a shared key using the Diffie-H
 ```python dh.py 23 5 6```
 
  - Alice plugs the shared numbers $P$ and $G$ into the formula, $X = G^A mod P$. 
- In plain English, $X$ equals $G$ and $G$ multiplied by itself $A$ times and then divided by $P$ keeping only the remainder. Using the example values: $5x5x5x5x5x5 = 15625$ and then $15625 mod 23 = 8$.
+ In plain English, $X$ equals $G$ and $G$ multiplied by itself $A$ times and then divided by $P$ keeping only the remainder. Using the example values: $5*5*5*5*5*5 = 15625$ and then $15625  mod  23 = 8$.
 
  - **Bob calculates.** If you are Bob, enter the following command in the window to the left:
 
