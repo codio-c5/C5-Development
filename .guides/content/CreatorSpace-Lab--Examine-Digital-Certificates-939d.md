@@ -1,4 +1,4 @@
-Open a Chrome browser and go to gmail.com.
+Open a Chrome browser and goto gmail.com.
 Note that the url starts with https. This means that this is a secure communication.
 
 Notice also the lock by the url. 
@@ -21,7 +21,7 @@ View the certificate for the site and answer these questions. You can do this as
 
 1.  Right-click anywhere on the background
 1.  Select the Inspect option
-1.  Click the >>> arrow and select Security
+1.  Click the >>> arrow, to view more options, and select Security
 1.  Click View certificate and you'll see Google's certificate
 
 <figure class="snippetimg" style="margin:0; width:100%">
