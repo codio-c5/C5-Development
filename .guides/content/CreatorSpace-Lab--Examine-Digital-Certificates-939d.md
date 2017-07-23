@@ -17,7 +17,17 @@ Click on the lock and the details.
   <figcaption style="font-size: 0.8em; text-align: left;">  Screen shot of Chrome HTTPS lock information.  
 </figure>
 
-View the certificate for the site and answer these questions:
+View the certificate for the site and answer these questions. You can do this as follows:
+
+1.  Right-click anywhere on the background
+1.  Select the Inspect option
+1.  Click the >>> arrow and select Security
+1.  Click View certificate and you'll see Google's certificate
+
+<figure class="snippetimg" style="margin:0; width:100%">
+  <img src=".guides/img/chrome-cert.png">
+  <figcaption style="font-size: 0.8em; text-align: left;">  Screen shot of gmail certificate.  
+</figure>
 
 Who is the certificate authority on this certificate?
 Who is the certificate issued to?
