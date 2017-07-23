@@ -11,29 +11,26 @@ Fermat ("Fair-mah") is credited with creating modern number theory. His interest
 
 [Learn more about Fermat.](http://www.storyofmathematics.com/17th_fermat.html.)
 
-**Fermat's Little Theorem** says that for any integer A and prime number P, if you raise A to the power of P, then the result is congruent (i.e., equivalent) to multiplying A by itself P times. The modular arithmetic formula shows this as:
+**Fermat's Little Theorem** says that for any integer A and prime number N, if you raise A to the power of N, then the result is congruent (i.e., equivalent) to multiplying A by itself N times. The modular arithmetic formula shows this as:
 
-```A^P ≡ A ( mod P )```
-$A^P ≡ A (mod P$)
+$A^N ≡ A (mod\ N)$
 
-Fermat also discovered that if P is a prime number and A is not a multiple of P, this formula becomes:
+Fermat also discovered that if N is a prime number and A is not a multiple of N, this formula becomes:
 
-```A^(P − 1) ≡ 1 ( mod P )```
+$A^{(N-1)} ≡ 1 (mod N)$
 
-$A^P-1 ≡ 1 (mod P$)
+In English, this means that if you multiply A by itself N minus 1 times, the result is divisible by N. It also means that the left side of the equation will always be equal to 1 for a modulus of N.
 
-In English, this means that if you multiply A by itself P minus 1 times, the result is divisable by P. It also means that the left side of the equation will always be equal to 1 for a modulus of P.
+This relationship is important in cryptography because it hints at a possible multiplicative inverse relationship. Recall that in everyday arithmetic, if you multiply a number by its reciprocal the answer is always 1. For instance, the reciprocal of 4 is 1/4 or .25 and if you multiply 4 by .25 you get 1. Public key cryptography uses that type of relationship to work. The general ideas is to multiply plaintext by a number and get ciphertext. Multiply the ciphertext by the reciprocal of the number and get the plaintext back.
 
-This relationship is important in cryptography because it hints at a possible mathematical inverse relationship. Recall that in everyday arithmetic, if you multiply a number by its reciprical the answer is always 1. For instance, the reciprical of 4 is 1/4 or .25 and if you multiply 4 by .25 you get 1. 
+**Euler's Totient Function** Fermat discovered this mathematical relationship in 1640. More than one hundred years later, Leonhard Euler ("Oiler") proved Fermat's Little Theorem and generalized it to what is now know as Euler's Totient Theorem. Euler's Totient function is related to that theorem and forms the basis for RSA encryption.
 
-Fermat's Little Theorem gives a modular inverse if you choose certain numbers.
+$A^{φ(N)} ≡ 1 ( mod N )$
 
-Fermat discovered this mathematical relationship in 1640. More than one hundred years later, Leonhard Euler ("Oiler") proved Fermat's Little Theorem and expanded it to what is now know as Euler's Totient Theorem. 
+Euler's Totient Theorem depends on additional relationships between integers and prime numbers: ```A``` must be greater than ```N``` and both must be coprime positive integers, which means the only common denominator they share is 1. 
 
-    a^φ ( P ) ≡ 1 ( mod P )
-    
-    $a^φ ( P ) ≡ 1 ( mod P $)
+[Learn more about Euler's Totient function] (https://en.wikipedia.org/wiki/Euler%27s_totient_function)
 
-It depends on additional relationships between integers and prime numbers: A and P must be coprime positive integers, which means the only common denominator they share is 1. 
+Euler's Totient function provides the multiplicative inverse relationship that Rivest, Shamir and Adelman used two hundred years later. They used it and other math to find numbers that are inverses of each other. Inverse numbers are the basis for RSA encryption where one number encrypts a message and its inverse decrypts it or vice versa.
 
-This again shows an inverse mathematical relationship. Nearly two hundred years later, Rivest, Shamir and Adelman used this and other theorems to find numbers that are inverses of each other. Inverse numbers are the basis for RSA encryption where one number encrypts a message and its inverse decrypts it or vice versa.
+[Learn more about how RSA uses Euler's Totient function](http://web.math.princeton.edu/math_alive/1/Notes2.pdf)
