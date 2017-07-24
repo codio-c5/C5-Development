@@ -9,11 +9,33 @@
  },
  {
   "taskId": "fill-in-the-blanks-836680581",
-  "points": 0,
+  "points": 1,
   "state": {
-   "active": []
+   "active": [
+    "symmetric key encryption",
+    "public key encryption",
+    "public",
+    "private"
+   ]
   },
-  "results": []
+  "results": [
+   {
+    "current": [
+     "symmetric key encryption",
+     "public key encryption",
+     "public",
+     "private"
+    ],
+    "right": [
+     "symmetric key encryption",
+     "public key encryption",
+     "public",
+     "private"
+    ],
+    "timestamp": 1500867525520,
+    "state": "pass"
+   }
+  ]
  },
  {
   "taskId": "fill-in-the-blanks-1681383484",
@@ -111,9 +133,28 @@
   "taskId": "fill-in-the-blanks-3101450858",
   "points": 0,
   "state": {
-   "active": []
+   "active": [
+    "shift cipher",
+    "substitution cipher",
+    "Caesar cipher"
+   ]
   },
-  "results": []
+  "results": [
+   {
+    "current": [
+     "shift cipher",
+     "substitution cipher",
+     "Caesar cipher"
+    ],
+    "right": [
+     "Caesar cipher",
+     "substitution cipher",
+     "shift cipher"
+    ],
+    "timestamp": 1500867643546,
+    "state": "fail"
+   }
+  ]
  },
  {
   "taskId": "free-text-1894789270",
@@ -198,5 +239,65 @@
   "points": 0,
   "state": {},
   "results": []
+ },
+ {
+  "taskId": "free-text-1638677102",
+  "state": {
+   "text": "sdfs"
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "sdfs",
+    "timestamp": 1500867777439,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "free-text-853926597",
+  "state": {
+   "text": "dfsfsd"
+  },
+  "results": [],
+  "points": 0
+ },
+ {
+  "taskId": "multiple-choice-1750723723",
+  "points": 1,
+  "state": {
+   "active": "3ecb49a5-949f-8f4c-9e98-9feedf9692f5"
+  },
+  "results": [
+   {
+    "current": [
+     "3ecb49a5-949f-8f4c-9e98-9feedf9692f5"
+    ],
+    "right": [
+     "3ecb49a5-949f-8f4c-9e98-9feedf9692f5"
+    ],
+    "timestamp": 1500868424268,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-3023733973",
+  "points": 0,
+  "state": {
+   "active": "7056ecb8-4bdb-83d7-4a9f-d7c89800af88"
+  },
+  "results": [
+   {
+    "current": [
+     "7056ecb8-4bdb-83d7-4a9f-d7c89800af88"
+    ],
+    "right": [
+     "7891cd8a-9caf-a4a7-5d89-09d367f7c108"
+    ],
+    "timestamp": 1500868459024,
+    "state": "fail"
+   }
+  ]
  }
 ]
