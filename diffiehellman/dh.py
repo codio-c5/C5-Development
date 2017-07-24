@@ -4,7 +4,7 @@
 import sys, os
 
 # example :
-# Alice & Bob agree on shared/pulbic values P=23, G=5
+# Alice & Bob agree on shared/public values P=23, G=5
 # Alice chooses her secret number a=6
 # Bob chooses his secret number a=6
 # They compute G^A mod P => 8; 8 is their encryption key
@@ -58,7 +58,7 @@ def main():
 	# calculate shared value G^S mod P
 	mypubkey = G**S % P
 
-	print "Your public key =",mypubkey," please share it with Bob"
+	print "Your public key =",mypubkey," please share it with your partner"
 
 	extpubkey = input("Enter your partners public key: ")
 

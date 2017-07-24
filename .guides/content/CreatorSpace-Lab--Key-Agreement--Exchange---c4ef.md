@@ -26,7 +26,7 @@ Pair up with a classmate. You're going to create a shared key using the Diffie-H
 
 ```python dh-pubkey.py 23 5 15```
 
-Partner Bob does the same using $X = G^A mod P$. or 5^15 mod 23$, and $X=19$. In this case, the answer is 19.
+Partner Bob does the same using $X = G^A mod P$. or $5^15 mod 23$, and $X=19$. In this case, the answer is 19.
 
 **3. Exchange results.**  Alice gives the result $X=8$ to Bob. Bob gives the result $Y=19$ to Alice. You don't have to hide the exchanged numbers.
 

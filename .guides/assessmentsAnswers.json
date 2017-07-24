@@ -9,63 +9,19 @@
  },
  {
   "taskId": "fill-in-the-blanks-836680581",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": [
-    "symmetric key encryption",
-    "public key encryption",
-    "public",
-    "private"
-   ]
+   "active": []
   },
-  "results": [
-   {
-    "current": [
-     "symmetric key encryption",
-     "public key encryption",
-     "public",
-     "private"
-    ],
-    "right": [
-     "symmetric key encryption",
-     "public key encryption",
-     "public",
-     "private"
-    ],
-    "timestamp": 1500867525520,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "fill-in-the-blanks-1681383484",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": [
-    "encryption key",
-    "ciphertext",
-    "decryption key",
-    "decrypt"
-   ]
+   "active": []
   },
-  "results": [
-   {
-    "current": [
-     "encryption key",
-     "ciphertext",
-     "decryption key",
-     "decrypt"
-    ],
-    "right": [
-     "encryption key",
-     "ciphertext",
-     "decryption key",
-     "decrypt"
-    ],
-    "timestamp": 1499448226605,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "multiple-choice-265258656",
@@ -133,28 +89,9 @@
   "taskId": "fill-in-the-blanks-3101450858",
   "points": 0,
   "state": {
-   "active": [
-    "shift cipher",
-    "substitution cipher",
-    "Caesar cipher"
-   ]
+   "active": []
   },
-  "results": [
-   {
-    "current": [
-     "shift cipher",
-     "substitution cipher",
-     "Caesar cipher"
-    ],
-    "right": [
-     "Caesar cipher",
-     "substitution cipher",
-     "shift cipher"
-    ],
-    "timestamp": 1500867643546,
-    "state": "fail"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "free-text-1894789270",
@@ -164,22 +101,11 @@
  },
  {
   "taskId": "multiple-choice-146398319",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": "ef5984aa-a2b9-d092-b225-c3686453b70d"
+   "active": null
   },
-  "results": [
-   {
-    "current": [
-     "ef5984aa-a2b9-d092-b225-c3686453b70d"
-    ],
-    "right": [
-     "ef5984aa-a2b9-d092-b225-c3686453b70d"
-    ],
-    "timestamp": 1500679387143,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "free-text-546197875",
@@ -197,22 +123,11 @@
  },
  {
   "taskId": "multiple-choice-259300797",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": "24e00559-f900-c53a-ea6b-fffc6202582f"
+   "active": null
   },
-  "results": [
-   {
-    "current": [
-     "24e00559-f900-c53a-ea6b-fffc6202582f"
-    ],
-    "right": [
-     "24e00559-f900-c53a-ea6b-fffc6202582f"
-    ],
-    "timestamp": 1500679396209,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "free-text-4200048754",
@@ -243,61 +158,57 @@
  {
   "taskId": "free-text-1638677102",
   "state": {
-   "text": "sdfs"
+   "text": ""
   },
-  "results": [
-   {
-    "status": "PENDING",
-    "answer": "sdfs",
-    "timestamp": 1500867777439,
-    "state": "fail"
-   }
-  ]
+  "results": [],
+  "points": 0
  },
  {
   "taskId": "free-text-853926597",
   "state": {
-   "text": "dfsfsd"
+   "text": ""
   },
   "results": [],
   "points": 0
  },
  {
   "taskId": "multiple-choice-1750723723",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": "3ecb49a5-949f-8f4c-9e98-9feedf9692f5"
+   "active": null
   },
-  "results": [
-   {
-    "current": [
-     "3ecb49a5-949f-8f4c-9e98-9feedf9692f5"
-    ],
-    "right": [
-     "3ecb49a5-949f-8f4c-9e98-9feedf9692f5"
-    ],
-    "timestamp": 1500868424268,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "multiple-choice-3023733973",
   "points": 0,
   "state": {
-   "active": "7056ecb8-4bdb-83d7-4a9f-d7c89800af88"
+   "active": null
   },
-  "results": [
-   {
-    "current": [
-     "7056ecb8-4bdb-83d7-4a9f-d7c89800af88"
-    ],
-    "right": [
-     "7891cd8a-9caf-a4a7-5d89-09d367f7c108"
-    ],
-    "timestamp": 1500868459024,
-    "state": "fail"
-   }
-  ]
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-3027256850",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-2248183240",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-2012702888",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
  }
 ]
