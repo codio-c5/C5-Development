@@ -10,5 +10,5 @@ A hash function is **pre-image resistant.** It is a one-way process in which the
 
 In a cryptographic hash function, the same message always yields the same hash value, and different messages, no matter how similar, always yield a unique hash value.  The unique values are considered **collision resistant.** 
 
-Since brute force attacks on hash values are too time-consuming, the more common forms is a **collision attacks** where cryptanalysts seek different messages that yield the same hash values.
+Since brute force attacks on hash values are too time-consuming, the more common forms of attacks are **collision attacks** where cryptanalysts seek different messages that yield the same hash values.
 

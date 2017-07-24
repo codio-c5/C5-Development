@@ -1,4 +1,4 @@
-## Getting In Synch
+## Getting In Sync
 
 
 **File synchronization.** Did you already save that file change?  You can check the hash value of a file to determine whether to upload it again.  The files are synchronized if the hash values match. 

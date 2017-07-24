@@ -1,4 +1,4 @@
- The greatest flaw in symmetric key encryption is the difficulty of securely distributing a shared key. Getting the key to just the person you want, and no one else, is tricky over unsecured channels.
+The greatest issue with using symmetric key encryption in practice is the difficulty of securely distributing a shared key. Getting the key to just the person you want, and no one else, is tricky over unsecured channels.
 
 In this unit, you'll learn that the problem can be solved in two ways- through **public key encryption** (also known as **asymmetric encryption**) or by **key agreement algorithms.**  These algorithms separate  encryption from decryption, and take advantage of this one way approach.
 

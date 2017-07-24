@@ -1,4 +1,6 @@
 Look at the path of the certification. Click on the immediate parent of google.com, Google Internet Authority G2.
+https://pki.google.com/
+
 View the certificate for Google Internet Authority G2 and answer these questions:
 Who is the certificate authority on this certificate?
 Who is the certificate issued to?

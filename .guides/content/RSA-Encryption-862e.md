@@ -18,7 +18,7 @@ Another advantage of RSA is that it can be used to sign a message to verify auth
 
 A disadvantage of RSA is that it requires more processing power and memory than other similar methods.
 
-RSA is included in the cipher suite for key agreement/exchange in TLS/SSL (Transport Layer Security/Secure Socket Layer). 
+RSA is included in the cipher suite for key agreement/exchange in TLS/SSL (Transport Layer Security/Secure Socket Layer).  The use of TLS in your web browser is signified with a web address starting with an https:// and a lock icon. It used used to protect data going across the Internet to websites - like to your bank or protects your password when you log on to social media sites.
 
 The Internet as we know it exists because RSA made e-commerce possible. RSA brilliantly combines mathematics spanning centuries and, in the case of the Euclidean algorithm, millenia.
 

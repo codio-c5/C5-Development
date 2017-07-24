@@ -9,7 +9,7 @@ Compare the hash values with those from the previous string.
 
 Note how quickly all the hashes were calculated.
 Note that a small change in input gives a drastically different hash value.
-Choose a file from your computer and calculate the hash of it on this site.
+Choose a non-sensitive file from your computer and calculate the hash of it on this site.
 
 Let's look at the hashes created by different hash functions
 

@@ -10,7 +10,7 @@ You've learned that someone can pose as the sender or recipient. They can also g
 
  
  ||| guidance
-**Instructor's Note:** Someone might change the content of a message or delay it en route.  Either could have a tremendous effect on the validity of the message.  To prevent this, you need a way to prove that a message has not been tampered with in between the sender and the recipient.
+**Instructor's Note:** Someone might change the content of a message which could have a tremendous effect on the validity of the message.  To prevent this, you need a way to prove that a message has not been tampered with in between the sender and the recipient.
 |||
 
 

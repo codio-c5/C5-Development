@@ -25,4 +25,4 @@ By Alex756 at English Wikipedia [Public domain], via Wikimedia Commons.
 </figure>
 <br>
 
-Like using a notary public to validate paper contracts, PKI relies on the concept of **trust by extension,** also referred to as the **chain of trust.** When two parties who need to communicate over an unsecured channell like e-mail, they can use a trusted third party to prevent a man-in-the-middle attack. 
+Like using a notary public to validate paper contracts, PKI relies on the concept of **trust by extension,** also referred to as the **chain of trust.** When two parties who need to communicate over an unsecured channel like e-mail, they can use a trusted third party to prevent a man-in-the-middle attack. 

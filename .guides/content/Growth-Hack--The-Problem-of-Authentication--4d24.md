@@ -17,6 +17,5 @@
 {Submit Answer!|assessment}(free-text-1055445862)
 
 ||| guidance
-**Instructor's Note:** Someone else might have used Bob’s public key to send him the message posing as Alice.  There needs to be a way to authenticate the sender to keep the system secure.
-|||
+**Instructor's Note:** Someone else might have tricked Bob by encrypting messages for Bob’s using his public key and *merely* stated that she is Alice - so far the sender hasn't been required to prove her identity - i.e. anyone who can get Bob's public key (because it's public) can claim to be anyone.  The message is encrypted but it is not clear who the sender is|||
 

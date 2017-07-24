@@ -1276,7 +1276,7 @@
   },
   {
    "id": "551a827f-9f21-fe26-89cd-fcd392db6e11",
-   "title": "Message Digest Algorithms",
+   "title": "Other Historic Secure Hash Functions",
    "files": [
     {
      "path": "#tabs",
@@ -1286,7 +1286,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Message-Digest-Algorithms-551a.md",
+   "content-file": ".guides/content/Other-Historic-Secure-Hash-Functions-551a.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1297,7 +1297,7 @@
    "title": "CreatorSpace Lab: Comparing Hashes of Strings",
    "files": [
     {
-     "path": "cd hash",
+     "path": "#terminal: cd hash",
      "panel": 0,
      "action": "open"
     }
@@ -1312,6 +1312,27 @@
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": "compare hash functions"
+  },
+  {
+   "id": "7d2cd5c0-5132-02c1-4994-ffc55e1b6553",
+   "title": "[NEW] CreatorSpace Lab: Comparing Hashes of Strings",
+   "files": [
+    {
+     "path": "#terminal: cd hash",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "hash"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/-NEW--CreatorSpace-Lab--Comparing-Hashes-of-Strings-7d2c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "3bc211e1-056b-9ad8-802d-1452b8ad17af",
