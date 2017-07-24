@@ -4,7 +4,7 @@
 {Submit Answer!|assessment}(free-text-1638677102)
 ||| guidance
 **Instructor's Note:** 
- - With asymmetric encryption, users do not have to share a secret value that they have to communicate or agree on beforehand or over a public channel.
+ - With asymmetric encryption, users do not have to share a secret value that they have to communicate or agree on the value beforehand or share over a public channel.
  
 
  - Public keys are published and available to everyone in the system.
