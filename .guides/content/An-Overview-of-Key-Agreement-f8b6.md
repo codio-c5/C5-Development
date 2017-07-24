@@ -6,7 +6,7 @@
 
 <br>
 ## Advantages and Disadvantages of Key Agreement Protocols
-Key distribution is solved because users share only a public key to create the session key.  The  session key that they compute is very hard to solve for without the knowledge of one of the private keys or with the knowledge of both the public keys.
+The key distribution problem is solved because users share only a public key to create the session key. The session key that they compute is very hard to solve for without the knowledge of one of the private keys or with the knowledge of both the public keys.
 
 After the initial public key exchange used to create the session key, the process mirrors symmetric key encryption, with the session key as the shared key that both encrypts and decrypts messages between the users. A session key can be used once or many times.
 

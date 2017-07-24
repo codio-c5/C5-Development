@@ -186,5 +186,17 @@
     "state": "fail"
    }
   ]
+ },
+ {
+  "taskId": "free-text-594995176",
+  "points": 0,
+  "state": {},
+  "results": []
+ },
+ {
+  "taskId": "free-text-1707188528",
+  "points": 0,
+  "state": {},
+  "results": []
  }
 ]

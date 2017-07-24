@@ -1276,7 +1276,7 @@
   },
   {
    "id": "551a827f-9f21-fe26-89cd-fcd392db6e11",
-   "title": "Message Digest Algorithms",
+   "title": "Other Historic Secure Hash Functions",
    "files": [
     {
      "path": "#tabs",
@@ -1286,7 +1286,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Message-Digest-Algorithms-551a.md",
+   "content-file": ".guides/content/Other-Historic-Secure-Hash-Functions-551a.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

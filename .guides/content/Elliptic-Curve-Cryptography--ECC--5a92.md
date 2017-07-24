@@ -13,9 +13,9 @@ The process involves choosing two points on the curve, and using them to calcula
 ## Size Matters 
 The advantage of elliptic curve cryptography over RSA is that the key size is much smaller, but the level of security is greater.For example, a 256 bit ECC key is as secure as an RSA 3072 bit key.
 
-This is important for mobile devices, which often have small processors and storage capacity. It is included in Bluetooth Low Energy (LE) protocols.
+This is important for mobile devices such as smart phones, which often have small processors and storage capacity. It is included in Bluetooth Low Energy (LE) protocols.
 
-It is also included in the cipher suite for key agreement exchange in [ the cipher suite TLS/SSL protocols.](https://en.wikipedia.org/wiki/Cipher_suite) and for the Elliptic Curve Digital Signature Algorithm [Elliptic Curve Digital Signature Algorithm.](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm).
+It is also included in the cipher suite for key agreement exchange in [ the cipher suite TLS/SSL protocols](https://en.wikipedia.org/wiki/Cipher_suite) and for the Elliptic Curve Digital Signature Algorithm [Elliptic Curve Digital Signature Algorithm.](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm).
 ||| guidance
 
 **Instructor's Note:**

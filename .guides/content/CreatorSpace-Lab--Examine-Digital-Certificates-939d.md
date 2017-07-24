@@ -1,4 +1,4 @@
-Open a Chrome browser and goto gmail.com.
+Open a Chrome browser and goto mail.google.com.
 Note that the url starts with https. This means that this is a secure communication.
 
 Notice also the lock by the url. 

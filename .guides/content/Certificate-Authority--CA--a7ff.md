@@ -12,4 +12,4 @@ By Anne Hamilton. Used with permission of the photographer.
 </figure>
 <br>
 
-provides services that authenticate the identity of individuals, computers and other entitiesMany root certificates are embedded in web browsers so they have built-in trust of those CAs. Web servers, email clients, smartphones, and many other types of hardware and software use PKI and contain trusted root certificates from  major CAs.
+CA's provide services that authenticate the identity of individuals, computers and other entities. Many root certificates are embedded in web browsers so they have built-in trust of those CAs. Web servers, email clients, smartphones, and many other types of hardware and software use PKI and contain trusted root certificates from  major CAs.

@@ -3,7 +3,7 @@
 ## Neither here nor there 
 
  
-You've learned that someone can pose as the sender or recipient. They can also get between the sender and recipient even if they have been authenticated.
+You've learned that someone can pose as the sender or recipient. They can also get between the sender and recipient even if they have been authenticated.(psery - that's not necessarily true authentication hasn't been defined yet - so I can't can't say what properties it includes)
 
 {Submit Answer!|assessment}(free-text-546197875)
 
