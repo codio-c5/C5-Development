@@ -1,6 +1,7 @@
 
 
 ### In 1977, three researchers at the MIT Laboratory of Computer Science came up with the RSA Encryption algorithm. Inspired by the work of Diffie and Helman, RSA (Named after inventors Rivest, Shamir, and Adleman) was the first viable and publically available public key encryption algorithm and became the foundation for secure global communication on the Internet.
+<br>
 
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/RivestShamirAdleman.PNG"  alt="Ronald Rivest, Adi Shamir, and Leonard Adleman, Creators of RSA Encryption. . *Source: From left to right: by Ronald L. Rivest (Own work) CC BY-SA 4.0; by Erik Tews (Own work) CC BY-SA 3.0; by Len Adleman, (Own work) CC BY- SA 3.0, via Wikimedia Commons.*
@@ -18,7 +19,7 @@ Another advantage of RSA is that it can be used to sign a message to verify auth
 
 A disadvantage of RSA is that it requires more processing power and memory than other similar methods.
 
-RSA is included in the cipher suite for key agreement/exchange in TLS/SSL (Transport Layer Security/Secure Socket Layer).  The use of TLS in your web browser is signified with a web address starting with an https:// and a lock icon. It used used to protect data going across the Internet to websites - like to your bank or protects your password when you log on to social media sites.
+RSA is included in the cipher suite for key agreement/exchange in TLS/SSL (Transport Layer Security/Secure Socket Layer).  You can tell when TLS is used in your web browser because the web address will start with an https:// and will have a lock icon. It is used to protect data going across the Internet to websites like your bank.  It protects your password when you log on to social media sites.
 
 The Internet as we know it exists because RSA made e-commerce possible. RSA brilliantly combines mathematics spanning centuries and, in the case of the Euclidean algorithm, millenia.
 

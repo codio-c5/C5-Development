@@ -417,6 +417,12 @@
          "id": "c5682735-c5a6-8cbb-94f7-824f4dac5b85",
          "type": "page",
          "pageId": "21b3e5dc-3812-618c-4496-474f537928e7"
+        },
+        {
+         "id": "69955381-d7ee-7bdf-0cfa-1ee5520b4887",
+         "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
+         "pageId": "8a0db881-d142-d379-1552-a538fdd6e455",
+         "type": "page"
         }
        ]
       },
@@ -443,14 +449,14 @@
          "id": "7dd439f5-e795-47d1-b6ed-254cb3c690c2",
          "type": "page",
          "pageId": "551a827f-9f21-fe26-89cd-fcd392db6e11"
+        },
+        {
+         "title": "CreatorSpace Lab: Comparing Hashes of Strings",
+         "id": "fff97a51-93e6-cd58-bcf7-02ab6f7406b3",
+         "type": "page",
+         "pageId": "4b9459ad-4935-c4bf-3d8f-3b7fc0232243"
         }
        ]
-      },
-      {
-       "title": "CreatorSpace Lab: Comparing Hashes of Strings",
-       "id": "fff97a51-93e6-cd58-bcf7-02ab6f7406b3",
-       "type": "page",
-       "pageId": "4b9459ad-4935-c4bf-3d8f-3b7fc0232243"
       },
       {
        "title": "Unit Summary & Assessments",

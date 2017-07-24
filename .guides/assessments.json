@@ -2673,5 +2673,57 @@
     }
    ]
   }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-956607519",
+  "source": {
+   "name": "CYK 2.3.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**Key agreement protocols involve both public key and symmetric key encryption techniques.**\n\n - Users share their public key and use it to calculate a session key. \n - The exchange of public keys is public key encryption. \n - Using a single shared key to both encrypt and decrypt messages between the users.is symmetric key encryption.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Choose the best response for each blank.  Each response is used only once.**",
+   "points": "1",
+   "showValues": true,
+   "learningObjectives": "2.3",
+   "text": "In a key agreement algorithm, users share their <<<public key>>>  and use it to calculate a shared key, known as a <<<session key>>>. This is a form of  <<<public key encryption>>>.  Once the shared key is created,  it can be used to both encrypt and decrypt messages between the users.  This works like <<<symmetric key encryption>>>.",
+   "tokens": {
+    "blank": [
+     "public key",
+     "session key",
+     "public key encryption",
+     "symmetric key encryption"
+    ],
+    "text": [
+     "In a key agreement algorithm, users share their ",
+     0,
+     "  and use it to calculate a shared key, known as a ",
+     0,
+     ". This is a form of  ",
+     0,
+     ".  Once the shared key is created,  it can be used to both encrypt and decrypt messages between the users.  This works like ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2696978272",
+  "source": {
+   "name": "GH 2.3.1",
+   "showName": true,
+   "bloomsObjectiveLevel": "5",
+   "guidance": "Unlike symmetric key encryption,  key agreement algorithms solve the problem of key distribution, since the session key does not have to be shared over an unsecured channel.\nUnlike public key encryption,  key agreement algorithms require less ongoing processing power since the session key is used to both encrypt and decrypt messages.  It can also be used multiple times.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Key agreement algorithms involve both public key and symmetric key encryption techniques.  What is the advantage of the key agreement approach over symmetric key encryption? What is the advantage of the key agreement approach over public key encryption?**",
+   "learningObjectives": "2.3",
+   "points": 1
+  }
  }
 ]

@@ -6,9 +6,7 @@ Pair up with a classmate. You're going to create a shared key using the Diffie-H
 1. **Agree on two non-secret numbers.** Agree with your partner on two shared numbers, $P$ and $G$.  They must be prime numbers.
   Here are a few prime numbers to use for $P$ and $G$: 
   ```
-2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31,
-37, 41, 43, 47, 53, 59, 61, 67, 71, 73,
-79, 83, 89, 97
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97...
   ```
   For example, pick $P=23$ and $G=5$.
   
@@ -42,7 +40,7 @@ Alice gets the number 2.
 
 In the left pane, enter your partner's public key at the prompt.
 
-Bob gets the number ??.
+==Bob gets the number ??.==
 
 **5. Crack your partner's key.**
 
@@ -56,6 +54,14 @@ Now you have a shared key with your partner.
  - Give the encrypted message to another team, and take a message they have encrypted using their shared key.
  - Try to decrypt the other without their key
  - If you weren't successful, try again using their key.
+
+## Check Your Knowledge
+{Check It!|assessment}(fill-in-the-blanks-956607519)
+
+
+
+## Growth Hack
+{Submit Answer!|assessment}(free-text-2696978272)
 
 
 |||guidance

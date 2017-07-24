@@ -5,3 +5,6 @@
 </div>
 
 <br>
+
+## Disadvantages of Public Key Encryption
+The man in the middle attack demonstrates that someone can step in between the sender and receiver to intercept and even change messages.  

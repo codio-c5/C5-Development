@@ -8,7 +8,7 @@ Start by clean everything up in your folder. Click the clean up button.
 {Clean Up}(sh rsa/cleanup.sh)
 
 ## Generate a Key Pair
-Now you will generate a key pair. remember that a key pair consists of a private key and a public key.
+First you will generate a key pair. A key pair consists of a private key and a public key.
 
 1. From the command line in the left panel, enter ```python rsa.py keys```
 

@@ -13,7 +13,7 @@ Let's explore. Do you remember created a **number line** back in grade school?
 ```
 <   0   1   2   3   4   5   6   7   8   9   10   11   12  13... >
 ```
-Number lines are useful for visualizing mathematical operations like addition and subtraction. For instance,  by moving from **0** to **1** and then from **1** to **2** and you have calculated $1 + 1$ . You can also multiply two numbers, for instance $2 * 3$ by moving 3 times first moving from **0** to **2**, then from **2** to **4** and once again from **4** to **6** to get the answer **6**.
+Number lines are useful for visualizing mathematical operations like addition and subtraction. For instance,  by moving from **0** to **1** and then from **1** to **2** and you have calculated $1 + 1$ . You can also multiply two numbers, for instance $2 x 3$ by moving 3 times first moving from **0** to **2**, then from **2** to **4** and once again from **4** to **6** to get the answer **6**.
 
 
 Modular arithmetic starts with imagining a number line as a circle. The circle can be any size.  Let's start with a familiar circle with a **modulus,** or size, of **12**.   

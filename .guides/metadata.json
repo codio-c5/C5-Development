@@ -825,14 +825,9 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "#terminal: ",
-     "panel": 0,
-     "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "1-panel",
    "path": [
     "rsa"
    ],
@@ -1216,6 +1211,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "8a0db881-d142-d379-1552-a538fdd6e455",
+   "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab--Verifying-the-Integrity-of-a-Download-8a0d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "eb870739-0ec0-8b05-24ee-101039a2ade7",
    "title": "Cryptographic Hash Functions",
    "files": [
@@ -1312,27 +1319,6 @@
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": "compare hash functions"
-  },
-  {
-   "id": "7d2cd5c0-5132-02c1-4994-ffc55e1b6553",
-   "title": "[NEW] CreatorSpace Lab: Comparing Hashes of Strings",
-   "files": [
-    {
-     "path": "#terminal: cd hash",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels-tree",
-   "path": [
-    "hash"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/-NEW--CreatorSpace-Lab--Comparing-Hashes-of-Strings-7d2c.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
   },
   {
    "id": "3bc211e1-056b-9ad8-802d-1452b8ad17af",
