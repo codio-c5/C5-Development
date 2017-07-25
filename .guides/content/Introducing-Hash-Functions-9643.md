@@ -4,7 +4,7 @@ Cryptographic hash functions help solve the problem of integrity. The algorithm 
 A cryptographic **hash function** is an algorithm that produces a condensed encryption of a message that can be verified as authentic, or **digitally signed.** 
 |||
 
-A cryptographic hash function produces a **hash value** or **message digest** that cannot be decrypted back into the original plaintext.  A hash value is compressed to a specific size data set, no matter what the length of the plaintext. Because it is short and secure, it is easy to store and send.  
+A cryptographic hash function produces a **hash value** or **message digest** that cannot be decrypted back into the original plaintext.  A hash value is compressed to a specific size data set, no matter what the length of the plaintext. Because it is short, it is easy to store and send.  
 
 <figure class="snippetimg" style="margin: 0 auto;width:75%">
   <img src=".guides/img/Hashfnctn.png" alt="A hash function. by Yesem Kurt-Peker licensed under CC BY 4.0 ">

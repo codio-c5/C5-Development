@@ -21,13 +21,13 @@ Encryption by Alice (of a message for Bob)
 
 Plaintext: (message) $m < n$
 
-Ciphertext: $C=M^e \bmod n$
+Ciphertext: $c=m^e \bmod n$
 
 Decryption by Bob (of the message from Alice)
 
 Ciphertext: $c$
 
-Plaintext: $m= C^d \bmod n$
+Plaintext: $m= c^d \bmod n$
 
 {Submit Answer!|assessment}(free-text-2750669850)
 
