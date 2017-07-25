@@ -11,7 +11,7 @@ Once you have done this, click on the folder name `lab-part1` in the file tree o
 
 Copy and paste the contents **into the box below**. Do the same for the public key, pasting it below the private key.
 
-{Submit Answer!|assessment}(free-text-3120954227)
+{Save!|assessment}(free-text-3120954227)
 
 
 ## Send the public key

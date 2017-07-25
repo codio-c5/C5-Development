@@ -18,7 +18,7 @@ Be sure to specify your partners public key file name correctly and a valid outp
 
 Once you are done, open up the encrypted output file and copy and paste the contents into the box below.
 
-{Submit Answer!|assessment}(free-text-2646518253)
+{Save!|assessment}(free-text-2646518253)
 
 
 ## Send encrypted message
