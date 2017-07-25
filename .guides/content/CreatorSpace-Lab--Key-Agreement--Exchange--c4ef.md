@@ -24,19 +24,19 @@ Pair up with a classmate. You're going to create a shared key using the Diffie-H
 
 ```python dh-pubkey.py 23 5 15```
 
-Partner Bob does the same using $X = G^A mod P$. or $5^15 mod 23$, and $X=19$. In this case, the answer is 19.
+Partner Bob does the same using $X = G^A mod P$ or $5^{15} mod 23$ and the answer becomes $X=19$.
 
 **3. Exchange results.**  Alice gives the result $X=8$ to Bob. Bob gives the result $Y=19$ to Alice. You don't have to hide the exchanged numbers.
 
 **4. Calculate the private key.**
 
- - **Alice generates her secret key.** Alice can now generate her shared secret using the value Bob provides, and the original numbers 23 and 5:
+ - **Alice generates her secret key.** Alice can now generate her shared secret using the value Bob provides, and the original numbers **23** and **5**:
 
 In the left pane, enter your partner's public key at the prompt.
 
-Alice gets the number 2.
+Alice gets the number **2**.
 
- -  **Bob calculates his secret key.** Bob can do the same. He generate his secret using the value Alice provides, and the original numbers 23 and 5:
+ -  **Bob calculates his secret key.** Bob can do the same. He generate his secret using the value Alice provides, and the original numbers **23** and **5**:
 
 In the left pane, enter your partner's public key at the prompt.
 
