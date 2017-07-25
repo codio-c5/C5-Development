@@ -29,7 +29,7 @@ $A^{φ(N)} ≡ 1 ( mod N )$
 
 Euler's Totient Theorem depends on additional relationships between integers and prime numbers: ```A``` must be greater than ```N``` and both must be coprime positive integers, which means the only common denominator they share is ```1```. 
 
-[Learn more about Euler's Totient function] (https://en.wikipedia.org/wiki/Euler%27s_totient_function)
+[Learn more about Euler's Totient function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
 
 Euler's Totient function provides the multiplicative inverse relationship that Rivest, Shamir and Adelman used two hundred years later. They used it and other math to find numbers that are inverses of each other. Inverse numbers are the basis for RSA encryption where one number encrypts a message and its inverse decrypts it or vice versa.
 

@@ -9,6 +9,8 @@ Calculate $n=p\times q$.
 
 Calculate $φ(n)=(p-1)(q-1)$
 
+Chose 
+
 This is **Euler’s phi function**
 
 Select $e$ where $1 < e < φ(n)$, $gcd⁡(e,φ(n))=1$
