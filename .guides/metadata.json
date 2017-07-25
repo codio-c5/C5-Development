@@ -342,6 +342,119 @@
    "learningObjectives": ""
   },
   {
+   "id": "f50d868e-89e0-4d57-2f86-797e6929a21e",
+   "title": "Grading Rubric",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Grading-Rubric-f50d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e039c772-5ea5-6131-a9af-45e6884934c2",
+   "title": "Public Key (Asymmetric) encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Public-Key--Asymmetric--encryption-e039.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "31ef7c17-9e08-3d7f-0798-413801e5e7d5",
+   "title": "Part 1: Key Generation",
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "lab-part1"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Part-1--Key-Generation-31ef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ea3463b0-9acd-66cb-a112-f1fba1c3a33a",
+   "title": "Part 2: Encryption",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "lab-part2/message.txt",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "lab-part2"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Part-2--Encryption-ea34.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6188e15b-f436-ba3c-d8d5-51ccee88e3e4",
+   "title": "Part 3: Decryption",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "lab-part1"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Part-3--Decryption-6188.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4",
+   "title": "What to submit",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-to-submit-5c37.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "e20f7a42-d00f-0727-77d9-6aa00be78ce9",
    "title": "The Substitution Cipher",
    "files": [
