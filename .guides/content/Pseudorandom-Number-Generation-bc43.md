@@ -14,5 +14,4 @@
 
 <br>
 
-**File synchronization.** Whether to upload a file or not for synchronization (for example with the cloud storage) can be determined by checking the hash value of the file has changed or not since the last update
 

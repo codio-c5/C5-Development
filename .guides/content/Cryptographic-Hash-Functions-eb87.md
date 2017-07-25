@@ -7,11 +7,10 @@
 
 Recently, cryptanalysts from the CWI Institute and Google were able to generate a collision using two different files that have the same hash. As early as 2005, theoretical attacks developed for SHA-1 suggested the algorithm may not be secure enough for ongoing use.   SHA-1 was deprecated in 2011 and disallowed for use in digital signatures in 2013. Common browsers such as Chrome and Internet Explorer no longer support SSL certificates that use SHA-1.
 
-Google revealed a SHA-1 vulnerability in early 2017 and the software repository system Subversion quickly became a victim:
-https://www.bleepingcomputer.com/news/security/sha1-collision-attack-makes-its-first-victim-subversion-repositories/
 
 **In the news:**  
-[Learn more about the breaking of SHA-1](http://hackaday.com/2017/02/23/shattered-sha-1-is-broken/)
+[Learn more about the breaking of SHA-1.](http://hackaday.com/2017/02/23/shattered-sha-1-is-broken/)
 
+Google revealed a SHA-1 vulnerability in early 2017 and the software repository system Subversion quickly became a victim. [Learn more about the attack.](https://www.bleepingcomputer.com/news/security/sha1-collision-attack-makes-its-first-victim-subversion-repositories/)
 
 

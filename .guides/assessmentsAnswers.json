@@ -132,16 +132,10 @@
  {
   "taskId": "free-text-4200048754",
   "state": {
-   "text": "w"
+   "text": ""
   },
-  "results": [
-   {
-    "status": "PENDING",
-    "answer": "w",
-    "timestamp": 1500680059145,
-    "state": "fail"
-   }
-  ]
+  "results": [],
+  "points": 0
  },
  {
   "taskId": "free-text-594995176",

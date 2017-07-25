@@ -21,4 +21,4 @@ DSA is as fast as RSA in creating signatures, but is 10-40 times slower that RSA
 ### Elliptic Curve Digital Signature Algorithm (ECDSA)
 A variant of DSA, the ECDSA calculates **S~1~S~2~** using inverse points on an elliptic curve, as described in ECC earlier.  
 
-As with ECC, the advantage of ECDSA is size. While signature sizes are the same for ECDA and DSA, an ECDSA public key is much smaller than its DSA equivalent.
+As with ECC, the advantage of ECDSA is size. While signature sizes are the same for ECDA and DSA, an ECDSA public key is much smaller than its DSA equivalent. This is useful for small devices with limited processors.

@@ -1,8 +1,8 @@
 
-What happens if you sell something online to a stranger, and they say that  they didn't buy it? Digital signaturess help prevent non-repudiation.
+What happens if you sell something online to a stranger, and they say that  they didn't buy it? Digital signatures help prevent non-repudiation.
 
 |||definition
-**Non-repudiation** is the ability to ensure that a party cannot deny the authenticity of their signature on a document or a message that they sent.
+**Non-repudiation** is the ability to ensure that a party cannot deny the authenticity of their signature on a  message that they sent.
 |||
 <br>
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
