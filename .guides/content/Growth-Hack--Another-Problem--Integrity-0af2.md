@@ -1,6 +1,6 @@
 
 
-## Neither here nor there 
+## Neither Here Nor There 
 
  
 You've learned that someone can pose as the sender or recipient. They can also get between the sender and recipient even if they have been authenticated.

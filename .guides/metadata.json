@@ -342,119 +342,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "f50d868e-89e0-4d57-2f86-797e6929a21e",
-   "title": "Grading Rubric",
-   "files": [],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Grading-Rubric-f50d.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": true,
-   "learningObjectives": ""
-  },
-  {
-   "id": "e039c772-5ea5-6131-a9af-45e6884934c2",
-   "title": "Public Key (Asymmetric) encryption",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Public-Key--Asymmetric--encryption-e039.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "31ef7c17-9e08-3d7f-0798-413801e5e7d5",
-   "title": "Part 1: Key Generation",
-   "files": [
-    {
-     "path": "#terminal: ",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels-tree",
-   "path": [
-    "lab-part1"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/Part-1--Key-Generation-31ef.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "ea3463b0-9acd-66cb-a112-f1fba1c3a33a",
-   "title": "Part 2: Encryption",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "lab-part2/message.txt",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#terminal: ",
-     "panel": 1,
-     "action": "open"
-    }
-   ],
-   "layout": "3-cell-tree",
-   "path": [
-    "lab-part2"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/Part-2--Encryption-ea34.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "6188e15b-f436-ba3c-d8d5-51ccee88e3e4",
-   "title": "Part 3: Decryption",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: ",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels-tree",
-   "path": [
-    "lab-part1"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/Part-3--Decryption-6188.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4",
-   "title": "What to submit",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/What-to-submit-5c37.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "e20f7a42-d00f-0727-77d9-6aa00be78ce9",
    "title": "The Substitution Cipher",
    "files": [
@@ -834,6 +721,79 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Public-Key-Encryption-2a21.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ea3463b0-9acd-66cb-a112-f1fba1c3a33a",
+   "title": "Lab Part 2: Encryption",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "lab-part2/message.txt",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "lab-part2"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-2--Encryption-ea34.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6188e15b-f436-ba3c-d8d5-51ccee88e3e4",
+   "title": "Lab Part 3: Decryption",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "lab-part1"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-3--Decryption-6188.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4",
+   "title": "Lab Part 4: Check Your Knowledge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-4--Check-Your-Knowledge-5c37.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1372,8 +1332,27 @@
    "learningObjectives": ""
   },
   {
+   "id": "549517a6-1a35-4325-a50d-5da0748f8af3",
+   "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
+   "files": [
+    {
+     "path": "#preview: https://md5file.com/calculator",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab--Verifying-the-Integrity-of-a-Download-5495.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2",
-   "title": "What to Submit",
+   "title": "Lab Part 2: Check Your Knowledge",
    "files": [
     {
      "path": "#tabs",
@@ -1383,7 +1362,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/What-to-Submit-b05c.md",
+   "content-file": ".guides/content/Lab-Part-2--Check-Your-Knowledge-b05c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1687,7 +1666,7 @@
   },
   {
    "id": "5a74f790-0bff-4a25-e0e3-2b4b848597a7",
-   "title": " Digital Signature Algorithms",
+   "title": "Digital Signature Algorithms",
    "files": [
     {
      "path": "#tabs",
@@ -1697,7 +1676,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/-Digital-Signature-Algorithms-5a74.md",
+   "content-file": ".guides/content/Digital-Signature-Algorithms-5a74.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
