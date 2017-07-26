@@ -609,9 +609,13 @@
   "source": {
    "name": "GH 2.2A",
    "showName": false,
+   "bloomsObjectiveLevel": "4",
+   "guidance": " With asymmetric encryption, users do not have to share a secret value that they have to communicate or agree on the value beforehand or share over a public channel.\n\nPublic keys are published and available to everyone in the system, so you can send an encrypted message to someone easily.",
+   "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "What are the advantages of asymmetric (public key) encryption?",
+   "instructions": "**What are the advantages of asymmetric (public key) encryption?**",
+   "learningObjectives": "2.1",
    "points": 1
   }
  },
@@ -621,13 +625,13 @@
   "source": {
    "name": "GH 2.2B",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "4",
+   "guidance": "- The sender cannot decrypt a message they send.  Encryption is a one-way process.\n - Public key encryption takes more processing power and storage than symmetric key.  This is not much of an issue given today's fast processors and inexpensive storage.",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "What are the disadvantages of asymmetric (public key) encryption?",
-   "learningObjectives": "",
+   "instructions": "**What are the disadvantages of asymmetric (public key) encryption?**",
+   "learningObjectives": "2.1",
    "points": 1
   }
  },
@@ -2229,7 +2233,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**Explain how the lack of the collision resistance property defies the purpose of a hash function.**",
+   "instructions": "**What issues would be created if a hash function didn't have a collision resistance property?**",
    "learningObjectives": "",
    "points": 1
   }
@@ -2723,6 +2727,434 @@
    "oneTimeTest": true,
    "instructions": "**Key agreement algorithms involve both public key and symmetric key encryption techniques.  What is the advantage of the key agreement approach over symmetric key encryption? What is the advantage of the key agreement approach over public key encryption?**",
    "learningObjectives": "2.3",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3120954227",
+  "source": {
+   "name": "Key Generation",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": true,
+   "instructions": "",
+   "learningObjectives": "",
+   "points": 20
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2646518253",
+  "source": {
+   "name": "Key Encryption",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": true,
+   "instructions": "",
+   "learningObjectives": "",
+   "points": 20
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3356212759",
+  "source": {
+   "name": "Key Decryption",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": true,
+   "instructions": "",
+   "learningObjectives": "",
+   "points": 20
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3052758145",
+  "source": {
+   "name": "Explain the Steps",
+   "showName": false,
+   "bloomsObjectiveLevel": "1",
+   "guidance": "- Uploaded my partners encrypted file\n- Decrypted the message using my own private key, \n- Read the decrypted message in the output file of the decrypted message.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "**Describe  the steps you took to decrypt the message from your partner.**",
+   "learningObjectives": "2.1",
+   "points": 10
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3539702632",
+  "source": {
+   "name": "GH2.1.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "5",
+   "guidance": "To decrypt the message all you needed from your partner was their encrypted file. This could be sent via any channel because none of this information is secret. The only secret is the private key which does not need to be shared. ",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "**What information did you need from your partner? How did you obtain it? Was it a good (secure) way to obtain the information? Explain.**",
+   "learningObjectives": "2.1",
+   "points": 10
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-670663464",
+  "source": {
+   "name": "Reflection - challenging",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "What was the most challenging part of this activity?",
+   "learningObjectives": "",
+   "points": 3
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-831649083",
+  "source": {
+   "name": "Reflection- enjoyable",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "What was the most enjoyable part of this activity?",
+   "learningObjectives": "",
+   "points": 3
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-393011746",
+  "source": {
+   "name": "Reflection - understanding",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "Do you think you have a good understanding of how public key encryption/decryption works as a result of this activity? Why or why not?",
+   "learningObjectives": "",
+   "points": 4
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2244206358",
+  "source": {
+   "name": "Downloaded MD5 hash value:",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**MD5** hash value:",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1127751824",
+  "source": {
+   "name": "Downloaded SHA256 hash value:",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**SHA256** hash value:",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2510800686",
+  "source": {
+   "name": "MD5 file",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**MD5** hash value:",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2178210692",
+  "source": {
+   "name": "SHA256 file",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**SHA256** hash value:",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1123183499",
+  "source": {
+   "name": "Are they the same",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Are they the same?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "77420ed3-2e55-9de7-830a-48e147c551db",
+     "correct": true,
+     "answer": "Yes"
+    },
+    {
+     "_id": "1a5fef63-7cd5-baa1-595c-4669bce5ff24",
+     "correct": false,
+     "answer": "No"
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-7243312",
+  "source": {
+   "name": "Your conclusion if the same",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "What is your conclusion if the provided **MD5** hash value is the same as the one you calculated?",
+   "learningObjectives": "",
+   "points": 15
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-684159583",
+  "source": {
+   "name": "Your conclusion if different",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "What is your conclusion if the provided **MD5** hash value is different from the one you calculated?",
+   "learningObjectives": "",
+   "points": 15
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2640319702",
+  "source": {
+   "name": "3.4.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "5",
+   "guidance": "The file could still be malicious although it is highly unlikely. Even though it is very very difficult to find, collisions exist for hash functions.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "**If the provided hash value is the same as the one you calculated, does that mean that this is absolutely the right file that delivers what it promises, or is there a way that it could still be malicious? Explain.**",
+   "learningObjectives": "3.4",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2022113023",
+  "source": {
+   "name": "GH 3.4.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "5",
+   "guidance": "Finding collisions for two hash functions is extremely hard if at all possible. So if two hash functions indicate that the two files (downloaded and the one on site) are the same, then you van have more confidence that the files are the same. \n**Note:** If both hash functions indicates corruption, then the file is certainly corrupted.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "**How could a second hash value (such as SHA256, in this case) help to verify the integrity of the download? Explain.**",
+   "learningObjectives": "3.4",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3710833798",
+  "source": {
+   "name": "Reflection - challenging",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "What was the most challenging part of this activity?",
+   "learningObjectives": "",
+   "points": 3
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3494132467",
+  "source": {
+   "name": "Reflection - enjoyable",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "What was the most enjoyable part of this activity?",
+   "learningObjectives": "",
+   "points": 2
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-463355471",
+  "source": {
+   "name": "Reflection - understanding",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": true,
+   "oneTimeTest": false,
+   "instructions": "Do you think you have a good understanding of how hash functions are used for checking the integrity of a download as a result of this activity? Why or why not?",
+   "learningObjectives": "",
+   "points": 5
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1284335134",
+  "source": {
+   "name": "CYK 2.1.5",
+   "showName": false,
+   "bloomsObjectiveLevel": "1",
+   "guidance": "To exchange keys with my partner, I **generated a key pair**, then I **shared my public key**.  \nThen to send an encrypted message,  I **received my partner’s public key**, and I **encrypted a message to my partner** and **sent an encrypted message to my partner.**\nLast, to decrypt a message, I **received an encrypted message from my partner** then I used my private key and **decrypted an encrypted message from my partner.**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Put the steps in order.  Each choice is used only once.**",
+   "points": "1",
+   "showValues": true,
+   "learningObjectives": "2.1",
+   "text": "To exchange keys with my partner, I <<<generated a key pair>>>, then I <<<shared my public key>>>. \nThen to send an encrypted message,  I <<<received my partner’s public key>>>, and I<<<encrypted a message to my partner>>> and <<<sent an encrypted message to my partner.>>>\nLast, to decrypt a message, I <<<received an encrypted message from my partner>>> the I used my private key and <<<decrypted an encrypted message from my partner>>>.\n",
+   "tokens": {
+    "blank": [
+     "generated a key pair",
+     "shared my public key",
+     "received my partner’s public key",
+     "encrypted a message to my partner",
+     "sent an encrypted message to my partner.",
+     "received an encrypted message from my partner",
+     "decrypted an encrypted message from my partner"
+    ],
+    "text": [
+     "To exchange keys with my partner, I ",
+     0,
+     ", then I ",
+     0,
+     ". \nThen to send an encrypted message,  I ",
+     0,
+     ", and I",
+     0,
+     " and ",
+     0,
+     "\nLast, to decrypt a message, I ",
+     0,
+     " the I used my private key and ",
+     0,
+     ".\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-742791410",
+  "source": {
+   "name": "CYK 3.4.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is C.** The file is very likely the same as the download, but it is still remotely possible that it has changed. There is a very small chance of a hash value collision in which the values are the same, yet the content has changed.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**What is your conclusion if the provided MD5 hash value is the same as the one you calculated?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "3.4",
+   "answers": [
+    {
+     "_id": "949c105a-efb5-c1ef-fc7b-6e2db047af20",
+     "correct": false,
+     "answer": "The file is absolutely confirmed as the same as the download."
+    },
+    {
+     "_id": "e925eea5-a28e-1433-6895-48e5d733e247",
+     "correct": false,
+     "answer": "The file is absolutely confirmed as different from the download."
+    },
+    {
+     "_id": "3257606e-9910-78e2-603a-5236c4fdbe4c",
+     "correct": true,
+     "answer": "The file is very likely the same as the download, but it is still remotely possible that it has changed."
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1718939023",
+  "source": {
+   "name": "GH 3.4.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "5",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**What does it mean if each of the two different hash functions (MD5 and SHA-256) come back verifying the file (i.e. the MD5 hash values match each other and the SHA-256 hash values match each other)?**\n**If  one comes back as verified, and one doesn't?**\n**If both come back unverified ?**",
+   "learningObjectives": "3.4",
    "points": 1
   }
  }
