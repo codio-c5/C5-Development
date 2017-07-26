@@ -1,1 +1,0 @@
-# Sample content CreatorSpace Lab: Verifying the Integrity of a Download

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd lab-part1
+python /home/codio/workspace/.guides/rsa.py keys $1 $2

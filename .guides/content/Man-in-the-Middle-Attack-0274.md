@@ -5,6 +5,7 @@
 </div>
 
 <br>
+Key exchange is vulnerable to Man-in-the-Middle attacks unless additional security measures are taken
 
 ## Disadvantages of Public Key Encryption
 The man in the middle attack demonstrates that someone can step in between the sender and receiver to intercept and even change messages.  
