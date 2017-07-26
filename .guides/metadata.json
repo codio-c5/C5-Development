@@ -771,12 +771,17 @@
      "action": "close"
     },
     {
-     "path": "#terminal: cd rsa",
+     "path": "rsa/plaintext.txt",
      "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "rsa/ciphertext.txt",
+     "panel": 1,
      "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "3-cell-tree",
    "path": [
     "rsa"
    ],

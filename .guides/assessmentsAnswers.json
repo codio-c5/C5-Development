@@ -285,5 +285,19 @@
   "points": 0,
   "state": {},
   "results": []
+ },
+ {
+  "taskId": "free-text-2561419183",
+  "state": {
+   "text": "xdfvdsf"
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "xdfvdsf",
+    "timestamp": 1501076063869,
+    "state": "fail"
+   }
+  ]
  }
 ]
