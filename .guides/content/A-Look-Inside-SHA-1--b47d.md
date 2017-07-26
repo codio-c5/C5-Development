@@ -1,7 +1,7 @@
 
-<figure class="snippetimg" style="margin: 0 auto;width:100%">
+<figure class="snippetimg" style="margin: 0 auto;width:60%">
 
-  <img src=".guides/img/Hashf.PNG" alt="Public key cryptography inventors Whitfield Diffie and Martin Hellman. . *Source: Whitfield Diffie photo by Mary Holzer licensed under CC-BY and Martin Hellman originated from Martin Hellman licensed under GFDL.*
+  <img src=".guides/img/Hashf.PNG" alt="How SHA-1 Works.*
 ">
   <figcaption style="font-size: 0.8em; text-align: left;">How SHA-1 Works.
 </figure>

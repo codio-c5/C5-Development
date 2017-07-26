@@ -13,7 +13,7 @@ SHA-2 is widely used in protocols including TLS and SSL, PGP, SSH, S/MIME, and I
   <figcaption style="font-size: 0.8em; text-align: left;">A sponge.
 </br>
  By Johan (Own work) [GFDL or CC-BY-SA-3.0], via Wikimedia Commons
-</figure
+</figure>
 
 ### In 2012, NIST held a 5-year competition to determine SHA-3. 
 

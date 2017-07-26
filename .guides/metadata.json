@@ -1275,7 +1275,6 @@
    "teacherOnly": false,
    "learningObjectives": ""
   },
-  
   {
    "id": "ce76d5a4-ecc6-75c1-074a-8a6f0bf72bfa",
    "title": "Grading Rubric Hash Functions",
@@ -1288,7 +1287,7 @@
    "teacherOnly": false,
    "learningObjectives": ""
   },
-  { 
+  {
    "id": "8a0db881-d142-d379-1552-a538fdd6e455",
    "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
    "files": [],

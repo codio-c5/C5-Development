@@ -3,7 +3,7 @@
 
 <figure class="snippetimg" style="margin: 0 auto;width:80%">
 
-  <img src=".guides/img/Salt.jpg" alt="Salt shakers.">
+  <img src=".guides/img/Saltsm.jpg" alt="Salt shakers.">
   <figcaption style="font-size: 0.8em; text-align: left;">Salt shakers.
 </br>
  © Jorge Royan / http://www.royan.com.ar, licensed under the Creative Commons Attribution-Share Alike 3. via Wikimedia Commons</figcaption>
