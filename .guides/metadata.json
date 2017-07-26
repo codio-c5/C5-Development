@@ -941,24 +941,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
-   "title": "Growth Hack: Another Problem: Integrity",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Growth-Hack--Another-Problem--Integrity-0af2.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "79f6a1c7-e79d-a3ba-44c3-f27ca7584f42",
    "title": "Unit Summary & Assessments",
    "files": [

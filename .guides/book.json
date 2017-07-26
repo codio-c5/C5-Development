@@ -250,10 +250,22 @@
        "pageId": "2a216c35-e941-83a0-6d1c-f8841fa636ef"
       },
       {
-       "title": "Advantages of Public Key (Asymmetric) Encryption",
-       "id": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
+       "title": "Lab Part 2: Encryption",
+       "id": "5f79ca17-6378-c360-3f74-c265a2ab6167",
        "type": "page",
-       "pageId": "843f3f22-9cdc-d3fd-492e-c42c868d304b"
+       "pageId": "ea3463b0-9acd-66cb-a112-f1fba1c3a33a"
+      },
+      {
+       "title": "Lab Part 3: Decryption",
+       "id": "daabb300-b53c-7e9b-de72-18e4f0ce3883",
+       "type": "page",
+       "pageId": "6188e15b-f436-ba3c-d8d5-51ccee88e3e4"
+      },
+      {
+       "title": "Lab Part 4: Check Your Knowledge",
+       "id": "8dbb6b08-efe0-66d8-3b42-543009bcca14",
+       "type": "page",
+       "pageId": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4"
       },
       {
        "title": "RSA Encryption",
@@ -316,12 +328,6 @@
          "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"
         }
        ]
-      },
-      {
-       "title": "Growth Hack: Another Problem: Integrity",
-       "id": "0af28b74-85d7-9f74-cabf-9a0c1974a197",
-       "type": "page",
-       "pageId": "0af28b74-85d7-9f74-cabf-9a0c1974a197"
       },
       {
        "title": "Unit Summary & Assessments",
@@ -419,10 +425,18 @@
          "pageId": "21b3e5dc-3812-618c-4496-474f537928e7"
         },
         {
-         "id": "69955381-d7ee-7bdf-0cfa-1ee5520b4887",
          "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
-         "pageId": "8a0db881-d142-d379-1552-a538fdd6e455",
-         "type": "page"
+         "id": "e9264f62-e28d-c595-9de4-89989f9ab420",
+         "type": "section",
+         "children": [
+          {
+           "title": "Lab Part 2: Check Your Knowledge",
+           "id": "242efedc-f027-2624-e10d-15371eb1f2f1",
+           "type": "page",
+           "pageId": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2"
+          }
+         ],
+         "pageId": "549517a6-1a35-4325-a50d-5da0748f8af3"
         }
        ]
       },

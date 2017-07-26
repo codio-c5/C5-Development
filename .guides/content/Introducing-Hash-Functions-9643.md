@@ -6,12 +6,11 @@ A cryptographic **hash function** is an algorithm that produces a condensed encr
 
 A cryptographic hash function produces a **hash value** or **message digest** that cannot be decrypted back into the original plaintext.  A hash value is compressed to a specific size data set, no matter what the length of the plaintext. Because it is short, it is easy to store and send.  
 
-<figure class="snippetimg" style="margin: 0 auto;width:75%">
-  <img src=".guides/img/Hashfnctn.png" alt="A hash function. by Yesem Kurt-Peker licensed under CC BY 4.0 ">
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/Hashfn.PNG" alt="A hash function">
   <figcaption style="font-size: 0.8em; text-align: left;">A hash function.   
-  </br>
-By Yesem Kurt-Peker licensed under CC BY 4.0. </figcaption>
-</figure>
+  </figure>
+
 
 Another key property of a cryptographic hash function is that it is nearly impossible to find two different messages which have the same hash value. A **collision** occurs when two messages have the same hash value.
 
