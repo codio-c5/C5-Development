@@ -710,9 +710,14 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "#terminal: cd rsa",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "2-panels",
+   "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Public-Key-Encryption-2a21.md",
