@@ -216,7 +216,7 @@
  {
   "taskId": "free-text-2696978272",
   "state": {
-   "text": "wefgnm"
+   "text": ""
   },
   "results": [],
   "points": 0
@@ -285,5 +285,88 @@
   "points": 0,
   "state": {},
   "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-1284335134",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "free-text-2244206358",
+  "state": {
+   "text": "450f2d324a0fd7935e54209076bf5d2c"
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "450f2d324a0fd7935e54209076bf5d2c",
+    "timestamp": 1501019592057,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "free-text-1127751824",
+  "state": {
+   "text": "060b2a76e714928738488086ebbb8b5be347ce3a79bef5db73165c7344f2e29\n"
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "060b2a76e714928738488086ebbb8b5be347ce3a79bef5db73165c7344f2e29\n",
+    "timestamp": 1501019596288,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "free-text-2510800686",
+  "state": {
+   "text": "450f2d324a0fd7935e54209076bf5d2c "
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "450f2d324a0fd7935e54209076bf5d2c ",
+    "timestamp": 1501019720633,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "free-text-2178210692",
+  "state": {
+   "text": "9060b2a76e714928738488086ebbb8b5be347ce3a79bef5db73165c7344f2e29 "
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "9060b2a76e714928738488086ebbb8b5be347ce3a79bef5db73165c7344f2e29 ",
+    "timestamp": 1501019751142,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-1123183499",
+  "points": 1,
+  "state": {
+   "active": "77420ed3-2e55-9de7-830a-48e147c551db"
+  },
+  "results": [
+   {
+    "current": [
+     "77420ed3-2e55-9de7-830a-48e147c551db"
+    ],
+    "right": [
+     "77420ed3-2e55-9de7-830a-48e147c551db"
+    ],
+    "timestamp": 1501019767145,
+    "state": "pass"
+   }
+  ]
  }
 ]

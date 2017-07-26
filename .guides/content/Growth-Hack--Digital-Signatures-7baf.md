@@ -7,5 +7,5 @@ In this lesson, you'll learn about schemes that have Alice using her private key
 {Submit Answer!|assessment}(free-text-594995176)
 
 ||| guidance
-**Instructor's Note:** In practice, the **hash value** of the message is encrypted to get the signature, rather than the message itself. This method is used because the hash value has a small fixed length.
+**Instructor's Note:** In practice, this is a an oversimplification, applying primarily to the upcoming practice students will encounter with RSA.  You may want to prep them that other applications function a little differently.
 |||

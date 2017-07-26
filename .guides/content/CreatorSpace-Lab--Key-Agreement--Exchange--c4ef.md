@@ -40,7 +40,7 @@ Alice gets the number **2**.
 
 In the left pane, enter your partner's public key at the prompt.
 
-==Bob gets the number ??.==
+Bob gets the number 2.
 
 **5. Crack your partner's key.**
 
