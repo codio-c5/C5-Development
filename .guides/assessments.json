@@ -686,7 +686,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**What is the result of your second encryption?  Why?**",
+   "instructions": "**What is the result (the ROT key) of your second encryption?  Why?**",
    "learningObjectives": "",
    "points": 1
   }
@@ -1579,7 +1579,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**What key is used in this cipher?**",
+   "instructions": "**What key was used for the `WDNH PH RXW WR WKH EDOO JDPH` ciphertext?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
