@@ -20,11 +20,15 @@
   
   **Devon Musgrave:** Editor
   
-  **Raven Alder:** Principal Engineer, Nexum, Inc. *A Day in the Life of...* video
+   **Bill Newhouse** Deputy Director, Security Engineer, NIST: *NIST and Block Ciphers* video
   
+  **Karen Juhl :** Adoption consultant lead, Docusign, Digital signatures video, *A Day in the Life of...* video
+
+ **Bob Fabien Zinga:** MSM, CISSP-ISSMP, PMP Director of Information Security Services, Truvantis. *A Day in the Life of...* video
+ 
   **Angy Shavit:** IT Security Auditor,  *A Day in the Life of...* video
   
-  **Bill Newhouse** Deputy Director, Security Engineer, NIST: *NIST and Block Ciphers* video
+  **Raven Alder:** Principal Engineer, Nexum, Inc. *A Day in the Life of...* video
   
 
   

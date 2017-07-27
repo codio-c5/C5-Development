@@ -622,7 +622,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Public-Key-Cryptography-1783.md",
@@ -640,7 +640,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Check-Your-Memory-54c4.md",
@@ -850,7 +850,13 @@
   {
    "id": "344f2427-5128-c1b9-4ec1-1509691a6fc3",
    "title": "Lab Part 2: Lab Check In",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-344f.md",
