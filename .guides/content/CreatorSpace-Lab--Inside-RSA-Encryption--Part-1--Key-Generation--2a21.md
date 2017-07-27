@@ -40,14 +40,15 @@ The file tree on the left shows the keys, along with other files, that you just 
  - Copy and paste the public key into the box below. 
  {Submit Answer!|assessment}(free-text-648952340)
  
-## Rename your Public Key
+## Download The Public Key
 
-You and your partner(s) will be exchanging public keys. In order to avoid confusion later in the unit, we recommend you rename your file (that you just downloaded) by adding your name to the file name. e.g. ```Steve_public.key```
+ - Download the public key file. To download, right click on the public key file name in the tree on the left and select "Download". 
 
-## Send The Public Key
+## Rename and Email Public Key
 
- - Download the public key file and send it to your partner via email. To download, right click on the public key file name in the tree on the left and select "Download".
+- You and your partner(s) will be exchanging public keys - in order to avoid confusion later in the unit, we recommend you rename your file (that you just downloaded) by adding your name to the file name. e.g. ```Steve_public.key```
 
+- Now email the renamed public key file to your partner
 
 |||guidance
 **Instructor's Note:**

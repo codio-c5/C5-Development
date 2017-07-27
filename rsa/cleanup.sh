@@ -5,7 +5,7 @@ lab=$1
 lab1="lab-part1"
 lab2="lab-part2"
 
-if [ $lab = "lab-part1" ]; then
+if [ "$lab" = "lab-part1" ]; then
 	if [ -f $lab1/private.key ] ; then
 		rm -vf $lab1/private.key
 	fi
