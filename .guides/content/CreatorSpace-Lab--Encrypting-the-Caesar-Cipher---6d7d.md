@@ -1,4 +1,4 @@
-Let's play with a real example.
+Let's play around with a real example.
 
 The first verse of the song *Take Me Out To the Ball Game* is shown. This is the plaintext you will encrypt in this lab.
 
@@ -8,6 +8,6 @@ Next, press the ENCRYPT button below to encrypt the file using the Caesar Cipher
 
 {Encrypt}(.guides/caesare.sh)
 
-Once you are done, try decrypting on the next page.
+Once you are done, try decrypting the ciphertext on the next page.
 
 

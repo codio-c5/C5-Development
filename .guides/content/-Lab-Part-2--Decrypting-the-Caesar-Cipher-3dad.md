@@ -1,13 +1,13 @@
 
-The encrypted text from the last page appears both on the left. 
+The encrypted text from the previous page appears in the screen to the left. 
 
-Click the button below to decrypt it. The decrypted text will appear below the button.
+Click the DECRYPT button and the decrypted text will appear below the button.
 
 {Decrypt}(.guides/caesard.sh)
 
 
 ## On Your Own
-You  can toggle back and forth between this page and the last page to encrypt and decrypt your own messages.
+You  can toggle back and forth between this page and the previous page to encrypt and decrypt your own messages. Type whatever you like, and soon you might even get comfortable reading ciphertext created with the Caesar Cipher.
 
 ## Lab Check In 
 {Check It!|assessment}(multiple-choice-1072561676)

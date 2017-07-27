@@ -1,5 +1,5 @@
 |||definition
-A **shift cipher** is a generalization of Caesar cipher in which the key can be any number you like. In a Caesar cipher, the key is specifically 3 letters to the right.
+A **shift cipher** is a category of cipher in which the key can be any number you like. The Caesar Cipher, in which the key is always three letters to the right, is a specific example of a shift cipher.
 |||
 
 
@@ -12,12 +12,12 @@ Plaintext:  meet me after the toga party
 Ciphertext: XPPE XP LQEPC ESP EZRL ALCEJ
 ```
 
-## Cryptanalysis of Shift Cipher
-What would it take to break the shift cipher? If you know that a ciphertext is obtained using a shift cipher, how would you get the original plaintext? In the brute force approach you try out all possible keys to determine the key space and the number of keys used. 
+## Cryptanalysis of a Shift Cipher
+What would it take to break a shift cipher? If you knew that a ciphertext was created using a shift cipher, how would you get to the original plaintext? With the brute-force approach, you would try out all possible keys until you found something that worked.  
 
 ||| info
 
-**Note:** We assume here that the cryptanalyst knows the language that the original plaintext is in. 
+**Note:** We assume here that the cryptanalyst knows the language that the original plaintext is in. If the plaintext were in a language not understood by the cryptanalyst, discovering the key would be much more difficult because she might not recognize the words revealed by the correct key. 
 
 |||
 
@@ -31,7 +31,6 @@ What would it take to break the shift cipher? If you know that a ciphertext is o
 
 |||
 
-For an English alphabet, there are 26 possible keys. Why?
 {Submit Answer!|assessment}(free-text-1360860550)
 
 ||| guidance

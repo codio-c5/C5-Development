@@ -145,5 +145,13 @@
     "state": "pass"
    }
   ]
+ },
+ {
+  "taskId": "free-text-3680102054",
+  "state": {
+   "text": "Nothing!"
+  },
+  "results": [],
+  "points": 0
  }
 ]
