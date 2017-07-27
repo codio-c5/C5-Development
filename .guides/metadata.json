@@ -343,7 +343,7 @@
   },
   {
    "id": "e20f7a42-d00f-0727-77d9-6aa00be78ce9",
-   "title": "The Substitution Cipher",
+   "title": "Substitution Ciphers",
    "files": [
     {
      "path": "#tabs",
@@ -353,7 +353,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Substitution-Cipher-e20f.md",
+   "content-file": ".guides/content/Substitution-Ciphers-e20f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
