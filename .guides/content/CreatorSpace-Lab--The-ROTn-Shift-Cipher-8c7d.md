@@ -18,6 +18,9 @@ The interactive ROTn in the left panel is an cryptanalyst tool that lets you exp
 
 You just used the **brute force** cryptanalysis technique by trying every possible key.
 
+## On Your Own
+Enter different  shift ciphertexts and use the tool to practice decrypting them. 
+
 ## Lab Check In
 
 {Check It!|assessment}(multiple-choice-2247377726)

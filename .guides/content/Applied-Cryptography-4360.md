@@ -4,7 +4,7 @@
 </div>
 
 <br>
-## The Five Tenets of Information Security
+## The Tenets of Information Security
 
 The field of cybersecurity focuses on keeping digital communications and other electronic data secure. Ensuring such security requires that all five of the tenets of information security are met. 
 

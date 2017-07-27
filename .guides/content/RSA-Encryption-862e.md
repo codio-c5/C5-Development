@@ -4,7 +4,7 @@
 <br>
 
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
-  <img src=".guides/img/RivestShamirAdleman.PNG"  alt="Ronald Rivest, Adi Shamir, and Leonard Adleman, Creators of RSA Encryption. . *Source: From left to right: by Ronald L. Rivest (Own work) CC BY-SA 4.0; by Erik Tews (Own work) CC BY-SA 3.0; by Len Adleman, (Own work) CC BY- SA 3.0, via Wikimedia Commons.*
+  <img src=".guides/img/RSAguys.png"  alt="Ronald Rivest, Adi Shamir, and Leonard Adleman, Creators of RSA Encryption. . *Source: From left to right: by Ronald L. Rivest (Own work) CC BY-SA 4.0; by Erik Tews (Own work) CC BY-SA 3.0; by Len Adleman, (Own work) CC BY- SA 3.0, via Wikimedia Commons.*
 ">
   <figcaption style="font-size: 0.8em; text-align: left;">Ronald Rivest, Adi Shamir, and Leonard Adleman, Creators of RSA Encryption. 
 <br>

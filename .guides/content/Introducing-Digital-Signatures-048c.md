@@ -4,7 +4,7 @@ A digital signature is as binding as a print signature.  Perhaps more so, becaus
 
 <figure class="snippetimg" style="margin: 0 auto;width:90%">
   <img src=".guides/img/Clintonsigning.jpg" alt="In the Oval Office, President Clinton signing into law S. 2392 the Year 2000 Information and Readiness Disclosure Act.By Infrogmation of New Orleans [CC BY 2.0], via Wikimedia Commons">
-  <figcaption style="font-size: 0.8em; text-align: left;"> President Clinton signing the E-SIGN bill in June, 2000. He also used his digital signature to    e-sign the bill into law. 
+  <figcaption style="font-size: 0.8em; text-align: left;"> President Clinton signing the ESIGN Act in June, 2000. He also used his digital signature. 
   </br>
  Source: William J. Clinton Presidential Library [Public Domain].</figcaption>
 </figure>

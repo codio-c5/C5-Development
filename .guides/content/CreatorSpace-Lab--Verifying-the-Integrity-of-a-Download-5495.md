@@ -3,7 +3,7 @@
 
 - First, you need to download a file that you can compare. **[Click here](https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe/download)** to download Apache OpenOffice Language Pack. When the download has completed go to the next step.
 
-## Calculate the hashes for the file 
+## Calculate the Hashes for the File 
 
 The pane on the left is showing an  html5 file hash calculator.  There are a number of such calculators on the web.  You can use this one to compare hash values for the file you downloaded.
 
@@ -16,11 +16,13 @@ The pane on the left is showing an  html5 file hash calculator.  There are a num
 {Save!|assessment}(free-text-1127751824)
 
 
- - Now, go to the source of the download website. **[Click here.](open_preview https://www.openoffice.org/download/index.html panel=0)** 
+ - Go to the source of the download website. **[Click here.](open_preview https://www.openoffice.org/download/index.html panel=0)** 
 
  - Note that there are **links for MD5 and SHA256 hashes of the files** on the site.
 
-### Now download the hashes for comparison. 
+## Compare the Hash Values
+
+### Now you will download the hash values from the web site and compare them with the hash values of the files you downloaded. 
  - **[Click here](https://archive.apache.org/dist/openoffice/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe.md5)** to download the **MD5** hash for the Language Pack and save it on your computer.
 - Open it with Notepad.
 ### Enter the MD5 hash value below.
