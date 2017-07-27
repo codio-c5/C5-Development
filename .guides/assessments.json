@@ -3333,5 +3333,60 @@
    "learningObjectives": "",
    "points": 1
   }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1771628664",
+  "source": {
+   "name": "LCI 4.3.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "3",
+   "guidance": "The correct answer is b. The last intermediate certificate is signed by the root certificate, and the root certificate is signed by itself, so they are signed by the same CA. The end-entity certificate and any other intermediate certificates are signed in a chain down to the root, so only the root as the last intermediate certificate have the same CA.",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**In a certification path, why would the last intermediate certificate share the same certificate authority (CA)?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "4.3",
+   "answers": [
+    {
+     "_id": "d8b545e7-34c3-1525-5256-451b315124e2",
+     "correct": false,
+     "answer": "The last intermediate certificate and the end-entity certificate are both signed by the root certificate."
+    },
+    {
+     "_id": "a617b08c-a214-0d47-57e2-59d40d1abe15",
+     "correct": true,
+     "answer": "The last intermediate certificate is signed by the root certificate, and the root certificate is signed by itself, so they are signed by the same CA."
+    },
+    {
+     "_id": "f635b919-2235-0069-2de3-002ce3a8aa69",
+     "correct": false,
+     "answer": "All of the intermediate certificates are signed by the same root certificate."
+    },
+    {
+     "_id": "34737e85-4e18-9d50-4e9d-dfa879cc6a1b",
+     "correct": false,
+     "answer": "The root certificate and the end-entity are both signed by the last intermediate certificate, so they share the same CA."
+    }
+   ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3287608523",
+  "source": {
+   "name": "GH 4.3.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "5",
+   "guidance": "Root certificates sign themselves to become  a trusted certificate authority. The purpose of the trusted certificate authority is to isolate certificate policy from the root.  They are kept very secure.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Why does a root certificate sign itself?**",
+   "learningObjectives": "4.3",
+   "points": 1
+  }
  }
 ]
