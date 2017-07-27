@@ -6,5 +6,56 @@
   },
   "results": [],
   "points": 0
+ },
+ {
+  "taskId": "multiple-choice-2647053800",
+  "points": 1,
+  "state": {
+   "active": "a2ca9ae8-f52f-0ca4-a062-fa146bfa7f56"
+  },
+  "results": [
+   {
+    "current": [
+     "a2ca9ae8-f52f-0ca4-a062-fa146bfa7f56"
+    ],
+    "right": [
+     "a2ca9ae8-f52f-0ca4-a062-fa146bfa7f56"
+    ],
+    "timestamp": 1501176006181,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-3168863083",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-3572864988",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-4274829830",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-2796959550",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
  }
 ]

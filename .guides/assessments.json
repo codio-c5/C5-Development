@@ -180,7 +180,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**In which of the following attack scenarios does the attacker has most power?** ",
+   "instructions": "**In which of the following attack scenarios does the attacker have the most power?** ",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -997,12 +997,12 @@
     {
      "_id": "de94f6e4-775d-3417-c3bf-3a5eab14db6f",
      "correct": false,
-     "answer": "Man in the middle attack"
+     "answer": "Man-in-the-middle attack"
     },
     {
      "_id": "575d6e57-0bed-743d-955d-5e0bd171b169",
      "correct": false,
-     "answer": "Incidence of coincidence attack"
+     "answer": "Incidence-of-coincidence attack"
     }
    ]
   }
@@ -1075,15 +1075,15 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
-   "text": "You want to encrypt data on a removable storage using the strongest method possible.  <<<AES>>> is the encryption method you choose.",
+   "text": "You want to encrypt data on a removable storage device by using the strongest method possible.  <<<AES>>> is the encryption method you should choose.",
    "tokens": {
     "blank": [
      "AES"
     ],
     "text": [
-     "You want to encrypt data on a removable storage using the strongest method possible.  ",
+     "You want to encrypt data on a removable storage device by using the strongest method possible.  ",
      0,
-     " is the encryption method you choose."
+     " is the encryption method you should choose."
     ]
    }
   }
@@ -1181,7 +1181,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**If both sender and receiver use the same key, the system is referred to as:**",
+   "instructions": "**If both the sender and receiver use the same key, the system is referred to as:**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -1256,14 +1256,14 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
-   "text": "<<<Block ciphers>>> are method of encryption that transposes plaintext to ciphertext in chunks.",
+   "text": "<<<Block ciphers>>> are a method of encryption that transposes plaintext to ciphertext in chunks.",
    "tokens": {
     "blank": [
      "Block ciphers"
     ],
     "text": [
      0,
-     " are method of encryption that transposes plaintext to ciphertext in chunks."
+     " are a method of encryption that transposes plaintext to ciphertext in chunks."
     ]
    }
   }
@@ -1912,7 +1912,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Select the best response.  Key distribution often involves the use of _________ which are generated and distributed for temporary use between two parties.**",
+   "instructions": "**Select the best response.  Key distribution often involves the use of _________, which are generated and distributed for temporary use between two parties.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
