@@ -851,6 +851,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "9529cc6a-33d6-c4f4-e8e2-6c5aca5d93f2",
+   "title": "A Day in the Life of Karen Juhl",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Day-in-the-Life-of-Karen-Juhl-9529.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "d228c8f4-09b3-57f5-0992-338cab98d00a",
    "title": "Key Agreement Algorithms",
    "files": [
@@ -1236,6 +1248,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/File-Synchronization-21b3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "45909e64-08ec-62c8-ab5e-0c2ad7343136",
+   "title": "A Day in the Life of Bob Fabien Zinga",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Day-in-the-Life-of-Bob-Fabien-Zinga-4590.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1692,6 +1716,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Meetup--Common-Applications-Using-PKI--fdf6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e1b25974-b24d-65dd-7545-71c36e4bc99d",
+   "title": "Digital Signatures at Work: DocuSign",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Signatures-at-Work--DocuSign-e1b2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
