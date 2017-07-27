@@ -244,6 +244,12 @@
        "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
       },
       {
+       "title": "RSA Encryption",
+       "id": "37e96197-c62b-a039-a062-f855e41b3bba",
+       "type": "page",
+       "pageId": "862e5e82-94dc-37b4-406d-4e76175fb86c"
+      },
+      {
        "title": "CreatorSpace Lab: Public Key Encryption",
        "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
        "type": "page",
@@ -266,24 +272,6 @@
        "id": "8dbb6b08-efe0-66d8-3b42-543009bcca14",
        "type": "page",
        "pageId": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4"
-      },
-      {
-       "title": "RSA Encryption",
-       "id": "37e96197-c62b-a039-a062-f855e41b3bba",
-       "type": "page",
-       "pageId": "862e5e82-94dc-37b4-406d-4e76175fb86c"
-      },
-      {
-       "title": "CreatorSpace Lab: RSA Encryption",
-       "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-       "type": "page",
-       "pageId": "0aea8b8a-9ae1-245d-3df7-f4359fc01908"
-      },
-      {
-       "id": "430dbb7c-1ec1-ff0e-7ad3-987271c1b044",
-       "title": "Lab Part 2: Lab Check In",
-       "pageId": "344f2427-5128-c1b9-4ec1-1509691a6fc3",
-       "type": "page"
       },
       {
        "title": "Across the Disciplines: Mathematics ",
