@@ -1,6 +1,4 @@
-Karen Juhl is an adoption consultant lead at a Docusign in Seattle.  Karen just recently started at Docusign. The field of secure document transaction management is growing fast, and Karen likes to be where the action is.
-
-Karen took a break from her busy day to talk about the fast pace of change in cybersecurity, and what that means for company and career growth. 
+Bob Fabien Zinga, MSM, CISSP-ISSMP, PMP, is an information security manager in The Bay Area.  Bob is a veteran hiring manager and team leader.  He found some time to share his thoughts on ways to be successful as a new cybersecurity professional.
 <div>
   <iframe src="//player.vimeo.com/video/227302346" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+</div>Gives advice to new cyber professionals. 6:27: basically in my life… 8:10 The company. Infosec mgt pro
