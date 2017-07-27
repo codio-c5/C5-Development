@@ -45,14 +45,22 @@ Bob gets the number 2.
 **5. Crack your partner's key.**
 
 Now, Alice and Bob can compute each other's secret number.
-Alice takes the n^th^ root of the Bob's public number $y$, which is 81. This is y^-s^= 81^3^=4. 
+Alice takes the n^th^ root of the Bob's public number $y$, which is 81. This is ```y^-s^= 81^3^=4```. 
 Bob does the same with Alice's  public number. Now, both Alice and Bob know each other's secret number without have transmitted the secrets to each other.
   
 Now you have a shared key with your partner.  
 
- - Encrypt a message to your partner.
+ - Encrypt a message to your partner by entering the following command (enter your private key as the password):
+ ```python aes.py message.txt cipher.txt```
+    
  - Give the encrypted message to another team, and take a message they have encrypted using their shared key.
  - Try to decrypt the other without their key
+ ```python aes.py decrypt cipher.txt out.txt```
+ 
+    Click on the output file ```diffiehellman/out.txt``` in the file tree to the left.
+ 
+  Hint: small key size makes one vulnerable to brute force attacks.
+
  - If you weren't successful, try again using their key.
 
 ## Check Your Knowledge

@@ -948,18 +948,23 @@
      "path": "#terminal: cd diffiehellman",
      "panel": 0,
      "action": "open"
+    },
+    {
+     "path": "diffiehellman/message.txt",
+     "panel": 1,
+     "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "3-cell-tree",
    "path": [
-    "rsa"
+    "diffiehellman"
    ],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Key-Agreement--Exchange--c4ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
-   "learningObjectives": "key agreement"
+   "learningObjectives": ""
   },
   {
    "id": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68",
