@@ -304,6 +304,12 @@
          "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
         },
         {
+         "id": "f9d21aa4-c727-8da0-d02e-61f78f8ad912",
+         "title": "Lab Part 2: Lab Check In",
+         "pageId": "686ca38b-a4a8-70a3-1771-db4d868c1a29",
+         "type": "page"
+        },
+        {
          "title": "Across the Disciplines: Business",
          "id": "e3649d4f-6eb2-4224-a9cb-7d1f516b8e1a",
          "type": "page",
@@ -646,5 +652,5 @@
    ]
   }
  ],
- "name": "c5dev-book"
+ "name": "C5 Cybersecurity"
 }
