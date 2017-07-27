@@ -10,7 +10,7 @@ Ciphertext: PHHW PH DIWHU WKH WRJD SDUWB
 
 
 
-Notice how the last `n` letters (3 in the above example) are dealt with by starting again at the letter "a" if it would go past "z".
+Notice how the last `n` letters (3 in the above example) are dealt with by starting again at the letter "a" if it would go past "z."
 
 If you know a ciphertext is obtained using a shift cipher, getting the original plaintext is simple. You can just try different keys until you find the one that produces an intelligible message. 
 
