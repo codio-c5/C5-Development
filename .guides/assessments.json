@@ -1803,14 +1803,14 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
-   "text": "<<<3>>> is the shift for this Caesar Cipher`GHFRGH FDHVDU`.\n",
+   "text": "<<<3>>> is the shift for this Caesar Cipher: `GHFRGH FDHVDU`\n",
    "tokens": {
     "blank": [
      "3"
     ],
     "text": [
      0,
-     " is the shift for this Caesar Cipher`GHFRGH FDHVDU`.\n"
+     " is the shift for this Caesar Cipher: `GHFRGH FDHVDU`\n"
     ]
    }
   }
