@@ -1,5 +1,5 @@
 |||definition
-A **shift cipher** is a category of cipher in which the key can be any number you like. The Caesar Cipher, in which the key is always three letters to the right, is a specific example of a shift cipher.
+A **shift cipher** is a category of cipher in which the key can be any number you like. The Caesar cipher, in which the key is always three letters to the right, is a specific example of a shift cipher.
 |||
 
 
@@ -35,6 +35,6 @@ What would it take to break a shift cipher? If you knew that a ciphertext was cr
 
 ||| guidance
 
-**Instructor's Note:** There are 33 letters in the Russian Cyrillic alphabet, and 36 in the Armenian alphabet, so the respective answers are 33 and 36.
+**Instructor's Note:** There are 33 letters in the Russian Cyrillic alphabet, and 36 in the Armenian alphabet, so the respective answers are 32 and 35.
 
 |||

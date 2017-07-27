@@ -434,7 +434,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**For the English alphabet, there are 26 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic or the Armenian alphabet?**",
+   "instructions": "**For the English alphabet, there are 25 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic or the Armenian alphabet?**",
    "learningObjectives": "",
    "points": 1
   }
@@ -1803,14 +1803,14 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
-   "text": "<<<3>>> is the shift for this Caesar Cipher: `GHFRGH FDHVDU`\n",
+   "text": "<<<3>>> is the shift for this Caesar cipher: `GHFRGH FDHVDU`\n",
    "tokens": {
     "blank": [
      "3"
     ],
     "text": [
      0,
-     " is the shift for this Caesar Cipher: `GHFRGH FDHVDU`\n"
+     " is the shift for this Caesar cipher: `GHFRGH FDHVDU`\n"
     ]
    }
   }
