@@ -67,4 +67,7 @@ def main():
 	os.system('clear') 
 	print "Your shared private key = ",privkey
 
+	f = open('priv.key','w')
+	print >> f, privkey
+
 main()
