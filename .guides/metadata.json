@@ -1384,27 +1384,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "4b9459ad-4935-c4bf-3d8f-3b7fc0232243",
-   "title": "CreatorSpace Lab: Comparing Hashes of Strings",
-   "files": [
-    {
-     "path": "#terminal: cd hash",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels-tree",
-   "path": [
-    "hash"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Comparing-Hashes-of-Strings-4b94.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": "compare hash functions"
-  },
-  {
    "id": "3bc211e1-056b-9ad8-802d-1452b8ad17af",
    "title": "Unit Summary & Assessments",
    "files": [

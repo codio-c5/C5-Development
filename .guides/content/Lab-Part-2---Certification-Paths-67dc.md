@@ -1,6 +1,6 @@
 
 
-## Find certification path for a web site  
+## Find Certification Path for a Web Site  
 
  - To find the certification path, go back to the Google certificate. Google.com is an example of an **end-entity certificate** in the path.
  
@@ -18,7 +18,7 @@ You may have a separate tab for certification path as shown in this example.
 
  - Step up the certification path to the GeoTrust Global CA certificate. This is an example of a **root certificate,** or **root authority.**
 
-## Check Your Knowledge
+## Lab Check In
 
 {Submit Answer!|assessment}(free-text-3445589053)
 

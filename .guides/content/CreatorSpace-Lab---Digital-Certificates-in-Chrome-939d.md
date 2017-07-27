@@ -33,7 +33,7 @@ Note that the url starts with https. This means that the web site is using SSL (
   <figcaption style="font-size: 0.8em; text-align: left;">  Screen shot of gmail certificate.  
 </figure>
 
-## Check Your Knowledge
+## Lab Check In
 
 {Submit Answer!|assessment}(free-text-1013590548)
 {Submit Answer!|assessment}(free-text-4233730112)
