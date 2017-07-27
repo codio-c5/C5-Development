@@ -1,6 +1,6 @@
 
 
-In this lab you will use RSA to encrypt and decrypt a file from the Linux command line. You will generate a key pair and encrypt and decrypt messages using RSA.
+### In this lab you will use RSA to encrypt and decrypt a file from the Linux command line. You will generate a key pair and encrypt and decrypt messages using RSA.
 
 Start by clean everything up in your folder. Click the clean up button.
 
@@ -39,12 +39,3 @@ Bob has sent you a ciphertext you want to decrypt. You will have sent Bob your p
 This lab was written in Python. Do you want to see what the code looks like? 
 1. Open up rsa.py by running the command ```more rsa.py```
 2. Use the space bar to show page through the script.
-
-## Check Your Knowledge
-{Check It!|assessment}(multiple-choice-1750723723)
-{Check It!|assessment}(multiple-choice-3023733973)
-
-
-
-## Growth Hack
-{Submit Answer!|assessment}(free-text-1268726708)

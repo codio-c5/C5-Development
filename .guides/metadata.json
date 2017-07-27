@@ -189,7 +189,7 @@
   },
   {
    "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
-   "title": "CreatorSpace Lab: Decrypting the Caesar Cipher",
+   "title": " Lab Part 2: Decrypting the Caesar Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -204,7 +204,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Decrypting-the-Caesar-Cipher-3dad.md",
+   "content-file": ".guides/content/-Lab-Part-2--Decrypting-the-Caesar-Cipher-3dad.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -783,7 +783,7 @@
   },
   {
    "id": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4",
-   "title": "Lab Part 4: Check Your Knowledge",
+   "title": "Lab Part 4: Lab Check In",
    "files": [
     {
      "path": "#tabs",
@@ -793,25 +793,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-4--Check-Your-Knowledge-5c37.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "843f3f22-9cdc-d3fd-492e-c42c868d304b",
-   "title": "Advantages of Public Key (Asymmetric) Encryption",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Advantages-of-Public-Key--Asymmetric--Encryption-843f.md",
+   "content-file": ".guides/content/Lab-Part-4--Lab-Check-In-5c37.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -860,6 +842,18 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption-0aea.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "344f2427-5128-c1b9-4ec1-1509691a6fc3",
+   "title": "Lab Part 2: Lab Check In",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-344f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1276,61 +1270,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "ce76d5a4-ecc6-75c1-074a-8a6f0bf72bfa",
-   "title": "Grading Rubric Hash Functions",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Grading-Rubric-Hash-Functions-ce76.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "8a0db881-d142-d379-1552-a538fdd6e455",
-   "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Verifying-the-Integrity-of-a-Download-8a0d.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "26c106fd-15e5-d4a1-ad05-69be4033f3b1",
-   "title": "Verifying Integrity of a Download",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Verifying-Integrity-of-a-Download-26c1.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "d6ad5930-a1dd-3db0-03cf-b5d25ee66218",
-   "title": "Calculate the MD5 and SHA256 hashes for the downloaded file",
-   "files": [
-    {
-     "path": "#preview: https://md5file.com/calculator",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Calculate-the-MD5-and-SHA256-hashes-for-the-downloaded-file-d6ad.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "549517a6-1a35-4325-a50d-5da0748f8af3",
    "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
    "files": [
@@ -1351,7 +1290,7 @@
   },
   {
    "id": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2",
-   "title": "Lab Part 2: Check Your Knowledge",
+   "title": "Lab Part 2: Lab Check In",
    "files": [
     {
      "path": "#tabs",
@@ -1361,7 +1300,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Check-Your-Knowledge-b05c.md",
+   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-b05c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1809,7 +1748,7 @@
   },
   {
    "id": "939d28c8-b89f-b883-7272-a3f900d4644a",
-   "title": "CreatorSpace Lab: Examine Digital Certificates",
+   "title": "CreatorSpace Lab:  Digital Certificates in Chrome",
    "files": [
     {
      "path": "#tabs",
@@ -1819,7 +1758,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Examine-Digital-Certificates-939d.md",
+   "content-file": ".guides/content/CreatorSpace-Lab---Digital-Certificates-in-Chrome-939d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1827,7 +1766,7 @@
   },
   {
    "id": "67dc7d0a-d765-6c7f-f4e6-d42633fafe96",
-   "title": "CreatorSpace Lab: Find the Certification Path",
+   "title": "Lab Part 2:  Certification Paths",
    "files": [
     {
      "path": "#tabs",
@@ -1837,7 +1776,19 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Find-the-Certification-Path-67dc.md",
+   "content-file": ".guides/content/Lab-Part-2---Certification-Paths-67dc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e61b4349-e0e9-4c30-3494-6729e75cf3cc",
+   "title": "Lab Part 3: Lab Check In",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-3--Lab-Check-In-e61b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

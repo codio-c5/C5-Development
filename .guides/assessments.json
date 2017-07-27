@@ -3157,5 +3157,181 @@
    "learningObjectives": "3.4",
    "points": 1
   }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-2423718642",
+  "source": {
+   "name": "GH 4.3.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "6",
+   "guidance": "Digital certificates address the four tenets of internet security.  Hackers might pose as a site and provide false information to a user, but users that check for the signs of a true https site and view their certificates won't be fooled.  ",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Can you think of any way a hacker can get around a digital certificate? Be creative.**",
+   "learningObjectives": "4.3",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1013590548",
+  "source": {
+   "name": "CYK 4.3.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "2",
+   "guidance": "Answers may vary depending on the source.  For the example screen shot, the answer is Google Internet Authority G2.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Who is the certificate authority?**",
+   "learningObjectives": "4.3",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-4233730112",
+  "source": {
+   "name": "CYK 4.3.2",
+   "showName": false,
+   "bloomsObjectiveLevel": "2",
+   "guidance": "This will vary by certificate.  For the example, the answer is *google.com.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**To whom is the certificate issued?**",
+   "learningObjectives": "4.3",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-37212313",
+  "source": {
+   "name": "CYK 4.3.3",
+   "showName": false,
+   "bloomsObjectiveLevel": "2",
+   "guidance": "Answers will vary by certificate.  In the example, the answer is F8 AE 5C 36.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**What are the first eight associated public key for SHA-256?**   (In a digital certificate, sometimes a condensed version of the public key called a **fingerprint**  is used to represent a public key).\n\n",
+   "learningObjectives": "4.3",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-94898039",
+  "source": {
+   "name": "GH 4.3.4",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "Answers will vary by certificate.  In the example, the answer is October 4, 2017.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**When does the certificate expire?**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3445589053",
+  "source": {
+   "name": "CYK 4.3.5",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "The certificate authority on  both the intermediate certificate and the root certificate is GeoTrust Global CA.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Who is the certificate authority on the intermediate certificate?  On the root certificate?**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3921619463",
+  "source": {
+   "name": "CYK 4.3.6",
+   "showName": false,
+   "bloomsObjectiveLevel": "2",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**To whom is the intermediate certificate issued? The root certificate?**",
+   "learningObjectives": "4.3",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3445674952",
+  "source": {
+   "name": "Public Key Encryption Lab 1",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**My private key is**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-648952340",
+  "source": {
+   "name": "Public Key Encryption Lab 2",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**My public key is**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1471767310",
+  "source": {
+   "name": "Public Key Encryption Lab 3",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**My encrypted output is**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1896783841",
+  "source": {
+   "name": " Public Key Encryption Lab 4",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**My decrypted message is**",
+   "learningObjectives": "",
+   "points": 1
+  }
  }
 ]

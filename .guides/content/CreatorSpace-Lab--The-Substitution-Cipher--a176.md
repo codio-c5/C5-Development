@@ -19,7 +19,9 @@ You can experiment with the substitution cipher on the left. For instance, copy 
 
 {Decrypt}(substitution/subdecrypt.sh)
 
+## On Your Own
+Try encrypting and decrypting other any other phrases you like.
+
 ## Lab Check In
 {Check It!|assessment}(fill-in-the-blanks-1969010385)
 
-Try encrypting and decrypting other any other phrases you like.

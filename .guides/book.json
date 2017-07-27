@@ -63,7 +63,7 @@
          "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
         },
         {
-         "title": "CreatorSpace Lab: Decrypting the Caesar Cipher",
+         "title": " Lab Part 2: Decrypting the Caesar Cipher",
          "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
          "type": "page",
          "pageId": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad"
@@ -262,7 +262,7 @@
        "pageId": "6188e15b-f436-ba3c-d8d5-51ccee88e3e4"
       },
       {
-       "title": "Lab Part 4: Check Your Knowledge",
+       "title": "Lab Part 4: Lab Check In",
        "id": "8dbb6b08-efe0-66d8-3b42-543009bcca14",
        "type": "page",
        "pageId": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4"
@@ -278,6 +278,12 @@
        "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
        "type": "page",
        "pageId": "0aea8b8a-9ae1-245d-3df7-f4359fc01908"
+      },
+      {
+       "id": "430dbb7c-1ec1-ff0e-7ad3-987271c1b044",
+       "title": "Lab Part 2: Lab Check In",
+       "pageId": "344f2427-5128-c1b9-4ec1-1509691a6fc3",
+       "type": "page"
       },
       {
        "title": "Across the Disciplines: Mathematics ",
@@ -428,6 +434,7 @@
          "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
          "id": "e9264f62-e28d-c595-9de4-89989f9ab420",
          "type": "section",
+         "pageId": "549517a6-1a35-4325-a50d-5da0748f8af3",
          "children": [
           {
            "title": "Lab Part 2: Check Your Knowledge",
@@ -435,8 +442,7 @@
            "type": "page",
            "pageId": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2"
           }
-         ],
-         "pageId": "549517a6-1a35-4325-a50d-5da0748f8af3"
+         ]
         }
        ]
       },
@@ -592,16 +598,22 @@
        "pageId": "fdf6363b-efde-703a-36d4-fbda6c8b1de0"
       },
       {
-       "title": "CreatorSpace Lab: Examine Digital Certificates",
+       "title": "CreatorSpace Lab:  Digital Certificates in Chrome",
        "id": "1405df79-f193-df1a-3eb3-c43912c51c95",
        "type": "page",
        "pageId": "939d28c8-b89f-b883-7272-a3f900d4644a"
       },
       {
-       "title": "CreatorSpace Lab: Find the Certification Path",
+       "title": " Lab Part 2:  Certification Paths",
        "id": "0a6f9db4-58b8-b56a-8c76-af021ff08509",
        "type": "page",
        "pageId": "67dc7d0a-d765-6c7f-f4e6-d42633fafe96"
+      },
+      {
+       "title": "Lab Part 3: Check Your Knowledge",
+       "id": "325d6257-0715-43a7-b7b7-d6cf09205ada",
+       "type": "page",
+       "pageId": "e61b4349-e0e9-4c30-3494-6729e75cf3cc"
       },
       {
        "title": "Unit Summary & Assessments",

@@ -1,4 +1,4 @@
-##  Check Your Knowledge
+##  Lab Check In
 {Check It!|assessment}(multiple-choice-742791410)
 
 ## Growth Hack
