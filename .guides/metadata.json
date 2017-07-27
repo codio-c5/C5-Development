@@ -705,22 +705,19 @@
   },
   {
    "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
-   "title": "CreatorSpace Lab: Public Key Encryption",
+   "title": "CreatorSpace Lab: Inside RSA Encryption (Part 1: Key Generation)",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "#terminal: cd rsa",
-     "panel": 0,
-     "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
-   "path": [],
+   "layout": "1-panel-tree",
+   "path": [
+    "lab-part1"
+   ],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Public-Key-Encryption-2a21.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption--Part-1--Key-Generation--2a21.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -728,7 +725,7 @@
   },
   {
    "id": "ea3463b0-9acd-66cb-a112-f1fba1c3a33a",
-   "title": "Lab Part 2: Encryption",
+   "title": "CreatorSpace Lab: Inside RSA Encryption (Part 2: Encryption)",
    "files": [
     {
      "path": "#tabs",
@@ -740,7 +737,7 @@
      "action": "open"
     },
     {
-     "path": "#terminal: ",
+     "path": "lab-part2/cipher.txt",
      "panel": 1,
      "action": "open"
     }
@@ -750,7 +747,7 @@
     "lab-part2"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Encryption-ea34.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption--Part-2--Encryption--ea34.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -758,7 +755,7 @@
   },
   {
    "id": "6188e15b-f436-ba3c-d8d5-51ccee88e3e4",
-   "title": "Lab Part 3: Decryption",
+   "title": "CreatorSpace Lab: Inside RSA Encryption (Part 3: Decryption)",
    "files": [
     {
      "path": "#tabs",
@@ -775,7 +772,7 @@
     "lab-part1"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-3--Decryption-6188.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption--Part-3--Decryption--6188.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
