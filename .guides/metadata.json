@@ -632,6 +632,36 @@
    "learningObjectives": ""
   },
   {
+   "id": "90e21dbe-33ac-eaa8-fbdb-e38b33154dbe",
+   "title": "Getting Started",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Getting-Started-90e2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
+   "title": "Check Your Memory",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-Your-Memory-54c4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
    "title": "Introducing Public Key Cryptography",
    "files": [
@@ -662,24 +692,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Solutions-for-Key-Distribution--4d40.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
-   "title": "Check Your Memory",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Check-Your-Memory-54c4.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
