@@ -53,7 +53,9 @@ Now you have a shared key with your partner.
  - Enter a message to encrypt in the lower, left window or use the existing text.
 
  - Encrypt a message to your partner by entering the following command (enter your private key as the password):
- ```python aes.py message.txt cipher.txt```
+ ```python aes.py encrypt message.txt cipher.txt```
+ 
+ - Click the output file name, ```cipher.txt```, in the file tree on the far left. It will be displayed in a new tab in the lower, left window.
     
  - Give the encrypted message to another team, and take a message they have encrypted using their shared key.
  - Try to decrypt the other without their key
