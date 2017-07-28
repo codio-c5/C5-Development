@@ -80,5 +80,62 @@
     "state": "pass"
    }
   ]
+ },
+ {
+  "taskId": "fill-in-the-blanks-3101450858",
+  "points": 1,
+  "state": {
+   "active": [
+    "Caesar cipher",
+    "substitution cipher",
+    "shift cipher"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "Caesar cipher",
+     "substitution cipher",
+     "shift cipher"
+    ],
+    "right": [
+     "Caesar cipher",
+     "substitution cipher",
+     "shift cipher"
+    ],
+    "timestamp": 1501265011266,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "fill-in-the-blanks-1681383484",
+  "points": 1,
+  "state": {
+   "active": [
+    "encryption key",
+    "ciphertext",
+    "decryption key",
+    "decrypt"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "encryption key",
+     "ciphertext",
+     "decryption key",
+     "decrypt"
+    ],
+    "right": [
+     "encryption key",
+     "ciphertext",
+     "decryption key",
+     "decrypt"
+    ],
+    "timestamp": 1501265134314,
+    "state": "pass"
+   }
+  ]
  }
 ]

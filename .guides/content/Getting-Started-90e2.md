@@ -1,0 +1,1 @@
+### The first unit was all about symmetric key cryptography. Ready to learn about asymmetric, or public key, cryptography? In this section, you'll get an overview of the topic, which will prepare you for the coming sections. 

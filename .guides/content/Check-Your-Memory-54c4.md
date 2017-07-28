@@ -1,5 +1,5 @@
 
-### Before we delve into public key encryption, take a look back at these key points. You will encounter these important concepts again soon.  If you don't remember them all, you may want to go back and review them before going forward.
+### Before we delve into public key encryption, let's check your understanding of some key points. You'll encounter these important concepts again soon. If you don't remember them all, you might want to go back to the first unit to do some review.
 
 {Check It!|assessment}(fill-in-the-blanks-3101450858)
 {Check It!|assessment}(fill-in-the-blanks-836680581)

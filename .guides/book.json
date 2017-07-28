@@ -210,6 +210,7 @@
        "title": "Hackathons",
        "id": "71ab9bd2-9e6f-c795-f52c-b66c0caaf032",
        "type": "section",
+       "pageId": "308ef9b8-2001-98f0-015f-0b91d9208a3d",
        "children": [
         {
          "title": "Hackathon 1: The Shift Cipher as a Flowchart   ",
@@ -223,8 +224,7 @@
          "type": "page",
          "pageId": "4c976928-c138-4765-3191-a236fe4c6414"
         }
-       ],
-       "pageId": "308ef9b8-2001-98f0-015f-0b91d9208a3d"
+       ]
       }
      ]
     },
@@ -240,6 +240,12 @@
        "type": "section",
        "children": [
         {
+         "title": "Check Your Memory",
+         "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
+         "type": "page",
+         "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
+        },
+        {
          "title": "Introducing Public Key Cryptography",
          "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
          "type": "page",
@@ -252,18 +258,13 @@
          "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
         },
         {
-         "title": "Check Your Memory",
-         "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
-         "type": "page",
-         "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
-        },
-        {
          "title": "An Overview of Public Key (Asymmetric) Encryption",
          "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
          "type": "page",
          "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
         }
-       ]
+       ],
+       "pageId": "90e21dbe-33ac-eaa8-fbdb-e38b33154dbe"
       },
       {
        "title": "RSA Encryption",
