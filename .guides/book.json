@@ -301,6 +301,12 @@
          "id": "8dbb6b08-efe0-66d8-3b42-543009bcca14",
          "type": "page",
          "pageId": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4"
+        },
+        {
+         "title": "A Day in the Life of Karen Juhl",
+         "id": "952dfb82-627d-0b74-96bb-67d1230638f6",
+         "type": "page",
+         "pageId": "9529cc6a-33d6-c4f4-e8e2-6c5aca5d93f2"
         }
        ]
       },
@@ -315,12 +321,6 @@
        "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
        "type": "page",
        "pageId": "5a9266e7-9fe3-188a-5b14-f25a19808721"
-      },
-      {
-       "title": "A Day in the Life of Karen Juhl",
-       "id": "952dfb82-627d-0b74-96bb-67d1230638f6",
-       "type": "page",
-       "pageId": "9529cc6a-33d6-c4f4-e8e2-6c5aca5d93f2"
       },
       {
        "title": "Key Agreement Algorithms",
@@ -361,7 +361,7 @@
        "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59"
       },
       {
-       "title": "Man-in-the-Middle Attack",
+       "title": "Man-in-the-Middle Attacks",
        "id": "027482d0-3d75-ad7c-9115-e948894f207f",
        "type": "page",
        "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"

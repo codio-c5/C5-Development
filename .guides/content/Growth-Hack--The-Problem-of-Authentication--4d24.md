@@ -4,7 +4,7 @@
 
 
 <figure class="snippetimg" style="margin: 10 auto;width:60%">
-  <img src=".guides/img/mask.jpg" alt="A Mask. Source: Wikimedia Commons>
+  <img src=".guides/img/mask.jpg" alt="A Mask. Source: Wikimedia Commons">
   <figcaption style="font-size: 0.8em; text-align: left;">A Mask. 
   <br>Source: Wikimedia Commons.</figcaption>
 </figure>
