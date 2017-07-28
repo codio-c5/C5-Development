@@ -54,6 +54,18 @@
    "teacherOnly": false,
    "learningObjectives": ""
   },
+ {
+   "id": "026ae9aa-d89f-c06c-02ad-7e5c6bddf516",
+   "title": "Getting Started",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Getting-Started-026a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
   {
    "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
    "title": "Cryptography Terms",
