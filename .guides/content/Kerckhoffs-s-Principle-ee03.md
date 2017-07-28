@@ -13,7 +13,7 @@
 
 Modern encryption algorithms, such as the Data Encryption Standard (DES) and the Advanced Encryption Standard (AES), follow this principle. In other words, these algorithms rely on the strength of the keys that they use. 
 
-The stronger the keys, the harder it is to decode the ciphertext. The algorithms are public and are considered strong only if they survive attempts by cryptanalysts to break them. It's like designing a safe and inviting everybody to break into it. If it survives that test, the safe is considered strong and safe.
+The stronger the keys, the harder it is to decode the ciphertext. The algorithms are public and are considered strong only if they survive attempts by cryptanalysts to break them. It's like designing a safe and inviting everybody to break into it. If it survives that test, the safe is considered strong and secure.
 
 ## Security by Obscurity
 In security engineering, *security through obscurity* (or *security by obscurity*) is the reliance on the secrecy of the design or the implementation of the key as the main method of providing security. 

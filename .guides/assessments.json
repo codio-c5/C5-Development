@@ -1142,7 +1142,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**What is the biggest challenge associated with the distribution of key in symmetric key encryption?**",
+   "instructions": "**What is the biggest challenge associated with the distribution of a key in symmetric key encryption?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -1889,13 +1889,13 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
-   "text": "The Diffie-Hellman algorithm is used as a method of exchanging  a cryptography <<<key>>> for use in symmetric encryption algorithms like AES.  ",
+   "text": "The Diffie-Hellman algorithm is used as a method of exchanging a cryptography <<<key>>> for use in symmetric encryption algorithms like AES.  ",
    "tokens": {
     "blank": [
      "key"
     ],
     "text": [
-     "The Diffie-Hellman algorithm is used as a method of exchanging  a cryptography ",
+     "The Diffie-Hellman algorithm is used as a method of exchanging a cryptography ",
      0,
      " for use in symmetric encryption algorithms like AES.  "
     ]
