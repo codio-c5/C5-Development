@@ -71,7 +71,7 @@
          "pageId": "bd666cda-877a-dccb-29c6-17498d0cdc92"
         },
         {
-         "title": "Lab Part 1: Encrypting with the Caesar Cipher  ",
+         "title": "Lab Part 1: Encrypting with the Caesar Cipher",
          "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
          "type": "page",
          "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
@@ -329,7 +329,7 @@
        "pageId": "d228c8f4-09b3-57f5-0992-338cab98d00a",
        "children": [
         {
-         "title": "An Overview of Key Agreement",
+         "title": "An Overview of Key Agreement Algorithms",
          "id": "92de8510-6ad8-1174-ff08-d9e06dac8713",
          "type": "page",
          "pageId": "f8b66935-383a-0a46-a410-9c5d85fb278a"
@@ -341,30 +341,30 @@
          "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
         },
         {
-         "title": "Lab Part 2: Lab Check In",
+         "title": "Lab Check In",
          "id": "f9d21aa4-c727-8da0-d02e-61f78f8ad912",
          "type": "page",
          "pageId": "686ca38b-a4a8-70a3-1771-db4d868c1a29"
-        },
-        {
-         "title": "Across the Disciplines: Business",
-         "id": "e3649d4f-6eb2-4224-a9cb-7d1f516b8e1a",
-         "type": "page",
-         "pageId": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68"
-        },
-        {
-         "title": "Growth Hack: The Problem of Authentication ",
-         "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
-         "type": "page",
-         "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59"
-        },
-        {
-         "title": "Man in the Middle Attack",
-         "id": "027482d0-3d75-ad7c-9115-e948894f207f",
-         "type": "page",
-         "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"
         }
        ]
+      },
+      {
+       "title": "Across the Disciplines: Business",
+       "id": "e3649d4f-6eb2-4224-a9cb-7d1f516b8e1a",
+       "type": "page",
+       "pageId": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68"
+      },
+      {
+       "title": "Growth Hack: The Problem of Authentication ",
+       "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
+       "type": "page",
+       "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59"
+      },
+      {
+       "title": "Man-in-the-Middle Attack",
+       "id": "027482d0-3d75-ad7c-9115-e948894f207f",
+       "type": "page",
+       "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"
       },
       {
        "title": "Unit Summary & Assessments",

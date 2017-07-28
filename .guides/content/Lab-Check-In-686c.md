@@ -1,5 +1,5 @@
+Now that you have experienced using key agreements, check what you've learned:
 
-## Lab Check In
 {Check It!|assessment}(fill-in-the-blanks-956607519)
 
 

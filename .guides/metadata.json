@@ -55,6 +55,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "026ae9aa-d89f-c06c-02ad-7e5c6bddf516",
+   "title": "Getting Started",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Getting-Started-026a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
    "title": "Cryptography Terms",
    "files": [
@@ -166,7 +178,7 @@
   },
   {
    "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
+   "title": "Lab Part 1: Encrypting with the Caesar Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -181,7 +193,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
+   "content-file": ".guides/content/Lab-Part-1--Encrypting-with-the-Caesar-Cipher---6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -204,7 +216,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/-Lab-Part-2--Decrypting-the-Caesar-Cipher-3dad.md",
+   "content-file": ".guides/content/Lab-Part-2--Decrypting-with-the-Caesar-Cipher-3dad.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -878,7 +890,7 @@
   },
   {
    "id": "f8b66935-383a-0a46-a410-9c5d85fb278a",
-   "title": "An Overview of Key Agreement Protocols",
+   "title": "An Overview of Key Agreement Algorithms",
    "files": [
     {
      "path": "#tabs",
@@ -888,7 +900,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-Key-Agreement-Protocols-f8b6.md",
+   "content-file": ".guides/content/An-Overview-of-Key-Agreement-Algorithms-f8b6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -926,11 +938,11 @@
   },
   {
    "id": "686ca38b-a4a8-70a3-1771-db4d868c1a29",
-   "title": "Lab Part 2: Lab Check In",
+   "title": "Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-686c.md",
+   "content-file": ".guides/content/Lab-Check-In-686c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -979,7 +991,7 @@
   },
   {
    "id": "027482d0-3d75-ad7c-9115-e948894f207f",
-   "title": "Man in the Middle Attack",
+   "title": "Man-in-the-Middle Attack",
    "files": [
     {
      "path": "#tabs",

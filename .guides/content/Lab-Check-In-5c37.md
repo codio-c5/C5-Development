@@ -1,4 +1,4 @@
-Now that you have experience encrypting and decrypting messages with a public key, Explore what you have learned with the following questions:
+Now that you have experience encrypting and decrypting messages with a public key, explore what you have learned with the following questions:
 
 {Check It!|assessment}(fill-in-the-blanks-1284335134)
 

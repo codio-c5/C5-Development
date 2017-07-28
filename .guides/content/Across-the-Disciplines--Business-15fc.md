@@ -1,12 +1,12 @@
 ## Women in Cybersecurity Careers
 
-### Key findings from the 2017 Global Information Security Workforce Study (GISWS): Women in Cybersecurity Report shows little change to the gap between women and men in cybersecurity careers.  
+### Key findings from the "2017 Global Information Security Workforce Study: Women in Cybersecurity" report shows little change in the gap between women and men in cybersecurity careers.  
 
 - Women represent just 11% of the cybersecurity workforce globally, and 14% in North America
 - Men are 4x more likely to hold executive level roles, and 9x more likely to hold management roles
 - On average, women earn less than men at every level
 
-<figcaption style="font-size: 0.8em; text-align: left;"> <i>Source:</i> https://iamcybersafe.org/wpcontent/uploads/2017/03/WomensReport.pdf</i> 
+<figcaption style="font-size: 0.8em; text-align: left;"> <i>Source:</i> https://iamcybersafe.org/wp-content/uploads/2017/03/WomensReport.pdf</i> 
 </figcaption> 
 
 
