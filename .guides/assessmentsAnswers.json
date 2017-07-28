@@ -1,0 +1,84 @@
+[
+ {
+  "taskId": "fill-in-the-blanks-836680581",
+  "points": 1,
+  "state": {
+   "active": [
+    "symmetric key encryption",
+    "public key encryption",
+    "public",
+    "private"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "symmetric key encryption",
+     "public key encryption",
+     "public",
+     "private"
+    ],
+    "right": [
+     "symmetric key encryption",
+     "public key encryption",
+     "public",
+     "private"
+    ],
+    "timestamp": 1501260648191,
+    "state": "pass"
+   },
+   {
+    "current": [
+     "symmetric key encryption",
+     "public key encryption",
+     "public",
+     "private"
+    ],
+    "right": [
+     "symmetric key encryption",
+     "public key encryption",
+     "public",
+     "private"
+    ],
+    "timestamp": 1501260647832,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "fill-in-the-blanks-2547250082",
+  "points": 1,
+  "state": {
+   "active": [
+    "key agreement",
+    "session key"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "key agreement",
+     "session key"
+    ],
+    "right": [
+     "key agreement",
+     "session key"
+    ],
+    "timestamp": 1501260702746,
+    "state": "pass"
+   },
+   {
+    "current": [
+     "key agreement",
+     "session key"
+    ],
+    "right": [
+     "key agreement",
+     "session key"
+    ],
+    "timestamp": 1501260702674,
+    "state": "pass"
+   }
+  ]
+ }
+]
