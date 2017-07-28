@@ -1,5 +1,3 @@
-
-
 ### In 1977, three researchers at the MIT Laboratory of Computer Science came up with the RSA Encryption algorithm. Inspired by the work of Diffie and Helman, RSA (Named after inventors Rivest, Shamir, and Adleman) was the first viable and publically available public key encryption algorithm and became the foundation for secure global communication on the Internet.
 <br>
 
@@ -26,6 +24,3 @@ The Internet as we know it exists because RSA made e-commerce possible. RSA bril
 |||guidance 
 **Instructor's note:**  The optional Hackathons at the end of the lesson are best integrated after this page.  If you plan to use them, they fit here nicely.
 |||
-
-
-

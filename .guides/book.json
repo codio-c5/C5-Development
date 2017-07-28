@@ -267,23 +267,11 @@
        ]
       },
       {
-       "title": "RSA new",
-       "id": "1e1859cf-55b0-5061-b778-00ca63a05cda",
-       "type": "section",
-       "children": [
-        {
-         "title": "RSA Encryption",
-         "id": "37e96197-c62b-a039-a062-f855e41b3bba",
-         "type": "page",
-         "pageId": "862e5e82-94dc-37b4-406d-4e76175fb86c"
-        }
-       ]
-      },
-      {
        "title": "RSA Encryption",
        "id": "0c3708e4-7255-90e9-07d5-7de9cedb28bd",
        "type": "section",
-       "children": []
+       "children": [],
+       "pageId": "d930b7c8-9f43-6cce-d58d-335d7285f392"
       },
       {
        "title": "CreatorSpace Lab: Public Key Encryption",
@@ -707,5 +695,5 @@
    ]
   }
  ],
- "name": "C5 Cybersecurity"
+ "name": "C5-Development"
 }

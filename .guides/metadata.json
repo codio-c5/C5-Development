@@ -716,24 +716,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "862e5e82-94dc-37b4-406d-4e76175fb86c",
-   "title": "RSA Encryption",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/RSA-Encryption-862e.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
    "title": "CreatorSpace Lab: Inside RSA Encryption (Part 1: Key Generation)",
    "files": [
@@ -1962,6 +1944,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/RSA-Encryption-074a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d930b7c8-9f43-6cce-d58d-335d7285f392",
+   "title": "RSA Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/RSA-Encryption-d930.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
