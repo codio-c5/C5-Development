@@ -574,7 +574,7 @@
   },
   {
    "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
-   "title": "Hackathon 1: Caesar Cipher as a Block Flowchart   ",
+   "title": "Hackathon 1: The Shift Cipher as a Block Flowchart   ",
    "files": [
     {
      "path": "#tabs",
@@ -589,7 +589,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon-1--Caesar-Cipher-as-a-Block-Flowchart----5963.md",
+   "content-file": ".guides/content/Hackathon-1--The-Shift-Cipher-as-a-Block-Flowchart----5963.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -699,7 +699,7 @@
   },
   {
    "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
-   "title": "An Overview of Public Key (Asymmetric) Encryption",
+   "title": "How Public Key Encryption Works",
    "files": [
     {
      "path": "#tabs",
@@ -709,7 +709,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-Public-Key--Asymmetric--Encryption-eb73.md",
+   "content-file": ".guides/content/How-Public-Key-Encryption-Works-eb73.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1926,6 +1926,42 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Additional-Assessment-Items-7e9f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ff89f99b-a983-e8e2-56f1-269ae29663f5",
+   "title": "Hackathons",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hackathons-ff89.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a8427e04-65fe-0d85-4647-64bfcae0cd3f",
+   "title": "RSA Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/RSA-Encryption-a842.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "074ac957-3d5a-9ae4-017b-6e45acdb214d",
+   "title": "RSA Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/RSA-Encryption-074a.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

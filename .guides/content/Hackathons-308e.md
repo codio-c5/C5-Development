@@ -1,1 +1,0 @@
-### Hackathons help you dig deeper into a topic. In these hackathons, you can analyze a very detailed process flowchart for handling shift ciphers and you can try to devise safe ways to share a key between two parties.

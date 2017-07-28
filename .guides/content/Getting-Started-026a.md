@@ -1,1 +1,0 @@
-### In this section you'll be introduced to the world of cryptology and its two main practices: cryptography and cryptanalysis. You'll also begin to learn about the subject of this unit, symmetric key cryptography.

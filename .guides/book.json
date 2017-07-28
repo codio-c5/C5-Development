@@ -210,10 +210,10 @@
        "title": "Hackathons",
        "id": "71ab9bd2-9e6f-c795-f52c-b66c0caaf032",
        "type": "section",
-       "pageId": "308ef9b8-2001-98f0-015f-0b91d9208a3d",
+       "pageId": "ff89f99b-a983-e8e2-56f1-269ae29663f5",
        "children": [
         {
-         "title": "Hackathon 1: The Shift Cipher as a Flowchart   ",
+         "title": "Hackathon 1: The Shift Cipher as a Block Flowchart   ",
          "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
          "type": "page",
          "pageId": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07"
@@ -238,6 +238,7 @@
        "title": "Getting Started",
        "id": "8aecf9ab-b3ca-13f1-11ca-ba4f98be9795",
        "type": "section",
+       "pageId": "90e21dbe-33ac-eaa8-fbdb-e38b33154dbe",
        "children": [
         {
          "title": "Check Your Memory",
@@ -246,37 +247,43 @@
          "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
         },
         {
-         "title": "Introducing Public Key Cryptography",
-         "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
-         "type": "page",
-         "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
-        },
-        {
          "title": "Solutions for Key Distribution ",
          "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
          "type": "page",
          "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
         },
         {
-         "title": "An Overview of Public Key (Asymmetric) Encryption",
+         "title": "Introducing Public Key Cryptography",
+         "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+         "type": "page",
+         "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
+        },
+        {
+         "title": "How Public Key Encryption Works",
          "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
          "type": "page",
          "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
         }
-       ],
-       "pageId": "90e21dbe-33ac-eaa8-fbdb-e38b33154dbe"
+       ]
+      },
+      {
+       "title": "RSA new",
+       "id": "1e1859cf-55b0-5061-b778-00ca63a05cda",
+       "type": "section",
+       "children": [
+        {
+         "title": "RSA Encryption",
+         "id": "37e96197-c62b-a039-a062-f855e41b3bba",
+         "type": "page",
+         "pageId": "862e5e82-94dc-37b4-406d-4e76175fb86c"
+        }
+       ]
       },
       {
        "title": "RSA Encryption",
        "id": "0c3708e4-7255-90e9-07d5-7de9cedb28bd",
        "type": "section",
        "children": []
-      },
-      {
-       "title": "RSA Encryption",
-       "id": "37e96197-c62b-a039-a062-f855e41b3bba",
-       "type": "page",
-       "pageId": "862e5e82-94dc-37b4-406d-4e76175fb86c"
       },
       {
        "title": "CreatorSpace Lab: Public Key Encryption",
@@ -388,6 +395,7 @@
        "title": "Hackathons",
        "id": "53e1c4d2-b4f8-4619-270d-d4fc6177dd21",
        "type": "section",
+       "pageId": "80cc90e2-9b2a-254a-c2a0-0dd747079804",
        "children": [
         {
          "title": "Hackathon: Theoretical Mathematics",
@@ -401,8 +409,7 @@
          "type": "page",
          "pageId": "59d277e2-2dc2-d8d8-f688-33045a4a3e97"
         }
-       ],
-       "pageId": "80cc90e2-9b2a-254a-c2a0-0dd747079804"
+       ]
       }
      ]
     },
