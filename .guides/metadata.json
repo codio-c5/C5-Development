@@ -148,7 +148,7 @@
   },
   {
    "id": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
-   "title": "The Caesar Cipher",
+   "title": "Early Cryptography: The Caesar Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -158,7 +158,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Caesar-Cipher-ac90.md",
+   "content-file": ".guides/content/Early-Cryptography--The-Caesar-Cipher-ac90.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -230,7 +230,7 @@
   },
   {
    "id": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
-   "title": "Across the Disciplines: Language",
+   "title": "Across the Disciplines: Languages",
    "files": [
     {
      "path": "#tabs",
@@ -240,7 +240,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Across-the-Disciplines--Language-0a33.md",
+   "content-file": ".guides/content/Across-the-Disciplines--Languages-0a33.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -343,7 +343,7 @@
   },
   {
    "id": "e20f7a42-d00f-0727-77d9-6aa00be78ce9",
-   "title": "The Substitution Cipher",
+   "title": "Substitution Ciphers",
    "files": [
     {
      "path": "#tabs",
@@ -353,7 +353,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Substitution-Cipher-e20f.md",
+   "content-file": ".guides/content/Substitution-Ciphers-e20f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -361,7 +361,7 @@
   },
   {
    "id": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
-   "title": "CreatorSpace Lab: The Substitution Cipher ",
+   "title": "CreatorSpace Lab: Try Substitution Ciphers ",
    "files": [
     {
      "path": "#tabs",
@@ -381,7 +381,7 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--The-Substitution-Cipher--a176.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Try-Substitution-Ciphers--a176.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -389,7 +389,7 @@
   },
   {
    "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
-   "title": "Breaking the Substitution Cipher",
+   "title": "Breaking Substitution Ciphers",
    "files": [
     {
      "path": "#tabs",
@@ -399,7 +399,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Breaking-the-Substitution-Cipher-b256.md",
+   "content-file": ".guides/content/Breaking-Substitution-Ciphers-b256.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -407,7 +407,7 @@
   },
   {
    "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
-   "title": "CreatorSpace Lab: Frequency Analysis and the Substitution Cipher",
+   "title": "CreatorSpace Lab: Frequency Analysis",
    "files": [
     {
      "path": "#tabs",
@@ -417,7 +417,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Frequency-Analysis-and-the-Substitution-Cipher-b2ec.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Frequency-Analysis-b2ec.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -466,7 +466,7 @@
   },
   {
    "id": "39b831a9-2f1b-59bd-4b41-478504cfa5a5",
-   "title": "Block Ciphers and NIST",
+   "title": "Block Ciphers",
    "files": [
     {
      "path": "#tabs",
@@ -476,7 +476,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Block-Ciphers-and-NIST-39b8.md",
+   "content-file": ".guides/content/Block-Ciphers-39b8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -704,6 +704,24 @@
    "learningObjectives": ""
   },
   {
+   "id": "862e5e82-94dc-37b4-406d-4e76175fb86c",
+   "title": "RSA Encryption",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/RSA-Encryption-862e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
    "title": "CreatorSpace Lab: Inside RSA Encryption (Part 1: Key Generation)",
    "files": [
@@ -797,72 +815,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "862e5e82-94dc-37b4-406d-4e76175fb86c",
-   "title": "RSA Encryption",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/RSA-Encryption-862e.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-   "title": "CreatorSpace Lab: Inside RSA Encryption",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "rsa/plaintext.txt",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "rsa/ciphertext.txt",
-     "panel": 1,
-     "action": "open"
-    }
-   ],
-   "layout": "3-cell-tree",
-   "path": [
-    "rsa"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption-0aea.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "344f2427-5128-c1b9-4ec1-1509691a6fc3",
-   "title": "Lab Part 2: Lab Check In",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-344f.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "abbc437e-487e-9b93-2230-599a582187e5",
    "title": "Across the Disciplines: Mathematics ",
    "files": [
@@ -893,6 +845,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Elliptic-Curve-Cryptography--ECC--5a92.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9529cc6a-33d6-c4f4-e8e2-6c5aca5d93f2",
+   "title": "A Day in the Life of Karen Juhl",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Day-in-the-Life-of-Karen-Juhl-9529.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -961,6 +925,18 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Key-Agreement--Exchange--c4ef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "686ca38b-a4a8-70a3-1771-db4d868c1a29",
+   "title": "Lab Part 2: Lab Check In",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-686c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1272,6 +1248,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/File-Synchronization-21b3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "45909e64-08ec-62c8-ab5e-0c2ad7343136",
+   "title": "A Day in the Life of Bob Fabien Zinga",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Day-in-the-Life-of-Bob-Fabien-Zinga-4590.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1728,6 +1716,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Meetup--Common-Applications-Using-PKI--fdf6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e1b25974-b24d-65dd-7545-71c36e4bc99d",
+   "title": "Digital Signatures at Work: DocuSign",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Digital-Signatures-at-Work--DocuSign-e1b2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

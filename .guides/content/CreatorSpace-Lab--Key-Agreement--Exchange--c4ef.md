@@ -2,7 +2,7 @@
 
 Pair up with a classmate. You're going to create a shared key using the Diffie-Hellman Key Exchange algorithm. This algorithm enables two parties to generate a shared secret without directly communicating that secret. 
     
-1. **Pick a partner.** One person will will take the role of Alice and the other Bob.
+1. **Pick a partner.** One person will will take the role of Alice and the other is Bob.
 1. **Agree on two non-secret numbers.** Agree with your partner on two shared numbers, $P$ and $G$.  They must be prime numbers.
   Here are a few prime numbers to use for $P$ and $G$: 
   ```
@@ -13,15 +13,15 @@ Pair up with a classmate. You're going to create a shared key using the Diffie-H
 **1. Choose a private number.** Alice picks a number, called $A$ and Bob picks a number $B$. Each person keeps their number a secret. For instance, Alice picks $A=6$ and Bob picks $B=15$.
 
 **2. Calculate the public (shared) key.**
- -  **Alice calculates.** If you are Alice, enter the following command in the left pane:
+ -  **Alice calculates.** If you are Alice, enter the following command in the terminal window, the upper left pane:
 
 ```python dh.py 23 5 6```
 
  - Alice plugs the shared numbers $P$ and $G$ into the formula, $X = G^A mod P$. 
  In plain English, $X$ equals $G$ and $G$ multiplied by itself $A$ times and then divided by $P$ keeping only the remainder. Using the example values: $5*5*5*5*5*5 = 15625$ and then $15625  mod  23 = 8$.
 
- - **Bob calculates.** If you are Bob, enter the following command in the window to the left:
-
+ - **Bob calculates.** If you are Bob, enter the following command in the the terminal window, the upper left pane:
+ 
 ```python dh-pubkey.py 23 5 15```
 
 Partner Bob does the same using $X = G^A mod P$ or $5^{15} mod 23$ and the answer becomes $X=19$.
@@ -36,11 +36,11 @@ In the left pane, enter your partner's public key at the prompt.
 
 Alice gets the number **2**.
 
- -  **Bob calculates his secret key.** Bob can do the same. He generate his secret using the value Alice provides, and the original numbers **23** and **5**:
-
+ -  **Bob calculates his secret key.** Bob can do the same. He generates his secret using the value Alice provides, and the original numbers **23** and **5**. 
+ 
 In the left pane, enter your partner's public key at the prompt.
 
-Bob gets the number 2.
+Bob gets the number **2**.
 
 **5. Crack your partner's key.**
 
@@ -61,17 +61,9 @@ Now you have a shared key with your partner.
  
     Click on the output file ```diffiehellman/out.txt``` in the file tree to the left.
  
-  Hint: small key size makes one vulnerable to brute force attacks.
+ **Hint:** smaller key sizes are more vulnerable to brute force attacks.
 
  - If you weren't successful, try again using their key.
-
-## Check Your Knowledge
-{Check It!|assessment}(fill-in-the-blanks-956607519)
-
-
-
-## Growth Hack
-{Submit Answer!|assessment}(free-text-2696978272)
 
 
 |||guidance

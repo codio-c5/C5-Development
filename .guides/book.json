@@ -51,7 +51,7 @@
        "pageId": "dd910baf-297f-35ea-dd6d-08eedab756f6"
       },
       {
-       "title": "The Caesar Cipher",
+       "title": "Early Cryptography: The Caesar Cipher",
        "id": "cc4c81dc-677d-4ad4-d61b-2dab9ed4e7ad",
        "type": "section",
        "pageId": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
@@ -77,7 +77,7 @@
        "pageId": "3fd1db77-1a25-5692-1ec9-0bb6ff39de1e",
        "children": [
         {
-         "title": "Across the Disciplines: Language",
+         "title": "Across the Disciplines: Languages",
          "id": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
          "type": "page",
          "pageId": "0a33dd13-259a-efd7-a723-9a07d3d24ef9"
@@ -115,25 +115,25 @@
        ]
       },
       {
-       "title": "The Substitution Cipher",
+       "title": "Substitution Ciphers",
        "id": "917f2ecd-9624-3e35-71b6-7454e365be35",
        "type": "section",
        "pageId": "e20f7a42-d00f-0727-77d9-6aa00be78ce9",
        "children": [
         {
-         "title": "CreatorSpace Lab: The Substitution Cipher ",
+         "title": "CreatorSpace Lab: Try Substitution Ciphers ",
          "id": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
          "type": "page",
          "pageId": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6"
         },
         {
-         "title": "Breaking the Substitution Cipher",
+         "title": "Breaking Substitution Ciphers",
          "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
          "type": "page",
          "pageId": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a"
         },
         {
-         "title": "CreatorSpace Lab: Frequency Analysis and the Substitution Cipher",
+         "title": "CreatorSpace Lab: Frequency Analysis",
          "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
          "type": "page",
          "pageId": "b2ecb120-971e-fc41-9bc6-31901671f8f9"
@@ -153,7 +153,7 @@
        ]
       },
       {
-       "title": "Block Ciphers and NIST",
+       "title": "Block Ciphers",
        "id": "305dacab-b578-c674-d488-238f6d6b77ad",
        "type": "section",
        "pageId": "39b831a9-2f1b-59bd-4b41-478504cfa5a5",
@@ -244,6 +244,12 @@
        "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
       },
       {
+       "title": "RSA Encryption",
+       "id": "37e96197-c62b-a039-a062-f855e41b3bba",
+       "type": "page",
+       "pageId": "862e5e82-94dc-37b4-406d-4e76175fb86c"
+      },
+      {
        "title": "CreatorSpace Lab: Public Key Encryption",
        "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
        "type": "page",
@@ -268,24 +274,6 @@
        "pageId": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4"
       },
       {
-       "title": "RSA Encryption",
-       "id": "37e96197-c62b-a039-a062-f855e41b3bba",
-       "type": "page",
-       "pageId": "862e5e82-94dc-37b4-406d-4e76175fb86c"
-      },
-      {
-       "title": "CreatorSpace Lab: RSA Encryption",
-       "id": "0aea8b8a-9ae1-245d-3df7-f4359fc01908",
-       "type": "page",
-       "pageId": "0aea8b8a-9ae1-245d-3df7-f4359fc01908"
-      },
-      {
-       "id": "430dbb7c-1ec1-ff0e-7ad3-987271c1b044",
-       "title": "Lab Part 2: Lab Check In",
-       "pageId": "344f2427-5128-c1b9-4ec1-1509691a6fc3",
-       "type": "page"
-      },
-      {
        "title": "Across the Disciplines: Mathematics ",
        "id": "5077a5bf-0c59-d9dd-cfc3-5a813f6ed5fe",
        "type": "page",
@@ -296,6 +284,12 @@
        "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
        "type": "page",
        "pageId": "5a9266e7-9fe3-188a-5b14-f25a19808721"
+      },
+      {
+       "id": "952dfb82-627d-0b74-96bb-67d1230638f6",
+       "title": "A Day in the Life of Karen Juhl",
+       "pageId": "9529cc6a-33d6-c4f4-e8e2-6c5aca5d93f2",
+       "type": "page"
       },
       {
        "title": "Key Agreement Algorithms",
@@ -314,6 +308,12 @@
          "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
          "type": "page",
          "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
+        },
+        {
+         "id": "f9d21aa4-c727-8da0-d02e-61f78f8ad912",
+         "title": "Lab Part 2: Lab Check In",
+         "pageId": "686ca38b-a4a8-70a3-1771-db4d868c1a29",
+         "type": "page"
         },
         {
          "title": "Across the Disciplines: Business",
@@ -429,6 +429,12 @@
          "id": "c5682735-c5a6-8cbb-94f7-824f4dac5b85",
          "type": "page",
          "pageId": "21b3e5dc-3812-618c-4496-474f537928e7"
+        },
+        {
+         "id": "4f4c1d09-cb8c-76aa-b3e1-48677816fd67",
+         "title": "A Day in the Life of Bob Fabien Zinga",
+         "pageId": "45909e64-08ec-62c8-ab5e-0c2ad7343136",
+         "type": "page"
         },
         {
          "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
@@ -592,6 +598,12 @@
        "pageId": "fdf6363b-efde-703a-36d4-fbda6c8b1de0"
       },
       {
+       "id": "34ba6832-5aba-1b7d-743a-f5242d368fe7",
+       "title": "Digital Signatures at Work: DocuSign",
+       "pageId": "e1b25974-b24d-65dd-7545-71c36e4bc99d",
+       "type": "page"
+      },
+      {
        "title": "CreatorSpace Lab:  Digital Certificates in Chrome",
        "id": "1405df79-f193-df1a-3eb3-c43912c51c95",
        "type": "page",
@@ -658,5 +670,5 @@
    ]
   }
  ],
- "name": "c5dev-book"
+ "name": "C5-Development"
 }
