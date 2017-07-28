@@ -270,38 +270,39 @@
        "title": "RSA Encryption",
        "id": "0c3708e4-7255-90e9-07d5-7de9cedb28bd",
        "type": "section",
-       "children": [],
-       "pageId": "d930b7c8-9f43-6cce-d58d-335d7285f392"
-      },
-      {
-       "title": "CreatorSpace Lab: Public Key Encryption",
-       "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
-       "type": "page",
-       "pageId": "2a216c35-e941-83a0-6d1c-f8841fa636ef"
-      },
-      {
-       "id": "6602e968-f7c9-fee7-6097-8cea16bc2e60",
-       "title": "Lab Part 1: Generate Your Keys",
-       "pageId": "e9297ecc-95e6-ab4a-371f-0cce68a68542",
-       "type": "page"
-      },
-      {
-       "title": "Lab Part 2: Encryption",
-       "id": "5f79ca17-6378-c360-3f74-c265a2ab6167",
-       "type": "page",
-       "pageId": "ea3463b0-9acd-66cb-a112-f1fba1c3a33a"
-      },
-      {
-       "title": "Lab Part 3: Decryption",
-       "id": "daabb300-b53c-7e9b-de72-18e4f0ce3883",
-       "type": "page",
-       "pageId": "6188e15b-f436-ba3c-d8d5-51ccee88e3e4"
-      },
-      {
-       "title": "Lab Part 4: Lab Check In",
-       "id": "8dbb6b08-efe0-66d8-3b42-543009bcca14",
-       "type": "page",
-       "pageId": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4"
+       "pageId": "d930b7c8-9f43-6cce-d58d-335d7285f392",
+       "children": [
+        {
+         "title": "CreatorSpace Lab: Public Key Encryption with RSA",
+         "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
+         "type": "page",
+         "pageId": "2a216c35-e941-83a0-6d1c-f8841fa636ef"
+        },
+        {
+         "title": "Lab Part 1: Generate Your Keys",
+         "id": "6602e968-f7c9-fee7-6097-8cea16bc2e60",
+         "type": "page",
+         "pageId": "e9297ecc-95e6-ab4a-371f-0cce68a68542"
+        },
+        {
+         "title": "Lab Part 2: Encryption",
+         "id": "5f79ca17-6378-c360-3f74-c265a2ab6167",
+         "type": "page",
+         "pageId": "ea3463b0-9acd-66cb-a112-f1fba1c3a33a"
+        },
+        {
+         "title": "Lab Part 3: Decryption",
+         "id": "daabb300-b53c-7e9b-de72-18e4f0ce3883",
+         "type": "page",
+         "pageId": "6188e15b-f436-ba3c-d8d5-51ccee88e3e4"
+        },
+        {
+         "title": "Lab Check In",
+         "id": "8dbb6b08-efe0-66d8-3b42-543009bcca14",
+         "type": "page",
+         "pageId": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4"
+        }
+       ]
       },
       {
        "title": "Across the Disciplines: Mathematics ",

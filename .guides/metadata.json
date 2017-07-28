@@ -717,7 +717,7 @@
   },
   {
    "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
-   "title": "CreatorSpace Lab: Inside RSA Encryption (Part 1: Key Generation)",
+   "title": "CreatorSpace Lab: Public Key Encryption with RSA",
    "files": [
     {
      "path": "#tabs",
@@ -729,7 +729,7 @@
     "lab-part1"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption--Part-1--Key-Generation--2a21.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Public-Key-Encryption-with-RSA-2a21.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -792,7 +792,7 @@
   },
   {
    "id": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4",
-   "title": "Lab Part 4: Lab Check In",
+   "title": "Lab Check In",
    "files": [
     {
      "path": "#tabs",
@@ -802,7 +802,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-4--Lab-Check-In-5c37.md",
+   "content-file": ".guides/content/Lab-Check-In-5c37.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
