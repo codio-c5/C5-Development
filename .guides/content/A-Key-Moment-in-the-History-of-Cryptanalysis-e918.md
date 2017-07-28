@@ -28,7 +28,7 @@ During World War II, Alan Turing and his team in British intelligence were able 
 Cybersecurity is just as much a part of the news landscape today.  Nearly every week there are reports of new breaches and hacks into personal, corporate, and governmental information . [Learn more about cybersecurity in the news.](http://www.databreachtoday.com/news)
 
 
-In this lesson, you'll learn how to code and decipher messages, first with simple methods and later with more complex methods that require increasingly powerful mathematics and computers.
+In this unit, you'll learn how to code and decipher messages, first with simple methods and later with more complex methods that require increasingly powerful mathematics and computers.
 
 ||| guidance
 **Instructor's Note:**

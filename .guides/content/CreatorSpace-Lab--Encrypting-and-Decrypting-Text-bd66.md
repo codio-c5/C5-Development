@@ -1,0 +1,1 @@
+### In this hands-on lab, you'll be able to experiment with using the Caesar cipher both to encrypt and decrypt text.

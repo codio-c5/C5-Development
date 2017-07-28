@@ -1,6 +1,4 @@
-Let's play around with a real example.
-
-The first verse of the song *Take Me Out To the Ball Game* is shown. This is the plaintext you will encrypt in this lab.
+The first verse of the song *Take Me Out To the Ball Game* is shown to the left. This is the plaintext you will encrypt in this lab.
 
 On line 5, add the next line of the song: **Let me root, root, root for the home team.** 
 
