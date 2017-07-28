@@ -878,7 +878,7 @@
   },
   {
    "id": "f8b66935-383a-0a46-a410-9c5d85fb278a",
-   "title": "An Overview of Key Agreement",
+   "title": "An Overview of Key Agreement Protocols",
    "files": [
     {
      "path": "#tabs",
@@ -888,7 +888,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-Key-Agreement-f8b6.md",
+   "content-file": ".guides/content/An-Overview-of-Key-Agreement-Protocols-f8b6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

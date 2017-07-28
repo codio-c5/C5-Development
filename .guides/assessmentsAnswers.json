@@ -137,5 +137,62 @@
     "state": "pass"
    }
   ]
+ },
+ {
+  "taskId": "multiple-choice-146398319",
+  "points": 0,
+  "state": {
+   "active": "3eeb2693-dc19-bf1f-4485-9b6969e2f345"
+  },
+  "results": [
+   {
+    "current": [
+     "3eeb2693-dc19-bf1f-4485-9b6969e2f345"
+    ],
+    "right": [
+     "ef5984aa-a2b9-d092-b225-c3686453b70d"
+    ],
+    "timestamp": 1501277040745,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-3027256850",
+  "points": 1,
+  "state": {
+   "active": "a1dc586a-eb03-e2b7-98c5-510c59f40f6d"
+  },
+  "results": [
+   {
+    "current": [
+     "a1dc586a-eb03-e2b7-98c5-510c59f40f6d"
+    ],
+    "right": [
+     "a1dc586a-eb03-e2b7-98c5-510c59f40f6d"
+    ],
+    "timestamp": 1501278881798,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-259300797",
+  "points": 1,
+  "state": {
+   "active": "24e00559-f900-c53a-ea6b-fffc6202582f"
+  },
+  "results": [
+   {
+    "current": [
+     "24e00559-f900-c53a-ea6b-fffc6202582f"
+    ],
+    "right": [
+     "24e00559-f900-c53a-ea6b-fffc6202582f"
+    ],
+    "timestamp": 1501278923852,
+    "state": "pass"
+   }
+  ]
  }
 ]
