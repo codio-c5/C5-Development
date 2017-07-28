@@ -148,7 +148,7 @@
   },
   {
    "id": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
-   "title": "The Caesar Cipher",
+   "title": "Early Cryptography: The Caesar Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -158,7 +158,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/The-Caesar-Cipher-ac90.md",
+   "content-file": ".guides/content/Early-Cryptography--The-Caesar-Cipher-ac90.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -230,7 +230,7 @@
   },
   {
    "id": "0a33dd13-259a-efd7-a723-9a07d3d24ef9",
-   "title": "Across the Disciplines: Language",
+   "title": "Across the Disciplines: Languages",
    "files": [
     {
      "path": "#tabs",
@@ -240,7 +240,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Across-the-Disciplines--Language-0a33.md",
+   "content-file": ".guides/content/Across-the-Disciplines--Languages-0a33.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -361,7 +361,7 @@
   },
   {
    "id": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
-   "title": "CreatorSpace Lab: The Substitution Cipher ",
+   "title": "CreatorSpace Lab: Try Substitution Ciphers ",
    "files": [
     {
      "path": "#tabs",
@@ -381,7 +381,7 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--The-Substitution-Cipher--a176.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Try-Substitution-Ciphers--a176.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -389,7 +389,7 @@
   },
   {
    "id": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a",
-   "title": "Breaking the Substitution Cipher",
+   "title": "Breaking Substitution Ciphers",
    "files": [
     {
      "path": "#tabs",
@@ -399,7 +399,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Breaking-the-Substitution-Cipher-b256.md",
+   "content-file": ".guides/content/Breaking-Substitution-Ciphers-b256.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -407,7 +407,7 @@
   },
   {
    "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
-   "title": "CreatorSpace Lab: Frequency Analysis and the Substitution Cipher",
+   "title": "CreatorSpace Lab: Frequency Analysis",
    "files": [
     {
      "path": "#tabs",
@@ -417,7 +417,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Frequency-Analysis-and-the-Substitution-Cipher-b2ec.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Frequency-Analysis-b2ec.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -466,7 +466,7 @@
   },
   {
    "id": "39b831a9-2f1b-59bd-4b41-478504cfa5a5",
-   "title": "Block Ciphers and NIST",
+   "title": "Block Ciphers",
    "files": [
     {
      "path": "#tabs",
@@ -476,7 +476,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Block-Ciphers-and-NIST-39b8.md",
+   "content-file": ".guides/content/Block-Ciphers-39b8.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

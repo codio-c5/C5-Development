@@ -1,5 +1,5 @@
 
-## Check your Mastery
+## Check Your Mastery
 {Check It!|assessment}(multiple-choice-1798888751)
 {Check It!|assessment}(multiple-choice-4214331039)
 {Check It!|assessment}(multiple-choice-4000311647)

@@ -9,11 +9,11 @@ There are several modern block ciphers that have different strengths and weaknes
 1. Camellia
 1. AES
 
-Research each cipher on the Internet to answer the following questions.
+Research each cipher on the Internet to answer the following questions:
 - What is the key size?
 - What are its strengths?
 - Does it have any security vulnerabilities?
-- Does it have any down sides that make it less usable?
+- Does it have any downsides that make it less usable?
 
 
 |||guidance
