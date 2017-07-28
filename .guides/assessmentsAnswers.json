@@ -145,5 +145,60 @@
     "state": "pass"
    }
   ]
+ },
+ {
+  "taskId": "free-text-3680102054",
+  "state": {
+   "text": "Nothing!"
+  },
+  "results": [],
+  "points": 0
+ },
+ {
+  "taskId": "multiple-choice-2247377726",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-174078294",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-4267388236",
+  "points": 1,
+  "state": {
+   "active": [
+    "goodluck"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "goodluck"
+    ],
+    "right": [
+     "goodluck"
+    ],
+    "timestamp": 1501206046238,
+    "state": "pass"
+   },
+   {
+    "current": [
+     "goodluck"
+    ],
+    "right": [
+     "goodluck"
+    ],
+    "timestamp": 1501206045255,
+    "state": "pass"
+   }
+  ]
  }
 ]

@@ -6,7 +6,7 @@
 
 Now that you have your partner's public key (via email), you can use their public key to encrypt messages to send over a public channel, like the Internet.
 
-[Instructor's note] When using asymmetric key encryption (i.e., public key encryption) you use the recipient's public key to encrypt and they use their private key to decrypt.
+**Instructor's note:** When using asymmetric key encryption (i.e., public key encryption) you use the recipient's public key to encrypt and they use their private key to decrypt.
 
  - In the `message.txt`file in the top left pane, write your  name and a message for your partner. 
 

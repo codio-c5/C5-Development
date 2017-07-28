@@ -397,7 +397,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**Using what you know about the apostrophe, how could that help you in a brute force attack to decrypt the message?**",
+   "instructions": "**Using what you know about the apostrophe, how could that help you in a brute-force attack to decrypt the message?**",
    "learningObjectives": "",
    "points": 1
   }
@@ -434,7 +434,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**For the English alphabet, there are 26 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic? The Armenian alphabet?**",
+   "instructions": "**For the English alphabet, there are 25 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic or the Armenian alphabet?**",
    "learningObjectives": "",
    "points": 1
   }
@@ -450,7 +450,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**Consider general English usage, such as a newspaper.  Name three common digrams you would find.**\n **Hint:** Think about common word endings, as well as common two-letter words.",
+   "instructions": "**Consider general English usage, such as in newspapers.  Name three common digrams you would find.**\n **Hint:** Think about common word endings, as well as common two-letter words.",
    "learningObjectives": "",
    "points": 1
   }
@@ -478,7 +478,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**Consider general English usage, such as a newspaper.  Name three common trigrams you would find.**\n **Hint:** Think about common word endings, as well as common three-letter words.",
+   "instructions": "**Consider general English usage, such as in newspapers.  Name three common trigrams you would find.**\n **Hint:** Think about common word endings, as well as common three-letter words.",
    "learningObjectives": "",
    "points": 1
   }
@@ -686,7 +686,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**What is the result of your second encryption?  Why?**",
+   "instructions": "**What is the result (the ROT key) of your second encryption?  Why?**",
    "learningObjectives": "",
    "points": 1
   }
@@ -875,12 +875,12 @@
     {
      "_id": "58b25af2-8d02-e24b-4256-0be3c18222c3",
      "correct": true,
-     "answer": "Is any data, including binary files, in a form that can be viewed or used without requiring a key."
+     "answer": "It is any data, including binary files, in a form that can be viewed or used without requiring a key."
     },
     {
      "_id": "9124a200-7c55-1efb-3f52-8845eb76b028",
      "correct": false,
-     "answer": "The output of an encryption algorithm is plaintext.\n"
+     "answer": "It is the output of an encryption algorithm.\n"
     }
    ]
   }
@@ -1142,7 +1142,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**What is the biggest challenge associated with the distribution of key in symmetric key encryption?**",
+   "instructions": "**What is the biggest challenge associated with the distribution of a key in symmetric key encryption?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -1278,7 +1278,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Choose the best response. The primary goal of encryption is:**",
+   "instructions": "**Choose the best response. The primary goal of encryption is...**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -1360,14 +1360,14 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
-   "text": "<<<AES>>> Is an encryption scheme uses the Rijndael block cipher which is resistant to all known attacks.",
+   "text": "<<<AES>>> is an encryption scheme that uses the Rijndael block cipher, which is resistant to all known attacks.",
    "tokens": {
     "blank": [
      "AES"
     ],
     "text": [
      0,
-     " Is an encryption scheme uses the Rijndael block cipher which is resistant to all known attacks."
+     " is an encryption scheme that uses the Rijndael block cipher, which is resistant to all known attacks."
     ]
    }
   }
@@ -1408,7 +1408,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Which of the following is an accurate statements about Caesar cipher?** ",
+   "instructions": "**Which one of the following is an accurate statement about the Caesar cipher?** ",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -1417,22 +1417,22 @@
     {
      "_id": "e50685a3-21f5-9e99-ebbd-7866e99d9a37",
      "correct": false,
-     "answer": "A shifted ciphered message has an incidence of coincidence dissimilar to the language of the plain text."
+     "answer": "A shifted ciphered message has an incidence of coincidence dissimilar to the language of the plaintext."
     },
     {
      "_id": "53907a1d-c472-0568-ec6c-e1c24758def3",
      "correct": false,
-     "answer": "Caesar cipher can be used with letters but not numbers."
+     "answer": "The Caesar cipher can be used with letters but not with numbers."
     },
     {
      "_id": "c8651ac5-3158-cc43-5b9b-b1b1adb812c1",
      "correct": true,
-     "answer": "Caesar cipher decryption replaces a letter another with an inverse alphabet shift: a previous letter in the alphabet. "
+     "answer": "Caesar cipher decryption replaces a letter via an inverse alphabet shift: with a previous letter in the alphabet. "
     },
     {
      "_id": "7592fb9b-608c-4c8e-74b0-1dd24b5d9fbf",
      "correct": false,
-     "answer": "This is an example of a message encoded with a Caesar cipher:  `ELPMAXE ELPMIS A`"
+     "answer": "This is an example of a message encoded with the Caesar cipher:  `ELPMAXE ELPMIS A`"
     }
    ]
   }
@@ -1447,7 +1447,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Select all that apply. Block ciphers found in use today:**",
+   "instructions": "**Select all that apply. Block ciphers found in use today...**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
@@ -1466,12 +1466,12 @@
     {
      "_id": "20895b68-b3d9-5e7c-eb4c-7e0e360e0812",
      "correct": true,
-     "answer": "Include two paired algorithms, one is used for decryption (D), and one for is used encryption (E). "
+     "answer": "Include two paired algorithms. One is used for decryption (D), and one is used for encryption (E). "
     },
     {
      "_id": "a8d7caf4-31d9-6749-c993-ac5da2bda86a",
      "correct": true,
-     "answer": "The ciphertext output from the first encryption block is subsequently used as the initialization vector for the next plaintext block meant to encrypt."
+     "answer": "Use the ciphertext output from the first encryption block as the initialization vector for the next plaintext block meant to be encrypted."
     }
    ]
   }
@@ -1490,13 +1490,13 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
-   "text": "An issue in symmetric key cryptography is the problem of<<<trust>>> between two parties that share a secret key.",
+   "text": "An issue in symmetric key cryptography is the problem of <<<trust>>> between two parties that share a secret key.",
    "tokens": {
     "blank": [
      "trust"
     ],
     "text": [
-     "An issue in symmetric key cryptography is the problem of",
+     "An issue in symmetric key cryptography is the problem of ",
      0,
      " between two parties that share a secret key."
     ]
@@ -1579,7 +1579,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**What key is used in this cipher?**",
+   "instructions": "**What key was used for the `WDNH PH RXW WR WKH EDOO JDPH` ciphertext?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -1803,14 +1803,14 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
-   "text": "<<<3>>> is the shift for this Caesar Cipher: `GHFRGH FDHVDU`\n",
+   "text": "<<<3>>> is the shift for this Caesar cipher: `GHFRGH FDHVDU`\n",
    "tokens": {
     "blank": [
      "3"
     ],
     "text": [
      0,
-     " is the shift for this Caesar Cipher: `GHFRGH FDHVDU`\n"
+     " is the shift for this Caesar cipher: `GHFRGH FDHVDU`\n"
     ]
    }
   }
@@ -1889,13 +1889,13 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "",
-   "text": "The Diffie-Hellman algorithm is used as a method of exchanging  a cryptography <<<key>>> for use in symmetric encryption algorithms like AES.  ",
+   "text": "The Diffie-Hellman algorithm is used as a method of exchanging a cryptography <<<key>>> for use in symmetric encryption algorithms like AES.  ",
    "tokens": {
     "blank": [
      "key"
     ],
     "text": [
-     "The Diffie-Hellman algorithm is used as a method of exchanging  a cryptography ",
+     "The Diffie-Hellman algorithm is used as a method of exchanging a cryptography ",
      0,
      " for use in symmetric encryption algorithms like AES.  "
     ]

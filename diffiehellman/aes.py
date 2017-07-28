@@ -51,7 +51,7 @@ def main():
 
   action = sys.argv[1]
   input_file = sys.argv[2]
-  password = raw_input('Enter Password (will be visible): ')
+  password = raw_input('Enter key (will be visible): ')
   # fo AES256 we need 32 bit key, lets create it from password
   password_hash = make_hash(password, 32)
   text = read_file(input_file)
