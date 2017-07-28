@@ -280,6 +280,12 @@
        "pageId": "2a216c35-e941-83a0-6d1c-f8841fa636ef"
       },
       {
+       "id": "6602e968-f7c9-fee7-6097-8cea16bc2e60",
+       "title": "Lab Part 1: Generate Your Keys",
+       "pageId": "e9297ecc-95e6-ab4a-371f-0cce68a68542",
+       "type": "page"
+      },
+      {
        "title": "Lab Part 2: Encryption",
        "id": "5f79ca17-6378-c360-3f74-c265a2ab6167",
        "type": "page",

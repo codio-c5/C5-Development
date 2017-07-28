@@ -1,6 +1,6 @@
-In this three-part lab you break into pairs or small groups. You will then use RSA to complete the following steps:
+In this three-part lab, you break into pairs or small groups. You will then use RSA to complete the following steps:
 
-1. Each individual or group will generate their own key pairs.
+1. Each individual or group will generate a key pair.
 1. You then share your public key with your partner and vice versa.
 1. Using your private key, encrypt a message
     They do the same using their message private key.
