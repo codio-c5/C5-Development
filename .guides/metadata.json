@@ -178,7 +178,7 @@
   },
   {
    "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "CreatorSpace Lab: Encrypting the Caesar Cipher  ",
+   "title": "Lab Part 1: Encrypting with the Caesar Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -193,7 +193,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Encrypting-the-Caesar-Cipher---6d7d.md",
+   "content-file": ".guides/content/Lab-Part-1--Encrypting-with-the-Caesar-Cipher---6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
