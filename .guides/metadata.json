@@ -55,28 +55,8 @@
    "learningObjectives": ""
   },
   {
-   "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
-   "title": "Introducing Cryptography",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [
-    "IG.PNG"
-   ],
-   "type": "markdown",
-   "content-file": ".guides/content/Introducing-Cryptography-e918.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
-   "title": "An Overview of Symmetric Key Cryptography",
+   "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
+   "title": "Cryptography Terms",
    "files": [
     {
      "path": "#tabs",
@@ -86,25 +66,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-Symmetric-Key-Cryptography-ed61.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
-   "title": "Kerckhoffs's Principle",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Kerckhoffs-s-Principle-ee03.md",
+   "content-file": ".guides/content/Cryptography-Terms-dd91.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -129,8 +91,8 @@
    "learningObjectives": ""
   },
   {
-   "id": "dd910baf-297f-35ea-dd6d-08eedab756f6",
-   "title": "Cryptography Terms",
+   "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
+   "title": "Kerckhoffs's Principle",
    "files": [
     {
      "path": "#tabs",
@@ -140,7 +102,45 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Cryptography-Terms-dd91.md",
+   "content-file": ".guides/content/Kerckhoffs-s-Principle-ee03.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
+   "title": "An Overview of Symmetric Key Cryptography",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/An-Overview-of-Symmetric-Key-Cryptography-ed61.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
+   "title": "Introducing Cryptography",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [
+    "IG.PNG"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Introducing-Cryptography-e918.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -632,8 +632,8 @@
    "learningObjectives": ""
   },
   {
-   "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
-   "title": "Check Your Memory",
+   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+   "title": "Introducing Public Key Cryptography",
    "files": [
     {
      "path": "#tabs",
@@ -643,7 +643,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Check-Your-Memory-54c4.md",
+   "content-file": ".guides/content/Introducing-Public-Key-Cryptography-a01b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -668,8 +668,8 @@
    "learningObjectives": ""
   },
   {
-   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
-   "title": "Introducing Public Key Cryptography",
+   "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
+   "title": "Check Your Memory",
    "files": [
     {
      "path": "#tabs",
@@ -679,7 +679,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Introducing-Public-Key-Cryptography-a01b.md",
+   "content-file": ".guides/content/Check-Your-Memory-54c4.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1050,6 +1050,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Public-Key-Cryptography--Critical-Thinking-2889.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "80cc90e2-9b2a-254a-c2a0-0dd747079804",
+   "title": "Hackathons",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hackathons-80cc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1912,5 +1924,6 @@
  "scripts": [],
  "lexikonTopic": "CyberSecurity",
  "suppressPageNumbering": true,
- "hideMenu": true
+ "hideMenu": true,
+ "allowGuideClose": false
 }
