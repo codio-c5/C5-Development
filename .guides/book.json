@@ -474,32 +474,32 @@
          "id": "4f4c1d09-cb8c-76aa-b3e1-48677816fd67",
          "type": "page",
          "pageId": "45909e64-08ec-62c8-ab5e-0c2ad7343136"
-        }
-       ]
-      },
-      {
-       "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
-       "id": "e9264f62-e28d-c595-9de4-89989f9ab420",
-       "type": "section",
-       "pageId": "549517a6-1a35-4325-a50d-5da0748f8af3",
-       "children": [
-        {
-         "title": "Lab Part 1: Calculate the Hashes for the File",
-         "id": "fadd8e6b-8cf9-2a0d-99ac-ff98f9faec07",
-         "type": "page",
-         "pageId": "21b09d33-e577-72fc-3792-da1065b260f2"
         },
         {
-         "title": "Lab Part 2: Compare the Hash Values",
-         "id": "c7c4ced3-5fec-6d28-d05a-b6971b8277ef",
-         "type": "page",
-         "pageId": "31a03dce-3c82-74e8-85d6-62317435b8d1"
-        },
-        {
-         "title": "Lab Check In",
-         "id": "242efedc-f027-2624-e10d-15371eb1f2f1",
-         "type": "page",
-         "pageId": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2"
+         "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
+         "id": "e9264f62-e28d-c595-9de4-89989f9ab420",
+         "type": "section",
+         "pageId": "549517a6-1a35-4325-a50d-5da0748f8af3",
+         "children": [
+          {
+           "title": "Lab Part 1: Calculate the Hashes for the File",
+           "id": "fadd8e6b-8cf9-2a0d-99ac-ff98f9faec07",
+           "type": "page",
+           "pageId": "21b09d33-e577-72fc-3792-da1065b260f2"
+          },
+          {
+           "title": "Lab Part 2: Compare the Hash Values",
+           "id": "c7c4ced3-5fec-6d28-d05a-b6971b8277ef",
+           "type": "page",
+           "pageId": "31a03dce-3c82-74e8-85d6-62317435b8d1"
+          },
+          {
+           "title": "Lab Check In",
+           "id": "242efedc-f027-2624-e10d-15371eb1f2f1",
+           "type": "page",
+           "pageId": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2"
+          }
+         ]
         }
        ]
       },
@@ -558,89 +558,104 @@
      "pageId": "0af86b3e-5971-40ed-f17d-fad4280d04e3",
      "children": [
       {
-       "title": "Check Your Memory",
-       "id": "89a37400-718f-680e-167e-b39d1ec7e441",
-       "type": "page",
-       "pageId": "6d1bbe93-c6a5-e3ef-3c42-ea66377dc83d"
+       "title": "Getting Started",
+       "id": "c692337d-0338-db7a-d5e5-9818bbde10d9",
+       "type": "section",
+       "children": [
+        {
+         "title": "Check Your Memory",
+         "id": "89a37400-718f-680e-167e-b39d1ec7e441",
+         "type": "page",
+         "pageId": "6d1bbe93-c6a5-e3ef-3c42-ea66377dc83d"
+        },
+        {
+         "title": "Introducing Digital Signatures",
+         "id": "b62ade3d-1c8c-3d14-2082-e60f573cb419",
+         "type": "page",
+         "pageId": "048c8006-0acd-23e3-9125-5137f54e2802"
+        },
+        {
+         "title": "Growth Hack: Digital Signatures",
+         "id": "3c6935ba-122c-b3b1-b0c7-5b21e6dd2a2e",
+         "type": "page",
+         "pageId": "7bafd249-4a71-6db4-5844-73ae8edcba6b"
+        },
+        {
+         "title": "An Overview of the Digital Signature Standard (DSS) insert correct vid ",
+         "id": "efb468b1-bb72-03fa-af13-90b8d8d5fdf8",
+         "type": "page",
+         "pageId": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9"
+        }
+       ]
       },
       {
-       "title": "Growth Hack: Digital Signatures",
-       "id": "3c6935ba-122c-b3b1-b0c7-5b21e6dd2a2e",
-       "type": "page",
-       "pageId": "7bafd249-4a71-6db4-5844-73ae8edcba6b"
-      },
-      {
-       "title": "Introducing Digital Signatures",
-       "id": "b62ade3d-1c8c-3d14-2082-e60f573cb419",
-       "type": "page",
-       "pageId": "048c8006-0acd-23e3-9125-5137f54e2802"
-      },
-      {
-       "title": "An Overview of the Digital Signature Standard (DSS) insert correct vid ",
-       "id": "efb468b1-bb72-03fa-af13-90b8d8d5fdf8",
-       "type": "page",
-       "pageId": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9"
-      },
-      {
-       "title": "Digital Signatures and Integrity",
-       "id": "375e220f-e0c0-e717-d5c6-34ee952629ee",
-       "type": "page",
-       "pageId": "a9fd5e55-19ef-1e86-1f50-379924fdd774"
-      },
-      {
-       "title": "Digital Signatures and Non-repudiation",
-       "id": "b3cbb550-f7e3-0356-dc6b-f731044ec7ff",
-       "type": "page",
-       "pageId": "661df4ff-256f-2a82-48fa-07fb7afcd5d3"
-      },
-      {
-       "title": "Digital Signatures and Hash Functions",
-       "id": "d06d4098-35d6-bfc4-bcd9-cb0c6ae85cd9",
-       "type": "page",
-       "pageId": "e77bd3a4-10c7-ef01-5d40-8ee38d9cff34"
-      },
-      {
-       "title": " Digital Signature Algorithms",
-       "id": "77420d09-bb20-d4f1-7522-522e98b7541e",
-       "type": "page",
-       "pageId": "5a74f790-0bff-4a25-e0e3-2b4b848597a7"
-      },
-      {
-       "title": "Meetup: Still a Problem: Authenticity",
-       "id": "e70ab583-b74b-9f3e-d148-14c983662c54",
-       "type": "page",
-       "pageId": "060774df-f1f5-a093-8745-f3e85f6d9c8a"
+       "title": "Digital Signatures",
+       "id": "275db91b-ec83-5d4a-f102-3de48a10f9cc",
+       "type": "section",
+       "children": [
+        {
+         "title": "Digital Signatures and Integrity",
+         "id": "375e220f-e0c0-e717-d5c6-34ee952629ee",
+         "type": "page",
+         "pageId": "a9fd5e55-19ef-1e86-1f50-379924fdd774"
+        },
+        {
+         "title": "Digital Signatures and Non-repudiation",
+         "id": "b3cbb550-f7e3-0356-dc6b-f731044ec7ff",
+         "type": "page",
+         "pageId": "661df4ff-256f-2a82-48fa-07fb7afcd5d3"
+        },
+        {
+         "title": "Digital Signatures and Hash Functions",
+         "id": "d06d4098-35d6-bfc4-bcd9-cb0c6ae85cd9",
+         "type": "page",
+         "pageId": "e77bd3a4-10c7-ef01-5d40-8ee38d9cff34"
+        },
+        {
+         "title": " Digital Signature Algorithms",
+         "id": "77420d09-bb20-d4f1-7522-522e98b7541e",
+         "type": "page",
+         "pageId": "5a74f790-0bff-4a25-e0e3-2b4b848597a7"
+        },
+        {
+         "title": "Meetup: Still a Problem: Authenticity",
+         "id": "e70ab583-b74b-9f3e-d148-14c983662c54",
+         "type": "page",
+         "pageId": "060774df-f1f5-a093-8745-f3e85f6d9c8a"
+        }
+       ]
       },
       {
        "title": "Public Key Infrastructure (PKI)",
        "id": "0d37d2b2-2a51-a020-2af7-a48212612f60",
        "type": "section",
        "pageId": "a849eedc-1b81-d50a-89a8-5a36c81bc971",
-       "children": []
-      },
-      {
-       "title": "Digital Certificates ",
-       "id": "d2c82f41-7d81-335f-ee9e-c374890fbbe1",
-       "type": "page",
-       "pageId": "757a93b5-eb20-32ad-783d-934a46e442f4"
-      },
-      {
-       "title": "Certificate Authority (CA)",
-       "id": "9c2c84eb-da79-0a10-c32e-6fe0198397b6",
-       "type": "page",
-       "pageId": "a7ffac94-e7b5-81a7-9c66-9c4d0a9fbc4f"
-      },
-      {
-       "title": "Certification Path and Chain of Trust S 21",
-       "id": "15255b7e-cea2-59ba-2cb9-f4326d22d3e5",
-       "type": "page",
-       "pageId": "05f3c289-d96f-0400-73bb-01e6183f0985"
-      },
-      {
-       "title": "Elements of PKI",
-       "id": "b8fc55a0-0022-ab86-7c0f-8dc2c3e8cb2e",
-       "type": "page",
-       "pageId": "fce751c5-310b-a096-de6a-75edd6c041ee"
+       "children": [
+        {
+         "title": "Digital Certificates ",
+         "id": "d2c82f41-7d81-335f-ee9e-c374890fbbe1",
+         "type": "page",
+         "pageId": "757a93b5-eb20-32ad-783d-934a46e442f4"
+        },
+        {
+         "title": "Certificate Authority (CA)",
+         "id": "9c2c84eb-da79-0a10-c32e-6fe0198397b6",
+         "type": "page",
+         "pageId": "a7ffac94-e7b5-81a7-9c66-9c4d0a9fbc4f"
+        },
+        {
+         "title": "Certification Path and Chain of Trust S 21",
+         "id": "15255b7e-cea2-59ba-2cb9-f4326d22d3e5",
+         "type": "page",
+         "pageId": "05f3c289-d96f-0400-73bb-01e6183f0985"
+        },
+        {
+         "title": "Elements of PKI",
+         "id": "b8fc55a0-0022-ab86-7c0f-8dc2c3e8cb2e",
+         "type": "page",
+         "pageId": "fce751c5-310b-a096-de6a-75edd6c041ee"
+        }
+       ]
       },
       {
        "title": "Some Applications in Which Cryptography Is Used",
