@@ -1,5 +1,5 @@
 ## Intruder Alert!
-**Intrusion and virus detection.** A change in the hash value of a file may indicate an intrusion or a virus. By storing the hash for each file on a system and securing the hash values (e.g., on a flash drive that is kept secure), you can later determine if a file has been modified  by recomputing the hashes and comparing them with the secured hash values. 
+A change in the hash value of a file may indicate an intrusion or a virus. By storing the hash for each file on a system and securing the hash values (e.g., on a flash drive that is kept secure), you can later determine if a file has been modified  by recomputing the hashes and comparing them with the secured hash values. 
 
 Intruders need to change the hash value of a file without changing the file itself to hide their actions. The collision resistance property makes it very hard for an intruder to make this change.
 

@@ -1,4 +1,4 @@
-### Not all hash functions are created equal.  Non-cryptographic hash functions do not live up to the stringent requirements that cryptographic hash functions must meet. 
+Not all hash functions are created equal.  Non-cryptographic hash functions do not live up to the stringent requirements that cryptographic hash functions must meet. 
 
 These requirements are: 
 
@@ -19,10 +19,10 @@ These requirements are:
 - **Collision resistant.** Hash values are like snowflakes. It is computationally infeasible  to find two inputs that have the same hash value. Infeasible, but theoretically, still possible.  Since hash functions map long input values to a shorter compressed value, it is theoretically possible for sequences of bits to map to the same hash value. 
 
 ||| definition
-In the rare instances when two messages that have the same hash value it is called a **collision.** Finding collisions is a means of cracking a hash function. 
+In the rare instances when two messages have the same hash value, it is called a **collision.** Finding collisions is a means of cracking a hash function. 
 |||
 
-- **Efficient.** Hash values are fast and easy to compute.  This makes them practical for storage and for use on even small devices.
+- **Efficient.** Hash values are fast and easy to compute.  This makes them practical for storage and for use on small devices.
 
 
 <br>
@@ -31,7 +31,7 @@ In the rare instances when two messages that have the same hash value it is call
 ">
   <figcaption style="font-size: 0.8em; text-align: left;">A roulette wheel. 
 </br>
- By Conor Ogle from London, UK (Spin) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons</figcaption>
+ By Conor Ogle from London, UK (Spin) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons.</figcaption>
 </figure>
 
 

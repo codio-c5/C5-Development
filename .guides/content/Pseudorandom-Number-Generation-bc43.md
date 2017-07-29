@@ -1,6 +1,6 @@
 ## Pick a Number
 
-**Construction of a pseudorandom number generator.** One of the required properties of a cryptographic function is that the output has to pass pseudorandomness tests. A cryptographic hash function can be used to construct a **pseudorandom function (PRF)** or a **pseudorandom number generator (PRNG)** the output from a hash need to pass tests for pseudorandomness.
+One of the required properties of a cryptographic function is that the output has to pass pseudorandomness tests. A cryptographic hash function can be used to construct a **pseudorandom function (PRF)** or a **pseudorandom number generator (PRNG)** so that the output from a hash can pass tests for pseudorandomness.
 
 
 <figure class="snippetimg" style="margin: 0 auto;width:80%">

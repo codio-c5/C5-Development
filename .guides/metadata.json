@@ -1201,7 +1201,7 @@
   },
   {
    "id": "5b6aa8c7-f2f3-0457-3f12-bdca4b062c16",
-   "title": "Password Files",
+   "title": "Protection of Password Files",
    "files": [
     {
      "path": "#tabs",
@@ -1211,7 +1211,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Password-Files-5b6a.md",
+   "content-file": ".guides/content/Protection-of-Password-Files-5b6a.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1304,7 +1304,7 @@
   },
   {
    "id": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2",
-   "title": "Lab Part 2: Lab Check In",
+   "title": "Lab Check In",
    "files": [
     {
      "path": "#tabs",
@@ -1314,7 +1314,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-b05c.md",
+   "content-file": ".guides/content/Lab-Check-In-b05c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1980,6 +1980,30 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Lab-Part-1--Generate-Your-Keys-e929.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "21b09d33-e577-72fc-3792-da1065b260f2",
+   "title": "Lab Part 1: Calculate the Hashes for the File",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-1--Calculate-the-Hashes-for-the-File-21b0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "31a03dce-3c82-74e8-85d6-62317435b8d1",
+   "title": "Lab Part 2: Compare the Hash Values",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-2--Compare-the-Hash-Values-31a0.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

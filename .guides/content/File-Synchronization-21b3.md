@@ -1,7 +1,7 @@
 ## Getting In Sync
 
 
-**File synchronization.** Did you already save that file change?  You can check the hash value of a file to determine whether to upload it again.  The files are synchronized if the hash values match. 
+Did you already save that file change?  You can check the hash value of a file to determine whether to upload it again.  The files are synchronized if the hash values match. 
 
 
 <figure class="snippetimg" style="margin: 0 auto;width:80%">
