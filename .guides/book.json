@@ -477,29 +477,34 @@
         },
         {
          "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
+         "id": "3e158bc1-f126-c8b8-3a56-7151eb9732f1",
+         "type": "page",
+         "pageId": "8d20c883-e5e2-271c-074c-a3267e77c96f"
+        },
+        {
+         "title": "Lab Part 1: Calculate the Hashes for the File",
+         "id": "fadd8e6b-8cf9-2a0d-99ac-ff98f9faec07",
+         "type": "page",
+         "pageId": "21b09d33-e577-72fc-3792-da1065b260f2"
+        },
+        {
+         "title": "Lab Part 2: Compare the Hash Values",
+         "id": "c7c4ced3-5fec-6d28-d05a-b6971b8277ef",
+         "type": "page",
+         "pageId": "31a03dce-3c82-74e8-85d6-62317435b8d1"
+        },
+        {
+         "title": "Lab Check In",
+         "id": "242efedc-f027-2624-e10d-15371eb1f2f1",
+         "type": "page",
+         "pageId": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2"
+        },
+        {
+         "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
          "id": "e9264f62-e28d-c595-9de4-89989f9ab420",
          "type": "section",
          "pageId": "549517a6-1a35-4325-a50d-5da0748f8af3",
-         "children": [
-          {
-           "title": "Lab Part 1: Calculate the Hashes for the File",
-           "id": "fadd8e6b-8cf9-2a0d-99ac-ff98f9faec07",
-           "type": "page",
-           "pageId": "21b09d33-e577-72fc-3792-da1065b260f2"
-          },
-          {
-           "title": "Lab Part 2: Compare the Hash Values",
-           "id": "c7c4ced3-5fec-6d28-d05a-b6971b8277ef",
-           "type": "page",
-           "pageId": "31a03dce-3c82-74e8-85d6-62317435b8d1"
-          },
-          {
-           "title": "Lab Check In",
-           "id": "242efedc-f027-2624-e10d-15371eb1f2f1",
-           "type": "page",
-           "pageId": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2"
-          }
-         ]
+         "children": []
         }
        ]
       },
