@@ -18,7 +18,7 @@ Pair up with a classmate. You're going to create a shared key using the Diffie-H
 ```python dh.py 23 5 6```
 
  - Alice plugs the shared numbers $P$ and $G$ into the formula, $X = G^A mod P$. 
- In plain English, $X$ equals $G$ and $G$ multiplied by itself $A$ times and then divided by $P$ keeping only the remainder. Using the example values: $5*5*5*5*5*5 = 15625$ and then $15625  mod  23 = 8$.
+ In plain English, $X$ equals $G$ multiplied by itself $A$ times and then divided by $P$ keeping only the remainder. Using the example values: $5*5*5*5*5*5 = 15625$ and then $15625  mod  23 = 8$.
 
  - **Bob calculates.** If you are Bob, enter the following command in the the terminal window, the upper left pane:
  
@@ -38,7 +38,7 @@ Alice gets the number **2**.
 
  -  **Bob calculates his secret key.** Bob can do the same. He generates his secret using the value Alice provides, and the original numbers **23** and **5**. 
  
-In the left pane, enter your partner's public key at the prompt.
+In the terminal window in the upper left pane, enter your partner's public key at the prompt.
 
 Bob gets the number **2**.
 
@@ -59,9 +59,9 @@ Now you have a shared key with your partner.
     
  - Give the encrypted message to another team, and take a message they have encrypted using their shared key.
  - Try to decrypt the other without their key
- ```python aes.py decrypt cipher.txt out.txt```
+ ```python aes.py decrypt cipher.txt orig-message.txt```
  
-    Click on the output file ```diffiehellman/out.txt``` in the file tree to the left.
+    Click on the output file ```diffiehellman/orig-message.txt``` in the file tree to the left.
  
  **Hint:** smaller key sizes are more vulnerable to brute force attacks.
 
