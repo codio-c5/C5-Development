@@ -415,22 +415,29 @@
      "pageId": "c690d6b2-fd2c-e599-fea6-055a11a095a8",
      "children": [
       {
-       "title": "Check Your Memory",
-       "id": "c2289919-39a2-7ad5-e815-c127a70947ca",
-       "type": "page",
-       "pageId": "d26d0aee-c9ec-1f73-45d8-3b6626b5682e"
-      },
-      {
-       "title": "Introducing Hash Functions",
-       "id": "50dc7cc3-0425-6d0e-5ba3-453b64b33035",
-       "type": "page",
-       "pageId": "96439ddf-d5fd-8c48-8322-75cf218a5763"
-      },
-      {
-       "title": "Requirements for a Cryptographic Hash Function",
-       "id": "b928c39a-b900-5466-a6fe-bb8fd7e9dd2c",
-       "type": "page",
-       "pageId": "aab4a588-7108-a343-740a-e5f22f624cad"
+       "title": "Getting Started",
+       "id": "0b8f3f51-20b3-f439-eded-5fa265edd7a3",
+       "type": "section",
+       "children": [
+        {
+         "title": "Check Your Memory",
+         "id": "c2289919-39a2-7ad5-e815-c127a70947ca",
+         "type": "page",
+         "pageId": "d26d0aee-c9ec-1f73-45d8-3b6626b5682e"
+        },
+        {
+         "title": "Introducing Hash Functions",
+         "id": "50dc7cc3-0425-6d0e-5ba3-453b64b33035",
+         "type": "page",
+         "pageId": "96439ddf-d5fd-8c48-8322-75cf218a5763"
+        },
+        {
+         "title": "Requirements for a Cryptographic Hash Function",
+         "id": "b928c39a-b900-5466-a6fe-bb8fd7e9dd2c",
+         "type": "page",
+         "pageId": "aab4a588-7108-a343-740a-e5f22f624cad"
+        }
+       ]
       },
       {
        "title": "Uses of Hash Functions",

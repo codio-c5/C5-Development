@@ -11,7 +11,7 @@ From The Portable Antiquities Scheme/The Trustees of the British Museum [CC BY-S
 </figure>
 
 
-The **Elliptic Curve Diffie-Hellman Key Agreement** is another example of a key agreement algorithm.  As with Elliptic Curve Cryptography, points on an elliptic curve are used to generate the session key. This algorithm has been included in the cipher suite for key agreement/exchange in the TLS/SSL and Bluetooth (LE) protocols, due to its relatively small key size.
+The **Elliptic Curve Diffie-Hellman Key Agreement** is another example of a key agreement algorithm.  As with elliptic curve cryptography, points on an elliptic curve are used to generate the session key. This algorithm has been included in the cipher suite for key agreement/exchange in the TLS/SSL and Bluetooth (LE) protocols, due to its relatively small key size.
 
 
  

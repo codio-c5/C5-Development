@@ -895,7 +895,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "Which of the following statements is true about symmetric encryption?",
+   "instructions": "Which one of the following statements is true about symmetric encryption?",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -2008,22 +2008,22 @@
     {
      "_id": "c67d06ba-9806-86df-09a4-e1dc7e55d088",
      "correct": false,
-     "answer": "Alice’s public, Bob’s private"
+     "answer": "Alice’s public | Bob’s private"
     },
     {
      "_id": "b661566a-b257-31f9-e19a-b5675f01f8bf",
      "correct": true,
-     "answer": "Bob’s public, Bob’s private"
+     "answer": "Bob’s public | Bob’s private"
     },
     {
      "_id": "62d30b20-8818-11bd-c0ba-87e23b93346d",
      "correct": false,
-     "answer": "Alice’s private, Bob’s public"
+     "answer": "Alice’s private | Bob’s public"
     },
     {
      "_id": "9d43fc19-4133-dfc9-e521-8a190c361dc6",
      "correct": false,
-     "answer": "Alice’s private, Bob’s private"
+     "answer": "Alice’s private | Bob’s private"
     }
    ]
   }
@@ -2067,11 +2067,11 @@
    "name": "2.2.2",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "In symmetric cryptography the key used for encryption is essentially the same key used for decryption. In public key cryptography, the key used for encrypting a message does not work for decrypting it.  ",
+   "guidance": "In symmetric cryptography, the key used for encryption is essentially the same key used for decryption. In public key cryptography, the key used for encrypting a message does not work for decrypting it.  ",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**What is the main difference between symmetric cryptography and asymmetric cryptography?**",
+   "instructions": "**What is the main difference between symmetric and asymmetric cryptography?**",
    "learningObjectives": "",
    "points": 1
   }
@@ -2125,7 +2125,7 @@
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "Which of the following is a an effective attack against public key encryption algorithms?",
+   "instructions": "Which one of the following attacks is effective against public key encryption algorithms?",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -2164,7 +2164,7 @@
    "guidance": "**The correct answer is false.** Since there is no way to decrypt the message to the original from the hash value, hash functions do not support confidentiality.  Rather, they are used to support authentication and integrity.",
    "showGuidanceAfterResponse": true,
    "showExpectedAnswer": false,
-   "instructions": "**True or False: Hash functions are used to support confidentiality.**",
+   "instructions": "**Hash functions are used to support confidentiality.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
@@ -2248,7 +2248,7 @@
    "guidance": "**The correct answer is false.**  Hash values compute to a designated size, so the length of the message is irrelevant to the size of the hash value.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Longer messages have have bigger hash values.**",
+   "instructions": "**Longer messages have bigger hash values.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,

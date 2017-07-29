@@ -4,7 +4,7 @@
   <img src=".guides/img/Fermat.jpg" alt="Lawyer and mathematician Pierre de Fermat (1601 – 1665) 
 *Source: Wikimedia Commons*">
   <figcaption style="font-size: 0.8em; text-align: left;">Lawyer and mathematician Pierre de Fermat (1601–1665). 
- Source: Wikimedia Commons</figcaption>
+</brS>Source: Wikimedia Commons.</figcaption>
 </figure>
 
 Fermat ("Fair-mah") is credited with creating modern number theory. His interest in pure mathematics also helped create the basis for calculus and eventually to public key encryption.
@@ -21,7 +21,7 @@ $A^{(N-1)} ≡ 1 (mod N)$
 
 In English, this means that if you multiply ```A``` by itself ```N``` minus ```1``` times, the result is divisible by ```N```. It also means that the left side of the equation will always be equal to ```1``` for a modulus of ```N```.
 
-This relationship is important in cryptography because it hints at a possible multiplicative inverse relationship. Recall that in everyday arithmetic, if you multiply a number by its reciprocal the answer is always ```1```. For instance, the reciprocal of ```4``` is ```1/4``` or ```.25``` and if you multiply ```4``` by ```.25``` you get ```1```. Public key cryptography uses that type of relationship to work. The general ideas is to multiply plaintext by a number and get ciphertext. Multiply the ciphertext by the reciprocal of the number and get the plaintext back.
+This relationship is important in cryptography because it hints at a possible multiplicative inverse relationship. Recall that in everyday arithmetic, if you multiply a number by its reciprocal the answer is always ```1```. For example, the reciprocal of ```4``` is ```1/4``` or ```.25``` and if you multiply ```4``` by ```.25``` you get ```1```. Public key cryptography uses that type of relationship to work. The general idea is to multiply plaintext by a number and get ciphertext. Multiply the ciphertext by the reciprocal of the number and you get the plaintext back.
 
 **Euler's Totient Function** Fermat discovered this mathematical relationship in 1640. More than one hundred years later, Leonhard Euler ("Oiler") proved Fermat's Little Theorem and generalized it to what is now know as Euler's Totient Theorem. Euler's Totient function is related to that theorem and forms the basis for RSA encryption.
 

@@ -1,9 +1,9 @@
 
 
-### Are hash functions as familiar to you as the back of your hand? Hash functions help solve the issue of integrity by creating an efficient way to ensure a message has not been tampered with.
+### Are hash functions as familiar to you as the back of your hand? Hash functions help solve the issue of integrity by creating an efficient way to ensure that a message has not been tampered with.
 
 
-Before you get started, give these questions a go. They overview critical concepts you'll master in this lesson.
+Before you get started, give these questions a go. They cover some critical concepts you'll master in this unit.
 
 
 ==need more items.==

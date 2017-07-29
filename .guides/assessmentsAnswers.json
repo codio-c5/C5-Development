@@ -194,5 +194,70 @@
     "state": "pass"
    }
   ]
+ },
+ {
+  "taskId": "multiple-choice-2248183240",
+  "points": 1,
+  "state": {
+   "active": "b661566a-b257-31f9-e19a-b5675f01f8bf"
+  },
+  "results": [
+   {
+    "current": [
+     "b661566a-b257-31f9-e19a-b5675f01f8bf"
+    ],
+    "right": [
+     "b661566a-b257-31f9-e19a-b5675f01f8bf"
+    ],
+    "timestamp": 1501286592635,
+    "state": "pass"
+   },
+   {
+    "current": [
+     "b661566a-b257-31f9-e19a-b5675f01f8bf"
+    ],
+    "right": [
+     "b661566a-b257-31f9-e19a-b5675f01f8bf"
+    ],
+    "timestamp": 1501286591630,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-2012702888",
+  "points": 1,
+  "state": {
+   "active": [
+    "0328d2b7-0848-9b67-fc79-0e61b68f24c9",
+    "fced1f80-3f5b-d954-8b66-ec3df49cecfc"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "fced1f80-3f5b-d954-8b66-ec3df49cecfc",
+     "0328d2b7-0848-9b67-fc79-0e61b68f24c9"
+    ],
+    "right": [
+     "fced1f80-3f5b-d954-8b66-ec3df49cecfc",
+     "0328d2b7-0848-9b67-fc79-0e61b68f24c9"
+    ],
+    "timestamp": 1501286654864,
+    "state": "pass"
+   },
+   {
+    "current": [
+     "fced1f80-3f5b-d954-8b66-ec3df49cecfc",
+     "0328d2b7-0848-9b67-fc79-0e61b68f24c9"
+    ],
+    "right": [
+     "fced1f80-3f5b-d954-8b66-ec3df49cecfc",
+     "0328d2b7-0848-9b67-fc79-0e61b68f24c9"
+    ],
+    "timestamp": 1501286654345,
+    "state": "pass"
+   }
+  ]
  }
 ]
