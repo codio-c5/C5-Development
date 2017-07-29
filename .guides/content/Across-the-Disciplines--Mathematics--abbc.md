@@ -31,16 +31,23 @@ Let's add $9 + 4$. Start at the top of the circle and step **9** increments cloc
 
 Compare this with the horizontal number line.  There, when adding **9** and **4,** you end up at **13.** Using the circular number line, you end up at **1.**
 
+Here's a little more on the math. The modular arithmetic example above adds two numbers---**9** and **4** (result equals **13**) ---and then divides by **12.** Twelve goes into **13** once and leaves a remainder of **1.** When using everyday arithmetic, you would continue the process by dividing the remainder **1** by **12,** which gives you the fractional result of $1/12$ or **0.0833,** so the overall answer (or result) to $13/12$ would be **1.0833.** 
 
-Here's a little more on the math. The modular arithmetic example above adds two numbers---**9** and **4**---and then divides by **12.** Twelve goes into **13** once and leaves a remainder of **1.** When using everyday arithmetic, you would continue the process by dividing the remainder **1** by **12,** which gives you the fractional result of $1/12$ or **0.0833,** so the overall answer (or result) to $13/12$ would be **1.0833.** 
-
-However, when using modular arithmetic, ***the remainder is the result.*** Stated in modular arithmetic terms, the answer to $13 mod 12$ is **1,** or, alternatively, $13 (mod 12)$ is **1**. To state this  formally, you would say that **1** is **congruent** with $13 (mod 12)$.
+However, when using modular arithmetic, **the remainder is the result.** Stated in modular arithmetic terms, the answer to $1 mod 12$ is **13**. To state this  formally, you would say that **13** is **congruent** with $1 (mod 12)$ or $13 ≡ 1 (mod 12)$.
 
 Modular arithmetic describes the size of the circle as the modulus. The above modulus is **12,** or $mod = 12$. Instead of using the concept of something equal $=$ to something, you use the concept of congruence, designated with the congruent symbol $≡$.
 
 $x ≡ y (mod n)$
 
-This means that x is congruent with y for a given modulus of **n**. So if $y = 1$ and $n = 12$, then **x** could be **13**. Actually, **x** can be **13**, **26**, **39**, or any integer that's a multiple of **13**.
+This equation can be stated in a more familiar way as,
+
+$x = 1 + n*k$, where k is an integer.
+
+Our example becomes,
+
+$13 = 1 + 12 * 1$
+
+This means that **x** is **congruent** with **y** for a given modulus of **n**. So if $y = 1$ and $n = 12$ and $k=1$, then **x** is **13**. Since **k** can be any integer, **x** can be **13**, **26**, **39**, or any multiple of **13**.
 
 ||| guidance
 **Instructor's Note:** Some mathematicians use = instead of $≡$. In this case if the parentheses are omitted this generally means that "mod" denotes the modulo operation, that is, that $0 ≤ a < n$.
