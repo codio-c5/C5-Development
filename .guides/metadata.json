@@ -2008,6 +2008,18 @@
    "reset": [],
    "teacherOnly": false,
    "learningObjectives": ""
+  },
+  {
+   "id": "63b561e0-1110-eab6-6290-6ad2e2e0211f",
+   "title": "Getting Started",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Getting-Started-63b5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",
