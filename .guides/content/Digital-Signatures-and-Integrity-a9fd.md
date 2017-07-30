@@ -3,10 +3,10 @@
 |||
 
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
-  <img src=".guides/img/Chopinsig.PNG" alt="https://commons.wikimedia.org/wiki/File% A forest of for sale signs in Oughtibridge UK.By Infrogmation of New Orleans [CC BY 2.0], via Wikimedia Commons">
-  <figcaption style="font-size: 0.8em; text-align: left;"> The signature of composer Frédéric Chopin. 
+  <img src=".guides/img/Stylus.jpg" alt="https://commons.wikimedia.org/wiki/File% A forest of for sale signs in Oughtibridge UK.By Infrogmation of New Orleans [CC BY 2.0], via Wikimedia Commons">
+  <figcaption style="font-size: 0.8em; text-align: left;"> Four  medieval styli. 
   </br>
-[Public domain], via Wikimedia Commons.</figcaption>
+By Numisantica [CC BY-SA 3.0], via Wikimedia Commons.</figcaption>
 </figure>
 <br>
 
