@@ -56,7 +56,7 @@
   },
   {
    "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
-   "title": "Introducing Cryptography",
+   "title": "A Key Moment in the History of Cryptanalysis",
    "files": [
     {
      "path": "#tabs",
@@ -68,7 +68,7 @@
     "IG.PNG"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Introducing-Cryptography-e918.md",
+   "content-file": ".guides/content/A-Key-Moment-in-the-History-of-Cryptanalysis-e918.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -682,7 +682,7 @@
   },
   {
    "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
-   "title": "Hackathon 1: The Shift Cipher as a Block Flowchart   ",
+   "title": "Hackathon 1: The Shift Cipher as a Block Flowchart",
    "files": [
     {
      "path": "#tabs",
@@ -697,7 +697,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon-1--The-Shift-Cipher-as-a-Block-Flowchart----5963.md",
+   "content-file": ".guides/content/Hackathon-1--The-Shift-Cipher-as-a-Flowchart-5963.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
