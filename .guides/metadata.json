@@ -55,12 +55,20 @@
    "learningObjectives": ""
   },
   {
-   "id": "026ae9aa-d89f-c06c-02ad-7e5c6bddf516",
-   "title": "Getting Started",
-   "files": [],
-   "path": [],
+   "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
+   "title": "Introducing Cryptography",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [
+    "IG.PNG"
+   ],
    "type": "markdown",
-   "content-file": ".guides/content/Getting-Started-026a.md",
+   "content-file": ".guides/content/Introducing-Cryptography-e918.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -103,24 +111,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
-   "title": "Kerckhoffs's Principle",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Kerckhoffs-s-Principle-ee03.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
    "title": "An Overview of Symmetric Key Cryptography",
    "files": [
@@ -139,20 +129,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "e918ce5b-d74b-289e-5014-2e4ad543e726",
-   "title": "Introducing Cryptography",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [
-    "IG.PNG"
-   ],
+   "id": "a6af098a-0191-1ebc-5cf7-8c33ddf0f042",
+   "title": "The Caesar Cipher",
+   "files": [],
+   "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Introducing-Cryptography-e918.md",
+   "content-file": ".guides/content/The-Caesar-Cipher-a6af.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -160,7 +142,7 @@
   },
   {
    "id": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
-   "title": "Early Cryptography: The Caesar Cipher",
+   "title": "CreatorSpace Lab: The Caesar Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -170,7 +152,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Early-Cryptography--The-Caesar-Cipher-ac90.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--The-Caesar-Cipher-ac90.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -217,6 +199,18 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Lab-Part-2--Decrypting-with-the-Caesar-Cipher-3dad.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ea667133-62b7-13a4-207b-980d62cda6b5",
+   "title": "Lab Part 3: Lab Check In",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-3--Lab-Check-In-ea66.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -295,6 +289,24 @@
    "learningObjectives": ""
   },
   {
+   "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
+   "title": "Kerckhoffs's Principle",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Kerckhoffs-s-Principle-ee03.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
    "title": "Cryptanalysis of a Cipher",
    "files": [
@@ -313,8 +325,20 @@
    "learningObjectives": ""
   },
   {
-   "id": "8c7d5a65-82e6-e6ab-d968-e04215302966",
+   "id": "6d85aec7-9648-e64b-bd5d-8fc61890fcd1",
    "title": "CreatorSpace Lab: The ROTn Shift Cipher",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab--The-ROTn-Shift-Cipher-6d85.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "8c7d5a65-82e6-e6ab-d968-e04215302966",
+   "title": "Lab Part 1: The ROTn Shift Cipher",
    "files": [
     {
      "path": "#tabs",
@@ -329,7 +353,19 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--The-ROTn-Shift-Cipher-8c7d.md",
+   "content-file": ".guides/content/Lab-Part-1--The-ROTn-Shift-Cipher-8c7d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "c20730bc-c787-c93a-ef87-8b801a16d31c",
+   "title": "Lab Part 2: Check In",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-2--Check-In-c207.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -372,8 +408,20 @@
    "learningObjectives": ""
   },
   {
+   "id": "75c7f38d-6cf5-fe34-ffba-d96e3470ede1",
+   "title": "CreatorSpace Lab: Substitution Ciphers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab--Substitution-Ciphers-75c7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6",
-   "title": "CreatorSpace Lab: Try Substitution Ciphers ",
+   "title": "Lab Part 1: Substitution Ciphers ",
    "files": [
     {
      "path": "#tabs",
@@ -393,7 +441,19 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Try-Substitution-Ciphers--a176.md",
+   "content-file": ".guides/content/Lab-Part-1--Substitution-Ciphers--a176.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "d6d77f7e-f1e7-77ec-77f0-e3f4b25faa4d",
+   "title": "Lab Part 2: Check In",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-2--Check-In-d6d7.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -418,8 +478,20 @@
    "learningObjectives": ""
   },
   {
-   "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
+   "id": "b4b22588-bf77-1b68-83eb-26f4b16beaa9",
    "title": "CreatorSpace Lab: Frequency Analysis",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab--Frequency-Analysis-b4b2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b2ecb120-971e-fc41-9bc6-31901671f8f9",
+   "title": "Lab Part 1: Frequency Analysis",
    "files": [
     {
      "path": "#tabs",
@@ -429,7 +501,19 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Frequency-Analysis-b2ec.md",
+   "content-file": ".guides/content/Lab-Part-1--Frequency-Analysis-b2ec.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b350c320-6d4b-c943-8bf7-048b2a644151",
+   "title": "Lab Part 2: Check In",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-2--Check-In-b350.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -585,6 +669,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "ff89f99b-a983-e8e2-56f1-269ae29663f5",
+   "title": "Hackathons",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hackathons-ff89.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
    "title": "Hackathon 1: The Shift Cipher as a Block Flowchart   ",
    "files": [
@@ -674,24 +770,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
-   "title": "Introducing Public Key Cryptography",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Introducing-Public-Key-Cryptography-a01b.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
    "title": "Solutions for Key Distribution ",
    "files": [
@@ -704,6 +782,24 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Solutions-for-Key-Distribution--4d40.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+   "title": "Introducing Public Key Cryptography",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introducing-Public-Key-Cryptography-a01b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -728,6 +824,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "d930b7c8-9f43-6cce-d58d-335d7285f392",
+   "title": "RSA Encryption",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/RSA-Encryption-d930.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
    "title": "CreatorSpace Lab: Public Key Encryption with RSA",
    "files": [
@@ -742,6 +850,18 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Public-Key-Encryption-with-RSA-2a21.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e9297ecc-95e6-ab4a-371f-0cce68a68542",
+   "title": "Lab Part 1: Generate Your Keys",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-1--Generate-Your-Keys-e929.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -821,6 +941,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "9529cc6a-33d6-c4f4-e8e2-6c5aca5d93f2",
+   "title": "A Day in the Life of Karen Juhl",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Day-in-the-Life-of-Karen-Juhl-9529.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "abbc437e-487e-9b93-2230-599a582187e5",
    "title": "Across the Disciplines: Mathematics ",
    "files": [
@@ -851,18 +983,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Elliptic-Curve-Cryptography--ECC--5a92.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "9529cc6a-33d6-c4f4-e8e2-6c5aca5d93f2",
-   "title": "A Day in the Life of Karen Juhl",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/A-Day-in-the-Life-of-Karen-Juhl-9529.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1128,6 +1248,18 @@
    "learningObjectives": ""
   },
   {
+   "id": "63b561e0-1110-eab6-6290-6ad2e2e0211f",
+   "title": "Getting Started",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Getting-Started-63b5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "d26d0aee-c9ec-1f73-45d8-3b6626b5682e",
    "title": "Check Your Memory",
    "files": [
@@ -1297,6 +1429,30 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab--Verifying-the-Integrity-of-a-Download-5495.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "21b09d33-e577-72fc-3792-da1065b260f2",
+   "title": "Lab Part 1: Calculate the Hashes for the File",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-1--Calculate-the-Hashes-for-the-File-21b0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "31a03dce-3c82-74e8-85d6-62317435b8d1",
+   "title": "Lab Part 2: Compare the Hash Values",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-2--Compare-the-Hash-Values-31a0.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1488,24 +1644,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "7bafd249-4a71-6db4-5844-73ae8edcba6b",
-   "title": "Growth Hack: Digital Signatures",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Growth-Hack--Digital-Signatures-7baf.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "048c8006-0acd-23e3-9125-5137f54e2802",
    "title": "Introducing Digital Signatures",
    "files": [
@@ -1518,6 +1656,24 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Introducing-Digital-Signatures-048c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "7bafd249-4a71-6db4-5844-73ae8edcba6b",
+   "title": "Growth Hack: Digital Signatures",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Growth-Hack--Digital-Signatures-7baf.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1920,102 +2076,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Additional-Assessment-Items-7e9f.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "ff89f99b-a983-e8e2-56f1-269ae29663f5",
-   "title": "Hackathons",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Hackathons-ff89.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "a8427e04-65fe-0d85-4647-64bfcae0cd3f",
-   "title": "RSA Encryption",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/RSA-Encryption-a842.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "074ac957-3d5a-9ae4-017b-6e45acdb214d",
-   "title": "RSA Encryption",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/RSA-Encryption-074a.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "d930b7c8-9f43-6cce-d58d-335d7285f392",
-   "title": "RSA Encryption",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/RSA-Encryption-d930.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "e9297ecc-95e6-ab4a-371f-0cce68a68542",
-   "title": "Lab Part 1: Generate Your Keys",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-1--Generate-Your-Keys-e929.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "21b09d33-e577-72fc-3792-da1065b260f2",
-   "title": "Lab Part 1: Calculate the Hashes for the File",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-1--Calculate-the-Hashes-for-the-File-21b0.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "31a03dce-3c82-74e8-85d6-62317435b8d1",
-   "title": "Lab Part 2: Compare the Hash Values",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Compare-the-Hash-Values-31a0.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "63b561e0-1110-eab6-6290-6ad2e2e0211f",
-   "title": "Getting Started",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Getting-Started-63b5.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

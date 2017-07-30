@@ -3388,5 +3388,21 @@
    "learningObjectives": "4.3",
    "points": 1
   }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-1154110295",
+  "source": {
+   "name": "GH 1.2.1",
+   "showName": true,
+   "bloomsObjectiveLevel": "4",
+   "guidance": "Substitution ciphers are more secure because they  have more possible keys  so they take longer to crack.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "Compare and contrast shift ciphers and substitution ciphers.  Which is more secure?  Why?",
+   "learningObjectives": "2.1",
+   "points": 1
+  }
  }
 ]

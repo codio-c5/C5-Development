@@ -19,11 +19,3 @@ Now click to see the digrams.
 And the trigrams.
 
 {Frequency analysis trigrams}(.guides/gettrigram.sh)
-
-
-## Lab Check In
-{Submit Answer!|assessment}(free-text-3413873105)
-
-{Submit Answer!|assessment}(free-text-879680027)
-
-
