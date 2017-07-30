@@ -112,7 +112,7 @@
   },
   {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
-   "title": "An Overview of Symmetric Key Cryptography",
+   "title": "How Symmetric Key Cryptography Works",
    "files": [
     {
      "path": "#tabs",
@@ -122,7 +122,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-Symmetric-Key-Cryptography-ed61.md",
+   "content-file": ".guides/content/How-Symmetric-Key-Cryptography-Works-ed61.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -141,18 +141,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
+   "id": "0a42a669-b412-0e6a-f823-9d47e0b7f0e7",
    "title": "CreatorSpace Lab: The Caesar Cipher",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
+   "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--The-Caesar-Cipher-ac90.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--The-Caesar-Cipher-0a42.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -361,11 +355,11 @@
   },
   {
    "id": "c20730bc-c787-c93a-ef87-8b801a16d31c",
-   "title": "Lab Part 2: Check In",
+   "title": "Lab Part 2: Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Check-In-c207.md",
+   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-c207.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -449,11 +443,11 @@
   },
   {
    "id": "d6d77f7e-f1e7-77ec-77f0-e3f4b25faa4d",
-   "title": "Lab Part 2: Check In",
+   "title": "Lab Part 2: Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Check-In-d6d7.md",
+   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-d6d7.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -509,11 +503,11 @@
   },
   {
    "id": "b350c320-6d4b-c943-8bf7-048b2a644151",
-   "title": "Lab Part 2: Check In",
+   "title": "Lab Part 2: Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Check-In-b350.md",
+   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-b350.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -740,18 +734,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "90e21dbe-33ac-eaa8-fbdb-e38b33154dbe",
-   "title": "Getting Started",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Getting-Started-90e2.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
    "title": "Check Your Memory",
    "files": [
@@ -830,6 +812,24 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/RSA-Encryption-d930.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "abbc437e-487e-9b93-2230-599a582187e5",
+   "title": "Across the Disciplines: Mathematics ",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Across-the-Disciplines--Mathematics--abbc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -953,24 +953,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "abbc437e-487e-9b93-2230-599a582187e5",
-   "title": "Across the Disciplines: Mathematics ",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Across-the-Disciplines--Mathematics--abbc.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
    "title": "Elliptic Curve Cryptography (ECC)",
    "files": [
@@ -1010,7 +992,7 @@
   },
   {
    "id": "f8b66935-383a-0a46-a410-9c5d85fb278a",
-   "title": "An Overview of Key Agreement Algorithms",
+   "title": "How Key Agreement Algorithms Work",
    "files": [
     {
      "path": "#tabs",
@@ -1020,7 +1002,31 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-Key-Agreement-Algorithms-f8b6.md",
+   "content-file": ".guides/content/How-Key-Agreement-Algorithms-Work-f8b6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "9966a2db-e439-46af-69a8-a222935e3ada",
+   "title": "CreatorSpace Lab: Key Agreement  (Exchange)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab--Key-Agreement---Exchange--9966.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "769c2556-12dc-088a-2f3c-12ca0f8ddb27",
+   "title": "Lab Part 1: Calculate Public and Private Keys",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-1--Calculate-Public-and-Private-Keys-769c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1028,7 +1034,7 @@
   },
   {
    "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
-   "title": "CreatorSpace Lab: Key Agreement (Exchange)",
+   "title": "Lab Part 2: Decrypt Your Partner's Key",
    "files": [
     {
      "path": "#tabs",
@@ -1050,7 +1056,7 @@
     "diffiehellman"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Key-Agreement--Exchange--c4ef.md",
+   "content-file": ".guides/content/Lab-Part-2--Decrypt-Your-Partner-s-Key-c4ef.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1058,11 +1064,11 @@
   },
   {
    "id": "686ca38b-a4a8-70a3-1771-db4d868c1a29",
-   "title": "Lab Check In",
+   "title": "Lab Part 3: Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Check-In-686c.md",
+   "content-file": ".guides/content/Lab-Part-3--Lab-Check-In-686c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

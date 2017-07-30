@@ -1,1 +1,0 @@
-# Sample content Lab Part 2: Check In

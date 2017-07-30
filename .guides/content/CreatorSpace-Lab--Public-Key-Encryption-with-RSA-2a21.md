@@ -1,47 +1,28 @@
+
+<figure class="snippetimg" style="margin: 0 auto;width:150%">
+  <img src=".guides/img/LabIntro.PNG">
+  
+<br>
+
+## Creating Secret Messages with RSA
 In this three-part lab, you break into pairs or small groups. You will then use RSA to complete the following steps:
 
 1. Each individual or group will generate a key pair.
-1. Designate one group as Alice and one as Bob then have Alice share her public key with Bob.
+1. Designate one group as Alice and one as Bob, then have Alice share her public key with Bob.
 1. Bob will create a message and encrypt it with Alice's public key.
 1. Bob will send the ciphertext to Alice.
 1. Alice will now decrypt the message using her private key.
 
 Compare results.
 
-Optionally, you can reverse the process - have the opposite groups be Alice and Bob and send another message.
+Afterwards, you can reverse the process and have the opposite groups be Alice and Bob and send another message.
 
-Each should get their original plaintext back.
+Each group should get their original plaintext back.
 
 Click the clean up button to clear out any previous work.
 {CLEAN UP}(sh rsa/cleanup.sh lab-part1)
 
-## Generate Your Keys
 
-To get started, you will generate a key pair; your partner will do the same. A key pair consists of a private key and a public key.
-
-Click the Generate keys button.
-
-{Generate keys}(sh rsa/keygen.sh) 
-
-The file tree on the left shows the keys, along with other files, that you just generated. One is ```private.key``` and the ```public.key```.
-
- - Click on the private key in the file tree, on the left, and a tab opens in this space showing its contents. (You can move between the tabs by clicking on them.)
- - Copy and paste the private key into the box below. 
- {Submit Answer!|assessment}(free-text-3445674952)
-
- - Open up the public key file that has been created.
- - Copy and paste the public key into the box below. 
- {Submit Answer!|assessment}(free-text-648952340)
- 
-## Download The Public Key
-
- - Have the team designated as Alice download their public key file. To download, right click on the public key file name in the tree on the left and select "Download". 
-
-## Rename and Email Public Key
-
-- You and your partner(s) will be exchanging public keys - in order to avoid confusion later in the unit, we recommend you rename your file (that you just downloaded) by adding your name to the file name. e.g. ```Alice_public.key```
-
-- Now email the renamed public key file to your partner (Bob)
 
 |||guidance
 **Instructor's Note:**

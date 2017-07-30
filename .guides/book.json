@@ -39,7 +39,7 @@
        "pageId": "227736ae-23d4-4a63-6bea-24cad2eefe07"
       },
       {
-       "title": "An Overview of Symmetric Key Cryptography",
+       "title": "How Symmetric Key Cryptography Works",
        "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
        "type": "page",
        "pageId": "ed61a1ab-f98a-724b-3b83-d097e3709acd"
@@ -52,29 +52,27 @@
       },
       {
        "title": "CreatorSpace Lab: The Caesar Cipher",
-       "id": "cc4c81dc-677d-4ad4-d61b-2dab9ed4e7ad",
-       "type": "section",
-       "pageId": "ac90d19f-180c-2461-9c9f-253e17f9ebb8",
-       "children": [
-        {
-         "title": "Lab Part 1: Encrypting with the Caesar Cipher",
-         "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-         "type": "page",
-         "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
-        },
-        {
-         "title": "Lab Part 2: Decrypting with the Caesar Cipher",
-         "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
-         "type": "page",
-         "pageId": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad"
-        },
-        {
-         "title": "Lab Part 3: Lab Check In",
-         "id": "ab2856c0-8082-c214-a7e7-d3eb20c2abff",
-         "type": "page",
-         "pageId": "ea667133-62b7-13a4-207b-980d62cda6b5"
-        }
-       ]
+       "id": "eb7ca591-17d1-80e2-1f81-bd8eccac0da8",
+       "type": "page",
+       "pageId": "0a42a669-b412-0e6a-f823-9d47e0b7f0e7"
+      },
+      {
+       "title": "Lab Part 1: Encrypting with the Caesar Cipher",
+       "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
+       "type": "page",
+       "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
+      },
+      {
+       "title": "Lab Part 2: Decrypting with the Caesar Cipher",
+       "id": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad",
+       "type": "page",
+       "pageId": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad"
+      },
+      {
+       "title": "Lab Part 3: Lab Check In",
+       "id": "ab2856c0-8082-c214-a7e7-d3eb20c2abff",
+       "type": "page",
+       "pageId": "ea667133-62b7-13a4-207b-980d62cda6b5"
       },
       {
        "title": "Shift Ciphers",
@@ -125,10 +123,10 @@
          "pageId": "8c7d5a65-82e6-e6ab-d968-e04215302966"
         },
         {
+         "title": "Lab Part 2: Lab Check In",
          "id": "daca1e13-5cf1-8aab-92d6-04733956a1c6",
-         "title": "Lab Part 2: Check In",
-         "pageId": "c20730bc-c787-c93a-ef87-8b801a16d31c",
-         "type": "page"
+         "type": "page",
+         "pageId": "c20730bc-c787-c93a-ef87-8b801a16d31c"
         },
         {
          "title": "Meetup: Shift Ciphers and Attack Scenarios ",
@@ -157,7 +155,7 @@
          "pageId": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6"
         },
         {
-         "title": "Lab Part 2: Check In",
+         "title": "Lab Part 2: Lab Check In",
          "id": "f27b004a-0bdc-e4f6-b87d-a2bb80f332c8",
          "type": "page",
          "pageId": "d6d77f7e-f1e7-77ec-77f0-e3f4b25faa4d"
@@ -181,7 +179,7 @@
          "pageId": "b2ecb120-971e-fc41-9bc6-31901671f8f9"
         },
         {
-         "title": "Lab Part 2: Check In",
+         "title": "Lab Part 2: Lab Check In",
          "id": "28d79390-1892-2871-0e30-b27498c12a5f",
          "type": "page",
          "pageId": "b350c320-6d4b-c943-8bf7-048b2a644151"
@@ -269,36 +267,28 @@
      "pageId": "17831e64-4619-743c-bd9f-b1ea696429f9",
      "children": [
       {
-       "title": "Getting Started",
-       "id": "8aecf9ab-b3ca-13f1-11ca-ba4f98be9795",
-       "type": "section",
-       "pageId": "90e21dbe-33ac-eaa8-fbdb-e38b33154dbe",
-       "children": [
-        {
-         "title": "Check Your Memory",
-         "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
-         "type": "page",
-         "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
-        },
-        {
-         "title": "Solutions for Key Distribution ",
-         "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
-         "type": "page",
-         "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
-        },
-        {
-         "title": "Introducing Public Key Cryptography",
-         "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
-         "type": "page",
-         "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
-        },
-        {
-         "title": "How Public Key Encryption Works",
-         "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
-         "type": "page",
-         "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
-        }
-       ]
+       "title": "Check Your Memory",
+       "id": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684",
+       "type": "page",
+       "pageId": "54c4e1a8-c7bd-0b93-7f6c-42b51f796684"
+      },
+      {
+       "title": "Solutions for Key Distribution ",
+       "id": "4d400085-08e6-b042-f82b-a294ccf5f0f2",
+       "type": "page",
+       "pageId": "4d400085-08e6-b042-f82b-a294ccf5f0f2"
+      },
+      {
+       "title": "Introducing Public Key Cryptography",
+       "id": "a01b9706-d757-6cd3-c0a2-2f261964c0d5",
+       "type": "page",
+       "pageId": "a01b9706-d757-6cd3-c0a2-2f261964c0d5"
+      },
+      {
+       "title": "How Public Key Encryption Works",
+       "id": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c",
+       "type": "page",
+       "pageId": "eb73688e-3bb2-94bb-d1e5-10df12da5b3c"
       },
       {
        "title": "RSA Encryption",
@@ -306,6 +296,12 @@
        "type": "section",
        "pageId": "d930b7c8-9f43-6cce-d58d-335d7285f392",
        "children": [
+        {
+         "title": "Across the Disciplines: Mathematics ",
+         "id": "5077a5bf-0c59-d9dd-cfc3-5a813f6ed5fe",
+         "type": "page",
+         "pageId": "abbc437e-487e-9b93-2230-599a582187e5"
+        },
         {
          "title": "CreatorSpace Lab: Public Key Encryption with RSA",
          "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
@@ -345,12 +341,6 @@
        ]
       },
       {
-       "title": "Across the Disciplines: Mathematics ",
-       "id": "5077a5bf-0c59-d9dd-cfc3-5a813f6ed5fe",
-       "type": "page",
-       "pageId": "abbc437e-487e-9b93-2230-599a582187e5"
-      },
-      {
        "title": "Elliptic Curve Cryptography (ECC)",
        "id": "5a9266e7-9fe3-188a-5b14-f25a19808721",
        "type": "page",
@@ -363,10 +353,22 @@
        "pageId": "d228c8f4-09b3-57f5-0992-338cab98d00a",
        "children": [
         {
-         "title": "An Overview of Key Agreement Algorithms",
+         "title": "How Key Agreement Algorithms Work",
          "id": "92de8510-6ad8-1174-ff08-d9e06dac8713",
          "type": "page",
          "pageId": "f8b66935-383a-0a46-a410-9c5d85fb278a"
+        },
+        {
+         "title": "CreatorSpace Lab: Key Agreement  (Exchange)",
+         "id": "02b5dfca-7c64-6cba-2089-240070e406ee",
+         "type": "page",
+         "pageId": "9966a2db-e439-46af-69a8-a222935e3ada"
+        },
+        {
+         "title": "Lab Part 1:",
+         "id": "4d390633-46b3-73a5-6fdf-5472ceb1a3b0",
+         "type": "page",
+         "pageId": "769c2556-12dc-088a-2f3c-12ca0f8ddb27"
         },
         {
          "title": "CreatorSpace Lab: Key Agreement (Exchange)",
