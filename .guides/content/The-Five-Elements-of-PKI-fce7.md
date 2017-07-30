@@ -5,7 +5,7 @@ To build the chain of trust, public key infrastructure has five primary componen
 
  <figure class="snippetimg" style="margin: 0 auto;width:80%">
   <img src=".guides/img/Elements.jpg" alt="https://commons.wikimedia.org/wiki/File:Chain_of_trust.svg">
-  <figcaption style="font-size: 0.8em; text-align: left;">  Of Winds and Four Seasons: meteorological and astronomical diagram. <br>
+  <figcaption style="font-size: 0.8em; text-align: left;">  Of Winds and Four Seasons. A meteorological and astronomical diagram. <br>
 By Johannes Regiomontanus, 1512. Woodcut on paper. [Public domain], via Wikimedia Commons.
 </figure>
 <br>

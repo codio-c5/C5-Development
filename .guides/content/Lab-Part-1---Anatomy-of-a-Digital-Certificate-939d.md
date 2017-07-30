@@ -1,4 +1,4 @@
-### In this lab, you will explore digital certificates and certification paths in the Chrome web browser.  
+
 
 ## Explore the Digital Certificate
  - Open a Chrome browser and go to https://mail.google.com.

@@ -869,7 +869,7 @@
   },
   {
    "id": "ea3463b0-9acd-66cb-a112-f1fba1c3a33a",
-   "title": "CreatorSpace Lab: Inside RSA Encryption (Part 2: Encryption)",
+   "title": "Lab Part 2: Encryption",
    "files": [
     {
      "path": "#tabs",
@@ -891,7 +891,7 @@
     "lab-part2"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption--Part-2--Encryption--ea34.md",
+   "content-file": ".guides/content/Lab-Part-2--Encryption-ea34.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -924,7 +924,7 @@
   },
   {
    "id": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4",
-   "title": "Lab Check In",
+   "title": "Lab Part 4: Lab Check In",
    "files": [
     {
      "path": "#tabs",
@@ -934,7 +934,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Check-In-5c37.md",
+   "content-file": ".guides/content/Lab-Part-4--Lab-Check-In-5c37.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1254,18 +1254,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "63b561e0-1110-eab6-6290-6ad2e2e0211f",
-   "title": "Getting Started",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Getting-Started-63b5.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "d26d0aee-c9ec-1f73-45d8-3b6626b5682e",
    "title": "Check Your Memory",
    "files": [
@@ -1422,19 +1410,12 @@
    "learningObjectives": ""
   },
   {
-   "id": "549517a6-1a35-4325-a50d-5da0748f8af3",
+   "id": "82f4fde3-8f5d-a7dc-c0a5-d00b3c600090",
    "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
-   "files": [
-    {
-     "path": "#preview: https://md5file.com/calculator",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Verifying-the-Integrity-of-a-Download-5495.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Verifying-the-Integrity-of-a-Download-82f4.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1466,7 +1447,7 @@
   },
   {
    "id": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2",
-   "title": "Lab Check In",
+   "title": "Lab Part 3: Lab Check In",
    "files": [
     {
      "path": "#tabs",
@@ -1476,7 +1457,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Check-In-b05c.md",
+   "content-file": ".guides/content/Lab-Part-3--Lab-Check-In-b05c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1687,7 +1668,7 @@
   },
   {
    "id": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9",
-   "title": "An Overview of the Digital Signature Standard (DSS) insert correct vid ",
+   "title": "How the Digital Signature Standard (DSS) works insert correct vid ",
    "files": [
     {
      "path": "#tabs",
@@ -1697,7 +1678,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-the-Digital-Signature-Standard--DSS--insert-correct-vid--0c8e.md",
+   "content-file": ".guides/content/How-the-Digital-Signature-Standard--DSS--works-insert-correct-vid--0c8e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1914,8 +1895,20 @@
    "learningObjectives": ""
   },
   {
-   "id": "939d28c8-b89f-b883-7272-a3f900d4644a",
+   "id": "31ebe55f-052c-45ac-0bd0-046613cc5205",
    "title": "CreatorSpace Lab:  Digital Certificates in Chrome",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/CreatorSpace-Lab---Digital-Certificates-in-Chrome-31eb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "939d28c8-b89f-b883-7272-a3f900d4644a",
+   "title": "Lab Part 1:  Anatomy of a Digital Certificate",
    "files": [
     {
      "path": "#tabs",
@@ -1925,7 +1918,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab---Digital-Certificates-in-Chrome-939d.md",
+   "content-file": ".guides/content/Lab-Part-1---Anatomy-of-a-Digital-Certificate-939d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

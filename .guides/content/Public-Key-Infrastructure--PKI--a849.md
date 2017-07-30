@@ -1,6 +1,6 @@
 
 <br>
-<figure class="snippetimg" style="margin: 0 auto;width:50%">
+<figure class="snippetimg" style="margin: 0 auto;width:80%">
   <img src=".guides/img/Chain.jpg" alt="https://commons.wikimedia.org/wiki/File% Antique skeleton keys.">
   <figcaption style="font-size: 0.8em; text-align: left;">  A chain.
   <br>
