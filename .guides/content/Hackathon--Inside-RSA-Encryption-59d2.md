@@ -4,17 +4,17 @@ It's based on modular arithmetic and prime numbers.
 
 Key generation by Bob:
 
-Select $p$ and $ q$. they are both prime numbers where $p\neq q$
+Select $p$ and $q$. they are both prime numbers where $p\neq q$
 
 Calculate $n=p\times q$.
 
 Calculate the **Euler's Totient funtion** (also referred to as just **Phi**):
 
-$φ(n)=(p-1)(q-1)$
+$$\phi(n)=(p-1)(q-1)$$
 
-Choose an integer ```e``` where $1 < e < φ(n)$ and ```e``` and ```φ(n)``` are coprime $gcd⁡(e,φ(n))=1$ (e and φ(n) do not share any divisors other than 1)
+Choose an integer $e$ where $1 < e < \phi(n)$ and $e$ and $\phi(n)$ are coprime $gcd⁡(e,\phi(n))=1$ ($e$ and $\phi(n)$ do not share any divisors other than 1).
 
-Calculate d so that $d\b* e$ is congruent with $1 mod φ(n)$ or $d*e ≡ 1 mod φ(n)$ 
+Calculate d so that $\frac{d}{b}\times e$ is congruent with $1 \bmod \phi(n)$ or $d*e \equiv 1 \bmod \phi(n)$ 
 
 This yields a public key: $(e,n)$  and a private key: $(d,n)$.
 
