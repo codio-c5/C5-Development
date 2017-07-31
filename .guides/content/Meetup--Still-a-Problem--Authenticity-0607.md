@@ -1,3 +1,8 @@
+
+
+<figure class="snippetimg" style="margin: 0 auto;width:60%">
+  <img src=".guides/img/MeetIntro.PNG">
+  
 ## Who Can It Be Now?
 *The digital signature is authentic, but did the message really come from Alice?*
 

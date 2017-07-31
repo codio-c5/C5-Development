@@ -1,4 +1,4 @@
-<figure class="snippetimg" style="margin: 0 auto;width:80%">
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/DILOIntro.PNG">
   
 <br>Raven Alder, principal engineer at the cybersecurity company Nexum, Inc., didn't foresee that she would become a white hat hacker when she was an undergrad at Virginia Tech. She loved problem-solving and new challenges, and found her way to the discipline from there.  

@@ -1,4 +1,4 @@
-<figure class="snippetimg" style="margin: 0 auto;width:80%">
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/DILOIntro.PNG">
   
 <br>

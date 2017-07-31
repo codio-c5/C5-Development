@@ -265,24 +265,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "e88a2a5f-5a45-5689-e309-3f7fa1be906d",
-   "title": "A Day in the life of Angy Shavit",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/A-Day-in-the-life-of-Angy-Shavit-e88a.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
    "title": "Kerckhoffs's Principle",
    "files": [
@@ -313,6 +295,24 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Cryptanalysis-of-a-Cipher-c3a1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
+   "title": " A Day in the Life of Raven Alder",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-A-Day-in-the-Life-of-Raven-Alder-3363.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1757,6 +1757,24 @@
    "learningObjectives": ""
   },
   {
+   "id": "e88a2a5f-5a45-5689-e309-3f7fa1be906d",
+   "title": "A Day in the life of Angy Shavit",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-Day-in-the-life-of-Angy-Shavit-e88a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "060774df-f1f5-a093-8745-f3e85f6d9c8a",
    "title": "Meetup: Still a Problem: Authenticity",
    "files": [
@@ -1866,7 +1884,7 @@
   },
   {
    "id": "fdf6363b-efde-703a-36d4-fbda6c8b1de0",
-   "title": "Meetup: Common Applications Using PKI ",
+   "title": "Meetup: Applications that  use PKI",
    "files": [
     {
      "path": "#tabs",
@@ -1876,7 +1894,7 @@
    "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Meetup--Common-Applications-Using-PKI--fdf6.md",
+   "content-file": ".guides/content/Meetup--Applications-that--use-PKI-fdf6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -2003,24 +2021,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Digital-Signatures-and-PKI--Critical-Thinking-6726.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
-   "title": " A Day in the Life of Raven Alder",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/-A-Day-in-the-Life-of-Raven-Alder-3363.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

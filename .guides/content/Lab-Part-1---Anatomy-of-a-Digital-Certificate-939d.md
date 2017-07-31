@@ -1,5 +1,4 @@
 
-
 ## Explore the Digital Certificate
  - Open a Chrome browser and go to https://mail.google.com.
 Note that the url starts with https. This means that the web site is using SSL (Secure Sockets Layer) and TLS (Transport Layer Security) to connect you securely to the site.

@@ -1,9 +1,19 @@
 ## How Do You Crack a Code?
 
-A cryptanalyst first needs to know what information he has before creating a decoding strategy. The elements of a code are these: the original plaintext, the resulting ciphertext, and the encryption/decryption key. To crack a code, your strategy depends on what you have. 
+A cryptanalyst first needs to know what information she has before creating a decoding strategy. The elements of a code are: 
+ - The original plaintext 
+ - The resulting ciphertext
+ - The encryption/decryption key 
+   
+To crack a code, your strategy depends on what you have. 
 
 Following Kerckhoffs’s Principle, let's assume that the details of the algorithm used for encryption is known. If you know the key, you can simply convert plaintext or ciphertext with ease.
- 
+ <figure class="snippetimg" style="margin: 10 auto;width:100%">
+  <img src=".guides/img/quipu.jpg" alt="Auguste Kerckhoffs. Photo by Eugen Drezen, Historio de la Mondo Lingvo (Leipzig, 1931), 102. Sourced from Wikimedia Commons*">
+  <figcaption style="font-size: 0.8em; text-align: left;">The Incan khiipu is a recording system of cords and knots that remains undecoded.  For more on the khipu see: http://khipukamayuq.fas.harvard.edu.    
+  </br>
+ By Claus Ableiter von User Lyndsaruell [CC BY-SA 3.0], via Wikimedia Commons.</figcaption>
+</figure>
 
 ## Getting Forceful 
 As you've seen, for simple ciphers like the Caesar cipher, you can use **brute force** to find the key. You test each possible key until you find the plaintext. 

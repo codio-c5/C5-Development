@@ -93,12 +93,6 @@
          "pageId": "80efc43f-a6a8-9c09-e1c1-adadb2e61383"
         },
         {
-         "title": "A Day in the life of Angy Shavit",
-         "id": "e88a2a5f-5a45-5689-e309-3f7fa1be906d",
-         "type": "page",
-         "pageId": "e88a2a5f-5a45-5689-e309-3f7fa1be906d"
-        },
-        {
          "title": "Kerckhoffs's Principle",
          "id": "ee032af8-9505-2c4e-187e-102b1f584a4c",
          "type": "page",
@@ -109,6 +103,12 @@
          "id": "c3a1efb0-9a69-31c5-5929-c6a77de3a341",
          "type": "page",
          "pageId": "c3a1efb0-9a69-31c5-5929-c6a77de3a341"
+        },
+        {
+         "title": " A Day in the Life of Raven Alder",
+         "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
+         "type": "page",
+         "pageId": "33631974-d9bc-f937-fd6b-779cb40a0611"
         },
         {
          "title": "CreatorSpace Lab: The ROTn Shift Cipher",
@@ -633,6 +633,12 @@
        "pageId": "5a74f790-0bff-4a25-e0e3-2b4b848597a7"
       },
       {
+       "title": "A Day in the life of Angy Shavit",
+       "id": "e88a2a5f-5a45-5689-e309-3f7fa1be906d",
+       "type": "page",
+       "pageId": "e88a2a5f-5a45-5689-e309-3f7fa1be906d"
+      },
+      {
        "title": "Meetup: Still a Problem: Authenticity",
        "id": "e70ab583-b74b-9f3e-d148-14c983662c54",
        "type": "page",
@@ -667,44 +673,44 @@
          "id": "b8fc55a0-0022-ab86-7c0f-8dc2c3e8cb2e",
          "type": "page",
          "pageId": "fce751c5-310b-a096-de6a-75edd6c041ee"
+        },
+        {
+         "title": "Meetup: Applications that  use PKI",
+         "id": "f6740787-ba36-f87c-1ebd-ebf648fc35b3",
+         "type": "page",
+         "pageId": "fdf6363b-efde-703a-36d4-fbda6c8b1de0"
+        },
+        {
+         "title": "Digital Signatures at Work: DocuSign",
+         "id": "34ba6832-5aba-1b7d-743a-f5242d368fe7",
+         "type": "page",
+         "pageId": "e1b25974-b24d-65dd-7545-71c36e4bc99d"
+        },
+        {
+         "title": "CreatorSpace Lab:  Digital Certificates in Chrome",
+         "id": "5d501556-6fbd-78a9-fdb6-ed4a444af6f8",
+         "type": "page",
+         "pageId": "31ebe55f-052c-45ac-0bd0-046613cc5205"
+        },
+        {
+         "title": "Lab Part 1:  Anatomy of a Digital Certificate",
+         "id": "1405df79-f193-df1a-3eb3-c43912c51c95",
+         "type": "page",
+         "pageId": "939d28c8-b89f-b883-7272-a3f900d4644a"
+        },
+        {
+         "title": "Lab Part 2:  Certification Paths",
+         "id": "0a6f9db4-58b8-b56a-8c76-af021ff08509",
+         "type": "page",
+         "pageId": "67dc7d0a-d765-6c7f-f4e6-d42633fafe96"
+        },
+        {
+         "title": "Lab Part 3: Check Your Knowledge",
+         "id": "325d6257-0715-43a7-b7b7-d6cf09205ada",
+         "type": "page",
+         "pageId": "e61b4349-e0e9-4c30-3494-6729e75cf3cc"
         }
        ]
-      },
-      {
-       "title": "Some Applications in Which Cryptography Is Used",
-       "id": "f6740787-ba36-f87c-1ebd-ebf648fc35b3",
-       "type": "page",
-       "pageId": "fdf6363b-efde-703a-36d4-fbda6c8b1de0"
-      },
-      {
-       "title": "Digital Signatures at Work: DocuSign",
-       "id": "34ba6832-5aba-1b7d-743a-f5242d368fe7",
-       "type": "page",
-       "pageId": "e1b25974-b24d-65dd-7545-71c36e4bc99d"
-      },
-      {
-       "title": "CreatorSpace Lab:  Digital Certificates in Chrome",
-       "id": "5d501556-6fbd-78a9-fdb6-ed4a444af6f8",
-       "type": "page",
-       "pageId": "31ebe55f-052c-45ac-0bd0-046613cc5205"
-      },
-      {
-       "title": "CreatorSpace Lab:  Digital Certificates in Chrome",
-       "id": "1405df79-f193-df1a-3eb3-c43912c51c95",
-       "type": "page",
-       "pageId": "939d28c8-b89f-b883-7272-a3f900d4644a"
-      },
-      {
-       "title": " Lab Part 2:  Certification Paths",
-       "id": "0a6f9db4-58b8-b56a-8c76-af021ff08509",
-       "type": "page",
-       "pageId": "67dc7d0a-d765-6c7f-f4e6-d42633fafe96"
-      },
-      {
-       "title": "Lab Part 3: Check Your Knowledge",
-       "id": "325d6257-0715-43a7-b7b7-d6cf09205ada",
-       "type": "page",
-       "pageId": "e61b4349-e0e9-4c30-3494-6729e75cf3cc"
       },
       {
        "title": "Unit Summary & Assessments",
@@ -729,12 +735,6 @@
      ]
     },
     {
-     "title": " A Day in the Life of Raven Alder",
-     "id": "33631974-d9bc-f937-fd6b-779cb40a0611",
-     "type": "page",
-     "pageId": "33631974-d9bc-f937-fd6b-779cb40a0611"
-    },
-    {
      "title": "Credits",
      "id": "eaab815b-fef3-d4c7-36bd-5dd71d6eccbb",
      "type": "page",
@@ -755,5 +755,5 @@
    ]
   }
  ],
- "name": "C5 CyberSecurity"
+ "name": "C5 Cybersecurity"
 }

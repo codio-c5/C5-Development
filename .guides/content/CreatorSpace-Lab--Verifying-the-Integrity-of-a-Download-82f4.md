@@ -1,6 +1,6 @@
 
 
-<figure class="snippetimg" style="margin: 0 auto;width:150%">
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/LabIntro.PNG">
   
 <br>
