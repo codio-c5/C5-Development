@@ -365,42 +365,42 @@
          "pageId": "9966a2db-e439-46af-69a8-a222935e3ada"
         },
         {
-         "title": "Lab Part 1:",
+         "title": "Lab Part 1: Calculate Public and Private Keys",
          "id": "4d390633-46b3-73a5-6fdf-5472ceb1a3b0",
          "type": "page",
          "pageId": "769c2556-12dc-088a-2f3c-12ca0f8ddb27"
         },
         {
-         "title": "CreatorSpace Lab: Key Agreement (Exchange)",
+         "title": "Lab Part 2: Decrypt Your Partner's Key",
          "id": "c4ef309a-64a8-dd8f-6731-369655d82898",
          "type": "page",
          "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
         },
         {
-         "title": "Lab Check In",
+         "title": "Lab Part 3: Lab Check In",
          "id": "f9d21aa4-c727-8da0-d02e-61f78f8ad912",
          "type": "page",
          "pageId": "686ca38b-a4a8-70a3-1771-db4d868c1a29"
+        },
+        {
+         "title": "Across the Disciplines: Business",
+         "id": "e3649d4f-6eb2-4224-a9cb-7d1f516b8e1a",
+         "type": "page",
+         "pageId": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68"
+        },
+        {
+         "title": "Growth Hack: The Problem of Authentication ",
+         "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
+         "type": "page",
+         "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59"
+        },
+        {
+         "title": "Man-in-the-Middle Attacks",
+         "id": "027482d0-3d75-ad7c-9115-e948894f207f",
+         "type": "page",
+         "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"
         }
        ]
-      },
-      {
-       "title": "Across the Disciplines: Business",
-       "id": "e3649d4f-6eb2-4224-a9cb-7d1f516b8e1a",
-       "type": "page",
-       "pageId": "15fca296-ccfc-0c9e-e96a-59ec2e5baa68"
-      },
-      {
-       "title": "Growth Hack: The Problem of Authentication ",
-       "id": "4d24845b-174a-bde6-aa96-beee9bc29f59",
-       "type": "page",
-       "pageId": "4d24845b-174a-bde6-aa96-beee9bc29f59"
-      },
-      {
-       "title": "Man-in-the-Middle Attacks",
-       "id": "027482d0-3d75-ad7c-9115-e948894f207f",
-       "type": "page",
-       "pageId": "027482d0-3d75-ad7c-9115-e948894f207f"
       },
       {
        "title": "Unit Summary & Assessments",

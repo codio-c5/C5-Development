@@ -2,10 +2,10 @@ With the advent of powerful computers, modern cryptography has moved away from s
 
 
 <figure class="snippetimg" style="margin: 0 auto;width:70%">
-  <img src=".guides/img/blockcipher.PNG" alt="By Lunkwill. [Public Domain]sourced from Wikimedia Commons.">
+  <img src=".guides/img/blockcipher.PNG" alt="By Lunkwill [Public Domain]sourced from Wikimedia Commons.">
   <figcaption style="font-size: 0.8em; text-align: left;"> Block cipher diagram.
   </br>
- Source: By Lunkwill. [Public Domain]sourced from Wikimedia Commons.</figcaption>
+ Source: By Lunkwill [Public Domain] sourced from Wikimedia Commons.</figcaption>
 </figure>
 
 
@@ -16,7 +16,7 @@ In **block encryption,** rather than working on a stream of data one bit at a ti
 ||| guidance
 **Instructor's Note:** Here's a complex graphic describing DES. You can use it to explain to students that DES is rather more rigorous in its approach than the shift and substitution algorithms we have seen so far.
 
-<figure class="snippetimg" style="margin: 0 auto;width:50%">
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/DES.png" alt="Source: https://en.wikipedia.org/wiki/Data_Encryption_Standard">
   <figcaption style="font-size: 0.8em; text-align: left;"> DES diagram.
   </br>

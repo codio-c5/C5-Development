@@ -7,7 +7,7 @@ Cryptography involves designing systems to store and transmit data in a secure w
 
 Modern cryptography has evolved to use increasingly complex mathematics to transform information in a way that makes it readily accessible by its intended audience but not by anyone else.
 
-<figure class="snippetimg" style="margin: 0 auto;width:50%">
+<figure class="snippetimg" style="margin: 0 auto;width:80%">
   <img src=".guides/img/Lock.JPG" alt="A combination padlock. By David. Sourced from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lock.JPG) Sourced from Wikimedia Commons">
   <figcaption style="font-size: 0.8em; text-align: left;">A common padlock. 
 </br>

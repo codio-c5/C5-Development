@@ -1,4 +1,4 @@
-To build the chain of trust, public key infrastructure has five primary components.  It starts with the certificate authority.
+### To build the chain of trust, public key infrastructure has five primary components.  It starts with the certificate authority.
 
 1. **A certificate authority (CA),**  is a trusted party that acts as the root of trust and provides services that authenticate the identity of individuals, computers, web sites, and other digital entities.
 1. **Root Certificate Authority certificate (root CA certificate),** is root-trusted party which is represented by a self-signed certificate.

@@ -1,8 +1,6 @@
-
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/LabIntro.PNG">
-  
-<br>
+
 
 ## Creating Secret Messages with RSA
 In this three-part lab, you break into pairs or small groups. You will then use RSA to complete the following steps:

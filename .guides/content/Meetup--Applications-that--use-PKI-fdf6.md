@@ -1,4 +1,4 @@
-<figure class="snippetimg" style="margin: 0 auto;width:60%">
+<figure class="snippetimg" style="margin: 0 auto;width:70%">
   <img src=".guides/img/MeetIntro.PNG">
   
 ## Comparing and Contrasting Applications that use  PKI

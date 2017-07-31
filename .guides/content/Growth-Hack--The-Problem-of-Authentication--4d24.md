@@ -1,5 +1,9 @@
 
-## Growth Hack: What About Bob? 
+<figure class="snippetimg" style="margin: 0 auto;width:80%">
+  <img src=".guides/img/growthintro.PNG">
+  
+<br>
+## What About Bob? 
 
 
 

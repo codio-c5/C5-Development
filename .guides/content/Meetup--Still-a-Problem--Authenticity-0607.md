@@ -1,6 +1,6 @@
 
 
-<figure class="snippetimg" style="margin: 0 auto;width:60%">
+<figure class="snippetimg" style="margin: 0 auto;width:70%">
   <img src=".guides/img/MeetIntro.PNG">
   
 ## Who Can It Be Now?

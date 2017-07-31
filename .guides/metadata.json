@@ -1117,7 +1117,7 @@
   },
   {
    "id": "027482d0-3d75-ad7c-9115-e948894f207f",
-   "title": "Man-in-the-Middle Attacks",
+   "title": "How Man-in-the-Middle Attacks Work",
    "files": [
     {
      "path": "#tabs",
@@ -1127,7 +1127,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Man-in-the-Middle-Attacks-0274.md",
+   "content-file": ".guides/content/How-Man-in-the-Middle-Attacks-Work-0274.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
