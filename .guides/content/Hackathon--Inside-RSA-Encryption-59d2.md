@@ -35,4 +35,5 @@ Plaintext: $m= c^d \bmod n$
 {Submit Answer!|assessment}(free-text-2750669850)
 
 |||guidance
-**Instructor's Note:** Asymmetric key algorithms become increasingly complex as computing power evolves. The more computationally complex the algorithm and often the keysize, more time and computing power is required by those seeking to crack the code. |||
+**Instructor's Note:** Asymmetric key algorithms become increasingly complex as computing power evolves. The more computationally complex the algorithm and often the keysize, more time and computing power is required by those seeking to crack the code. 
+|||
