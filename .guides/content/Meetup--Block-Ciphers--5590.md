@@ -1,3 +1,6 @@
+<figure class="snippetimg" style="margin: 0 auto;width:60%">
+  <img src=".guides/img/MeetIntro.PNG">
+
 ## Comparing and Contrasting Block Ciphers
 
 There are several modern block ciphers that have different strengths and weaknesses.  Some of the most well known include: 

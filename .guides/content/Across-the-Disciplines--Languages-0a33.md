@@ -1,3 +1,7 @@
+
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/Discintro.PNG">
+
 ## Cryptography and Language
  Language is a critical key in cryptography.  If you decode the ciphertext `GRRUTY TUAY XKTIUTZXKX JKSGOT` by using a shift key of `6`, you get *Allons nous rencontrer demain.*  But if you don't know that the message is in French, you'll miss the request: "Let's meet tomorrow." You might not even recognize that you have decoded the ciphertext.
 

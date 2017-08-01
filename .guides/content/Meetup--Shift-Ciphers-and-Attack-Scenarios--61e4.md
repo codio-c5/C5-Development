@@ -1,3 +1,7 @@
+<figure class="snippetimg" style="margin: 0 auto;width:60%">
+  <img src=".guides/img/MeetIntro.PNG">
+
+
 ## Calling All Cryptanalysts: How would you crack it?
 
 *What approach would you take to solve each scenario?*

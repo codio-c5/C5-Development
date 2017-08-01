@@ -17,7 +17,7 @@ What would it take to break a shift cipher? If you knew that a ciphertext was cr
 
 ||| info
 
-**Note:** We assume here that the cryptanalyst knows the language that the original plaintext is in. If the plaintext were in a language not understood by the cryptanalyst, discovering the key would be much more difficult because she might not recognize the words revealed by the correct key. 
+**Note:** The cryptanalyst needs to know the language that the original plaintext is in. If the plaintext were in a language not understood by the cryptanalyst, discovering the key would be much more difficult because she might not recognize the words revealed by the correct key. 
 
 |||
 

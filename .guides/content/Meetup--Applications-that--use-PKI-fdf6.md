@@ -1,4 +1,6 @@
-
+<figure class="snippetimg" style="margin: 0 auto;width:70%">
+  <img src=".guides/img/MeetIntro.PNG">
+  
 ## Comparing and Contrasting Applications that use  PKI
 
 There are many applications that use PKI  to support the things you do every day.  Some of the most well known include: 

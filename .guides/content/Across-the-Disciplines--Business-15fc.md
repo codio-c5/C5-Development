@@ -1,3 +1,8 @@
+
+
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/Discintro.PNG">
+  
 ## Women in Cybersecurity Careers
 
 ### Key findings from the "2017 Global Information Security Workforce Study: Women in Cybersecurity" report shows little change in the gap between women and men in cybersecurity careers.  

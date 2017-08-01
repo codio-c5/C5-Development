@@ -16,7 +16,3 @@ Experiment with substitution ciphers on the left. For instance, copy the previou
 {Decrypt}(substitution/subdecrypt.sh)
 
 Try encrypting and decrypting other phrases.
-
-## Lab Check In
-{Check It!|assessment}(fill-in-the-blanks-1969010385)
-
