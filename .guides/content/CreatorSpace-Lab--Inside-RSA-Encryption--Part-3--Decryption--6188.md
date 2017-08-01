@@ -4,7 +4,7 @@ Once you receive your partner's encrypted message, follow these steps to decrypt
 
 - Click the decrypt button below.
 
-{Decrypt}(sh rsa/decrypt.sh lab-part1/private.key lab-part2/cipher.txt lab-part3/partner-message.txt )
+{Decrypt}(sh rsa/decrypt.sh private.key cipher.txt partner-message.txt)
 
 Your partner's message should be visible in the panel to the left. (If it is not, then click on the lab-part3/partner-message.txt file in the file tree to the left.)
 

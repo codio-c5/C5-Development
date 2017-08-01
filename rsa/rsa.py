@@ -51,7 +51,6 @@ def encrypt(args):
   encoded_text = _encode(encrypted_text)
   if len(args) == 3:
     write_file(args[2], encoded_text)
-    sys.stdout.write(encoded_text)
   else:
     sys.stdout.write(encoded_text)
 
@@ -74,7 +73,9 @@ def decrypt(args):
       break
 
   if len(args) == 3:
+    print args[2]
     write_file(args[2], decrypted_text)
+    sys.stdout.write(decrypted_text)
   else:
     sys.stdout.write(decrypted_text)
 

@@ -857,11 +857,11 @@
   },
   {
    "id": "e9297ecc-95e6-ab4a-371f-0cce68a68542",
-   "title": "Lab Part 1: Generate Your Keys",
+   "title": "CreatorSpace Lab: Inside RSA Encryption (Part 1: Generate Your Keys)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-1--Generate-Your-Keys-e929.md",
+   "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption--Part-1--Generate-Your-Keys--e929.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -882,6 +882,11 @@
     },
     {
      "path": "lab-part2/cipher.txt",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#terminal: lab-part2",
      "panel": 1,
      "action": "open"
     }
@@ -906,7 +911,7 @@
      "action": "close"
     },
     {
-     "path": "lab-part3/partner-message",
+     "path": "lab-part3/partner-message.txt",
      "panel": 0,
      "action": "open"
     }
