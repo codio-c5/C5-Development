@@ -17,10 +17,13 @@ Afterwards, you can reverse the process and have the opposite groups be Alice an
 
 Each group should get their original plaintext back.
 
+<<<<<<< HEAD
+=======
 Click the clean up button to clear out any previous work.
 {CLEAN UP}(sh rsa/cleanup.sh lab-part1)
 
 
+>>>>>>> b88c95fb528e53446988ef52cda21c22e4640b41
 
 |||guidance
 **Instructor's Note:**

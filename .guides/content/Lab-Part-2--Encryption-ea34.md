@@ -1,27 +1,38 @@
-**Clean up any previous work**
-
-{Cleanup}(sh rsa/cleanup.sh lab-part2)
+In part 1, you generated a public and private key pair and obtained your partner's public key via email.
 
 ## Upload Your Partner's Public Key
 
-Now that you have your partner's public key (via email), you can use their public key to encrypt messages to send over a public channel, like the Internet.
+If you are Bob, you will use Alice's public key (alice-public.key); Alice will use Bob's public key (bob-public.key)
+
+ - Right-click on ```lab-part2``` and select the ```Upload``` option from the menu.
+ 
+ - Select the ```Upload...``` option from the Upload file dialog. 
+ The UPLOAD FILES dialog opens
+ 
+ - Click the ```Browse For Files``` option in the dialog
+ Another Dialog opens showing files on your computer, including the public key file that you just downloaded.
+ 
+ - Click on the public key file (e.g., alice-public.key or bob-public.key that you received from your partner and select Open
+
+ - Click the ```CLOSE``` button in the UPLOAD FILES dialog.
+ 
+You should see your partner's public key in the lab-part2 folder in the file tree on the left. Now you can use you partner's public key to encrypt messages to send over a public channel, like the Internet.
 
 **Instructor's note:** When using asymmetric key encryption (i.e., public key encryption) you use the recipient's public key to encrypt and they use their private key to decrypt.
 
- - In the `message.txt`file in the top left pane, write your  name and a message for your partner. 
+## Create a message
 
- - Locate the public key that your partner sent you. In the tree view on the far left. Right-click on the folder `lab-part2` and click ```Upload```.
-  - Once the upload is complete, click ```Close```. 
-   - Click on the folder to see the file. Open the file to verify it looks like a public key.
-
-## Provide the name of your partner's public key (optional)
-If your partner has renamed their public key, then click on ```partner-pubkey.txt``` in the file tree to the left. Enter the file name of their public key in the window that opens. You can then close the tab.
-
+ - In the `message.txt`file in the top left pane, write your name and a message for your partner.
 
 ## Encrypt Your Message
- - Click the encrypt button below.
 
-{Encrypt}(sh rsa/encrypt.sh lab-part2/public.key lab-part2/message.txt lab-part2/cipher.txt)
+- If you are ```Alice```, enter the following command in the terminal window on the lower, left (you may have to click on the terminal tab to make it visible.)
+
+```sh rsa/encrypt.sh bob-public.key message.txt cipher.txt```
+
+- If you are ```Bob```, enter the following command in the terminal window on the lower, left (you may have to click on the terminal tab to make it visible.)
+
+```sh rsa/encrypt.sh alice-public.key message.txt cipher.txt```
 
  - Click on ```cipher.txt``` in the file tree to the left. Copy and past the encrypted output file and copy and paste the contents into the box below.
 

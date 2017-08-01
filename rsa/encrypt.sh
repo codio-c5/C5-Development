@@ -1,13 +1,9 @@
 #!/bin/sh
 #
-if [ -f lab-part2/partner-pubkey.txt ] ; then
-	pubkeyname=`cat lab-part2/partner-pubkey.txt`
-else
-	pubkeyname=public.key
-fi
+lab2="lab-part2"
 #
-if [ -f lab-part2/$pubkeyname ] ; then
-	python rsa/rsa.py encrypt lab-part2/$pubkeyname $2 $3
+if [ -f $lab2/$1 ] ; then
+	python rsa/rsa.py encrypt $lab2/$1 $lab2/$2 $lab2/$3
 else
 	echo "Please upload your partner's public key to lab-part2"
 fi
