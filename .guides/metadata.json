@@ -884,14 +884,9 @@
      "path": "lab-part2/cipher.txt",
      "panel": 0,
      "action": "open"
-    },
-    {
-     "path": "#terminal: lab-part2",
-     "panel": 1,
-     "action": "open"
     }
    ],
-   "layout": "3-cell-tree",
+   "layout": "2-panels-tree",
    "path": [
     "lab-part2"
    ],

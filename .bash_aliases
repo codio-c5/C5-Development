@@ -1,3 +1,5 @@
-alias gp='git push'
-alias gp='git push --set-upstream origin master'
+#alias gp='git push --set-upstream origin master'
+alias gpull='git pull git@github.com:codio-c5/C5-Development.git'
+alias gpush='git push git@github.com:codio-c5/C5-Development.git'
 alias ga='git add -A'
+alias gm='git commit -am'
