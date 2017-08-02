@@ -3,7 +3,8 @@
   </figure>
 
 
-## Calling All Cryptanalysts: How would you crack it?
+## Calling All Cryptanalysts: How Would You Crack It?
+What approach would you take to solve each scenario?
 
 ### What approach would you take to solve each scenario?
 
