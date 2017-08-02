@@ -1,4 +1,4 @@
-Whether it's a apartment lease, a marriage contract, or a book deal, on paper a signature connects the signer with a document. It means you'll pay that rent, participate in this marriage, or write that book.  Similarly, a digital signature is a technique that connects you to digital data. 
+Whether it's for an apartment lease, a marriage contract, or a book deal, a physical signature on paper connects the signer with a document. It means you'll pay that rent, participate in this marriage, or write that book.  Similarly, a digital signature is a technique that connects you to digital data. 
 
 A digital signature is as binding as a print signature.  Perhaps more so, because a digital signature  can be independently verified by any third party.
 

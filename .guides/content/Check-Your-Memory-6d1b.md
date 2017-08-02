@@ -1,6 +1,6 @@
 
 ### Do you remember these key points? 
-These concepts come up again in this lesson, so you may want to go back and review the topics on questions you miss.
+These concepts come up again in this lesson, so you might want to go back and review the topics for questions you miss (if you miss any!).
 
 
 ==A few questions here..  Include issues about hash functions, integrity, etc.==

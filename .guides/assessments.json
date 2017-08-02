@@ -2536,7 +2536,7 @@
    "showGuidanceAfterResponse": true,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**Can you think of reasons why  the  process would reverse?**",
+   "instructions": "**Can you think of reasons why  the  process would reverse (that is, from public-private to private-public)?**",
    "learningObjectives": "4.1",
    "points": 1
   }
