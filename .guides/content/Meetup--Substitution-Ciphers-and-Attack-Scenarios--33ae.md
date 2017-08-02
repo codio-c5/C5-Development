@@ -4,8 +4,10 @@
 
 
 ## Calling All Cryptanalysts: How would you crack it?
-What approach would you take to solve each scenario?
 
+### What approach would you take to solve each scenario?
+
+<br>
 
 **1. Ciphertext-only attacks:** What do you do to break the substitution cipher if all you have is the ciphertext?
 

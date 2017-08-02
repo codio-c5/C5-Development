@@ -1,7 +1,7 @@
 With the advent of powerful computers, modern cryptography has moved away from substitution ciphers and on to block ciphers. 
 
 
-<figure class="snippetimg" style="margin: 0 auto;width:70%">
+<figure class="snippetimg" style="margin: 0 auto;width:40%">
   <img src=".guides/img/blockcipher.PNG" alt="By Lunkwill [Public Domain]sourced from Wikimedia Commons.">
   <figcaption style="font-size: 0.8em; text-align: left;"> Block cipher diagram.
   </br>

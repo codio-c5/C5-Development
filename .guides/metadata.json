@@ -844,7 +844,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel-tree",
+   "layout": "1-panel",
    "path": [
     "lab-part1"
    ],

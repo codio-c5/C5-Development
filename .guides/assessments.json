@@ -611,7 +611,7 @@
    "showName": false,
    "bloomsObjectiveLevel": "4",
    "guidance": " With asymmetric encryption, users do not have to share a secret value that they have to communicate or agree on the value beforehand or share over a public channel.\n\nPublic keys are published and available to everyone in the system, so you can send an encrypted message to someone easily.",
-   "showGuidanceAfterResponse": false,
+   "showGuidanceAfterResponse": true,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What are the advantages of asymmetric (public key) encryption?**",

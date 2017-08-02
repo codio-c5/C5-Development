@@ -543,13 +543,13 @@
          "pageId": "b47d0ccb-99b0-652e-bb69-ee8c69fe02e1"
         },
         {
-         "title": "Cryptographic Hash Functions: SHA-2",
+         "title": "SHA-2 and SHA-3",
          "id": "65a3ccfb-1e1e-a8c1-d67c-dfe3487796e9",
          "type": "page",
          "pageId": "33c50f08-729d-2c2d-a3c2-9a1793aff8a7"
         },
         {
-         "title": "SHA-2 and SHA-3",
+         "title": "MD4 and MD5",
          "id": "7dd439f5-e795-47d1-b6ed-254cb3c690c2",
          "type": "page",
          "pageId": "551a827f-9f21-fe26-89cd-fcd392db6e11"
@@ -755,5 +755,5 @@
    ]
   }
  ],
- "name": "C5-Development"
+ "name": "C5 Cybersecurity"
 }

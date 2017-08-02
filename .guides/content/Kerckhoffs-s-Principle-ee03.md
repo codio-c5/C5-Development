@@ -5,6 +5,7 @@
  Photo by Eugen Drezen, <i>Historio de la Mondo Lingvo</i> (Leipzig, 1931), 102. Sourced from Wikimedia Commons.</figcaption>
 </figure>
 
+<br>
  
 > ***A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.***
 > ―Auguste Kerckhoffs (1835-1903), Dutch linguist and cryptographer
