@@ -2565,7 +2565,7 @@
    "showName": false,
    "bloomsObjectiveLevel": "3",
    "guidance": "This certificate shows fingerprints for SHA-256 and SHA 1.",
-   "showGuidanceAfterResponse": false,
+   "showGuidanceAfterResponse": true,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What algorithm(s) were used in this certificate?**",
