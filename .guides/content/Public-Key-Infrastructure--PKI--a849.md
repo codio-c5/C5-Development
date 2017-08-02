@@ -4,7 +4,7 @@
   <img src=".guides/img/Chain.jpg" alt="https://commons.wikimedia.org/wiki/File% Antique skeleton keys.">
   <figcaption style="font-size: 0.8em; text-align: left;">  A chain.
   <br>
-By Toni Lozano [CC BY 2.0], via Wikimedia Commons</figcaption>
+By Toni Lozano [CC BY 2.0], via Wikimedia Commons.</figcaption>
 </figure>
 <br>
 They say a chain is as strong as its weakest link.  The same is true about information security.  Earlier you learned about algorithms that provide security and the techniques hackers use to break them. The focus has been on properly implemented techniques and the theories behind them.  
