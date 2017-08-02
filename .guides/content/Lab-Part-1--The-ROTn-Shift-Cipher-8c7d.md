@@ -6,7 +6,7 @@ The ROTate by 13 places cipher (ROT13) is another instance of a shift cipher. It
   <br>
  Public Domain. </figcaption>
 </figure>
-
+<br>
 
 
 The interactive ROTn Shift Cipher tool in the left panel is an cryptanalyst tool that lets you experiment with decoding ciphertext. It applies all 25 possible keys (or rotations) to any ciphertext you enter.

@@ -12,7 +12,7 @@ Cryptography might have changed the outcome of one of the most monumental defeat
 <figure class="snippetimg" style="margin: 0 auto; width:100%">
   <img src=".guides/img/Tannenberg_001.jpg" alt="Captured Russian soldiers at Tilsit station, 27 September, 1914. From Berliner Illustrirte Zeitung by R. Minzloff. Sourced from Wikimedia Commons.">
   <figcaption style="font-size: 0.8em; text-align: left;">Captured Russian soldiers at Tilsit station, 27 September, 1914. 
-  </br>
+  <br>
 From Berliner Illustrirte Zeitung by R. Minzloff. Sourced from Wikimedia Commons.</figcaption>
 </figure>
 
@@ -34,9 +34,9 @@ In Word Wars I and II, the US military used Native American languages like Navaj
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/Codetalkers.jpg" alt="Code talkers at work, Australia, July 1943. From USMC Archives Quantico, VA. Sourced from Wikimedia Commons.">
   <figcaption style="font-size: 0.8em; text-align: left;">Code talkers at work, Australia, July 1943.   
-  </br>
+  <br>
 From USMC Archives Quantico, VA. Sourced from Wikimedia Commons.</figcaption>
 </figure>
-
+<br>
 
 [Learn more about Code Talkers](http://www.nmai.si.edu/education/codetalkers/html/chapter4.html)  

@@ -1,7 +1,7 @@
 ## Three Examples of Digital Signature Algorithms
 
 ### Rivest Shamir Adleman (RSA) 
-In the "Public Key Cryptography" lesson earlier, you learned how the RSA algorithm works. It uses prime numbers and modular arithmetic to create a unique value between a public key and your private key. The RSA algorithm can be applied to the hash value, creating a digital signature. 
+In the "Public Key Cryptography" unit earlier, you learned how the RSA algorithm works. It uses prime numbers and modular arithmetic to create a unique value between a public key and your private key. The RSA algorithm can be applied to the hash value, creating a digital signature. 
 
 
 <figure class="snippetimg" style="margin: 0 auto; width:100%">
@@ -18,6 +18,6 @@ DSA is as fast as RSA in creating signatures, but it is 10-40 times slower than 
 
 
 ### Elliptic Curve Digital Signature Algorithm (ECDSA)
-A variant of DSA, the ECDSA calculates **S~1~S~2~** by using inverse points on an elliptic curve, as described in "Elliptic Curve Cryptography (ECC)" in the "Public Key Cryptography" lesson.  
+A variant of DSA, the ECDSA calculates **S~1~S~2~** by using inverse points on an elliptic curve, as described in "Elliptic Curve Cryptography (ECC)" in the "Public Key Cryptography" unit.  
 
 As with ECC, the advantage of ECDSA is size. While signature sizes are the same for ECDA and DSA, an ECDSA public key is much smaller than its DSA equivalent. This is useful for small devices with limited processors.

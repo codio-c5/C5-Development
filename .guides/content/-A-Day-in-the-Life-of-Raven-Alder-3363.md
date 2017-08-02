@@ -7,6 +7,6 @@ We caught up with Raven over an online chat to learn more.  Here's what she had 
 <div>
   <iframe src="//player.vimeo.com/video/222886790" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
-After that first presentation at the DefCon conference, Raven stayed at the cutting edge of cybersecurity. She consults for companies and agencies worldwide, and mentors Nexum's team of talented cybersecurity experts.
+<br>
+After that first presentation at the DefCon conference, Raven stayed at the cutting edge of cybersecurity. She consults for companies and agencies worldwide, and she mentors Nexum's team of talented cybersecurity experts.
 
