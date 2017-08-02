@@ -19,7 +19,7 @@ Now you have a shared key with your partner.
  
     Click on the output file ```diffiehellman/orig-message.txt``` in the file tree to the left.
  
- **Hint:** smaller key sizes are more vulnerable to brute force attacks.
+ **Hint:** smaller key sizes are more vulnerable to brute-force attacks.
 
  - If you weren't successful, try again using their key.
 
