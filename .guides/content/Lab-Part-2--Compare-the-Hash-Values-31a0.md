@@ -1,15 +1,17 @@
 ## Compare the Hash Values
 
-### Now you will download the hash values from the web site and compare them with the hash values of the files you downloaded. 
- - **[Click here](https://archive.apache.org/dist/openoffice/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe.md5)** to download the **MD5** hash for the Language Pack and save it on your computer.
+### Now you'll download the hash values from the web site and compare them with the hash values of the files you downloaded.
+
+
+ - **[Click here](https://archive.apache.org/dist/openoffice/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe.md5)** to download the **MD5** hash for the Language Pack, and save it to your computer.
 - Open it with Notepad.
-### Enter the MD5 hash value below.
+- Enter the MD5 hash value below.
 {Save!|assessment}(free-text-2510800686)
 
 
- - **[Click here](https://archive.apache.org/dist/openoffice/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe.sha256)** to download the **SHA256** for the Language pack and save it on your computer
+ - **[Click here](https://archive.apache.org/dist/openoffice/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe.sha256)** to download the **SHA256** for the Language Pack, and save it to your computer.
 - Open it with Notepad.
-### Enter the SHA-256 hash value below.	
+- Enter the SHA256 hash value below.	
 {Save!|assessment}(free-text-2178210692)
 
 

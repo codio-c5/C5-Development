@@ -2878,14 +2878,14 @@
   "type": "free-text",
   "taskId": "free-text-1127751824",
   "source": {
-   "name": "Downloaded SHA-256 hash value:",
+   "name": "Downloaded SHA256 hash value:",
    "showName": false,
    "bloomsObjectiveLevel": "",
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": false,
-   "instructions": "**SHA-256** hash value:",
+   "instructions": "**SHA256** hash value:",
    "learningObjectives": "",
    "points": 1
   }
@@ -3153,7 +3153,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**What does it mean if each of the two different hash functions (MD5 and SHA-256) come back verifying the file (i.e. the MD5 hash values match each other and the SHA-256 hash values match each other)?**\n**If  one comes back as verified, and one doesn't?**\n**If both come back unverified ?**",
+   "instructions": "**What does it mean if each of the two different hash functions (MD5 and SHA256) come back verifying the file (that is, the MD5 hash values match each other and the SHA256 hash values match each other)?**\n**If one comes back as verified and one doesn't?**\n**If both come back unverified?**",
    "learningObjectives": "3.4",
    "points": 1
   }

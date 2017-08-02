@@ -9,7 +9,7 @@
 In this lab you'll compare hashes to verify that a file you download has not been changed during download.
 
 
-- First, you need to download a file that you can compare. **[Click here](https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe/download)** to download Apache OpenOffice Language Pack. When the download has completed, go to the next step.
+- First, you need to download a file with hashes that you can compare. **[Click here](https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe/download)** to download Apache OpenOffice Language Pack. When the download has completed, go to the next step.
 
 |||guidance
 ## Instructor's Note:
