@@ -3,9 +3,9 @@
   </figure>
   
   
-## Comparing and Contrasting Applications that use  PKI
+## Comparing and Contrasting Applications That Use PKI
 
-There are many applications that use PKI  to support the things you do every day.  Some of the most well known include: 
+Numerous applications use PKI  to support the things you do every day.  Some of the most well known include the following:
 
 - SSH
 - SSL/TLS
@@ -14,7 +14,8 @@ There are many applications that use PKI  to support the things you do every day
 - PGP
 - Bluetooth Pairing and Communication Protocols
 
-Research each application on the Internet to answer the following questions.
+Research each of these applications on the Internet to answer the following questions:
+
 - What does the acronym stand for?
 - How is it used?
 

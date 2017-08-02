@@ -9,7 +9,7 @@ A **certificate authority (CA)** is a trusted entity that issues digital certifi
   <img src=".guides/img/PreahKhan.jpg" alt="https://commons.wikimedia.org/wiki/File:NYS-Notary-Seal.jpg">
   <figcaption style="font-size: 0.8em; text-align: left;">  Tree roots penetrating a temple at Preah Kahn. <br>
 By Anne Hamilton. Used with permission of the photographer.
-</figure>
-<br>
+</figcaption>
+<figure>
 
-CAs provide services that authenticate the identity of individuals, computers and other entities. Many root certificates are embedded in web browsers so they have built-in trust of those CAs. Web servers, email clients, smartphones, and many other types of hardware and software use PKI and contain trusted root certificates from  major CAs.
+CAs provide services that authenticate the identity of individuals, computers, and other entities. Many root certificates are embedded in web browsers so that they have the built-in trust of those CAs. Web servers, email clients, smartphones, and many other types of hardware and software use PKI and contain trusted root certificates from  major CAs.

@@ -4,7 +4,7 @@
 In the "Public Key Cryptography" lesson earlier, you learned how the RSA algorithm works. It uses prime numbers and modular arithmetic to create a unique value between a public key and your private key. The RSA algorithm can be applied to the hash value, creating a digital signature. 
 
 
-<figure class="snippetimg" style="margin: 0 auto;width:100%">
+<figure class="snippetimg" style="margin: 0 auto; width:100%">
   <img src=".guides/img/Nibs.jpg" alt="https://commons.wikimedia.org/wiki/File% Fountain pen nibs.By Francis Flinch (Own work) [CC BY-SA 4.0], via Wikimedia Commons.">
   <figcaption style="font-size: 0.8em; text-align: left;">Fountain pen nibs.
 <br>
