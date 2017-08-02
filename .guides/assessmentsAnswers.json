@@ -83,30 +83,11 @@
  },
  {
   "taskId": "fill-in-the-blanks-3101450858",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": [
-    "Caesar cipher",
-    "substitution cipher",
-    "shift cipher"
-   ]
+   "active": []
   },
-  "results": [
-   {
-    "current": [
-     "Caesar cipher",
-     "substitution cipher",
-     "shift cipher"
-    ],
-    "right": [
-     "Caesar cipher",
-     "substitution cipher",
-     "shift cipher"
-    ],
-    "timestamp": 1501265011266,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "fill-in-the-blanks-1681383484",
