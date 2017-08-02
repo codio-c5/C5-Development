@@ -2233,7 +2233,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**What issues would be created if a hash function didn't have a collision resistance property?**",
+   "instructions": "**What issues would be created if a hash function didn't include the collision resistance property?**",
    "learningObjectives": "",
    "points": 1
   }
