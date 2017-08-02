@@ -697,10 +697,15 @@
   "source": {
    "name": "1.1.1",
    "showName": true,
-   "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "3514fa43-015a-e7e1-3c78-7003c35a68f6",
@@ -3169,7 +3174,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**Can you think of any way a hacker can get around a digital certificate? Be creative.**",
+   "instructions": "**Can you think of any ways that a hacker can get around a digital certificate? Be creative.**",
    "learningObjectives": "4.3",
    "points": 1
   }
@@ -3368,7 +3373,7 @@
     {
      "_id": "34737e85-4e18-9d50-4e9d-dfa879cc6a1b",
      "correct": false,
-     "answer": "The root certificate and the end-entity are both signed by the last intermediate certificate, so they share the same CA."
+     "answer": "The root certificate and the end-entity certificate are both signed by the last intermediate certificate, so they share the same CA."
     }
    ]
   }

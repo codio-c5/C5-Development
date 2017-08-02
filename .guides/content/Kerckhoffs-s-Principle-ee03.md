@@ -1,14 +1,14 @@
 <figure class="snippetimg" style="margin: 10 auto;width:80%">
   <img src=".guides/img/Auguste_Kerckhoffs.jpg" alt="Auguste Kerckhoffs. Photo by Eugen Drezen, Historio de la Mondo Lingvo (Leipzig, 1931), 102. Sourced from Wikimedia Commons*">
   <figcaption style="font-size: 0.8em; text-align: left;">Auguste Kerckhoffs. 
-  </br>
+  <br>
  Photo by Eugen Drezen, <i>Historio de la Mondo Lingvo</i> (Leipzig, 1931), 102. Sourced from Wikimedia Commons.</figcaption>
-</figure>
+</figure><br>
 
 <br>
  
 > ***A cryptosystem should be secure even if everything about the system, except the key, is public knowledge.***
-> ―Auguste Kerckhoffs (1835-1903), Dutch linguist and cryptographer
+> <br>―Auguste Kerckhoffs (1835-1903), Dutch linguist and cryptographer
  
  
 

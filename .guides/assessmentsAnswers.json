@@ -158,5 +158,47 @@
   "points": 0,
   "state": {},
   "results": []
+ },
+ {
+  "taskId": "multiple-choice-1771628664",
+  "points": 0,
+  "state": {
+   "active": "34737e85-4e18-9d50-4e9d-dfa879cc6a1b"
+  },
+  "results": []
+ },
+ {
+  "taskId": "free-text-2244206358",
+  "state": {
+   "text": "450f2d324a0fd7935e54209076bf5d2c"
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "450f2d324a0fd7935e54209076bf5d2c",
+    "timestamp": 1501708528624,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "free-text-1127751824",
+  "state": {
+   "text": "9060b2a76e714928738488086ebbb8b5be347ce3a79bef5db73165c7344f2e29"
+  },
+  "results": [
+   {
+    "status": "PENDING",
+    "answer": "9060b2a76e714928738488086ebbb8b5be347ce3a79bef5db73165c7344f2e29",
+    "timestamp": 1501708554474,
+    "state": "fail"
+   },
+   {
+    "status": "PENDING",
+    "answer": "9060b2a76e714928738488086ebbb8b5be347ce3a79bef5db73165c7344f2e29",
+    "timestamp": 1501708554136,
+    "state": "fail"
+   }
+  ]
  }
 ]

@@ -5,4 +5,4 @@
   
 
 ## Discovering ROTn
-In this lab you will decode ROTn ciphers by creating a table of every possible solution to find the answer.  
+In this lab you'll decode ROTn ciphers by creating a table of every possible solution to find the answer.  

@@ -12,7 +12,7 @@
   
   **Paul Sery,** Cybersecurity Researcher, Sandia National Labs: Content Developer
 
-  **Christopher Nebergall,** Cybersecurity Researcher, Sandia National Labs Technical Editor 
+  **Christopher Nebergall,** Cybersecurity Researcher, Sandia National Labs: Technical Editor 
   
   **Lori Oviatt:** Instructional Designer
   
@@ -20,15 +20,15 @@
   
   **Devon Musgrave:** Editor
   
-   **Bill Newhouse** Deputy Director, Security Engineer, NIST: *NIST and Block Ciphers* video
+   **Bill Newhouse,** Deputy Director, Security Engineer, NIST: *NIST and Block Ciphers* video
   
-  **Karen Juhl :** Adoption consultant lead, Docusign, Digital signatures video, *A Day in the Life of...* video
+  **Karen Juhl,** Adoption consultant lead, Docusign: Digital signatures video, *A Day in the Life of...* video
 
- **Bob Fabien Zinga:** MSM, CISSP-ISSMP, PMP Director of Information Security Services, Truvantis. *A Day in the Life of...* video
+ **Bob Fabien Zinga,** MSM, CISSP-ISSMP, PMP Director of Information Security Services, Truvantis: *A Day in the Life of...* video
  
-  **Angy Shavit:** IT Security Auditor,  *A Day in the Life of...* video
+  **Angy Shavit,** IT Security Auditor:  *A Day in the Life of...* video
   
-  **Raven Alder:** Principal Engineer, Nexum, Inc. *A Day in the Life of...* video
+  **Raven Alder,** Principal Engineer, Nexum, Inc.: *A Day in the Life of...* video
   
 
   

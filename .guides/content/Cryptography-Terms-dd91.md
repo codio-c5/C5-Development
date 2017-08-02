@@ -10,10 +10,10 @@ Modern cryptography has evolved to use increasingly complex mathematics to trans
 <figure class="snippetimg" style="margin: 0 auto;width:80%">
   <img src=".guides/img/Lock.JPG" alt="A combination padlock. By David. Sourced from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lock.JPG) Sourced from Wikimedia Commons">
   <figcaption style="font-size: 0.8em; text-align: left;">A common padlock. 
-</br>
+<br>
 By David. Released into the public domain by its author, Kcdtsg, at English Wikipedia.  Sourced from Wikimedia Commons.</figcaption>
 </figure>
-
+<br>
 
 The process is straightforward: plaintext is converted into ciphertext and vice versa. 
 ||| definition 

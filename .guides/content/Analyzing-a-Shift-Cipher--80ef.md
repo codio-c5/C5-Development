@@ -4,7 +4,7 @@ The Caesar cipher worked well for its time and was often used to communicate bat
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/Boulier1.jpg" alt="An abacus.Photo by HB. Sourced from Wikimedia Commons.">
   <figcaption style="font-size: 0.8em; text-align: left;">An abacus.   
-  </br>
+  <br>
 Photo by HB. Sourced from Wikimedia Commons.</figcaption>
 </figure>
 
