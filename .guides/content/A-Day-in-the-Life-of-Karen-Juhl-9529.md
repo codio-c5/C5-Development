@@ -1,5 +1,6 @@
 <figure class="snippetimg" style="margin: 0 auto;width:90%">
   <img src=".guides/img/DILOIntro.PNG">
+  </figure>
   
 <br>Karen Juhl is an adoption consultant lead at a Docusign in Seattle.  Karen just recently started at Docusign. The field of secure document transaction management is growing fast, and Karen likes to be where the action is.
 

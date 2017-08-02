@@ -1,5 +1,6 @@
 <figure class="snippetimg" style="margin: 0 auto;width:60%">
   <img src=".guides/img/MeetIntro.PNG">
+  </figure>
 
 ## Comparing and Contrasting Block Ciphers
 

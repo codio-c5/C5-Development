@@ -10,7 +10,7 @@
   <br>
 By Canonical Ltd and Mozilla [MPL 1.1 or GPL], via Wikimedia Commons.</figcaption>
 </figure>
-
+<br>
 Note that this digital certificate specifies:
  - The owner's name
  - The owner's public key 

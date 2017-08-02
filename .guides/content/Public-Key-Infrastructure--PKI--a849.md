@@ -6,7 +6,7 @@
   <br>
 By Toni Lozano [CC BY 2.0], via Wikimedia Commons</figcaption>
 </figure>
-
+<br>
 They say a chain is as strong as its weakest link.  The same is true about information security.  Earlier you learned about algorithms that provide security and the techniques hackers use to break them. The focus has been on properly implemented techniques and the theories behind them.  
 
 In the real world, the downfall is often something other than the algorithm. It might be old hardware, out of date software, people not following the rules, or inadequate security policies. This is where public key infrastructure comes in.

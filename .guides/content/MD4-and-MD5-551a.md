@@ -1,7 +1,7 @@
 ## The Rivest Digest
 
 ### In 1989, Ronald Rivest (of RSA fame) developed MD2 for 8-bit computers. It was replaced by MD4 and MD5. Both MD4 and MD5 have been broken, and are no longer recommended for use.  
-
+<br>
 
 <figure class="snippetimg" style="margin: 0 auto;width:80%">
 

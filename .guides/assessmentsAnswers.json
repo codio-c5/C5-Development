@@ -159,22 +159,11 @@
  },
  {
   "taskId": "multiple-choice-259300797",
-  "points": 1,
+  "points": 0,
   "state": {
-   "active": "24e00559-f900-c53a-ea6b-fffc6202582f"
+   "active": null
   },
-  "results": [
-   {
-    "current": [
-     "24e00559-f900-c53a-ea6b-fffc6202582f"
-    ],
-    "right": [
-     "24e00559-f900-c53a-ea6b-fffc6202582f"
-    ],
-    "timestamp": 1501278923852,
-    "state": "pass"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "multiple-choice-2248183240",
