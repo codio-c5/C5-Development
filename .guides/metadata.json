@@ -1668,7 +1668,7 @@
   },
   {
    "id": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9",
-   "title": "How the Digital Signature Standard (DSS) Works ",
+   "title": "An Overview of the Digital Signature Standard (DSS) ",
    "files": [
     {
      "path": "#tabs",
@@ -1678,7 +1678,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/How-the-Digital-Signature-Standard--DSS--Works--0c8e.md",
+   "content-file": ".guides/content/An-Overview-of-the-Digital-Signature-Standard--DSS---0c8e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1884,7 +1884,7 @@
   },
   {
    "id": "fdf6363b-efde-703a-36d4-fbda6c8b1de0",
-   "title": "Meetup: Applications that  use PKI",
+   "title": "Meetup: Applications That Use PKI",
    "files": [
     {
      "path": "#tabs",
@@ -1894,7 +1894,7 @@
    "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Meetup--Applications-that--use-PKI-fdf6.md",
+   "content-file": ".guides/content/Meetup--Applications-That-Use-PKI-fdf6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

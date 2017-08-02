@@ -3217,7 +3217,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**What are the first eight associated public key for SHA-256?**   (In a digital certificate, sometimes a condensed version of the public key called a **fingerprint**  is used to represent a public key).\n\n",
+   "instructions": "**What are the first eight associated public keys for SHA-256?**   (In a digital certificate, sometimes a condensed version of the public key---called a **fingerprint**---is used to represent a public key.)\n\n",
    "learningObjectives": "4.3",
    "points": 1
   }

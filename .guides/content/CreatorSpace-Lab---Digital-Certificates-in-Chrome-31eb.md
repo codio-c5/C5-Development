@@ -7,4 +7,4 @@
   
 <br>
 ## Digital Certificates and Certification Paths
-In this lab, you will explore digital certificates and certification paths in the Chrome web browser. If your institution doesn't use Chrome, you can explore the certificates and paths in other browsers.  The steps will differ a little, but the concepts remain the same.  As your instructor for guidance.
+In this lab, you'll explore digital certificates and certification paths in the Chrome web browser. If your institution doesn't use Chrome, you can explore the certificates and paths in other browsers. The steps will differ a little, but the concepts remain the same.  Ask your instructor for guidance.
