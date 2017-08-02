@@ -23,6 +23,6 @@
 {Submit Answer!|assessment}(free-text-3921619463)
 
 ## On Your Own
-Try a different website. View the certificates of all intermediate authorities and the root authority.
+Try a different web site. View the certificates of all intermediate authorities and the root authority.
 
 
