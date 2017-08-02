@@ -11,10 +11,12 @@
 The first column of boxes  show different iterations of plaintext. Each plaintext iteration is sent through a SHA-1 hash function (the middle column), yielding the hash value or message digest in the third column.
 
 |||info
-# Take Note
-Note that the hash value is always the same length, regardless of the message length.
-
-Note that the hash values change completely regardless of how minor the changes to the message are.
+# Note
+The hash value is always the same length, regardless of the message length.
+|||
+|||info
+# Note
+The hash values change completely regardless of how minor the changes to the message are.
 |||
 
 ## Growth Hack

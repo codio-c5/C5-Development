@@ -123,20 +123,9 @@
   "taskId": "multiple-choice-146398319",
   "points": 0,
   "state": {
-   "active": "3eeb2693-dc19-bf1f-4485-9b6969e2f345"
+   "active": null
   },
-  "results": [
-   {
-    "current": [
-     "3eeb2693-dc19-bf1f-4485-9b6969e2f345"
-    ],
-    "right": [
-     "ef5984aa-a2b9-d092-b225-c3686453b70d"
-    ],
-    "timestamp": 1501277040745,
-    "state": "fail"
-   }
-  ]
+  "results": []
  },
  {
   "taskId": "multiple-choice-3027256850",

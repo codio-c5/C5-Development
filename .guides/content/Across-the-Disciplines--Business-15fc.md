@@ -16,10 +16,13 @@
 </figcaption> 
 
 
-### In the News
+|||headline
 [A Slate Magazine article](http://www.slate.com/articles/technology/future_tense/2017/03/a_new_study_suggests_the_cybersecurity_gender_gap_isn_t_getting_better.html) notes that the numbers haven't improved over the four years the study has been conducted.  It goes on to cite two trending factors that might drive change pragmatically: 
 1. By 2022, the number of unfilled cybersecurity positions worldwide is expected to be 1.8 million.
 1. Cybersecurity issues in business are increasing in number and threat level for modern businesses. 
+|||
 
-The article further describes the importance of diversity in such complex and far-reaching fields as cybersecurity.
+|||debugging
+The article further describes the importance of diversity in such complex and far-reaching fields as cybersecurity. Women, and the diversity of ideas and opinions they bring to the workforce will further the discipline.
+|||
 

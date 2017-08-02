@@ -7,7 +7,7 @@ With the advent of powerful computers, modern cryptography has moved away from s
   </br>
  Source: By Lunkwill [Public Domain] sourced from Wikimedia Commons.</figcaption>
 </figure>
-
+<br>
 
 In **block encryption,** rather than working on a stream of data one bit at a time, the encryption system works on a block of data. In a block cipher, plaintext is broken into units of a specific length that are combined with a key of a specific length. The length of the key determines the strength of the cipher. Although longer keys are more secure, they are also less efficient, so the cryptologist (who secures the data) needs to find the right balance. 
 

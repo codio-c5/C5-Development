@@ -25,7 +25,11 @@ Sourced from Wikimedia Commons.</figcaption>
 
 During World War II, Alan Turing and his team in British intelligence were able to crack the code created by Germany's Enigma machine.  Historians estimate that this shortened the war by two to three years and saved tens of millions of lives. 
 
-Cybersecurity is just as much a part of the news landscape today.  Nearly every week there are reports of new breaches and hacks into personal, corporate, and governmental information . [Learn more about cybersecurity in the news.](http://www.databreachtoday.com/news)
+Cybersecurity is just as much a part of the news landscape today.  Nearly every week there are reports of new breaches and hacks into personal, corporate, and governmental information .
+
+|||headline
+[Learn more about cybersecurity in the news.](http://www.databreachtoday.com/news)
+|||
 
 
 In this unit, you'll learn how to code and decipher messages, first with simple methods and later with more complex approaches that require increasingly powerful mathematics and computers.
