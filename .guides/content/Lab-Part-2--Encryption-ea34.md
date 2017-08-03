@@ -15,7 +15,7 @@ If you are Bob, you will use Alice's public key (alice-public.key); Alice will u
  - Click on the public key file (e.g., alice-public.key or bob-public.key that you received from your partner and select Open
 
  - Click the ```CLOSE``` button in the UPLOAD FILES dialog.
- 
+
 You should see your partner's public key in the lab-part2 folder in the file tree on the left. Now you can use you partner's public key to encrypt messages to send over a public channel, like the Internet.
 
 **Instructor's note:** When using asymmetric key encryption (i.e., public key encryption) you use the recipient's public key to encrypt and they use their private key to decrypt.
@@ -26,13 +26,13 @@ You should see your partner's public key in the lab-part2 folder in the file tre
 
 ## Encrypt Your Message
 
-- If you are ```Alice```, enter the following command in the terminal window on the lower, left (you may have to click on the terminal tab to make it visible.)
+- If you are ```Alice```, click the Encrypt Alice's message with Bob's public key button.
 
-```sh rsa/encrypt.sh bob-public.key message.txt cipher.txt```
+{Encrypt Alice's message with Bob's public key}(sh rsa/encrypt.sh bob-public.key message.txt cipher.txt)
 
-- If you are ```Bob```, enter the following command in the terminal window on the lower, left (you may have to click on the terminal tab to make it visible.)
+- If you are ```Bob```, click the Encrypt with Alice's public key button.
 
-```sh rsa/encrypt.sh alice-public.key message.txt cipher.txt```
+{Encrypt Bob's message with Alice's public key}(sh rsa/encrypt.sh alice-public.key message.txt cipher.txt)
 
  - Click on ```cipher.txt``` in the file tree to the left. Copy and past the encrypted output file and copy and paste the contents into the box below.
 

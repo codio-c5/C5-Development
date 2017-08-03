@@ -879,11 +879,6 @@
      "path": "lab-part2/message.txt",
      "panel": 0,
      "action": "open"
-    },
-    {
-     "path": "lab-part2/cipher.txt",
-     "panel": 0,
-     "action": "open"
     }
    ],
    "layout": "2-panels-tree",
