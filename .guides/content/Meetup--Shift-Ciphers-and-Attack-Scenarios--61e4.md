@@ -1,11 +1,12 @@
 <figure class="snippetimg" style="margin: 0 auto;width:60%">
   <img src=".guides/img/MeetIntro.PNG">
+  </figure>
 
 
-## Calling All Cryptanalysts: How would you crack it?
+## Calling All Cryptanalysts: How Would You Crack It?
 
-*What approach would you take to solve each scenario?*
-
+### What approach would you take to solve each scenario?
+<br>
 
 **1. Ciphertext-only attacks:** What do you do to break the cipher if all you have is the following ciphertext: `GJFZYNKZQ IFD`?
 

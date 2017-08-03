@@ -1,6 +1,7 @@
 
 <figure class="snippetimg" style="margin: 0 auto;width:80%">
   <img src=".guides/img/hackintro.PNG">
+  </figure>
   
 
 ### Want to dig in deeper?

@@ -2,6 +2,7 @@
 
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/Discintro.PNG">
+  </figure>
 
 ## Frequency Analysis and Literature 
 Frequency analysis might fail you if the plaintext is unusual. Consider the case of a novel that does not use the letter E.

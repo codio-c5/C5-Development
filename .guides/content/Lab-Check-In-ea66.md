@@ -1,4 +1,3 @@
-
 ## Lab Check In 
 {Check It!|assessment}(multiple-choice-1072561676)
 {Check It!|assessment}(multiple-choice-265258656)

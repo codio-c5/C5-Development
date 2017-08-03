@@ -1,9 +1,10 @@
 <figure class="snippetimg" style="margin: 0 auto;width:80%">
   <img src=".guides/img/growthintro.PNG">
+  </figure>
   
 <br>
 
-## Getting it Backwards?
+## Getting It Backwards?
 
 In public key cryptography, Alice encrypts messages she wants to send to Bob with Bob's public key. Bob  then decrypts them with his private key.   
 

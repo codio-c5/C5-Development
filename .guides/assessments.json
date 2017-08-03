@@ -611,7 +611,7 @@
    "showName": false,
    "bloomsObjectiveLevel": "4",
    "guidance": " With asymmetric encryption, users do not have to share a secret value that they have to communicate or agree on the value beforehand or share over a public channel.\n\nPublic keys are published and available to everyone in the system, so you can send an encrypted message to someone easily.",
-   "showGuidanceAfterResponse": false,
+   "showGuidanceAfterResponse": true,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What are the advantages of asymmetric (public key) encryption?**",
@@ -697,10 +697,15 @@
   "source": {
    "name": "1.1.1",
    "showName": true,
-   "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets.",
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
+   "learningObjectives": "",
    "answers": [
     {
      "_id": "3514fa43-015a-e7e1-3c78-7003c35a68f6",
@@ -2233,7 +2238,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**What issues would be created if a hash function didn't have a collision resistance property?**",
+   "instructions": "**What issues would be created if a hash function didn't include the collision resistance property?**",
    "learningObjectives": "",
    "points": 1
   }
@@ -2536,7 +2541,7 @@
    "showGuidanceAfterResponse": true,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**Can you think of reasons why  the  process would reverse?**",
+   "instructions": "**Can you think of reasons why  the  process would reverse (that is, from public-private to private-public)?**",
    "learningObjectives": "4.1",
    "points": 1
   }
@@ -2565,7 +2570,7 @@
    "showName": false,
    "bloomsObjectiveLevel": "3",
    "guidance": "This certificate shows fingerprints for SHA-256 and SHA 1.",
-   "showGuidanceAfterResponse": false,
+   "showGuidanceAfterResponse": true,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What algorithm(s) were used in this certificate?**",
@@ -3153,7 +3158,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**What does it mean if each of the two different hash functions (MD5 and SHA-256) come back verifying the file (i.e. the MD5 hash values match each other and the SHA-256 hash values match each other)?**\n**If  one comes back as verified, and one doesn't?**\n**If both come back unverified ?**",
+   "instructions": "**What does it mean if each of the two different hash functions (MD5 and SHA256) come back verifying the file (that is, the MD5 hash values match each other and the SHA256 hash values match each other)?**\n**If one comes back as verified and one doesn't?**\n**If both come back unverified?**",
    "learningObjectives": "3.4",
    "points": 1
   }
@@ -3169,7 +3174,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**Can you think of any way a hacker can get around a digital certificate? Be creative.**",
+   "instructions": "**Can you think of any ways that a hacker can get around a digital certificate? Be creative.**",
    "learningObjectives": "4.3",
    "points": 1
   }
@@ -3217,7 +3222,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**What are the first eight associated public key for SHA-256?**   (In a digital certificate, sometimes a condensed version of the public key called a **fingerprint**  is used to represent a public key).\n\n",
+   "instructions": "**What are the first eight associated public keys for SHA-256?**   (In a digital certificate, sometimes a condensed version of the public key---called a **fingerprint**---is used to represent a public key.)\n\n",
    "learningObjectives": "4.3",
    "points": 1
   }
@@ -3368,7 +3373,7 @@
     {
      "_id": "34737e85-4e18-9d50-4e9d-dfa879cc6a1b",
      "correct": false,
-     "answer": "The root certificate and the end-entity are both signed by the last intermediate certificate, so they share the same CA."
+     "answer": "The root certificate and the end-entity certificate are both signed by the last intermediate certificate, so they share the same CA."
     }
    ]
   }

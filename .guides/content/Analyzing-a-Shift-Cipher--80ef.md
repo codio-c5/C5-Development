@@ -4,10 +4,11 @@ The Caesar cipher worked well for its time and was often used to communicate bat
 <figure class="snippetimg" style="margin: 0 auto;width:100%">
   <img src=".guides/img/Boulier1.jpg" alt="An abacus.Photo by HB. Sourced from Wikimedia Commons.">
   <figcaption style="font-size: 0.8em; text-align: left;">An abacus.   
-  </br>
+  <br>
 Photo by HB. Sourced from Wikimedia Commons.</figcaption>
 </figure>
 
+<br>
 
 Today, the abacus has given way to powerful, inexpensive computers that can break such a cipher in a microsecond. However, computers aren't necessary for the purpose of breaking simple shift ciphers. It can be done with a pencil and paper.
 

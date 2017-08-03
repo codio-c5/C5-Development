@@ -200,11 +200,11 @@
   },
   {
    "id": "ea667133-62b7-13a4-207b-980d62cda6b5",
-   "title": "Lab Part 3: Lab Check In",
+   "title": "Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-3--Lab-Check-In-ea66.md",
+   "content-file": ".guides/content/Lab-Check-In-ea66.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -320,7 +320,7 @@
   },
   {
    "id": "6d85aec7-9648-e64b-bd5d-8fc61890fcd1",
-   "title": "Lab Part 1: The ROTn Shift Cipher",
+   "title": "CreatorSpace Lab: The ROTn Shift Cipher",
    "files": [],
    "path": [],
    "type": "markdown",
@@ -355,11 +355,11 @@
   },
   {
    "id": "c20730bc-c787-c93a-ef87-8b801a16d31c",
-   "title": "Lab Part 2: Lab Check In",
+   "title": "Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-c207.md",
+   "content-file": ".guides/content/Lab-Check-In-c207.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -443,11 +443,11 @@
   },
   {
    "id": "d6d77f7e-f1e7-77ec-77f0-e3f4b25faa4d",
-   "title": "Lab Part 2: Lab Check In",
+   "title": "Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-d6d7.md",
+   "content-file": ".guides/content/Lab-Check-In-d6d7.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -503,11 +503,11 @@
   },
   {
    "id": "b350c320-6d4b-c943-8bf7-048b2a644151",
-   "title": "Lab Part 2: Lab Check In",
+   "title": "Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-2--Lab-Check-In-b350.md",
+   "content-file": ".guides/content/Lab-Check-In-b350.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -844,7 +844,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel-tree",
+   "layout": "1-panel",
    "path": [
     "lab-part1"
    ],
@@ -919,7 +919,7 @@
   },
   {
    "id": "5c372eb6-3f1d-6412-8ff8-0115697a3bb4",
-   "title": "Lab Part 4: Lab Check In",
+   "title": "Lab Check In",
    "files": [
     {
      "path": "#tabs",
@@ -929,7 +929,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-4--Lab-Check-In-5c37.md",
+   "content-file": ".guides/content/Lab-Check-In-5c37.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1059,11 +1059,11 @@
   },
   {
    "id": "686ca38b-a4a8-70a3-1771-db4d868c1a29",
-   "title": "Lab Part 3: Lab Check In",
+   "title": "Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-3--Lab-Check-In-686c.md",
+   "content-file": ".guides/content/Lab-Check-In-686c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1442,7 +1442,7 @@
   },
   {
    "id": "b05ce985-f14b-7d1a-c7d7-77b325b9a1f2",
-   "title": "Lab Part 3: Lab Check In",
+   "title": "Lab Check In",
    "files": [
     {
      "path": "#tabs",
@@ -1452,7 +1452,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-3--Lab-Check-In-b05c.md",
+   "content-file": ".guides/content/Lab-Check-In-b05c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1663,7 +1663,7 @@
   },
   {
    "id": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9",
-   "title": "How the Digital Signature Standard (DSS) Works ",
+   "title": "An Overview of the Digital Signature Standard (DSS) ",
    "files": [
     {
      "path": "#tabs",
@@ -1673,7 +1673,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/How-the-Digital-Signature-Standard--DSS--Works--0c8e.md",
+   "content-file": ".guides/content/An-Overview-of-the-Digital-Signature-Standard--DSS---0c8e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1771,7 +1771,7 @@
   },
   {
    "id": "060774df-f1f5-a093-8745-f3e85f6d9c8a",
-   "title": "Meetup: Still a Problem: Authenticity",
+   "title": "Meetup: Authenticity Can Still Be a Problem",
    "files": [
     {
      "path": "#tabs",
@@ -1781,7 +1781,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Meetup--Still-a-Problem--Authenticity-0607.md",
+   "content-file": ".guides/content/Meetup--Authenticity-Can-Still-Be-a-Problem-0607.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1879,7 +1879,7 @@
   },
   {
    "id": "fdf6363b-efde-703a-36d4-fbda6c8b1de0",
-   "title": "Meetup: Applications that  use PKI",
+   "title": "Meetup: Applications That Use PKI",
    "files": [
     {
      "path": "#tabs",
@@ -1889,7 +1889,7 @@
    "layout": "1-panel-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Meetup--Applications-that--use-PKI-fdf6.md",
+   "content-file": ".guides/content/Meetup--Applications-That-Use-PKI-fdf6.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1957,11 +1957,11 @@
   },
   {
    "id": "e61b4349-e0e9-4c30-3494-6729e75cf3cc",
-   "title": "Lab Part 3: Lab Check In",
+   "title": "Lab Check In",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-3--Lab-Check-In-e61b.md",
+   "content-file": ".guides/content/Lab-Check-In-e61b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

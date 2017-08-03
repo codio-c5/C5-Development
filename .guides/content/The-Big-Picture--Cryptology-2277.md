@@ -9,5 +9,5 @@
 
 ![](.guides/img/cryptology.png)
 
-<figcaption style="font-size: 0.8em; text-align: left;">Cryptology includes two fields: cryptography (which seeks to keep information secure by using different types of algorithms) and cryptanalysis (which seeks to test and break cryptographic systems).</figcaption>
+<figcaption style="font-size: 0.8em; text-align: left;">Cryptology includes two fields: cryptography, which seeks to keep information secure by using different types of algorithms, and cryptanalysis, which seeks to test and break cryptographic systems.</figcaption>
 </figure>

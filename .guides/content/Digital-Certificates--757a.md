@@ -1,7 +1,7 @@
 ## Are You Certifiable?
 
 ||| definition
-**A digital certificate** is an electronic document that binds a public key with an entity (person,  organization).  Digital certificates typically include the owner's name and public key, the validity period of the certificate, the algorithm used, and the digital signature.
+A **digital certificate** is an electronic document that binds a public key with an entity (person,  organization).  Digital certificates typically include the owner's name and public key, the validity period of the certificate, the algorithm used, and the digital signature.
 |||
 
 <figure class="snippetimg" style="margin:0; width:100%">
@@ -10,13 +10,14 @@
   <br>
 By Canonical Ltd and Mozilla [MPL 1.1 or GPL], via Wikimedia Commons.</figcaption>
 </figure>
-
+<br>
 Note that this digital certificate specifies:
- - The owner's name
- - The owner's public key 
- - The digital signature of the owner
- - Validity period 
- - Algorithms used 
+
+- The owner's name
+- The owner's public key 
+- The digital signature of the owner
+- Validity period 
+- Algorithms used 
   
  
 ## Growth Hack

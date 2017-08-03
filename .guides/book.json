@@ -69,7 +69,7 @@
        "pageId": "3dad7dab-97e4-e54b-47a7-a5b74bd731ad"
       },
       {
-       "title": "Lab Part 3: Lab Check In",
+       "title": "Lab Check In",
        "id": "ab2856c0-8082-c214-a7e7-d3eb20c2abff",
        "type": "page",
        "pageId": "ea667133-62b7-13a4-207b-980d62cda6b5"
@@ -117,13 +117,13 @@
          "pageId": "6d85aec7-9648-e64b-bd5d-8fc61890fcd1"
         },
         {
-         "title": "CreatorSpace Lab: The ROTn Shift Cipher",
+         "title": "Lab Part 1: The ROTn Shift Cipher",
          "id": "8c7d5a65-82e6-e6ab-d968-e04215302966",
          "type": "page",
          "pageId": "8c7d5a65-82e6-e6ab-d968-e04215302966"
         },
         {
-         "title": "Lab Part 2: Lab Check In",
+         "title": "Lab Check In",
          "id": "daca1e13-5cf1-8aab-92d6-04733956a1c6",
          "type": "page",
          "pageId": "c20730bc-c787-c93a-ef87-8b801a16d31c"
@@ -155,7 +155,7 @@
          "pageId": "a176ce2b-1010-a176-eec0-a29bfe8eb7f6"
         },
         {
-         "title": "Lab Part 2: Lab Check In",
+         "title": "Lab Check In",
          "id": "f27b004a-0bdc-e4f6-b87d-a2bb80f332c8",
          "type": "page",
          "pageId": "d6d77f7e-f1e7-77ec-77f0-e3f4b25faa4d"
@@ -179,7 +179,7 @@
          "pageId": "b2ecb120-971e-fc41-9bc6-31901671f8f9"
         },
         {
-         "title": "Lab Part 2: Lab Check In",
+         "title": "Lab Check In",
          "id": "28d79390-1892-2871-0e30-b27498c12a5f",
          "type": "page",
          "pageId": "b350c320-6d4b-c943-8bf7-048b2a644151"
@@ -377,7 +377,7 @@
          "pageId": "c4ef309a-64a8-dd8f-6731-369655d82898"
         },
         {
-         "title": "Lab Part 3: Lab Check In",
+         "title": "Lab Check In",
          "id": "f9d21aa4-c727-8da0-d02e-61f78f8ad912",
          "type": "page",
          "pageId": "686ca38b-a4a8-70a3-1771-db4d868c1a29"
@@ -543,13 +543,13 @@
          "pageId": "b47d0ccb-99b0-652e-bb69-ee8c69fe02e1"
         },
         {
-         "title": "Cryptographic Hash Functions: SHA-2",
+         "title": "SHA-2 and SHA-3",
          "id": "65a3ccfb-1e1e-a8c1-d67c-dfe3487796e9",
          "type": "page",
          "pageId": "33c50f08-729d-2c2d-a3c2-9a1793aff8a7"
         },
         {
-         "title": "SHA-2 and SHA-3",
+         "title": "MD4 and MD5",
          "id": "7dd439f5-e795-47d1-b6ed-254cb3c690c2",
          "type": "page",
          "pageId": "551a827f-9f21-fe26-89cd-fcd392db6e11"
@@ -603,7 +603,7 @@
        "pageId": "7bafd249-4a71-6db4-5844-73ae8edcba6b"
       },
       {
-       "title": "An Overview of the Digital Signature Standard (DSS) insert correct vid ",
+       "title": "An Overview of the Digital Signature Standard (DSS) ",
        "id": "efb468b1-bb72-03fa-af13-90b8d8d5fdf8",
        "type": "page",
        "pageId": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9"
@@ -627,7 +627,7 @@
        "pageId": "e77bd3a4-10c7-ef01-5d40-8ee38d9cff34"
       },
       {
-       "title": " Digital Signature Algorithms",
+       "title": "Digital Signature Algorithms",
        "id": "77420d09-bb20-d4f1-7522-522e98b7541e",
        "type": "page",
        "pageId": "5a74f790-0bff-4a25-e0e3-2b4b848597a7"
@@ -639,7 +639,7 @@
        "pageId": "e88a2a5f-5a45-5689-e309-3f7fa1be906d"
       },
       {
-       "title": "Meetup: Still a Problem: Authenticity",
+       "title": "Meetup: Authenticity Can Still Be a Problem",
        "id": "e70ab583-b74b-9f3e-d148-14c983662c54",
        "type": "page",
        "pageId": "060774df-f1f5-a093-8745-f3e85f6d9c8a"
@@ -675,7 +675,7 @@
          "pageId": "fce751c5-310b-a096-de6a-75edd6c041ee"
         },
         {
-         "title": "Meetup: Applications that  use PKI",
+         "title": "Meetup: Applications That Use PKI",
          "id": "f6740787-ba36-f87c-1ebd-ebf648fc35b3",
          "type": "page",
          "pageId": "fdf6363b-efde-703a-36d4-fbda6c8b1de0"
@@ -705,7 +705,7 @@
          "pageId": "67dc7d0a-d765-6c7f-f4e6-d42633fafe96"
         },
         {
-         "title": "Lab Part 3: Check Your Knowledge",
+         "title": "Lab Check In",
          "id": "325d6257-0715-43a7-b7b7-d6cf09205ada",
          "type": "page",
          "pageId": "e61b4349-e0e9-4c30-3494-6729e75cf3cc"
