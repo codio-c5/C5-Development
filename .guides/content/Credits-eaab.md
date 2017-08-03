@@ -16,7 +16,7 @@
   
   **Lori Oviatt:** Instructional Designer
   
-  **Richard Pepper:** Creative Design, illustration, and animation
+  **Richard Pepper:** Creative design, illustration, and animation
   
   **Devon Musgrave:** Editor
   
