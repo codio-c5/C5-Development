@@ -1419,8 +1419,21 @@
   {
    "id": "21b09d33-e577-72fc-3792-da1065b260f2",
    "title": "Lab Part 1: Calculate the Hashes for the File",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: hash-lab",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "1-panel-tree",
+   "path": [
+    "hash-lab"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Lab-Part-1--Calculate-the-Hashes-for-the-File-21b0.md",
    "chapter": false,

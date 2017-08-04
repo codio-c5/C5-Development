@@ -1,10 +1,30 @@
 ## Calculate the Hashes for the File 
 
-The pane on the left is showing an  HTML5 file hash calculator.  (There are a number of such calculators on the web.)  You can use this one to determine hash values for the file (the language pack) that you just downloaded.
+First, click ```Cleanup``` to remove any previous work.
+{Cleanup}(sh hash/cleanup.sh)
 
-- A few  lines below the green box, select the **MD5** and **SHA256** options. (Uncheck the other options.)
-- Drag and drop the file you downloaded into the green box. The file's MD5 and SHA256 hash values will appear.
+Upload the file you just downloaded into the hash-lab folder, in the file tree to the left, as follows:
+
+ - Right-click on ```hash-lab``` and select the ```Upload``` option from the menu.
+ 
+ - Select the ```Upload...``` option from the Upload file dialog. 
+   The UPLOAD FILES dialog opens
+ 
+ - Click the ```Browse For Files``` option in the dialog
+   Another Dialog opens showing files on your computer, including the file that you just downloaded.
+ 
+ - Click on that file (e.g., ```Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe``` and select Open
+
+ - Click the ```CLOSE``` button in the UPLOAD FILES dialog.
+
+You should see the file in the ```hash-lab``` folder in the file tree on the left. (However, you may first need to click on the ```hash-lab``` folder to see its contents.) Now you can use you partner's public key to encrypt messages to send over a public channel, like the Internet.
+
+ - Click the ```Calculate hashes``` button below and the MD5 and SHA256 hashes will be displayed below.
+
+{Calculate hashes}(python hash/hashfile.py hash-lab/*)
+
  - Enter the hash values below.
+ 
 {Save!|assessment}(free-text-2244206358)
 
 {Save!|assessment}(free-text-1127751824)

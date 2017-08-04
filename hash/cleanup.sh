@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-`/usr/bin/clear`
+rm -f hash-lab/*
