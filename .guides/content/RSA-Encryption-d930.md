@@ -11,7 +11,10 @@ Source: From left to right: by Ronald L. Rivest (Own work) CC BY-SA 4.0; by Erik
 
 Rivest, Shamir, and Adelman discovered that they could create two numbers that are the inverse of each other. They used mathematics discovered centuries earlier to do for this purpose [[psery: we need to tie this into the modular arithmetic and fermat's/euler's sections]]. This relationship satisfies the fundamental requirement of public key encryption: one number is used as a public key and its inverse as the private key or vice versa. In other words, enter plaintext into the RSA algorithm using one number to get ciphertext; plug the ciphertext into the same formula using the other number and you get the plaintext back again.
 
-RSA's security depends on the difficulty of factoring large numbers. **Factoring** a number means finding two numbers that when multiplied together produce the original number. RSA starts by multiplying two prime numbers to create a **modulus,** and then deriving the public and private keys from that seed. (you'll learn more about the modular arithmetic on the next page).Finding the *right* prime numbers is the difficult part, but centuries old math provided the right ingredients.
+|||definition
+RSA's security depends on the difficulty of factoring large numbers. **Factoring** a number means finding two numbers that when multiplied together produce the original number. RSA starts by multiplying two prime numbers to create a **modulus,** and then deriving the public and private keys from that seed. (you'll learn more about the modular arithmetic on the next page).
+|||
+Finding the *right* prime numbers is the difficult part, but centuries old math provided the right ingredients.
 
 ## Advantages and Disadvantages of RSA
 Without knowing the prime numbers, and if they're large enough, even today's fastest computers cannot factor them quickly enough to be useful.  The larger the prime numbers used, the more difficult it becomes, and the more secure the encryption. 

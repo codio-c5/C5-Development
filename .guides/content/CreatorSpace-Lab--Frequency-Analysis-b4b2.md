@@ -5,4 +5,4 @@
   
 
 ## Cracking Codes with Frequency Analysis
-In this lab you will find the usage frequency of letters and letter groupings, and use them to decrypt a message. 
+### In this lab you will find the usage frequency of letters and letter groupings, and use them to decrypt a message. 

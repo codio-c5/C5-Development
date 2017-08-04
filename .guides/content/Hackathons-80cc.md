@@ -4,8 +4,9 @@
   </figure>
   
 
-### A Deeper Dive
-This unit's Hackathons explore how public key algorithms work by getting into the math behind the scenes. 
+## A Deeper Dive
+### This unit's Hackathons explore how public key algorithms work by getting into the math behind the scenes. 
+
 
 In **Hackathon 1,** you'll learn about Fermat and Euler,  and how their theories from long ago have shaped cutting edge ideas for public key encryption.
 

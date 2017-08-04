@@ -5,4 +5,4 @@
   
 
 ## Exploring Substitution Ciphers
-In this lab you will create substitution keys, and practice encrypting and decrypting messages with them. 
+### In this lab you will create substitution keys, and practice encrypting and decrypting messages with them. 

@@ -13,7 +13,9 @@
 </figcaption> 
 <br>
 
+|||info
 [Learn more about code breaking and the movie *The Imitation Game*.](http://www.newsweek.com/2014/12/12/imitation-game-sparks-new-wave-code-breakers-289170.html)
+|||
 
 
 <figure class="snippetimg" style="margin: 0 auto;width:50%">

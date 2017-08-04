@@ -39,4 +39,6 @@ From USMC Archives Quantico, VA. Sourced from Wikimedia Commons.</figcaption>
 </figure>
 <br>
 
+|||info
 [Learn more about Code Talkers](http://www.nmai.si.edu/education/codetalkers/html/chapter4.html)  
+|||

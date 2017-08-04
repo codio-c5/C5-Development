@@ -9,7 +9,12 @@
 
 Fermat ("Fair-mah") is credited with creating modern number theory. His interest in pure mathematics also helped create the basis for calculus and eventually to public key encryption.
 
+|||info
 [Learn more about Fermat.](http://www.storyofmathematics.com/17th_fermat.html.)
+|||
+<br>
+
+
 
 **Fermat's Little Theorem** says that for any integer $A$ and prime number $N$, if you raise $A$ to the power of $N$, then the result is congruent (i.e., equivalent) to multiplying $A$ by itself $N$ times. The modular arithmetic formula shows this as:
 
@@ -31,7 +36,10 @@ Euler's Totient Theorem depends on additional relationships between integers and
 
 Euler's Totient function provides the multiplicative inverse relationship that Rivest, Shamir and Adelman used two hundred years later. They used it and other math to find numbers that are inverses of each other. Inverse numbers are the basis for RSA encryption where one number encrypts a message and its inverse decrypts it or vice versa.
 
+
+|||info
 [Learn more about how RSA uses Euler's Totient function.](http://web.math.princeton.edu/math_alive/1/Notes2.pdf)
+|||
 
 
 

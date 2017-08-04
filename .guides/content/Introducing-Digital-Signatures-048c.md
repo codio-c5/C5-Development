@@ -10,6 +10,12 @@ A digital signature is as binding as a print signature.  Perhaps more so, becaus
 </figure>
 
 
+
 ||| definition
 A **digital signature** uses public key encryption to validate the hash value of a message. Digital signatures help solve the information security issues of **integrity** and **non-repudiation.** 
+|||
+
+
+|||info
+[Read the Electronic Signatures in Global and National Commerce Act.](https://www.ntia.doc.gov/legacy/ntiahome/ntiageneral/esign/105b/esign7.pdf)
 |||
