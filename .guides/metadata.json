@@ -1423,11 +1423,6 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "#terminal: hash-lab",
-     "panel": 0,
-     "action": "open"
     }
    ],
    "layout": "1-panel-tree",

@@ -1,6 +1,8 @@
+
 ## Calculate the Hashes for the File 
 
 First, click ```Cleanup``` to remove any previous work.
+
 {Cleanup}(sh hash/cleanup.sh)
 
 Upload the file you just downloaded into the hash-lab folder, in the file tree to the left, as follows:
@@ -21,7 +23,7 @@ You should see the file in the ```hash-lab``` folder in the file tree on the lef
 
  - Click the ```Calculate hashes``` button below and the MD5 and SHA256 hashes will be displayed below.
 
-{Calculate hashes}(python hash/hashfile.py hash-lab/*)
+{Calculate hashes}(python hash/hashfile.py hash-lab)
 
  - Enter the hash values below.
  
