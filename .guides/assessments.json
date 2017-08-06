@@ -2471,7 +2471,7 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "Describe how asymmetric (public) key cryptography is used for providing authenticity through digital signatures.",
+   "instructions": "**Describe how asymmetric (public) key cryptography is used for providing authenticity through digital signatures.**",
    "learningObjectives": "4.1.2",
    "points": 1
   }
@@ -4095,6 +4095,308 @@
      "answer": "Pseudorandomness"
     }
    ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-580081384",
+  "source": {
+   "name": "4.x.4",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**The correct answer is digital signature.**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in the blank.**",
+   "points": "1",
+   "showValues": false,
+   "learningObjectives": "",
+   "text": "A<<<digital signature>>> is a mathematical technique used to validate the integrity and non-repudiation of a message, software, or digital document. ",
+   "tokens": {
+    "blank": [
+     "digital signature"
+    ],
+    "text": [
+     "A",
+     0,
+     " is a mathematical technique used to validate the integrity and non-repudiation of a message, software, or digital document. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3299202240",
+  "source": {
+   "name": "4.x.5",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**The correct answer is True.**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**A digital signature uses public key encryption to validate the hash value of a message.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "ecce101e-9a22-57b8-3d98-d7c190ce1b91",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "432d6828-f990-0234-ce44-24459473b3df",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4072108147",
+  "source": {
+   "name": "4.x.6",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**The correct answer is Certificate.**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**In a PKI system, the cryptographically signed object that contains a public key associated with a unique identity is called a _______.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "3b66aaba-58f0-ecb6-9d4d-c05d1e4a98b7",
+     "correct": false,
+     "answer": "Certificate Authority"
+    },
+    {
+     "_id": "7b005a58-a425-1a2c-e71d-8f094b6b655e",
+     "correct": true,
+     "answer": "Certificate"
+    },
+    {
+     "_id": "21d0e6e2-888e-471d-4e2b-f1eed7792ad2",
+     "correct": false,
+     "answer": "Digital Signature"
+    },
+    {
+     "_id": "0df094e6-2816-2dac-741e-06fb610ec6d8",
+     "correct": false,
+     "answer": "Key Escrow"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2230883511",
+  "source": {
+   "name": "4.x.7",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**The correct answer is non-repudiation.**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Complete the sentence. The ability to ensure that a person cannot deny the authenticity of his/her signature on an electronic message that was previously sent is called ________.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "4eff1712-d9c2-6cfd-e369-951e45b4f1f0",
+     "correct": false,
+     "answer": "Confidentiality"
+    },
+    {
+     "_id": "89e5783b-8dcb-1e12-c81d-fbbb49abeed4",
+     "correct": false,
+     "answer": "Integrity"
+    },
+    {
+     "_id": "82c6641d-8ed3-586d-b714-1ff641d54fba",
+     "correct": false,
+     "answer": "Authorization"
+    },
+    {
+     "_id": "e4204c07-8b7b-f12f-76a1-4b0b5b9beaf5",
+     "correct": true,
+     "answer": "Non-repudiation"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3633096598",
+  "source": {
+   "name": "4.x.8",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**The correct answer is True.**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**To keep the digital signature process fast, the hash value of a message is signed rather than the message itself.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "6f9c1501-af28-e6d7-fb19-8919449827fb",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "cf2a6dbb-9ada-990f-368c-6c06055ca1bd",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-160464972",
+  "source": {
+   "name": "4.x.9",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**The correct answer is False.**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Encrypting a message's hash value with a private key ensures confidentiality.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "0dc10fb0-3999-59f9-f599-de9c7b4eec2c",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "224cd215-20dd-3cb5-7317-e11420620185",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1103256738",
+  "source": {
+   "name": "4.x.10",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**All of the answers are correct.:**\n - Owner's name and public key\n - Algorithm used\n - Digital signature\n - Expiration date",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Digital certificates typically include which of the following?\nSelect all that apply.**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "learningObjectives": "",
+   "answers": [
+    {
+     "_id": "0553de67-258a-1123-f67f-308c127a3421",
+     "correct": true,
+     "answer": " Owner's name and public key\n"
+    },
+    {
+     "_id": "111fb025-70fd-3935-da3a-353861f6e3ac",
+     "correct": true,
+     "answer": " Algorithm used\n"
+    },
+    {
+     "_id": "77199ec3-9c92-a64d-e5af-c7c7e2da4fc1",
+     "correct": true,
+     "answer": "Digital signature\n"
+    },
+    {
+     "_id": "adc3a96c-0063-2073-edf3-1f53145889fb",
+     "correct": true,
+     "answer": "Expiration date"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4226089479",
+  "source": {
+   "name": "4.x.11",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "**The correct answer is:** A **certificate of authority** is a trusted entity that issues digital certificates. CAs use the trusted root certificate to create a **chain of trust.**  At the top of the chain is the **end-entity certificate,** and at the bottom of the chain is the **root certificate.**  Between them may be any number of **intermediate certificates.**",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**Fill in each blank with the best response.  Each option is used only once.**",
+   "points": "1",
+   "showValues": true,
+   "learningObjectives": "",
+   "text": "A <<<certificate of authority>>> is a trusted entity that issues digital certificates. CAs use the trusted root certificate to create a <<< chain of trust>>>.  At the top of the chain is the <<< end-entity certificate>>>, and at the bottom of the chain is the<<<root certificate>>>.  Between them may be any number of <<<intermediate certificate>>>s.",
+   "tokens": {
+    "blank": [
+     "certificate of authority",
+     " chain of trust",
+     " end-entity certificate",
+     "root certificate",
+     "intermediate certificate"
+    ],
+    "text": [
+     "A ",
+     0,
+     " is a trusted entity that issues digital certificates. CAs use the trusted root certificate to create a ",
+     0,
+     ".  At the top of the chain is the ",
+     0,
+     ", and at the bottom of the chain is the",
+     0,
+     ".  Between them may be any number of ",
+     0,
+     "s."
+    ]
+   }
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3599332580",
+  "source": {
+   "name": "4.x.12",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Describe the major challenges associated with PKI.  How are they addressed?**",
+   "learningObjectives": "",
+   "points": 1
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-3386975382",
+  "source": {
+   "name": "4.x.13",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": true,
+   "instructions": "**Both Android and iOS phone require apps to be digitally signed before installation. Identify other uses for digital signatures.**",
+   "learningObjectives": "",
+   "points": 1
   }
  }
 ]

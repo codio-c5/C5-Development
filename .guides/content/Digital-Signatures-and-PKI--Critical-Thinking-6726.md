@@ -1,6 +1,8 @@
 ## Points to Ponder
  
- ==need 1-2 more items.==
+{Submit Answer!|assessment}(free-text-3599332580)
+{Submit Answer!|assessment}(free-text-3386975382)
+
 {Submit Answer!|assessment}(free-text-3860324690)
 
 
