@@ -1,7 +1,7 @@
 
-### Before we delve into hash functions, take a look back at these key points. You will encounter these important concepts again soon.  If you don't remember them all, you may want to go back and review them before going forward.
+### Before we delve into hash functions, let’s check your understanding of some key points about symmetric key and public key cryptography from previous lessons.
 
-==need items.== Include issues about integrity, Man in the Middle.
+{Check It!|assessment}(multiple-choice-1105804530)
 
 {Check It!|assessment}(multiple-choice-1798888751)
 {Check It!|assessment}(multiple-choice-3839580908){Check It!|assessment}(multiple-choice-4118271051)

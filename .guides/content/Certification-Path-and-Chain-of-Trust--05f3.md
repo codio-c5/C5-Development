@@ -10,7 +10,7 @@ By Yanpas (Own work) [CC BY-SA 4.0], via Wikimedia Commons.
 </figure>
 <br>
 
-Here's how it works. At the the top of the chain is the **end-entity certificate,** and at the bottom of the chain is the **root certificate.** Between them may be any number of **intermediate CA certificates.**
+Here's how it works. At the top of the chain is the **end-entity certificate,** and at the bottom of the chain is the **root certificate.** Between them may be any number of **intermediate CA certificates.**
 
 Starting with end-entity certificate, each certificate is signed by the next certificate in the chain. The intermediate CA certificate is signed by the root CA certificate. The root certificate is self-signed with its own identity, which is kept very secure.   Root certificates often have one or more intermediate CAs that they also control. It allows them to keep tighter security restrictions on their root CA certificate, protecting it from compromise.
 

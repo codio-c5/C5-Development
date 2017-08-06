@@ -1,9 +1,10 @@
 
 ### Do you remember these key points? 
-These concepts come up again in this lesson, so you might want to go back and review the topics for questions you miss (if you miss any!).
+Before we delve into digital signatures and public key infrastructure (PKI), let’s check your understanding of some key points on symmetric key cryptography, public key (asymmetric) cryptography, and hash functions from previous lessons.
 
-
-==A few questions here..  Include issues about hash functions, integrity, etc.==
+{Check It!|assessment}(multiple-choice-1021268564)
+{Check It!|assessment}(fill-in-the-blanks-814119334)
+{Check It!|assessment}(multiple-choice-2826795696)
 
 
 |||guidance

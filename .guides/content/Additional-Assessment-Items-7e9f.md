@@ -7,5 +7,9 @@
 {Check It!|assessment}(multiple-choice-897040811)
 {Check It!|assessment}(fill-in-the-blanks-484651855)
 {Check It!|assessment}(multiple-choice-3637430973)
+{Check It!|assessment}(fill-in-the-blanks-3101450858)
+{Check It!|assessment}(fill-in-the-blanks-836680581)
+{Check It!|assessment}(fill-in-the-blanks-1681383484)
+
 
 

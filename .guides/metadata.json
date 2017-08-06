@@ -1851,7 +1851,7 @@
   },
   {
    "id": "05f3c289-d96f-0400-73bb-01e6183f0985",
-   "title": "Certification Path and Chain of Trust",
+   "title": "Certification Path and Chain of Trust ",
    "files": [
     {
      "path": "#tabs",
@@ -1861,7 +1861,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Certification-Path-and-Chain-of-Trust-05f3.md",
+   "content-file": ".guides/content/Certification-Path-and-Chain-of-Trust--05f3.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

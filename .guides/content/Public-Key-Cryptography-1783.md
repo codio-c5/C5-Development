@@ -2,6 +2,9 @@
 
 Do you have some familiarity with public key cryptography? Try out these  questions before you dig in. You might not get them right yet, but by the end of this lesson, you'll know them all.
 
+{Check It!|assessment}(multiple-choice-2916229189)
+{Check It!|assessment}(multiple-choice-933563416)
+
 {Check It!|assessment}(fill-in-the-blanks-836680581)
 {Check It!|assessment}(fill-in-the-blanks-2547250082)
 
