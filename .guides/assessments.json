@@ -4398,5 +4398,34 @@
    "learningObjectives": "",
    "points": 1
   }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1286371257",
+  "source": {
+   "name": "3.2.1",
+   "showName": false,
+   "bloomsObjectiveLevel": "1",
+   "guidance": "**The Answer is True.** It  is a basic requirement for hash values that the same input must always generate the same hash value. ",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
+   "instructions": "**The same input should always generate the same hash value.** ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "learningObjectives": "3.2",
+   "answers": [
+    {
+     "_id": "a3c517cb-e2e1-ae00-d39a-9cf7e87a0504",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "94ad0e83-5852-23c6-6157-218e5f6d0378",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
  }
 ]

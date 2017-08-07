@@ -857,11 +857,11 @@
   },
   {
    "id": "e9297ecc-95e6-ab4a-371f-0cce68a68542",
-   "title": "CreatorSpace Lab: Inside RSA Encryption (Part 1: Generate Your Keys)",
+   "title": "Part 1: Generate Your Keys",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Inside-RSA-Encryption--Part-1--Generate-Your-Keys--e929.md",
+   "content-file": ".guides/content/Part-1--Generate-Your-Keys-e929.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1671,7 +1671,7 @@
   },
   {
    "id": "0c8ebb2c-943c-30fc-5ea9-6060c42e6ce9",
-   "title": "An Overview of the Digital Signature Standard (DSS) ",
+   "title": "How the Digital Signature Standard (DSS) Works",
    "files": [
     {
      "path": "#tabs",
@@ -1681,7 +1681,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/An-Overview-of-the-Digital-Signature-Standard--DSS---0c8e.md",
+   "content-file": ".guides/content/How-the-Digital-Signature-Standard--DSS--Works-0c8e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
