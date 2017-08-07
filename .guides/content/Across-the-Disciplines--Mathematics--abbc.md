@@ -9,7 +9,7 @@
 ### Today, cryptography methods continue to evolve as cryptanalysis techniques emerge and computing power grows.  In asymmetric cryptography, mathematics and the way numbers work provide new encryption methods that are increasingly secure.
 
 ||| definition
-In **modular arithmetic,**  calculations are performed by dividing by the size of a circle, called the **modulus,** or **mod** for short. It doesn't matter what the resulting quotient is. The resulting remainder is the answer. 
+In **modular arithmetic,**  calculations are performed by dividing by the size of a circle, called the **modulus,** or **mod** for short. It doesn't matter what the resulting quotient is. The remainder is the answer. 
 |||
 
 Let's explore. Do you remember creating a **number line** back in grade school?
@@ -64,5 +64,5 @@ This means that $x$ is **congruent** with $y$ for a given modulus of $n$. So if 
 {Check It!|assessment}(multiple-choice-3027256850)
 {Check It!|assessment}(multiple-choice-259300797)
 
-Along with prime numbers, modular arithmetic is important in cryptography because it enables two parties to encrypt and decrypt messages using an indecipherable key pair that no one else can calculate. It is essential to RSA encryption.
+Along with prime numbers, modular arithmetic is important in cryptography because it enables two parties to encrypt and decrypt messages using an indecipherable key pair that no one else can effectively calculate; it also effectively removes the ability to use frequency analysis to decrypt messages. It is essential to RSA encryption.
 
