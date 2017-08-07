@@ -1,4 +1,6 @@
-
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/Assessintro.PNG">
+  </figure>
 
 ## Check Your Mastery
 

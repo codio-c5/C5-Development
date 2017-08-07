@@ -142,11 +142,11 @@
   },
   {
    "id": "0a42a669-b412-0e6a-f823-9d47e0b7f0e7",
-   "title": "CreatorSpace Lab: The Caesar Cipher",
+   "title": "CreatorSpace Lab 1.1: The Caesar Cipher",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--The-Caesar-Cipher-0a42.md",
+   "content-file": ".guides/content/CreatorSpace-Lab-1-1--The-Caesar-Cipher-0a42.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -320,11 +320,11 @@
   },
   {
    "id": "6d85aec7-9648-e64b-bd5d-8fc61890fcd1",
-   "title": "CreatorSpace Lab: The ROTn Shift Cipher",
+   "title": "CreatorSpace Lab 1.2: The ROTn Shift Cipher",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--The-ROTn-Shift-Cipher-6d85.md",
+   "content-file": ".guides/content/CreatorSpace-Lab-1-2--The-ROTn-Shift-Cipher-6d85.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -403,11 +403,11 @@
   },
   {
    "id": "75c7f38d-6cf5-fe34-ffba-d96e3470ede1",
-   "title": "CreatorSpace Lab: Substitution Ciphers",
+   "title": "CreatorSpace Lab 1.3: Substitution Ciphers",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Substitution-Ciphers-75c7.md",
+   "content-file": ".guides/content/CreatorSpace-Lab-1-3--Substitution-Ciphers-75c7.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -473,11 +473,11 @@
   },
   {
    "id": "b4b22588-bf77-1b68-83eb-26f4b16beaa9",
-   "title": "CreatorSpace Lab: Frequency Analysis",
+   "title": "CreatorSpace Lab 1.4: Frequency Analysis",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Frequency-Analysis-b4b2.md",
+   "content-file": ".guides/content/CreatorSpace-Lab-1-4--Frequency-Analysis-b4b2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -676,7 +676,7 @@
   },
   {
    "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
-   "title": "Hackathon 1: The Shift Cipher as a Block Flowchart",
+   "title": "Hackathon 1.1: The Shift Cipher as a Block Flowchart",
    "files": [
     {
      "path": "#tabs",
@@ -691,7 +691,7 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon-1--The-Shift-Cipher-as-a-Flowchart-5963.md",
+   "content-file": ".guides/content/Hackathon-1-1--The-Shift-Cipher-as-a-Block-Flowchart-5963.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -699,7 +699,7 @@
   },
   {
    "id": "4c976928-c138-4765-3191-a236fe4c6414",
-   "title": "Hackathon 2: The Problem of Key Distribution",
+   "title": "Hackathon 1.2: The Problem of Key Distribution",
    "files": [
     {
      "path": "#tabs",
@@ -709,7 +709,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon-2--The-Problem-of-Key-Distribution-4c97.md",
+   "content-file": ".guides/content/Hackathon-1-2--The-Problem-of-Key-Distribution-4c97.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -837,7 +837,7 @@
   },
   {
    "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
-   "title": "CreatorSpace Lab: Public Key Encryption with RSA",
+   "title": "CreatorSpace Lab 2.1: Public Key Encryption with RSA",
    "files": [
     {
      "path": "#tabs",
@@ -849,7 +849,7 @@
     "lab-part1"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Public-Key-Encryption-with-RSA-2a21.md",
+   "content-file": ".guides/content/CreatorSpace-Lab-2-1--Public-Key-Encryption-with-RSA-2a21.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1006,11 +1006,11 @@
   },
   {
    "id": "9966a2db-e439-46af-69a8-a222935e3ada",
-   "title": "CreatorSpace Lab: Key Agreement  (Exchange)",
+   "title": "CreatorSpace Lab 2.2: Key Agreement  (Exchange)",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Key-Agreement---Exchange--9966.md",
+   "content-file": ".guides/content/CreatorSpace-Lab-2-2--Key-Agreement---Exchange--9966.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1407,11 +1407,11 @@
   },
   {
    "id": "82f4fde3-8f5d-a7dc-c0a5-d00b3c600090",
-   "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
+   "title": "CreatorSpace Lab 3.1: Verifying the Integrity of a Download",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab--Verifying-the-Integrity-of-a-Download-82f4.md",
+   "content-file": ".guides/content/CreatorSpace-Lab-3-1--Verifying-the-Integrity-of-a-Download-82f4.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1918,11 +1918,11 @@
   },
   {
    "id": "31ebe55f-052c-45ac-0bd0-046613cc5205",
-   "title": "CreatorSpace Lab:  Digital Certificates in Chrome",
+   "title": "CreatorSpace Lab 4.1:  Digital Certificates in Chrome",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/CreatorSpace-Lab---Digital-Certificates-in-Chrome-31eb.md",
+   "content-file": ".guides/content/CreatorSpace-Lab-4-1---Digital-Certificates-in-Chrome-31eb.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

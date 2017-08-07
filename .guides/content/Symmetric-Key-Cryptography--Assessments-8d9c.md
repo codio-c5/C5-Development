@@ -1,4 +1,7 @@
-
+<figure class="snippetimg" style="margin: 0 auto;width:100%">
+  <img src=".guides/img/Assessintro.PNG">
+  </figure>
+  
 ## Check Your Mastery
 {Check It!|assessment}(multiple-choice-1798888751)
 {Check It!|assessment}(multiple-choice-4214331039)

@@ -51,7 +51,7 @@
        "pageId": "a6af098a-0191-1ebc-5cf7-8c33ddf0f042"
       },
       {
-       "title": "CreatorSpace Lab: The Caesar Cipher",
+       "title": "CreatorSpace Lab 1.1: The Caesar Cipher",
        "id": "eb7ca591-17d1-80e2-1f81-bd8eccac0da8",
        "type": "page",
        "pageId": "0a42a669-b412-0e6a-f823-9d47e0b7f0e7"
@@ -111,7 +111,7 @@
          "pageId": "33631974-d9bc-f937-fd6b-779cb40a0611"
         },
         {
-         "title": "CreatorSpace Lab: The ROTn Shift Cipher",
+         "title": "CreatorSpace Lab 1.2: The ROTn Shift Cipher",
          "id": "74cd720a-fcf6-3d39-cd9f-014fb326bcc4",
          "type": "page",
          "pageId": "6d85aec7-9648-e64b-bd5d-8fc61890fcd1"
@@ -143,7 +143,7 @@
        "pageId": "e20f7a42-d00f-0727-77d9-6aa00be78ce9",
        "children": [
         {
-         "title": "CreatorSpace Lab: Substitution Ciphers",
+         "title": "CreatorSpace Lab 1.3: Substitution Ciphers",
          "id": "31391377-7bee-e80b-dce7-03dead50380c",
          "type": "page",
          "pageId": "75c7f38d-6cf5-fe34-ffba-d96e3470ede1"
@@ -167,7 +167,7 @@
          "pageId": "b2560d2e-7b37-7e26-6d7a-4c4df44b070a"
         },
         {
-         "title": "CreatorSpace Lab: Frequency Analysis",
+         "title": "CreatorSpace Lab 1.4: Frequency Analysis",
          "id": "267cc987-4285-0bab-4e78-71dfd80af37c",
          "type": "page",
          "pageId": "b4b22588-bf77-1b68-83eb-26f4b16beaa9"
@@ -245,13 +245,13 @@
        "pageId": "ff89f99b-a983-e8e2-56f1-269ae29663f5",
        "children": [
         {
-         "title": "Hackathon 1: The Shift Cipher as a Block Flowchart",
+         "title": "Hackathon 1.1: The Shift Cipher as a Block Flowchart",
          "id": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07",
          "type": "page",
          "pageId": "59639cf0-c0b6-8f19-9c6e-9a75875d2e07"
         },
         {
-         "title": "Hackathon 2: The Problem of Key Distribution",
+         "title": "Hackathon 1.2: The Problem of Key Distribution",
          "id": "4c976928-c138-4765-3191-a236fe4c6414",
          "type": "page",
          "pageId": "4c976928-c138-4765-3191-a236fe4c6414"
@@ -303,7 +303,7 @@
          "pageId": "abbc437e-487e-9b93-2230-599a582187e5"
         },
         {
-         "title": "CreatorSpace Lab: Public Key Encryption with RSA",
+         "title": "CreatorSpace Lab 2.1: Public Key Encryption with RSA",
          "id": "2a216c35-e941-83a0-6d1c-f8841fa636ef",
          "type": "page",
          "pageId": "2a216c35-e941-83a0-6d1c-f8841fa636ef"
@@ -359,7 +359,7 @@
          "pageId": "f8b66935-383a-0a46-a410-9c5d85fb278a"
         },
         {
-         "title": "CreatorSpace Lab: Key Agreement  (Exchange)",
+         "title": "CreatorSpace Lab 2.2: Key Agreement  (Exchange)",
          "id": "02b5dfca-7c64-6cba-2089-240070e406ee",
          "type": "page",
          "pageId": "9966a2db-e439-46af-69a8-a222935e3ada"
@@ -505,7 +505,7 @@
          "pageId": "45909e64-08ec-62c8-ab5e-0c2ad7343136"
         },
         {
-         "title": "CreatorSpace Lab: Verifying the Integrity of a Download",
+         "title": "CreatorSpace Lab 3.1: Verifying the Integrity of a Download",
          "id": "77ccad6f-42a5-ed3e-0626-709c2c373447",
          "type": "page",
          "pageId": "82f4fde3-8f5d-a7dc-c0a5-d00b3c600090"
@@ -687,7 +687,7 @@
          "pageId": "e1b25974-b24d-65dd-7545-71c36e4bc99d"
         },
         {
-         "title": "CreatorSpace Lab:  Digital Certificates in Chrome",
+         "title": "CreatorSpace Lab 4.1:  Digital Certificates in Chrome",
          "id": "5d501556-6fbd-78a9-fdb6-ed4a444af6f8",
          "type": "page",
          "pageId": "31ebe55f-052c-45ac-0bd0-046613cc5205"
@@ -755,5 +755,5 @@
    ]
   }
  ],
- "name": "c5dev-book"
+ "name": "C5 Cybersecurity"
 }
