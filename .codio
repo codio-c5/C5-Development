@@ -3,7 +3,7 @@
 
 // Run button configuration
   "commands": {
-        "Get latest version": "sh pull_lose.sh",
+        "Update Book": "sh pull_lose.sh",
         "Quick Add and Commit": "sh quick_commit.sh",
         "Quick Push": "sh quick_push.sh",
         "Quick Pull": "sh quick_pull.sh"
