@@ -37,16 +37,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-836680581",
   "source": {
-   "name": "AH 1.1.1",
+   "name": "2.2.1",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "In **symmetric key encryption,** the same key is used to encrypt and decrypt a message. The challenge is in how to share the key safely and effectively. \n**Public key encryption** fixes this by separating the encryption and decryption process so that each is only one-way.  The user creates a key pair that includes a **public** key that anyone can access to encrypt message to the user.  The user also creates a  **private key** that only they know. Only this private key will decrypt messages sent to the user.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.**",
    "points": "1",
    "showValues": true,
-   "learningObjectives": "",
+   "learningObjectives": "2.2",
    "text": "In <<<symmetric key encryption>>>, the same key is used to encrypt and decrypt a message. The challenge is in how to share the key safely and effectively. <<<public key encryption>>> fixes this because the user creates a <<<public>>> key that anyone can access as well as a  <<<private>>> key that only they know.\n",
    "tokens": {
     "blank": [
@@ -102,16 +102,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3101450858",
   "source": {
-   "name": "1.1 KCI",
+   "name": "1.3.13",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answers are:**\nThe key to the **Caesar cipher** is to exchange each plaintext letter with the letter three letters down the alphabet.\n- A **substitution cipher** maps specific letters together to replace each other in plaintext to create the ciphertext.\n- A **shift cipher** key is created by determining a specific number of letters to move down the alphabet. The new letter replaces the plaintext letter to create the ciphertext.\n",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Choose the best response for each statement.**",
    "points": "1",
    "showValues": true,
-   "learningObjectives": "",
+   "learningObjectives": "1.3",
    "text": "- The key to the <<<Caesar cipher>>> is to exchange each plaintext letter with the letter three letters down the alphabet.\n- A <<<substitution cipher>>> maps specific letters together to replace each other in plaintext to create the ciphertext.\n- A <<<shift cipher>>> key is created by determining a specific number of letters to move down the alphabet. The new letter replaces the plaintext letter to create the ciphertext.\n",
    "tokens": {
     "blank": [
@@ -137,15 +137,15 @@
   "source": {
    "name": "1.1.1",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is file encryption.** Encryption creates ciphertext which requires a key to decrypt.  Encryption ensures confidentiality.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**You store personal documents and spreadsheets with a cloud provider. You would like your data to be available only to people having a special unlock key. What should you apply to your documents and spreadsheets?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.1",
    "answers": [
     {
      "_id": "c178d48c-64a3-3928-2f9b-f1b73da88af3",
@@ -176,15 +176,15 @@
   "source": {
    "name": "1.2.1",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is chosen ciphertext attacks.**  If you have known ciphertext, you can easily find and apply the key to other ciphertext strings.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**In which of the following attack scenarios does the attacker have the most power?** ",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.2",
    "answers": [
     {
      "_id": "20c724b1-6542-4278-c922-401992497848",
@@ -235,17 +235,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1475741445",
   "source": {
-   "name": "1.4.1",
+   "name": "1.4.8",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**DES and AES are symmetric key ciphers.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which of the following are symmetric key ciphers? Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "answers": [
     {
      "_id": "bd1ede30-fcc1-9d41-2f9f-1364338b5b1c",
@@ -351,17 +351,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-265258656",
   "source": {
-   "name": "CI 1.2",
+   "name": "1.3.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is that the apostrophe remains as plaintext.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**How does the code handle the apostrophe in the word \"it's\"?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.3",
    "answers": [
     {
      "_id": "7fbb6e4a-903e-af32-765f-cdb596f44a2e",
@@ -390,15 +390,15 @@
   "type": "free-text",
   "taskId": "free-text-2561419183",
   "source": {
-   "name": "GH 1.2",
+   "name": "1.2.3",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "4",
+   "guidance": "** Answers will vary.** You could think about common contractions and possessives and determine likely candidates for the letters after the apostrophe.",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**Using what you know about the apostrophe, how could that help you in a brute-force attack to decrypt the message?**",
-   "learningObjectives": "",
+   "learningObjectives": "1.2",
    "points": 1
   }
  },
@@ -427,15 +427,15 @@
   "type": "free-text",
   "taskId": "free-text-1360860550",
   "source": {
-   "name": "GH 1.2B",
+   "name": "1.2.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "4",
+   "guidance": "**The number of possible keys is the number of letters in the alphabet, minus one. There are 33 letters in the Russian Cyrillic alphabet, and 36 in the Armenian alphabet, so the respective answers are 32 and 35.**\n",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**For the English alphabet, there are 25 keys.  Why is that?  How many keys would there be for a different alphabet like Russian Cyrillic or the Armenian alphabet?**",
-   "learningObjectives": "",
+   "learningObjectives": "1.2",
    "points": 1
   }
  },
@@ -443,15 +443,15 @@
   "type": "free-text",
   "taskId": "free-text-3413873105",
   "source": {
-   "name": "GH 1.21",
+   "name": "1.2.7",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**Answers will vary.**",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**Consider general English usage, such as in newspapers.  Name three common digrams you would find.**\n **Hint:** Think about common word endings, as well as common two-letter words.",
-   "learningObjectives": "",
+   "learningObjectives": "1.2",
    "points": 1
   }
  },
@@ -471,15 +471,15 @@
   "type": "free-text",
   "taskId": "free-text-879680027",
   "source": {
-   "name": "GH 1.22",
+   "name": "1.2.8",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**Answers will vary.**",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**Consider general English usage, such as in newspapers.  Name three common trigrams you would find.**\n **Hint:** Think about common word endings, as well as common three-letter words.",
-   "learningObjectives": "",
+   "learningObjectives": "1.2",
    "points": 1
   }
  },
@@ -487,16 +487,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1681383484",
   "source": {
-   "name": "AH 1.1.2",
+   "name": " 1.1.6",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "You use an **encryption key** to create unreadable messages called **ciphertext.** To read encrypted messages, you need a **decryption key**.  In symmetric key cryptography, the same key is used to encrypt and to decode, or **decrypt**, the message. ",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.**",
    "points": "1",
    "showValues": true,
-   "learningObjectives": "",
+   "learningObjectives": "1.1",
    "text": "You use a(n) <<<encryption key>>> to create unreadable messages called <<<ciphertext>>>. To read encrypted messages, you need a(n) <<<decryption key>>>.  In symmetric key cryptography, the same key is used to encrypt and to decode, or <<<decrypt>>>, the message. ",
    "tokens": {
     "blank": [
@@ -523,15 +523,15 @@
   "type": "free-text",
   "taskId": "free-text-3680102054",
   "source": {
-   "name": "GH 1.2A",
+   "name": "1.3.6",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**If the key is zero, then the ciphertext is equal to the plaintext.**",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**In a shift cipher, what happens if k=0?**",
-   "learningObjectives": "",
+   "learningObjectives": "1.3",
    "points": 1
   }
  },
@@ -539,17 +539,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1072561676",
   "source": {
-   "name": "LCI 1.2",
+   "name": "1.3.5",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is 3.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**What key was used in this exercise?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.3",
    "answers": [
     {
      "_id": "6d74bb5f-9a29-be60-0b2c-8cceabd7cadc",
@@ -578,16 +578,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-2547250082",
   "source": {
-   "name": "CYK 2.1B",
+   "name": "2.2.2",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**Key agreement** algorithms are a type of private key cryptosystem that also solves the problem of key distribution.  Here, the message sender and recipient each generate a new key by combining their own private key with the other’s public key. This results in a **session key** that is the same for both parties and can be used to encrypt **and** decrypt messages sent between them. The session key is a two-way key.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Use the dropdown arrow to select the term that fits best in each blank.  Each term is used only once.**",
    "points": "1",
    "showValues": true,
-   "learningObjectives": "",
+   "learningObjectives": "2.2",
    "text": "<<<key agreement>>> algorithms also solve the problem.  Here, the message sender and recipient each generate a new key by combining their own private key with the other’s public key. This results in a <<<session key>>> that is the same for both parties and can be used to encrypt and decrypt messages sent between them.",
    "tokens": {
     "blank": [
@@ -607,7 +607,7 @@
   "type": "free-text",
   "taskId": "free-text-1638677102",
   "source": {
-   "name": "GH 2.2A",
+   "name": "2.2.6",
    "showName": false,
    "bloomsObjectiveLevel": "4",
    "guidance": " With asymmetric encryption, users do not have to share a secret value that they have to communicate or agree on the value beforehand or share over a public channel.\n\nPublic keys are published and available to everyone in the system, so you can send an encrypted message to someone easily.",
@@ -615,7 +615,7 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What are the advantages of asymmetric (public key) encryption?**",
-   "learningObjectives": "2.1",
+   "learningObjectives": "2.2",
    "points": 1
   }
  },
@@ -623,7 +623,7 @@
   "type": "free-text",
   "taskId": "free-text-853926597",
   "source": {
-   "name": "GH 2.2B",
+   "name": "2.2.7",
    "showName": false,
    "bloomsObjectiveLevel": "4",
    "guidance": "- The sender cannot decrypt a message they send.  Encryption is a one-way process.\n - Public key encryption takes more processing power and storage than symmetric key.  This is not much of an issue given today's fast processors and inexpensive storage.",
@@ -631,7 +631,7 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What are the disadvantages of asymmetric (public key) encryption?**",
-   "learningObjectives": "2.1",
+   "learningObjectives": "2.2",
    "points": 1
   }
  },
@@ -679,15 +679,15 @@
   "type": "free-text",
   "taskId": "free-text-3117283162",
   "source": {
-   "name": "GH 1.4",
+   "name": "1.3.7",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "3",
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What is the result (the ROT key) of your second encryption?  Why?**",
-   "learningObjectives": "",
+   "learningObjectives": "1.3",
    "points": 1
   }
  },
@@ -842,15 +842,15 @@
   "source": {
    "name": "1.1.7",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answers are that it is a readable format and that it is any data, including binary files, in a form that can be viewed or used without requiring a key.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which of the following are true about plaintext?  Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
-   "learningObjectives": "",
+   "learningObjectives": "1.1",
    "answers": [
     {
      "_id": "3ea08248-86f7-4414-ee90-b708fade4144",
@@ -896,15 +896,15 @@
   "source": {
    "name": "1.1.8",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "2",
    "guidance": "",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Which one of the following statements is true about symmetric encryption?**",
+   "instructions": "**Which one of the following statements is true about symmetric key encryption?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.1",
    "answers": [
     {
      "_id": "f806bc46-8733-87b8-d1e9-ceb96ef16b58",
@@ -933,17 +933,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3168863083",
   "source": {
-   "name": "1.1.9",
+   "name": "1.4.1",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The answers are digital certificates and public keys.** Both of these are aspects of asymmetric key encryption.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which of the following is/are not a part of symmetric key cryptography? Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "answers": [
     {
      "_id": "b442d138-ce14-7d11-fdf3-c20977aa0bab",
@@ -972,17 +972,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4068578647",
   "source": {
-   "name": "1.2.7",
+   "name": "1.2.2",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answers are cryptanalysis, known plaintext, and chosen plaintext.** ",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Which of the following are possible attacks scenarios for symmetric key encryption? Select all that apply.**",
+   "instructions": "**Which of the following are possible attack scenarios for symmetric key encryption? Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
-   "learningObjectives": "",
+   "learningObjectives": "4.2",
    "answers": [
     {
      "_id": "3703224f-cb6d-5d4b-9bab-b32901f088c9",
@@ -1016,16 +1016,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3360977174",
   "source": {
-   "name": "1.3.2",
+   "name": "1.3.1",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is pbqrpenpxre.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank with the correct response. Use only lowercase characters.** ",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "3.1",
    "text": "Alice uses a special substitution cipher known as ROT13 to encrypt her message to Bob. If Alice’s plaintext is “codecracker\", the ciphertext Bob receives is <<<pbqrpenpxre>>>.",
    "tokens": {
     "blank": [
@@ -1043,16 +1043,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3572864988",
   "source": {
-   "name": "1.3.3",
+   "name": "1.3.2",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is e.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "3.2",
    "text": "The letter that appears most frequently in the English alphabet is <<<e>>>.",
    "tokens": {
     "blank": [
@@ -1070,16 +1070,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-4134289906",
   "source": {
-   "name": "1.4.5",
+   "name": "1.4.2",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is AES.** ",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "text": "You want to encrypt data on a removable storage device by using the strongest method possible.  <<<AES>>> is the encryption method you should choose.",
    "tokens": {
     "blank": [
@@ -1097,17 +1097,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1804246982",
   "source": {
-   "name": "1.4.6",
+   "name": "1.4.3",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answers are block ciphers and stream ciphers.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which of the following are types of symmetric key encryption algorithms? Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "answers": [
     {
      "_id": "4da932b2-60f4-8f8e-b61c-7d1e050ab38e",
@@ -1141,17 +1141,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-79059355",
   "source": {
-   "name": "1.5.6",
+   "name": "1.5.3",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is that the parties must have a trusted third party or a means of sending the secret key through an encrypted channel.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**What is the biggest challenge associated with the distribution of a key in symmetric key encryption?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.5",
    "answers": [
     {
      "_id": "2b4d6cca-1d54-60f8-b93f-7757ba7737b9",
@@ -1180,17 +1180,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-757564519",
   "source": {
-   "name": "1.5.6",
+   "name": "1.4.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is symmetric key encryption.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**If both the sender and receiver use the same key, the system is referred to as:**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "answers": [
     {
      "_id": "00022df9-9d0b-2627-ebf3-190c31d9268f",
@@ -1224,16 +1224,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-4274829830",
   "source": {
-   "name": "1.6.3",
+   "name": "1.4.5",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is 64 bits at a time.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank with the correct number.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "text": "DES encrypts <<<64>>> bits at a time. ",
    "tokens": {
     "blank": [
@@ -1251,16 +1251,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-2796959550",
   "source": {
-   "name": "1.6.6",
+   "name": "1.4.6",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is block ciphers.** They encrypt data in specific size chunks.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "text": "<<<Block ciphers>>> are a method of encryption that transposes plaintext to ciphertext in chunks.",
    "tokens": {
     "blank": [
@@ -1277,17 +1277,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4214331039",
   "source": {
-   "name": "1.1.11",
+   "name": "1.1.5",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is To turn sensitive information into unintelligible data.** Encryption is about providing confidentiality, which is accomplished by turning plaintext into ciphertext.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Choose the best response. The primary goal of encryption is...**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.1",
    "answers": [
     {
      "_id": "ffab7439-7c54-8b59-5acf-1e2ceb03004f",
@@ -1316,17 +1316,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4000311647",
   "source": {
-   "name": "1.2.2",
+   "name": "1.2.9",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is 5.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**You know that HELLO encrypts to MJQQT. What is the shift key?  \nChoose the best response.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.2",
    "answers": [
     {
      "_id": "292f23b6-ef77-5c21-1df0-4fb492bd6fec",
@@ -1355,16 +1355,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1550412927",
   "source": {
-   "name": "1.2.6",
+   "name": "1.4.9",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is AES.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "text": "<<<AES>>> is an encryption scheme that uses the Rijndael block cipher, which is resistant to all known attacks.",
    "tokens": {
     "blank": [
@@ -1381,16 +1381,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-4267388236",
   "source": {
-   "name": "1.3.1",
+   "name": "1.3.11",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The answer is goodluck.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.  Do not include any spaces in your answer.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.3",
    "text": "Alice uses a shift cipher with a shift of 4 to encrypt her message to Bob. If the ciphertext she obtains is `KSSHPYGO`, what is her message in plaintext? <<<goodluck>>>",
    "tokens": {
     "blank": [
@@ -1407,17 +1407,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-241919936",
   "source": {
-   "name": "1.3.8",
+   "name": "1.3.12",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is that Caesar cipher decryption replaces a letter via an inverse alphabet shift: with a previous letter in the alphabet.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which one of the following is an accurate statement about the Caesar cipher?** ",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.3",
    "answers": [
     {
      "_id": "e50685a3-21f5-9e99-ebbd-7866e99d9a37",
@@ -1446,17 +1446,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3931260191",
   "source": {
-   "name": "1.4.8",
+   "name": "1.4.10",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**All the answers are correct.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Select all that apply. Block ciphers found in use today...**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "answers": [
     {
      "_id": "68b85765-2e1f-a921-3dac-2c654716da84",
@@ -1485,16 +1485,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-4103378083",
   "source": {
-   "name": "1.5.3",
+   "name": "1.5.2",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is trust.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.5",
    "text": "An issue in symmetric key cryptography is the problem of <<<trust>>> between two parties that share a secret key.",
    "tokens": {
     "blank": [
@@ -1512,16 +1512,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3922173266",
   "source": {
-   "name": "1.6.2",
+   "name": "1.6.1",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is 128.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank with the correct number.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.6",
    "text": "In the AES encryption process, the cipher takes a plaintext block size of <<<128>>> bits.",
    "tokens": {
     "blank": [
@@ -1539,17 +1539,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4146738163",
   "source": {
-   "name": "1.6.4",
+   "name": "1.6.2",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "guidance": "**The correct answer is symmetric key cryptography.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Choose the best response. What form of cryptography is best suited for bulk encryption because it is so fast?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.6",
    "answers": [
     {
      "_id": "1c6c19e4-2751-9b1c-d4b1-a94c0fca5be5",
@@ -1578,17 +1578,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-2247377726",
   "source": {
-   "name": "LCI 1.2.2",
+   "name": "1.3.8",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is 23.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**What key was used for the `WDNH PH RXW WR WKH EDOO JDPH` ciphertext?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.3",
    "answers": [
     {
      "_id": "77117a69-2a64-9caf-1d94-b88222509ca5",
@@ -1617,16 +1617,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1969010385",
   "source": {
-   "name": "LCI 1.2.3",
+   "name": "1.3.9",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is ZM ZKKOV Z WZB.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Complete the sentence below.  Keep the spaces in place in your response.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.3",
    "text": "Using this key, the plaintext phrase \"An apple a day\" encrypts into the ciphertext <<<ZM ZKKOV Z WZB>>>.",
    "tokens": {
     "blank": [
@@ -1644,16 +1644,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1281638209",
   "source": {
-   "name": "1.1.6",
+   "name": "1.1.2",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "guidance": "**The correct answer is key.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.1",
    "text": "A <<<key>>> is the information used in conjunction with the algorithm to create the ciphertext from the plaintext.",
    "tokens": {
     "blank": [
@@ -1671,17 +1671,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1752398954",
   "source": {
-   "name": "1.1.10",
+   "name": "1.1.3",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**The correct answer is that ciphertext is the result of encryption performed on plaintext using an algorithm, called a cipher.** ",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which of the following is a true statement?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.1",
    "answers": [
     {
      "_id": "1d5df02f-6000-0709-45ce-0b589c69ccb1",
@@ -1710,16 +1710,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1068247789",
   "source": {
-   "name": "1.2.3",
+   "name": "1.2.5",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is a chosen plaintext attack.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.2",
    "text": "Your company produces an encryption device that lets you enter text and receive encrypted text in response. An attacker obtains one of these devices and starts inputting random plain text to see the resulting cipher text. This is called a <<<chosen plaintext>>> attack.\n\n",
    "tokens": {
     "blank": [
@@ -1737,16 +1737,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1844380040",
   "source": {
-   "name": "1.2.4",
+   "name": "1.2.6",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is a known plaintext attack.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.2",
    "text": "In a <<<known plaintext>>> attack, the attacker has access to both the unencrypted message and the resulting cipher text, but does not have the ability to encrypt the plain text.\n\n",
    "tokens": {
     "blank": [
@@ -1798,10 +1798,10 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3769728457",
   "source": {
-   "name": "1.3.7",
+   "name": "1.3.3",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "guidance": "**The correct answer is 3.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**\n",
@@ -1845,17 +1845,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-174078294",
   "source": {
-   "name": "1.4.4",
+   "name": "1.4.7",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is DES.**  The other options have stronger keys.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Choose the best response. Which of the following block ciphers offers the least security because of weak keys?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.4",
    "answers": [
     {
      "_id": "9235ebb0-bdc0-ed5c-b8d2-a2e4c77eb348",
@@ -1884,16 +1884,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3119267098",
   "source": {
-   "name": "1.5.3",
+   "name": "1.5.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is key.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.5",
    "text": "The Diffie-Hellman algorithm is used as a method of exchanging a cryptography <<<key>>> for use in symmetric encryption algorithms like AES.  ",
    "tokens": {
     "blank": [
@@ -1911,17 +1911,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3756736902",
   "source": {
-   "name": "1.5.8",
+   "name": "1.5.1",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is session keys.** ",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Select the best response.  Key distribution often involves the use of _________, which are generated and distributed for temporary use between two parties.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.5",
    "answers": [
     {
      "_id": "d69cdb36-1582-85ad-a3b3-5bd9382de3aa",
@@ -1998,17 +1998,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-2248183240",
   "source": {
-   "name": "2.1.1",
+   "name": "2.1.2",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "Alice encrypts the message using **Bob's public key,** since public keys are a one-way process for encrypting messages. Bob decrypts it using **Bob's private key,** since only Bob's private key can decrypt messages encrypted with Bob's public key. That's the nature of a public/private key pair.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Assume Alice and Bob both have public and private keys in a public key setting. If Alice wants to send Bob a secret message, Alice encrypts her message using __________________ key and Bob decrypts it using ______________ key.**",
+   "instructions": "**Assume Alice and Bob both have public and private keys in a public key setting. If Alice wants to send Bob a secret message, Alice encrypts the message using __________________ key and Bob decrypts it using ______________ key.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "2.1",
    "answers": [
     {
      "_id": "c67d06ba-9806-86df-09a4-e1dc7e55d088",
@@ -2053,15 +2053,15 @@
   "type": "free-text",
   "taskId": "free-text-3268362577",
   "source": {
-   "name": "2.2.3",
+   "name": "2.2.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "5",
    "guidance": "Asymmetric key cryptography solves the problem of key distribution in symmetric key cryptography. It also helps with key management, as each party only needs to have only a private and a public key, whereas in symmetric cryptography he/she needs as many keys as the number of people he/she is communicating with.\n\n",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What does asymmetric key cryptography provide that symmetric key cryptography does not? Explain.**",
-   "learningObjectives": "",
+   "learningObjectives": "2.2",
    "points": 1
   }
  },
@@ -2069,15 +2069,15 @@
   "type": "free-text",
   "taskId": "free-text-4045614430",
   "source": {
-   "name": "2.2.2",
+   "name": "2.2.5",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "2",
    "guidance": "In symmetric cryptography, the key used for encryption is essentially the same key used for decryption. In public key cryptography, the key used for encrypting a message does not work for decrypting it.  ",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What is the main difference between symmetric and asymmetric cryptography?**",
-   "learningObjectives": "",
+   "learningObjectives": "2.2",
    "points": 1
   }
  },
@@ -2087,34 +2087,34 @@
   "source": {
    "name": "2.4.1",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "The answer is **RSA** and **Diffie-Hellman.** AES and DES are types of symmetric key ciphers.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Which of the following are symmetric key ciphers? Select all that apply.**",
+   "instructions": "**Which of the following are asymmetric (public key) ciphers? Select all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
-   "learningObjectives": "",
+   "learningObjectives": "2.4",
    "answers": [
     {
      "_id": "fced1f80-3f5b-d954-8b66-ec3df49cecfc",
-     "correct": true,
+     "correct": false,
      "answer": "DES"
     },
     {
      "_id": "ef681447-8fcb-bdd8-0541-756e9fe604aa",
-     "correct": false,
+     "correct": true,
      "answer": "RSA"
     },
     {
      "_id": "dbd74ae6-12e4-cebf-0231-8245c0b31a82",
-     "correct": false,
+     "correct": true,
      "answer": "Diffie-Hellman"
     },
     {
      "_id": "0328d2b7-0848-9b67-fc79-0e61b68f24c9",
-     "correct": true,
+     "correct": false,
      "answer": "AES"
     }
    ]
@@ -2124,17 +2124,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4118271051",
   "source": {
-   "name": "AH 2.2",
+   "name": "2.1.5",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "The **man in the middle attack** is effective against public key encryption algorithms because they do not address the issue of integrity.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which one of the following attacks is effective against public key encryption algorithms?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "2.1",
    "answers": [
     {
      "_id": "30500c5f-3dcc-f40d-46b6-18fae50bc7b1",
@@ -2192,10 +2192,10 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4063844412",
   "source": {
-   "name": "3.3.3",
+   "name": "3.3.1",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "**Then correct answers are SHA 3 and MD5.** DES and 3DES are forms of symmetric key encryption.",
+   "guidance": "**Then correct answers are SHA 3 and MD5.** DES is a form of symmetric key encryption. RSA is a form of public key encryption.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which of these are commonly used hash functions?  Choose all that apply.**",
@@ -2222,7 +2222,7 @@
     {
      "_id": "a8401074-8296-3ed8-293b-64760fa93776",
      "correct": false,
-     "answer": "3DES"
+     "answer": "RSA"
     }
    ]
   }
@@ -2231,15 +2231,15 @@
   "type": "free-text",
   "taskId": "free-text-557065751",
   "source": {
-   "name": "3.2.2",
+   "name": "3.2.5",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "4",
    "guidance": "Hash functions can be used to check the integrity of a file. If collision resistance property lacks in a hash function, two files that have the same hash value may be found, reducing confidence in the detection of a change in a file. ",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**What issues would be created if a hash function didn't include the collision resistance property?**",
-   "learningObjectives": "",
+   "learningObjectives": "3.2",
    "points": 1
   }
  },
@@ -2247,7 +2247,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3637430973",
   "source": {
-   "name": "3.3.1 ",
+   "name": "3.2.1",
    "showName": false,
    "bloomsObjectiveLevel": "",
    "guidance": "**The correct answer is false.**  Hash values compute to a designated size, so the length of the message is irrelevant to the size of the hash value.",
@@ -2427,7 +2427,7 @@
   "source": {
    "name": "4.1.1",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is her private key.** For digital signatures, Alice encrypts her hash value with her private key, then sends it to Bob who can then confirm that the hash value matches that of the original message.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
@@ -2464,7 +2464,7 @@
   "type": "free-text",
   "taskId": "free-text-3860324690",
   "source": {
-   "name": "4.1.2",
+   "name": "4.1.5",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The correct response:**  A signature on a message will verify only if the signature was signed using the private key that goes with the public key used for verification.",
@@ -2472,7 +2472,7 @@
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**Describe how asymmetric (public) key cryptography is used for providing authenticity through digital signatures.**",
-   "learningObjectives": "4.1.2",
+   "learningObjectives": "4.1",
    "points": 1
   }
  },
@@ -2687,7 +2687,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-956607519",
   "source": {
-   "name": "CYK 2.3.1",
+   "name": "2.3.2",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**Key agreement protocols involve both public key and symmetric key encryption techniques.**\n\n - Users share their public key and use it to calculate a session key. \n - The exchange of public keys is public key encryption. \n - Using a single shared key to both encrypt and decrypt messages between the users.is symmetric key encryption.",
@@ -2723,10 +2723,10 @@
   "type": "free-text",
   "taskId": "free-text-2696978272",
   "source": {
-   "name": "GH 2.3.1",
+   "name": "2.3.3",
    "showName": false,
    "bloomsObjectiveLevel": "5",
-   "guidance": "Unlike symmetric key encryption,  key agreement algorithms solve the problem of key distribution, since the session key does not have to be shared over an unsecured channel.\nUnlike public key encryption,  key agreement algorithms require less ongoing processing power since the session key is used to both encrypt and decrypt messages.  It can also be used multiple times.",
+   "guidance": "**Unlike symmetric key encryption,  key agreement algorithms solve the problem of key distribution, since the session key does not have to be shared over an unsecured channel.**\n**Unlike public key encryption,  key agreement algorithms require less ongoing processing power since the session key is used to both encrypt and decrypt messages.  It can also be used multiple times.**",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
@@ -2803,7 +2803,7 @@
   "type": "free-text",
   "taskId": "free-text-3539702632",
   "source": {
-   "name": "GH2.1.1",
+   "name": "2.1.7",
    "showName": false,
    "bloomsObjectiveLevel": "5",
    "guidance": "To decrypt the message all you needed from your partner was their encrypted file. This could be sent via any channel because none of this information is secret. The only secret is the private key which does not need to be shared. ",
@@ -3072,9 +3072,9 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1284335134",
   "source": {
-   "name": "CYK 2.1.5",
+   "name": "2.1.8",
    "showName": false,
-   "bloomsObjectiveLevel": "1",
+   "bloomsObjectiveLevel": "2",
    "guidance": "To exchange keys with my partner, I **generated a key pair**, then I **shared my public key**.  \nThen to send an encrypted message,  I **received my partner’s public key**, and I **encrypted a message to my partner** and **sent an encrypted message to my partner.**\nLast, to decrypt a message, I **received an encrypted message from my partner** then I used my private key and **decrypted an encrypted message from my partner.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
@@ -3117,7 +3117,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-742791410",
   "source": {
-   "name": "CYK 3.4.1",
+   "name": "3.4.1",
    "showName": false,
    "bloomsObjectiveLevel": "3",
    "guidance": "**The correct answer is C.** The file is very likely the same as the download, but it is still remotely possible that it has changed. There is a very small chance of a hash value collision in which the values are the same, yet the content has changed.",
@@ -3151,10 +3151,10 @@
   "type": "free-text",
   "taskId": "free-text-1718939023",
   "source": {
-   "name": "GH 3.4.1",
+   "name": "3.4.2",
    "showName": false,
    "bloomsObjectiveLevel": "5",
-   "guidance": "",
+   "guidance": "**If each of the two different hash functions come back verifying the file, the file has not been tampered with.**\n**If one comes back as verified and one doesn't, there could be a problem with one of the hash functions.**\n**If both come back unverified, it is probably that the file was tampered with or otherwise corrupted.**",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
@@ -3167,7 +3167,7 @@
   "type": "free-text",
   "taskId": "free-text-2423718642",
   "source": {
-   "name": "GH 4.3.1",
+   "name": "4.3.1",
    "showName": false,
    "bloomsObjectiveLevel": "6",
    "guidance": "Digital certificates address the four tenets of internet security.  Hackers might pose as a site and provide false information to a user, but users that check for the signs of a true https site and view their certificates won't be fooled.  ",
@@ -3343,10 +3343,10 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1771628664",
   "source": {
-   "name": "LCI 4.3.1",
+   "name": "4.3.2",
    "showName": false,
    "bloomsObjectiveLevel": "3",
-   "guidance": "The correct answer is b. The last intermediate certificate is signed by the root certificate, and the root certificate is signed by itself, so they are signed by the same CA. The end-entity certificate and any other intermediate certificates are signed in a chain down to the root, so only the root as the last intermediate certificate have the same CA.",
+   "guidance": "**The correct answer is b.** The last intermediate certificate is signed by the root certificate, and the root certificate is signed by itself, so they are signed by the same CA. The end-entity certificate and any other intermediate certificates are signed in a chain down to the root, so only the root as the last intermediate certificate have the same CA.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**In a certification path, why would the last intermediate certificate share the same certificate authority (CA)?**",
@@ -3382,7 +3382,7 @@
   "type": "free-text",
   "taskId": "free-text-3287608523",
   "source": {
-   "name": "GH 4.3.2",
+   "name": "4.3.3",
    "showName": false,
    "bloomsObjectiveLevel": "5",
    "guidance": "Root certificates sign themselves to become  a trusted certificate authority. The purpose of the trusted certificate authority is to isolate certificate policy from the root.  They are kept very secure.",
@@ -3398,7 +3398,7 @@
   "type": "free-text",
   "taskId": "free-text-1154110295",
   "source": {
-   "name": "GH 1.2.1",
+   "name": "1.3.10",
    "showName": true,
    "bloomsObjectiveLevel": "4",
    "guidance": "Substitution ciphers are more secure because they  have more possible keys  so they take longer to crack.",
@@ -3443,7 +3443,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-2591082031",
   "source": {
-   "name": "1.5.1",
+   "name": "1.5.5",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is True.** It is difficult to find a secure way to share a key over insecure channels.",
@@ -3501,7 +3501,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-933563416",
   "source": {
-   "name": "2.2.2",
+   "name": "2.2.3",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is Public Key.** The others do not comprehensively solve for confidentiality, authentication, data integrity, and non-repudiation.",
@@ -3540,7 +3540,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3191147230",
   "source": {
-   "name": "2.4.3",
+   "name": "2.4.2",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answers are:** \n - Diffie and Hellman\n - RSA\n - Rivest, Shamir, and Adleman",
@@ -3572,7 +3572,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4107710419",
   "source": {
-   "name": "2.4.1",
+   "name": "2.4.3",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is Elliptic Curve.** It has the smallest key size of the public key cryptosystems listed.",
@@ -3611,10 +3611,10 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-2175426956",
   "source": {
-   "name": "2.3.5",
+   "name": "2.3.1",
    "showName": false,
    "bloomsObjectiveLevel": "2",
-   "guidance": "**The correct answer is False.** Key agreement protocols **ARE** vulnerable to man-in-the-middle attacks.",
+   "guidance": "**The correct answer is False.** Key agreement protocols **ARE** vulnerable to man-in-the-middle attacks, as they don't address integrity.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Key agreement protocols are NOT vulnerable to man-in-the-middle attacks.**",
@@ -3640,7 +3640,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3139619441",
   "source": {
-   "name": "2.2.6",
+   "name": "2.1.3",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is 1.** 13 divided by 2 equals 6 with a remainder of 1.  In modular arithmetic, the remainder is the answer.",
@@ -3649,7 +3649,7 @@
    "instructions": "**Calculate 13 mod 2.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "2.2",
+   "learningObjectives": "2.1",
    "text": "<<<1>>>\n",
    "tokens": {
     "blank": [
@@ -3666,7 +3666,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-1831228488",
   "source": {
-   "name": "2.2.7",
+   "name": "2.1.4",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is 0.** 18 divided by 6 equals 3 with no remainder.  In modular arithmetic, the remainder is the answer, so the answer is 0.",
@@ -3675,7 +3675,7 @@
    "instructions": "**Calculate 18 mod 6.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "2.2",
+   "learningObjectives": "2.1",
    "text": "<<<0>>>",
    "tokens": {
     "blank": [
@@ -3691,14 +3691,14 @@
   "type": "free-text",
   "taskId": "free-text-1720450548",
   "source": {
-   "name": "2.4.8",
+   "name": "2.4.4",
    "showName": false,
    "bloomsObjectiveLevel": "3",
-   "guidance": "",
+   "guidance": "**Answers will vary.** ",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**PGP (Pretty Good Privacy) for email and file storage is a common application of cryptography. Provide other examples where cryptography is used in everyday digital life.**",
+   "instructions": "**PGP (Pretty Good Privacy) for email and file storage is a common application of cryptography. Provide other examples where cryptography is used in everyday digital life, noting why it is used.**",
    "learningObjectives": "2.4",
    "points": 1
   }
@@ -3707,10 +3707,10 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1105804530",
   "source": {
-   "name": "2.1.9",
+   "name": "2.1.6",
    "showName": false,
    "bloomsObjectiveLevel": "2",
-   "guidance": "**The correct answer is False.** A successful mitigation technique against this type of attack is the use of **authentication.**",
+   "guidance": "**The correct answer is False.** A successful mitigation technique against this type of attack is the use of **hashing functions** to ensure integrity.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**True or False?** A man-in-the-middle attack is successful when a hacker forms a mutual authentication between two parties; therefore, a successful mitigation technique against this type of attack is the use of strong encryption.",
@@ -3736,7 +3736,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1494442620",
   "source": {
-   "name": "3.1.1",
+   "name": "3.1.2",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is Integrity.** Hash functions are used to validate that a message was not tampered with between the sender and the receiver.",
@@ -3775,7 +3775,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4217857863",
   "source": {
-   "name": "3.3.3",
+   "name": "3.3.2",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is Block.** Hash functions use the block cipher cryptosystem.",
@@ -3789,12 +3789,12 @@
    "answers": [
     {
      "_id": "d2bc4dc3-ebd9-b1d2-920d-e52865a5f062",
-     "correct": true,
+     "correct": false,
      "answer": "Substitution"
     },
     {
      "_id": "2d1456be-71be-8be6-3c4a-eec62f3151b4",
-     "correct": false,
+     "correct": true,
      "answer": "Block"
     },
     {
@@ -3814,17 +3814,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3133944569",
   "source": {
-   "name": "3.x.4",
+   "name": "3.2.3",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "**The correct answer is True.**",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is True.** Cryptographic hash functions are effective only if collisions are very highly improbable.  Once a collision is theoretically or actually proven, a hash function is no longer able to deliver on the promise of integrity.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**A collision occurs when two messages have the same hash value.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "3.2",
    "answers": [
     {
      "_id": "aba0e54c-6c24-8de7-a993-1701eb744423",
@@ -3843,17 +3843,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3067668302",
   "source": {
-   "name": "3.x.5",
+   "name": "3.2.3",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "**The correct answers as one-way process, fast and easy to compute, and pseudorandom.**",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answers are one-way process, fast and easy to compute, and pseudorandom.** Hash functions compute the same size of hash value, regardless of the message content, as a core requirement.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Which of these statements about hash functions?  Check all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
-   "learningObjectives": "",
+   "learningObjectives": "3.2",
    "answers": [
     {
      "_id": "b4ebdd31-696b-7bf0-df1e-a0433036fede",
@@ -3882,17 +3882,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4059744476",
   "source": {
-   "name": "3.x.6",
+   "name": "3.2.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "**The correct answer is Salting.**",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is Salting.** Each bit of salt added to a hash value makes it exponentially harder to break.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank. ________makes hash values exponentially harder to break.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "3.2",
    "answers": [
     {
      "_id": "3be8d08a-cf16-7466-3f9a-8a0b37641f9a",
@@ -3921,17 +3921,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4139160269",
   "source": {
-   "name": "3.x.7",
+   "name": "3.3.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "**The correct answer is collisions.**",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is collisions.** Once collisions have been discovered, a hash value is no longer secure for cryptographic use.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**What is MD5 (Message Digest Algorithm 5) susceptible to?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "3.3",
    "answers": [
     {
      "_id": "90a81fca-2f24-b628-d2db-59b6af900f20",
@@ -3960,15 +3960,15 @@
   "type": "free-text",
   "taskId": "free-text-3762393029",
   "source": {
-   "name": "3.x.9",
+   "name": "3.1.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**Answers will vary.** HAsh functions are used to validate the integrity of email, digital signatures, file downloads, passwords for web sites, and more.",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**Where are hash functions used?**",
-   "learningObjectives": "",
+   "learningObjectives": "3.1",
    "points": 1
   }
  },
@@ -3976,15 +3976,15 @@
   "type": "free-text",
   "taskId": "free-text-2045139444",
   "source": {
-   "name": "3.x.10",
+   "name": "3.1.5",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "4",
+   "guidance": "**Answers will vary.** Cryptographic hashing functions are used to validate integrity.  They are a one-way function  from which the original plaintext cannot be decrypted.  Encryption is the process used to ensure confidentiality.  IT is by nature a two-way process that involves encryption and decryption.",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**How is hashing different from encryption?**",
-   "learningObjectives": "",
+   "learningObjectives": "3.1",
    "points": 1
   }
  },
@@ -3992,9 +3992,9 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1021268564",
   "source": {
-   "name": "1.x.1",
+   "name": "1.1.9",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is True.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
@@ -4002,7 +4002,7 @@
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "1.1",
    "answers": [
     {
      "_id": "ecf025c8-5b0c-9495-fc39-eb85070095cd",
@@ -4021,17 +4021,17 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-814119334",
   "source": {
-   "name": "3.x.11",
+   "name": "3.1.6",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**Hash functions** are typically used to validate the **integrity** of information. A common usage of **asymmetric key cryptography**is to send messages with a guarantee of **confidentiality. Symmetric key cryptography** can be used to **authenticate** a message.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in each blank with the best response.  Each answer is used only once.**",
    "points": "1",
    "showValues": true,
-   "learningObjectives": "",
-   "text": "<<< hash functions >>> are typically used to provide <<<integrity>>>of information. A common usage of <<< asymmetric key cryptography >>> is to send messages with a guarantee of <<< confidentiality>>>. <<< symmetric key cryptography>>> can be used to <<< authenticate>>> a message.\n",
+   "learningObjectives": "3.1",
+   "text": "<<< hash functions >>> are typically used to validate the <<<integrity>>> of information. A common usage of <<< asymmetric key cryptography >>> is to send messages with a guarantee of <<< confidentiality>>>. <<< symmetric key cryptography>>> can be used to <<< authenticate>>> a message.\n",
    "tokens": {
     "blank": [
      " hash functions ",
@@ -4043,9 +4043,9 @@
     ],
     "text": [
      0,
-     " are typically used to provide ",
+     " are typically used to validate the ",
      0,
-     "of information. A common usage of ",
+     " of information. A common usage of ",
      0,
      " is to send messages with a guarantee of ",
      0,
@@ -4062,17 +4062,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-2826795696",
   "source": {
-   "name": "3.x.12",
+   "name": "3.2.6",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "**The correct answer is Salt.**",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is Salt.** EAch bit of salt added to a hashing function provides exponential protection.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**What value is added to a password before hashing it to provide extra protection against attacks?**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "3.2",
    "answers": [
     {
      "_id": "a04ebc97-9352-5466-b49c-b64232d9994a",
@@ -4101,16 +4101,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-580081384",
   "source": {
-   "name": "4.x.4",
+   "name": "4.2.2",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is digital signature.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in the blank.**",
    "points": "1",
    "showValues": false,
-   "learningObjectives": "",
+   "learningObjectives": "4.2",
    "text": "A<<<digital signature>>> is a mathematical technique used to validate the integrity and non-repudiation of a message, software, or digital document. ",
    "tokens": {
     "blank": [
@@ -4128,17 +4128,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3299202240",
   "source": {
-   "name": "4.x.5",
+   "name": "4.2.3",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "**The correct answer is True.**",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is True.** The private key used in this process is referred to as a signature key.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**A digital signature uses public key encryption to validate the hash value of a message.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "4.2",
    "answers": [
     {
      "_id": "ecce101e-9a22-57b8-3d98-d7c190ce1b91",
@@ -4157,9 +4157,9 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-4072108147",
   "source": {
-   "name": "4.x.6",
+   "name": "4.2.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is Certificate.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
@@ -4167,7 +4167,7 @@
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "4.2",
    "answers": [
     {
      "_id": "3b66aaba-58f0-ecb6-9d4d-c05d1e4a98b7",
@@ -4196,9 +4196,9 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-2230883511",
   "source": {
-   "name": "4.x.7",
+   "name": "4.1.2",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is non-repudiation.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
@@ -4206,7 +4206,7 @@
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "4.1",
    "answers": [
     {
      "_id": "4eff1712-d9c2-6cfd-e369-951e45b4f1f0",
@@ -4235,10 +4235,10 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3633096598",
   "source": {
-   "name": "4.x.8",
+   "name": "4.1.3",
    "showName": false,
    "bloomsObjectiveLevel": "",
-   "guidance": "**The correct answer is True.**",
+   "guidance": "**The correct answer is True.** ",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**To keep the digital signature process fast, the hash value of a message is signed rather than the message itself.**",
@@ -4264,17 +4264,17 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-160464972",
   "source": {
-   "name": "4.x.9",
+   "name": "4.1.4",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "**The correct answer is False.**",
+   "bloomsObjectiveLevel": "2",
+   "guidance": "**The correct answer is False.** Confidentiality requires that a message can be decrypted. Encrypting a message's hash value with a private key non-repudiation. ",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Encrypting a message's hash value with a private key ensures confidentiality.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": false,
-   "learningObjectives": "",
+   "learningObjectives": "4.1",
    "answers": [
     {
      "_id": "0dc10fb0-3999-59f9-f599-de9c7b4eec2c",
@@ -4293,9 +4293,9 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1103256738",
   "source": {
-   "name": "4.x.10",
+   "name": "4.2.5",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "2",
    "guidance": "**All of the answers are correct.:**\n - Owner's name and public key\n - Algorithm used\n - Digital signature\n - Expiration date",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
@@ -4303,7 +4303,7 @@
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
-   "learningObjectives": "",
+   "learningObjectives": "4.2",
    "answers": [
     {
      "_id": "0553de67-258a-1123-f67f-308c127a3421",
@@ -4332,16 +4332,16 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-4226089479",
   "source": {
-   "name": "4.x.11",
+   "name": "4.2.6",
    "showName": false,
-   "bloomsObjectiveLevel": "",
+   "bloomsObjectiveLevel": "2",
    "guidance": "**The correct answer is:** A **certificate of authority** is a trusted entity that issues digital certificates. CAs use the trusted root certificate to create a **chain of trust.**  At the top of the chain is the **end-entity certificate,** and at the bottom of the chain is the **root certificate.**  Between them may be any number of **intermediate certificates.**",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
    "instructions": "**Fill in each blank with the best response.  Each option is used only once.**",
    "points": "1",
    "showValues": true,
-   "learningObjectives": "",
+   "learningObjectives": "4.2",
    "text": "A <<<certificate of authority>>> is a trusted entity that issues digital certificates. CAs use the trusted root certificate to create a <<< chain of trust>>>.  At the top of the chain is the <<< end-entity certificate>>>, and at the bottom of the chain is the<<<root certificate>>>.  Between them may be any number of <<<intermediate certificate>>>s.",
    "tokens": {
     "blank": [
@@ -4371,15 +4371,15 @@
   "type": "free-text",
   "taskId": "free-text-3599332580",
   "source": {
-   "name": "4.x.12",
+   "name": "4.2.7",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**Answers will vary.**",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**Describe the major challenges associated with PKI.  How are they addressed?**",
-   "learningObjectives": "",
+   "learningObjectives": "4.2",
    "points": 1
   }
  },
@@ -4387,15 +4387,15 @@
   "type": "free-text",
   "taskId": "free-text-3386975382",
   "source": {
-   "name": "4.x.13",
+   "name": "4.1.6",
    "showName": false,
-   "bloomsObjectiveLevel": "",
-   "guidance": "",
+   "bloomsObjectiveLevel": "3",
+   "guidance": "**Answers will vary.**",
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
    "instructions": "**Both Android and iOS phone require apps to be digitally signed before installation. Identify other uses for digital signatures.**",
-   "learningObjectives": "",
+   "learningObjectives": "4.1",
    "points": 1
   }
  },
@@ -4403,7 +4403,7 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-1286371257",
   "source": {
-   "name": "3.2.1",
+   "name": "3.2.2",
    "showName": false,
    "bloomsObjectiveLevel": "2",
    "guidance": "**The Answer is True.** It  is a basic requirement for hash values that the same input must always generate the same hash value. ",
