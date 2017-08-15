@@ -1,11 +1,12 @@
 #!/bin/bash
-echo "!!!! ANY CHANGES YOU HAVE MADE WILL BE LOST !!!"
-read -p "Are you sure? " -n 1 -r
-echo    # (optional) move to a new line
-if [[ $REPLY =~ ^[Yy]$ ]]
+echo "!!!! YOU WILL LOOSE ANY LOCAL CHANGES IF YOU PROCEEDX !!!!"
+echo "Are you sure? (yes/no)"
+read reply
+choice=$(echo $reply|sed 's/(.*)/L1/')
+if [ "$choice" = 'yes' ] 
 then
-    git reset HEAD --hard
-    git pull origin master
-elif
+  git reset HEAD --hard
+  git pull origin master
+else
   echo "Aborted. Latest version was NOT pulled."
 fi

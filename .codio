@@ -3,7 +3,7 @@
 
 // Run button configuration
   "commands": {
-        "Get latest version": "pull_lose.sh"
+        "Get latest version": "sh pull_lose.sh"
   },
 
 // Preview button configuration
