@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "!!!! YOU WILL LOOSE ANY LOCAL CHANGES IF YOU PROCEED !!!!"
+echo "!!!! YOU WILL LOSE ANY LOCAL CHANGES IF YOU PROCEED !!!!"
 echo "Are you sure? (yes/no)"
 read reply
 choice=$(echo $reply|sed 's/(.*)/L1/')
