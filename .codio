@@ -3,7 +3,7 @@
 
 // Run button configuration
   "commands": {
-        "Node version": "node --version"
+        "Get latest version": "pull_lose.sh"
   },
 
 // Preview button configuration
