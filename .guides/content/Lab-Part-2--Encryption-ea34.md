@@ -34,7 +34,7 @@ You should see your partner's public key in the lab-part2 folder in the file tre
 
 {Encrypt Bob's message with Alice's public key}(sh rsa/encrypt.sh alice-public.key message.txt cipher.txt)
 
- - Click on ```cipher.txt``` in the file tree to the left. Copy and past the encrypted output file and copy and paste the contents into the box below.
+ - Click on ```cipher.txt``` in the file tree to the left. Copy and paste the encrypted output file and copy and paste the contents into the box below.
 
 {Save!|assessment}(free-text-2646518253)
 
