@@ -39,12 +39,6 @@
        "pageId": "227736ae-23d4-4a63-6bea-24cad2eefe07"
       },
       {
-       "title": "Lab Part 1: Encrypting with the Caesar Cipher",
-       "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-       "type": "page",
-       "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
-      },
-      {
        "title": "How Symmetric Key Cryptography Works",
        "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
        "type": "page",
@@ -61,6 +55,12 @@
        "id": "eb7ca591-17d1-80e2-1f81-bd8eccac0da8",
        "type": "page",
        "pageId": "0a42a669-b412-0e6a-f823-9d47e0b7f0e7"
+      },
+      {
+       "title": "Lab Part 1: Encrypting with the Caesar Cipher",
+       "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
+       "type": "page",
+       "pageId": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29"
       },
       {
        "title": "Lab Part 2: Decrypting with the Caesar Cipher",

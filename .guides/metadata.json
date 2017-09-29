@@ -111,29 +111,6 @@
    "learningObjectives": ""
   },
   {
-   "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "Lab Part 1: Encrypting with the Caesar Cipher",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "symkey-1/plaintext.txt",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-1--Encrypting-with-the-Caesar-Cipher---6d7d.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
    "title": "How Symmetric Key Cryptography Works",
    "files": [
@@ -170,6 +147,29 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab-1-1--The-Caesar-Cipher-0a42.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
+   "title": "Lab Part 1: Encrypting with the Caesar Cipher",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "symkey-1/plaintext.txt",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-1--Encrypting-with-the-Caesar-Cipher---6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
