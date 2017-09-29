@@ -111,6 +111,29 @@
    "learningObjectives": ""
   },
   {
+   "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
+   "title": "Lab Part 1: Encrypting with the Caesar Cipher",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "symkey-1/plaintext.txt",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lab-Part-1--Encrypting-with-the-Caesar-Cipher---6d7d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
    "id": "ed61a1ab-f98a-724b-3b83-d097e3709acd",
    "title": "How Symmetric Key Cryptography Works",
    "files": [
@@ -147,29 +170,6 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/CreatorSpace-Lab-1-1--The-Caesar-Cipher-0a42.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false,
-   "learningObjectives": ""
-  },
-  {
-   "id": "6d7de88b-82b5-f4c8-70f3-bd805bbc7f29",
-   "title": "Lab Part 1: Encrypting with the Caesar Cipher",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "symkey-1/plaintext.txt",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Lab-Part-1--Encrypting-with-the-Caesar-Cipher---6d7d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -520,14 +520,9 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": ".guides/img/avoidENGFRNTXT.PNG",
-     "panel": 0,
-     "action": "open"
     }
    ],
-   "layout": "2-panels",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Across-the-Disciplines--Literature-d7ac.md",
@@ -1197,7 +1192,7 @@
   },
   {
    "id": "412ee72f-0ab6-c2f6-c119-0af2e685db97",
-   "title": "Hackathon: Theoretical Mathematics",
+   "title": "Hackathon 2.1: Theoretical Mathematics",
    "files": [
     {
      "path": "#tabs",
@@ -1207,7 +1202,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon--Theoretical-Mathematics-412e.md",
+   "content-file": ".guides/content/Hackathon-2-1--Theoretical-Mathematics-412e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -1215,7 +1210,7 @@
   },
   {
    "id": "59d277e2-2dc2-d8d8-f688-33045a4a3e97",
-   "title": "Hackathon: Inside RSA Encryption",
+   "title": "Hackathon 2.2: Inside RSA Encryption",
    "files": [
     {
      "path": "#tabs",
@@ -1225,7 +1220,7 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Hackathon--Inside-RSA-Encryption-59d2.md",
+   "content-file": ".guides/content/Hackathon-2-2--Inside-RSA-Encryption-59d2.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

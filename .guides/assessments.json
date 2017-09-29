@@ -670,8 +670,9 @@
    "showGuidanceAfterResponse": false,
    "arePartialPointsAllowed": false,
    "oneTimeTest": true,
-   "instructions": "**How would knowing this change your attack scenario?**",
+   "instructions": "**How would knowing that there is no Es change your attack scenario?**",
    "learningObjectives": "",
+   "previewType": "NONE",
    "points": 1
   }
  },
@@ -1894,13 +1895,13 @@
    "points": "1",
    "showValues": false,
    "learningObjectives": "1.5",
-   "text": "The Diffie-Hellman algorithm is used as a method of exchanging a cryptography <<<key>>> for use in symmetric encryption algorithms like AES.  ",
+   "text": "The Diffie-Hellman algorithm is used as a method of exchanging a cryptographic <<<key>>> for use in symmetric encryption algorithms like AES.  ",
    "tokens": {
     "blank": [
      "key"
     ],
     "text": [
-     "The Diffie-Hellman algorithm is used as a method of exchanging a cryptography ",
+     "The Diffie-Hellman algorithm is used as a method of exchanging a cryptographic ",
      0,
      " for use in symmetric encryption algorithms like AES.  "
     ]
@@ -4426,6 +4427,23 @@
      "answer": "False"
     }
    ]
+  }
+ },
+ {
+  "type": "free-text",
+  "taskId": "free-text-4242918256",
+  "source": {
+   "name": "GH 1.3",
+   "showName": false,
+   "bloomsObjectiveLevel": "",
+   "guidance": "Answers will vary.",
+   "showGuidanceAfterResponse": false,
+   "arePartialPointsAllowed": false,
+   "oneTimeTest": false,
+   "instructions": "**Try writing two or three sentences about your weekend plans without using the letter E.**",
+   "learningObjectives": "",
+   "previewType": "NONE",
+   "points": 1
   }
  }
 ]

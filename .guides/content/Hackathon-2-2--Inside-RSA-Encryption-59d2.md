@@ -8,7 +8,7 @@ Select $p$ and $q$. they are both prime numbers where $p\neq q$
 
 Calculate $n=p\times q$.
 
-Calculate the **Euler's Totient funtion** (also referred to as just **Phi**):
+Calculate the **Euler's Totient function** (also referred to as just **Phi**):
 
 $$\phi(n)=(p-1)(q-1)$$
 

@@ -21,7 +21,7 @@ Give these questions a try. Don't lose heart if you don't get them right. By the
 
  ||| guidance
  ## Instructor's Note:
- Unit objectives
+ **Unit objectives**
 - Define  terms including encryption, decryption, plaintext, ciphertext, and encryption/decryption key and explain their use in cryptography 
  - Describe attack scenarios against an encryption algorithm.
 - Use early cipher methods such as a Caesar cipher or substitution cipher to encrypt/decrypt data by hand. 

@@ -12,7 +12,8 @@ Do you have some familiarity with public key cryptography? Try out these  questi
  ## Instructor's Note:
  **Unit objectives**
 - Explain how asymmetric (public key) encryption works
-- Compare and contrast symmetric and asymmetric encryption and the need for public key cryptographyDescribe attack scenarios against an encryption algorithm.
+- Compare and contrast symmetric and asymmetric encryption and the need for public key cryptography
+ -Describe attack scenarios against an encryption algorithm.
 - Describe the use of key exchange/agreement protocols in cryptography
 - Identify commonly used algorithms for asymmetric encryption 
 

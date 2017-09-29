@@ -21,7 +21,7 @@ Without knowing the prime numbers, and if they're large enough, even today's fas
 
 Another advantage of RSA is that it can be used to sign a message to verify authenticity, which you'll learn more about in the Digital Signatures and PKI unit.
 
-A disadvantage of RSA is that it requires more processing power and memory than other similar methods.
+A disadvantage of RSA is that it requires more processing power and memory than other similar methods of symmetric key algorithms.
 
 
 ## Uses of RSA
