@@ -49,6 +49,7 @@ def buildKey(key, alphabet):
     for a in alphabet:
         newkey = ''.join(keyIndex[a])
 
+# 10/1/17 - only the missing characters are getting written to file p.s.
 #    if os.path.isfile(fk):
 #        keyfile = open(fk,"w")
 #        keyfile.write(''.join(newkey))

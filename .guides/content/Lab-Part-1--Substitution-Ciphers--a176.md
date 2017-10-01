@@ -16,7 +16,7 @@ If we use it to encrypt the message “Never say never,” we get this result:
 {Decrypt}(substitution/subdecrypt.sh)
 
 ## On Your Own
-Experiment with substitution ciphers on the left. Create your own key and enter it manually if you wish. (Duplicate characters will be removed and missing ones entered automatically.)
+Experiment with substitution ciphers on the left. Create your own key and enter it manually if you wish. For instance, exchange E with N and V with R so you can immediately see the first several characters change. (Duplicate characters will be removed and missing ones entered automatically.)
 
 - On line 1, where you see "never say never," type "An apple a day keeps the doctor away."
 - Click the `Encrypt` button.
