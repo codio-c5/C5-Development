@@ -12,10 +12,10 @@ Click the button to see the most frequently used letters.
 
 {Frequency analysis}(.guides/getfreq.sh)
 
-Now click to see the digrams.
+Now click to see the digrams that occur more than once.
 
 {Frequency analysis digrams}(.guides/getbigram.sh)
 
-And the trigrams.
+And the trigrams that occur more than once.
 
 {Frequency analysis trigrams}(.guides/gettrigram.sh)
