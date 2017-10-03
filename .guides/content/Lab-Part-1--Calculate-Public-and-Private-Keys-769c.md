@@ -22,7 +22,7 @@ Pair up with a classmate. You're going to start by calculating a public key and 
 
  - **Bob calculates.** If you are Bob, enter the following command in the the terminal window, the upper left pane:
  
-```python dh-pubkey.py 23 5 15```
+```python dh.py 23 5 15```
 
 Partner Bob does the same using $X = G^A mod P$ or $5^{15} mod 23$ and the answer becomes $X=19$.
 

@@ -1020,14 +1020,14 @@
      "action": "close"
     },
     {
-     "path": "#terminal: ",
+     "path": "#terminal: cd diffiehellman",
      "panel": 0,
      "action": "open"
     }
    ],
    "layout": "2-panels",
    "path": [
-    "~/workspace/diffiehellman"
+    "diffiehellman"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Lab-Part-1--Calculate-Public-and-Private-Keys-769c.md",
