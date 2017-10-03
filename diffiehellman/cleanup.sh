@@ -20,7 +20,6 @@ else
 fi
 #
 cd $HDIR
-ls -l
 if [ ! -d $LAB2 ]; then
 	mkdir $LAB2
 	res=$?
