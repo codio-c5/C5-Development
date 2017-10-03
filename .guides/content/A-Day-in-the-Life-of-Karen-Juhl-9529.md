@@ -6,5 +6,5 @@
 
 Karen took a break from her busy day to talk about the fast pace of change in cybersecurity and what that means for company and career growth. 
 <div>
-  <iframe src="//player.vimeo.com/video/227302346" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="//player.vimeo.com/video/236658045" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
