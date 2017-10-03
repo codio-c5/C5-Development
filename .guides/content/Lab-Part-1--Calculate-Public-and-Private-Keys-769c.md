@@ -1,7 +1,9 @@
 ## Create Public and Private Keys
 
-Pair up with a classmate. You're going to start by calculating a public key and a private key using the Diffie Helman Key Exchange protocol. Then you will exchange the public key with your partner.
-    
+Pair up with a classmate. You're going to start by calculating a public key and a private key using the Diffie-Helman Key Exchange protocol. Then you will exchange the public key with your partner.
+
+1. **First, ensure a uncluttered working environment.** 
+{Cleanup}(sh /home/codio/workspace/diffiehellman/cleanup.sh)
 1. **Pick a partner.** One person will will take the role of Alice and the other is Bob.
 1. **Agree on two non-secret numbers.** Agree with your partner on two shared numbers, $P$ and $G$.  They must be prime numbers.
   Here are a few prime numbers to use for $P$ and $G$: 
@@ -19,6 +21,8 @@ Pair up with a classmate. You're going to start by calculating a public key and 
 
  - Alice plugs the shared numbers $P$ and $G$ into the formula, $X = G^A mod P$.
  In plain English, $X$ equals $G$ multiplied by itself $A$ times and then divided by $P$ keeping only the remainder. Using the example values: $5*5*5*5*5*5 = 15625$ and then $15625  mod  23 = 8$.
+ 
+ - Alice's public key is 8 in this example.
 
  - **Bob calculates.** If you are Bob, enter the following command in the the terminal window, the upper left pane:
  
@@ -26,7 +30,9 @@ Pair up with a classmate. You're going to start by calculating a public key and 
 
 Partner Bob does the same using $X = G^A mod P$ or $5^{15} mod 23$ and the answer becomes $X=19$.
 
-**3. Exchange results.**  Alice gives the result $X=8$ to Bob. Bob gives the result $Y=19$ to Alice. You don't have to hide the exchanged numbers.
+ - Bob's public key is 19 in this example.
+
+**3. Exchange results.**  Alice gives the result, her public key, $X=8$ to Bob. Bob gives the result, his public key, $Y=19$ to Alice. You don't have to hide the exchanged numbers.
 
 **4. Calculate the private key.**
 
@@ -34,10 +40,10 @@ Partner Bob does the same using $X = G^A mod P$ or $5^{15} mod 23$ and the answe
 
 In the left pane, enter your partner's public key at the prompt.
 
-Alice gets the number **2**.
+Alice calculates the number **2**.
 
  -  **Bob calculates his secret key.** Bob can do the same. He generates his secret using the value Alice provides, and the original numbers **23** and **5**. 
  
 In the terminal window in the upper left pane, enter your partner's public key at the prompt.
 
-Bob gets the number **2**.
+Bob calculates the number **2**.

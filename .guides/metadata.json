@@ -1020,14 +1020,14 @@
      "action": "close"
     },
     {
-     "path": "#terminal: cd diffiehellman",
+     "path": "#terminal: cd diffiehellman/lab-part1",
      "panel": 0,
      "action": "open"
     }
    ],
    "layout": "2-panels",
    "path": [
-    "diffiehellman"
+    "diffiehellman/lab-part1"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Lab-Part-1--Calculate-Public-and-Private-Keys-769c.md",
@@ -1045,19 +1045,24 @@
      "action": "close"
     },
     {
-     "path": "#terminal: cd diffiehellman",
+     "path": "#terminal: cd diffiehellman/lab-part2",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "diffiehellman/message.txt",
+     "path": "diffiehellman/lab-part2/orig-message.txt",
+     "panel": 1,
+     "action": "open"
+    },
+    {
+     "path": "diffiehellman/lab-part2/message.txt",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "3-cell-tree",
    "path": [
-    "diffiehellman"
+    "diffiehellman/lab-part2"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Lab-Part-2--Decrypt-Your-Partner-s-Key-c4ef.md",
