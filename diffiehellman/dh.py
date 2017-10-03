@@ -26,7 +26,7 @@ def main():
 		usage()
 
 	arguments = arguments[1:]
-	print "arguments=",arguments
+	#print "arguments=",arguments
 	P = int(sys.argv[1])
 	G = int(sys.argv[2])
 	S = int(sys.argv[3])
@@ -51,9 +51,9 @@ def main():
 		print "Please choose a prime number"
 		sys.exit()
 
-	print "P=",P
-	print "G=",G
-	print "S=",S
+	#print "P=",P
+	#print "G=",G
+	#print "S=",S
 
 	# calculate shared value G^S mod P
 	mypubkey = G**S % P

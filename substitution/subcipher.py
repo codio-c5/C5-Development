@@ -2,38 +2,32 @@
 #
 import sys, os.path
 
-keyIndex = {}
 alphabet = {}
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
+#defkey =   'zyxwvutsrqponmlkjihgfedcba'
+defkey = 'ZYXWVUTSRQPONMLKJIHGFEDCBA'
+defplaintext = "Never say never"
+fp="/home/codio/workspace/substitution/subplaintext.txt"
+fc="/home/codio/workspace/substitution/subciphertext.txt"
+fk="/home/codio/workspace/substitution/subkey.txt"
+keyIndex = {}
 newkey = []
+action=0
 
-encrypt=False
-if len(sys.argv) > 1 and sys.argv[1] == 'encrypt':
-	encrypt=True
-
-#fk="/home/codio/workspace/substitution/subkey.txt"
-fk="/home/paul/work/subkey.txt"
-if os.path.isfile(fk):
-    keyfile = open(fk,"r")
-    key = keyfile.read()
-    keyfile.close
+#if len(sys.argv) > 1 and sys.argv[1] == 'encrypt':
+if sys.argv[1] == 'init':
+	action=0
+elif sys.argv[1] == 'encrypt':
+	action=1
 else:
-    key = 'ZYXWVUTSRQPONMLKJIHGFEDCBA'
+	action=2
 
-#fp="/home/codio/workspace/substitution/subplaintext.txt"
-fp="/home/paul/work/subplaintext.txt"
-if os.path.isfile(fp):
-    pfile = open(fp,"r")
-    plaintext = pfile.read()
-    pfile.close
-else:
-    plaintext = "Never say never"
 
 def buildKey(key, alphabet):
     tmpkey = []
     tmp = {}
 
-    # construct key
+    # construct alphet
     for a in alphabet:
         tmp[a]=a.upper()
 
@@ -55,27 +49,49 @@ def buildKey(key, alphabet):
     for a in alphabet:
         newkey = ''.join(keyIndex[a])
 
-    if os.path.isfile(fk):
-        keyfile = open(fk,"w")
-        keyfile.write(''.join(newkey))
-        keyfile.close
+# 10/1/17 - only the missing characters are getting written to file p.s.
+#    if os.path.isfile(fk):
+#        keyfile = open(fk,"w")
+#        keyfile.write(''.join(newkey))
+#        keyfile.close
 
     return keyIndex
 
-def subEncrypt(plaintext, keyIndex):
-    return ''.join(keyIndex.get(c.lower(), c) for c in plaintext)
+def init():
+	keyfile = open(fk,"w")
+	keyfile.write(defkey)
+	keyfile.close
+	pfile = open(fp,"w")
+	pfile.write(defplaintext)
+	pfile.close
+
+def subEncrypt():
+	keyfile = open(fk,"r")
+	key = keyfile.read()
+	keyfile.close
+	pfile = open(fp,"r")
+	plaintext = pfile.read()
+	pfile.close
+	keyIndex=buildKey(key, alphabet)
+	return ''.join(keyIndex.get(c.lower(), c) for c in plaintext)
 
 
-def subDecrypt(cipheritext, keyIndex):
-    revIndex = dict((v, k) for k, v in keyIndex.iteritems())
-    return ''.join(revIndex.get(c, c) for c in ciphertext)
+def subDecrypt(ciphertext):
+	keyfile = open(fk,"r")
+	key = keyfile.read()
+	keyfile.close
+	keyIndex=buildKey(key, alphabet)
+	revIndex = dict((v, k) for k, v in keyIndex.iteritems())
+	return ''.join(revIndex.get(c, c) for c in ciphertext)
 
-keyIndex = buildKey(key, alphabet)
 
-ciphertext = subEncrypt(plaintext, keyIndex )
-newplaintext  = subDecrypt(ciphertext, keyIndex)
-
-if encrypt:
-	print(ciphertext)
+# init
+if action==0:
+	init()
+# Encrypt
+elif action==1:
+	print(subEncrypt())
+# Decrypt
 else:
-	print(newplaintext)
+	ciphertext = subEncrypt()
+	print (subDecrypt(ciphertext))

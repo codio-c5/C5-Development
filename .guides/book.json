@@ -365,7 +365,7 @@
          "pageId": "9966a2db-e439-46af-69a8-a222935e3ada"
         },
         {
-         "title": "Lab Part 1: Calculate Public and Private Keys",
+         "title": "Lab Part 1: Calculate Public and Shared Keys",
          "id": "4d390633-46b3-73a5-6fdf-5472ceb1a3b0",
          "type": "page",
          "pageId": "769c2556-12dc-088a-2f3c-12ca0f8ddb27"
@@ -755,5 +755,5 @@
    ]
   }
  ],
- "name": "C5 Cybersecurity"
+ "name": "c5dev-book"
 }
