@@ -1,7 +1,7 @@
 ## Crack your partner's key
 
 Now, Alice and Bob can compute each other's secret number.
-Alice takes the n^th^ root of the Bob's public number $y$, which is 81. This is ```y^-s^= 81^3^=4.``` 
+Alice takes the n^th^ root of the Bob's public number $y$, where n=3 and y=81. This is y^n^= 81^3^=4.
 Bob does the same with Alice's  public number. Now, both Alice and Bob know each other's secret number without have transmitted the secrets to each other.
   
 Now you have a shared key with your partner.

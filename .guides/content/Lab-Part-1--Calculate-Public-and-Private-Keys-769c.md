@@ -13,11 +13,11 @@ Pair up with a classmate. You're going to start by calculating a public key and 
 **1. Choose a private number.** Alice picks a number, called $A$ and Bob picks a number $B$. Each person keeps their number a secret. For instance, Alice picks $A=6$ and Bob picks $B=15$.
 
 **2. Calculate the public (shared) key.**
- -  **Alice calculates.** If you are Alice, enter the following command in the terminal window, the upper left pane:
+ -  **Alice calculates.** If you are Alice, enter the following command in the terminal window in left pane:
 
 ```python dh.py 23 5 6```
 
- - Alice plugs the shared numbers $P$ and $G$ into the formula, $X = G^A mod P$. 
+ - Alice plugs the shared numbers $P$ and $G$ into the formula, $X = G^A mod P$.
  In plain English, $X$ equals $G$ multiplied by itself $A$ times and then divided by $P$ keeping only the remainder. Using the example values: $5*5*5*5*5*5 = 15625$ and then $15625  mod  23 = 8$.
 
  - **Bob calculates.** If you are Bob, enter the following command in the the terminal window, the upper left pane:
