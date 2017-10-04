@@ -8,7 +8,8 @@ def getCiphertxt():
 def getWords(c):
 	tmp = []
 	for w in c.split():
-		if len(w) >= 3:
+		#if len(w) >= 3:
+		if len(w) == 3:
 			tmp.append(w)
 	return tmp	
 
