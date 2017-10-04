@@ -1,7 +1,7 @@
 
 ## Calculate the Hashes for the File 
 
-First, click ```Cleanup``` to remove any previous work.
+Click ```Cleanup``` to remove any previous work.
 
 {Cleanup}(sh hash/cleanup.sh)
 
@@ -15,15 +15,15 @@ Upload the file you just downloaded into the hash-lab folder, in the file tree t
  - Click the ```Browse For Files``` option in the dialog
    Another dialog opens showing files on your computer, including the file that you just downloaded.
  
- - Click on that file (e.g., ```Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe``` and select Open
+ - Click on that file (e.g., ```acl-2.2.52.src.tar.gz``` and select Open
 
  - Click the ```CLOSE``` button in the UPLOAD FILES dialog.
 
-You should see the file in the ```hash-lab``` folder in the file tree on the left. (However, you may first need to click on the ```hash-lab``` folder to see its contents.) Now you can use you partner's public key to encrypt messages to send over a public channel, like the Internet.
+You should see the file in the ```hash-lab``` folder in the file tree on the left. (However, you may first need to click on the ```hash-lab``` folder to see its contents.)
 
  - Click the ```Calculate hashes``` button below and the MD5 and SHA256 hashes will be displayed below.
 
-{Calculate hashes}(python hash/hashfile.py hash-lab)
+{Calculate hashes}(sh /home/codio/workspace/hash/calc_hash.sh)
 
  - Enter the hash values below.
  

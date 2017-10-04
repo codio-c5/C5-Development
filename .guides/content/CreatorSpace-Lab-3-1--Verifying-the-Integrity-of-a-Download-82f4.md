@@ -9,7 +9,15 @@
 In this lab you'll compare hashes to verify that a file you download has not been changed during download.
 
 
-- First, you need to download a file with hashes that you can compare. **[Click here](https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.3/binaries/en-US/Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe/download)** to download the Apache OpenOffice Language Pack. When the download has completed, go to the next step.
+- First, you need to download a file with hashes that you can compare. **[Click here](http://www.linuxfromscratch.org/lfs/view/development/chapter03/packages.html)** to to go a web site that provides Open Source Linux files.
+
+- Next, click on any file to download the package. For instance, click on the first file that in this case is ```Acl (2.2.52)```.
+
+- Take note of the MD5 sum displayed under the package.
+
+- Save the file using the ```Save file``` dialog.
+
+When the download has completed, go to the next step.
 
 |||guidance
 ## Instructor's Note:
