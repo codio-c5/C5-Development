@@ -15,8 +15,9 @@ def getWords(c):
 def getTrigrams(clist):
 	tmp = []
 	for c in clist:
-		N = len(c)-3
-		for i in range(N+1):
+# only look at first 3 chars for now - 10/3/17 pgs
+#		N = len(c)-3
+#		for i in range(N+1):
 			tmp.append(c[i:i+3])
 	return tmp
 
