@@ -18,7 +18,8 @@ def getTrigrams(clist):
 # only look at first 3 chars for now - 10/3/17 pgs
 #		N = len(c)-3
 #		for i in range(N+1):
-			tmp.append(c[i:i+3])
+#			tmp.append(c[i:i+3])
+		tmp.append(c[0:3])
 	return tmp
 
 ctxt = getCiphertxt()
@@ -33,5 +34,6 @@ for t in tlist:
 		trigrams[t] = 1
 
 for t in trigrams:
-	if trigrams[t] > 1:
-		print trigrams[t],t
+#	if trigrams[t] > 1:
+#		print trigrams[t],t
+	print trigrams[t],t
