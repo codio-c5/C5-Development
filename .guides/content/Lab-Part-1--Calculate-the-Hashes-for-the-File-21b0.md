@@ -10,10 +10,10 @@ Upload the file you just downloaded into the hash-lab folder, in the file tree t
  - Right-click on ```hash-lab``` and select the ```Upload``` option from the menu.
  
  - Select the ```Upload...``` option from the Upload file dialog. 
-   The UPLOAD FILES dialog opens
+   The UPLOAD FILES dialog opens.
  
  - Click the ```Browse For Files``` option in the dialog
-   Another Dialog opens showing files on your computer, including the file that you just downloaded.
+   Another dialog opens showing files on your computer, including the file that you just downloaded.
  
  - Click on that file (e.g., ```Apache_OpenOffice_4.1.3_Win_x86_langpack_en-US.exe``` and select Open
 

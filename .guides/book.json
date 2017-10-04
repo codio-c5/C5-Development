@@ -633,7 +633,7 @@
        "pageId": "5a74f790-0bff-4a25-e0e3-2b4b848597a7"
       },
       {
-       "title": "A Day in the life of Angy Shavit",
+       "title": "A Day in the Life of Angy Shavit",
        "id": "e88a2a5f-5a45-5689-e309-3f7fa1be906d",
        "type": "page",
        "pageId": "e88a2a5f-5a45-5689-e309-3f7fa1be906d"
@@ -755,5 +755,5 @@
    ]
   }
  ],
- "name": "c5dev-book"
+ "name": "C5 Cybersecurity"
 }

@@ -1,6 +1,6 @@
 
 <div>
-  <iframe src="//player.vimeo.com/video/227758464" width="480" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="//player.vimeo.com/video/236658035" width="480" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 <br>
@@ -16,4 +16,4 @@ In this module, you'll learn about these tenets and how to apply the methods of 
 
 **Authenticity** ensures that the data originated from the stated sender. Unit 4 describes **digital signatures** and  **digital certificates**  which are key to this process.
 
-**Nonrepudiation** is the assurance that someone cannot deny something. Typically, nonrepudiation refers to the ability to ensure that a party to a contract or a communication cannot deny the authenticity of their signature on a document or the sending of a message that they originated. Unit 4's  exploration of **digital signatures** and **digital certificates**  will also explore prevention of repudiation.
+**Nonrepudiation** is the assurance that someone cannot deny something. Typically, nonrepudiation refers to the ability to ensure that a party to a contract or a communication cannot deny the authenticity of their signature on a document or the sending of a message that they originated. Unit 4 explores **digital signatures** and **digital certificates,**  and will also discuss prevention of repudiation.
