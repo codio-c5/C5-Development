@@ -1074,7 +1074,13 @@
   {
    "id": "686ca38b-a4a8-70a3-1771-db4d868c1a29",
    "title": "Lab Check In",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Lab-Check-In-686c.md",
