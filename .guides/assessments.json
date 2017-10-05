@@ -2155,7 +2155,7 @@
     {
      "_id": "970cd7c9-bb38-75ee-e04e-5f51394f25d8",
      "correct": false,
-     "answer": "Chosen ciphertext attack"
+     "answer": "Ciphertext only attack"
     }
    ]
   }
@@ -3850,7 +3850,7 @@
    "guidance": "**The correct answers are one-way process, fast and easy to compute, and pseudorandom.** Hash functions compute the same size of hash value, regardless of the message content, as a core requirement.",
    "showGuidanceAfterResponse": false,
    "showExpectedAnswer": true,
-   "instructions": "**Which of these statements about hash functions?  Check all that apply.**",
+   "instructions": "**Which of these statements about hash functions are true?  Check all that apply.**",
    "points": "1",
    "incorrectPoints": "0",
    "multipleResponse": true,
@@ -3869,7 +3869,7 @@
     {
      "_id": "41787689-2ece-2f3b-ac23-b8a38b454709",
      "correct": false,
-     "answer": "Variable bit size "
+     "answer": "Variable output size "
     },
     {
      "_id": "1f0a4c3f-c94a-1a4d-3756-5b1b879e3fb4",

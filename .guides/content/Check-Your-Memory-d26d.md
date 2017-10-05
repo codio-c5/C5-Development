@@ -4,7 +4,8 @@
 {Check It!|assessment}(multiple-choice-1105804530)
 
 {Check It!|assessment}(multiple-choice-1798888751)
-{Check It!|assessment}(multiple-choice-3839580908){Check It!|assessment}(multiple-choice-4118271051)
+{Check It!|assessment}(multiple-choice-3839580908)
+{Check It!|assessment}(multiple-choice-4118271051)
 
 
 
