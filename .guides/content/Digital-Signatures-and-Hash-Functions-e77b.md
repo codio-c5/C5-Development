@@ -1,7 +1,7 @@
 
 Not unlike paper equivalents, digital signatures are unique to each document. On paper, a signature is created with a particular pen on a particular piece of paper and the angle and other details of the signature are unique. In fact, each of your signatures follows a specific pattern and yet is intrinsically unique. 
 
-Likewise, every digital signature is a completely unique code. Also, the differences in digital signatures are more obvious than those of paper signatures, and they are easier to authenticate as well. Each individual digital signature is creating using a private key algorithm, which, like a fingerprint, is unique. 
+Likewise, every digital signature is a completely unique code. Also, the differences in digital signatures are more obvious than those of paper signatures, and they are easier to authenticate as well. Each individual digital signature is created using a private key algorithm, which, like a fingerprint, is unique. 
 
 
 <br>

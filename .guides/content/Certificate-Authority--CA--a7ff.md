@@ -3,7 +3,7 @@
 |||definition
 A **certificate authority (CA)** is a trusted entity that issues digital certificates.  
 |||
-Certificates typically include the owner's name and public key, the certificate's validity period, the algorithm used, and the digital signature. A certificate authority signs certificates using its private key. Its public key is published in a self-signed CA certificate, called a **trusted root certificate.** 
+Certificates typically include the owner's name and public key, the certificate's validity period, the algorithm used, and the digital signature. A root certificate authority signs certificates using its private key. Its public key is published in a self-signed CA certificate, called a **trusted root certificate.** 
 
 <br>
   <figure class="snippetimg" style="margin: 0 auto;width:100%">
